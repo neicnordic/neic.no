@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+
+    <body>
+        {% include navigation.html %}
+        {% include schedule_navigation.html %}
+
+        {% if page.include %}
+            {% include {{ page.include }}.html %}
+        {% endif %}
+
+        {% include js.html %}
+    </body>
+</html>

@@ -1,14 +1,7 @@
-theme: jekyll-theme-cayman
-
 collections:
+  activities:
+    output: true
+  groups:
+    output: true
   people:
     output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: default
-
-    

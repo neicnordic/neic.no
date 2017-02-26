@@ -1,0 +1,51 @@
+<style type="text/css">
+body {
+    background: #384452;
+    background-image: url("assets/img/background.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 60px;
+    color: #ffffff;
+    background-color: #690700;
+}
+
+p {
+    color: #ffffff;
+}
+</style>
+
+<div class="container mt">
+    <div class="row">
+        <div class="col-lg-12">
+            <table>
+                <tr>
+                    <td>
+                        <div class="space100">
+                            <img src="assets/img/title.png" alt="#NeIC2017 title" style="width: 500px; float: right;">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="space50">
+                            {{ page.content | markdownify }}
+                            <a class="typeform-share btn btn-success"
+                               href="/registration/"
+                               data-mode="1"
+                               target="_blank">Register here</a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <img src="assets/img/logo/neic-white.svg"
+                 alt="NeIC logo"
+                 style="width: 150px; margin-right: 50px; margin-top: 50px;">
+            <img src="assets/img/logo/nordforsk.png"
+                 alt="NordForsk logo"
+                 style="width: 150px; margin-right: 50px; margin-top: 50px;">
+            <img src="assets/img/logo/lenovo.svg"
+                 alt="Lenovo logo"
+                 style="width: 92px; margin-right: 50px; margin-top: 50px;">
+        </div>
+    </div>
+</div>

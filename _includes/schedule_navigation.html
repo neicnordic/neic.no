@@ -1,0 +1,16 @@
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-12">
+            {% for item in site.data.nav.main %}
+                {% if item.section == 'Schedule' %}
+                    {% for i in item.links %}
+                        {% if forloop.index > 1 %}
+                            |
+                        {% endif %}
+                        <a href="{{ site.baseurl }}{{ i.url }}">{{ i.text }}</a>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
