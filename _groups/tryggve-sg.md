@@ -3,12 +3,17 @@ layout: schedule
 include: person
 name: Tryggve steering group
 members:
-  joel-hedlund: NeIC, Chair
-  peter-longreen: ELIXIR-DK
-  tommi-nyronen: ELIXIR-FI
-  inge-jonasen: ELIXIR-NO
-  bengt-persson: ELIXIR-FI
-  antti-pursula: Observer
-
+  joel-hedlund:
+    role: NeIC, Chair
+  peter-longreen:
+    role: ELIXIR-DK
+  tommi-nyronen:
+    role: ELIXIR-FI
+  inge-jonasen:
+    role: ELIXIR-NO
+  bengt-persson:
+    role: ELIXIR-FI
+  antti-pursula:
+    role: Project leader, Observer
 ---
 moo
