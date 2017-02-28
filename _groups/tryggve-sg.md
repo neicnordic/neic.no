@@ -4,16 +4,18 @@ include: person
 name: Tryggve steering group
 members:
   joel-hedlund:
-    role: NeIC, Chair
+    home: <a href="https://neic.nordforsk.org">NeIC</a>
+    role: Chair
   peter-longreen:
-    role: ELIXIR-DK
+    home: <a href="http://elixir-node.cbs.dtu.dk/">ELIXIR-DK</a>
   tommi-nyronen:
-    role: ELIXIR-FI
-  inge-jonasen:
-    role: ELIXIR-NO
+    home: <a href="http://www.elixir-finland.org/">ELIXIR-FI</a>
+  inge-jonassen:
+    home: <a href="http://www.bioinfo.no/elixir">ELIXIR-NO</a>
   bengt-persson:
-    role: ELIXIR-FI
+    home: <a href="https://nbis.se/">ELIXIR-SE</a>
   antti-pursula:
+    home: <a href="https://neic.nordforsk.org">NeIC</a>
     role: Project leader, Observer
 ---
 This is the tryggve steering group
