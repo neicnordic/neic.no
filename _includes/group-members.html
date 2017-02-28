@@ -1,0 +1,26 @@
+{% comment %}
+
+List info on members in a group.
+
+Parameters:
+  name: Name of the group.
+
+{% endcomment %}
+<ul>
+{% capture unsorted %}
+  {% for person in site.people %}
+    {% unless person.groups contains include.name %}
+      {% continue %}
+    {% endunless %}
+    {% assign membership = person.groups[include.name] %}
+    {% assign home = membership.home | default: person.home %}
+    {% assign role = membership.role | default: person.role %}
+    {% assign display_order = membership.display_order | default: 100 | prepend: '00000' | slice: -5, 5 | append: person.name %}
+    |ITEM_SEPARATOR|{{ display_order }}|CONTENT_SEPARATOR|<li> <a href="mailto:{{ person.email }}">{{ person.name }}</a>, {{ home }}{% if role %}, {{ role }}{% endif %} </li>
+  {% endfor %}
+{% endcapture %}
+{% assign sorted = unsorted | split: "|ITEM_SEPARATOR|" | sort %}
+{% for item in sorted  %}
+  {{ item | split: "|CONTENT_SEPARATOR|" | last }}
+{% endfor %}
+</ul>

@@ -1,3 +1,5 @@
+markdown_ext: "md"
+
 collections:
   activities:
     output: true

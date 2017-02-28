@@ -17,7 +17,8 @@
                     </div>
                 </div>
             </h3>
-            <p>{{ page.content | markdownify }}</p>
+            {% assign extension = page.path | split: '.' | last  %}
+            <p>{% if site.markdown_ext contains extension %}{{ page.content | markdownify }}{% else %}{{ page.content }}{% endif %}</p>
 
             {% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
 
