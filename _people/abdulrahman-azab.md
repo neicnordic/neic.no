@@ -8,6 +8,7 @@ photo: assets/img/people/abdulrahman-azab.jpg
 email: azab@ifi.uio.no
 phone:
 groups:
+  staff:
   tryggve:
 ---
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University

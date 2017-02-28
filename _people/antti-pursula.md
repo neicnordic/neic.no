@@ -8,6 +8,8 @@ photo: assets/img/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:
 groups:
+  staff:
+    role: Tryggve project leader
   tryggve:
     home: <a href="https://neic.nordforsk.org">NeIC</a>
     role: Project leader
