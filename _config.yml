@@ -1,7 +1,10 @@
 collections:
   activities:
     output: true
+    permalink: /:collection/:name/
   groups:
     output: true
+    permalink: /:collection/:name/
   people:
     output: true
+    permalink: /:collection/:name/

@@ -16,4 +16,4 @@ members:
   antti-pursula:
     role: Project leader, Observer
 ---
-moo
+This is the tryggve steering group

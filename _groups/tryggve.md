@@ -1,11 +1,11 @@
 ---
 layout: schedule
 include: person
-name: Tryggve steering group
+name: Tryggve team
 members:
   antti-pursula:
-    role: Project Leader
+    role: Project leader
   abdulrahman-azab:
 
 ---
-moo
+this is the tryggve team group
