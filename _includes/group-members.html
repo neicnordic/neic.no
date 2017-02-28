@@ -15,8 +15,8 @@ Parameters:
     {% assign membership = person.groups[include.name] %}
     {% assign home = membership.home | default: person.home %}
     {% assign role = membership.role | default: person.role %}
-    {% assign display_order = membership.display_order | default: 100 | prepend: '00000' | slice: -5, 5 | append: person.name %}
-    |ITEM_SEPARATOR|{{ display_order }}|CONTENT_SEPARATOR|
+    {% assign display_order = membership.display_order | default: 100 | prepend: '00000' | slice: -5, 5 %}
+    |ITEM_SEPARATOR|{{ display_order }}{{ person.name }}|CONTENT_SEPARATOR|
     <li>
       <a href="{{ person.url }}">{{ person.name }}</a>
       <a href="mailto:{{ person.email }}">&lt;email_icon&gt;</a>,
