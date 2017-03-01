@@ -11,6 +11,7 @@ groups:
   staff:
   tryggve:
 ---
+
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University
 of Oslo, and a senior lecturer at the Department of Computer Engineering and
 Control Systems, Mansoura University, Egypt. Main fields of expertise are High

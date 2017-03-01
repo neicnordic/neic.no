@@ -24,6 +24,7 @@ groups:
    home: <a href="https://neic.nordforsk.org">NeIC</a>
    display_order: 1
 ---
+
 Joel Hedlund is located at the  [National Supercomputer Centre
 (NSC)](http://www.nsc.liu.se), Linköping University, and holds a 80% position at
 the NeIC. He was educated at Linköping University and has a Ph.D. in
