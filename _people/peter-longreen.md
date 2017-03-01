@@ -2,12 +2,12 @@
 layout: master
 include: person
 name: Peter Løngreen
-home: CBS
+home: <a href="http://www.cbs.dtu.dk/">CBS</a>
 country: DK
 photo:
 email: peterl@cbs.dtu.dk
 phone:
 groups:
   tryggve-sg:
-    home: <a href="http://elixir-node.cbs.dtu.dk/">ELIXIR-DK</a>
+    role: <a href="http://elixir-node.cbs.dtu.dk/">ELIXIR-DK</a>
 ---

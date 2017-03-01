@@ -5,6 +5,8 @@ name: Tryggve
 groups:
   - name: Team
     suffix: ''
+  - name: Reference group
+    suffix: '-rg'
   - name: Steering group
     suffix: '-sg'
 ---

@@ -2,12 +2,12 @@
 layout: master
 include: person
 name: Inge Jonassen
-home: UiB
+home: <a href="http://www.uib.no/">UiB</a>
 country: NO
 photo:
 email: inge@ii.uib.no
 phone:
 groups:
   tryggve-sg:
-    home: <a href="http://www.bioinfo.no/elixir">ELIXIR-NO</a>
+    role: <a href="http://www.bioinfo.no/elixir">ELIXIR-NO</a>
 ---

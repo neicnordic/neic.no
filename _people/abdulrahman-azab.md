@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Abdulrahman Azab
-home: USIT
+home: <a href="https://www.usit.uio.no/">USIT</a>
 country: NO
 photo: assets/img/people/abdulrahman-azab.jpg
 email: azab@ifi.uio.no
@@ -10,7 +10,6 @@ phone:
 groups:
   staff:
   tryggve:
-    role: Expert
 ---
 
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University

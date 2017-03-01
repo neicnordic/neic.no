@@ -2,26 +2,17 @@
 layout: master
 include: person
 name: Antti Pursula
-home: CSC
+home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo: assets/img/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:
 groups:
   staff:
-    role: Tryggve project leader
   tryggve:
-    home: <a href="https://neic.nordforsk.org">NeIC</a>
     role: Project leader
-    display_order: 1
   tryggve-rg:
-    home: <a href="https://neic.nordforsk.org">NeIC</a>
     role: Project leader, Chair
-    display_order: 1
-  tryggve-sg:
-    home: <a href="https://neic.nordforsk.org">NeIC</a>
-    role: Project leader, Observer
-    display_order: 200
 ---
 
 Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds
