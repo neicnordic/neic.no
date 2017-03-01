@@ -8,21 +8,21 @@ photo: assets/img/people/joel-hedlund.jpg
 email: joel@nsc.liu.se
 phone: "M: +46 734 607126"
 groups:
- staff:
-  role: Senior advisor
- tryggve-sg:
-   role: Chair
-   home: <a href="https://neic.nordforsk.org">NeIC</a>
-   display_order: 1
- xt:
-   role: Senior advisor
- neic2017-pc:
-   role: Chair
-   display_order: 1
- bdi-sg:
-   role: Chair
-   home: <a href="https://neic.nordforsk.org">NeIC</a>
-   display_order: 1
+  staff:
+    role: Senior advisor
+  tryggve-sg:
+    role: Chair
+    home: <a href="https://neic.nordforsk.org">NeIC</a>
+    display_order: 1
+  xt:
+    role: Senior advisor
+  neic2017-pc:
+    role: Chair
+    display_order: 1
+  bdi-sg:
+    role: Chair
+    home: <a href="https://neic.nordforsk.org">NeIC</a>
+    display_order: 1
 ---
 
 Joel Hedlund is located at the  [National Supercomputer Centre
