@@ -3,10 +3,10 @@
         <div class="col-lg-12">
             {{ page.content | markdownify }}
 
-            <h2>Groups</h2>
+            <h2>Projects</h2>
             <ul>
-                {% for group in site.groups %}
-                   <li><a href="{{ site.baseurl }}{{ group.url }}">{{ group.name }}</a></li>
+                {% for project in site.projects %}
+                   <li><a href="{{ site.baseurl }}{{ project.url }}">{{ project.name }}</a></li>
                 {% endfor %}
             </ul>
         </div>

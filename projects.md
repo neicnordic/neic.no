@@ -1,4 +1,4 @@
 ---
 layout: master
-include: groups
+include: projects
 ---

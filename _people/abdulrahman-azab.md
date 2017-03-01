@@ -10,6 +10,7 @@ phone:
 groups:
   staff:
   tryggve:
+    role: Expert
 ---
 
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University

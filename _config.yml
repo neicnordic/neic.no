@@ -12,10 +12,7 @@ defaults:
       permalink: /:path/:basename/
 
 collections:
-  activities:
-    output: true
-    permalink: /:collection/:path/
-  groups:
+  projects:
     output: true
     permalink: /:collection/:path/
   people:

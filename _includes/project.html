@@ -1,0 +1,30 @@
+{% assign this_project = page.path | replace: '_projects/', ''  | replace: '.md', '' %}
+
+<div class="container mtt">
+  <div class="row">
+    <div class="col-lg-12">
+      <h2>{{ page.name }} project</h2>
+
+      {{ page.content | markdownify }}
+
+      {% for group in page.groups %}
+        <h3>{{ group.name }}</h3>
+        <ul>
+          {% for person in site.people %}
+            {% for person_group in person.groups %}
+              {% assign this_group_with_suffix = this_project | append: group.suffix %}
+              {% if person_group[0] == this_group_with_suffix %}
+                <li>
+                  <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
+                  {% if person_group[1].role %}
+                    ({{ person_group[1].role }})
+                  {% endif %}
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  </div>
+</div>
