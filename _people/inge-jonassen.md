@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: master
 include: person
 name: Inge Jonassen
 home: UiB

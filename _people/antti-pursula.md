@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: master
 include: person
 name: Antti Pursula
 home: CSC
