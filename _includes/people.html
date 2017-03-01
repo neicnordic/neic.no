@@ -6,7 +6,7 @@
             <h2>People</h2>
             <ul>
                 {% for person in site.people %}
-                   <li><a href="{{ person.url }}">{{ person.name }}</a></li>
+                   <li><a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a></li>
                 {% endfor %}
             </ul>
         </div>

@@ -6,7 +6,7 @@
             <h2>Activities</h2>
             <ul>
                 {% for activity in site.activities %}
-                   <li><a href="{{ activity.url }}">{{ activity.name }}</a></li>
+                   <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
                 {% endfor %}
             </ul>
         </div>
