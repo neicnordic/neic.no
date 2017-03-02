@@ -12,8 +12,7 @@
         <ul>
           {% for person in site.people %}
             {% for person_group in person.groups %}
-              {% assign this_group_with_suffix = this_activity | append: group.suffix %}
-              {% if person_group[0] == this_group_with_suffix %}
+              {% if person_group[0] == group.id %}
                 <li>
                   <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
                   {% if person_group[1].role %}

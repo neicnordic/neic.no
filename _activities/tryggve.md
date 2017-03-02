@@ -4,11 +4,11 @@ include: activity
 name: Tryggve
 groups:
   - name: Team
-    suffix: ''
+    id: tryggve
   - name: Reference group
-    suffix: '-rg'
+    id: tryggve-rg
   - name: Steering group
-    suffix: '-sg'
+    id: tryggve-sg
 ---
 
 Some text about the Tryggve activity.
