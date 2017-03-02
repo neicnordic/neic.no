@@ -3,5 +3,5 @@ main:
     text: 'Home'
   - url: '/people/'
     text: 'People'
-  - url: '/projects/'
-    text: 'Projects'
+  - url: '/activities/'
+    text: 'Activities'

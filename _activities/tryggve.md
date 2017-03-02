@@ -1,6 +1,6 @@
 ---
 layout: master
-include: project
+include: activity
 name: Tryggve
 groups:
   - name: Team
@@ -11,4 +11,4 @@ groups:
     suffix: '-sg'
 ---
 
-Some text about the Tryggve project.
+Some text about the Tryggve activity.

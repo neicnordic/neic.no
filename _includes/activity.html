@@ -1,9 +1,9 @@
-{% assign this_project = page.path | replace: '_projects/', ''  | replace: '.md', '' %}
+{% assign this_activity = page.path | replace: '_activities/', ''  | replace: '.md', '' %}
 
 <div class="container mtt">
   <div class="row">
     <div class="col-lg-12">
-      <h2>{{ page.name }} project</h2>
+      <h2>{{ page.name }}</h2>
 
       {{ page.content | markdownify }}
 
@@ -12,7 +12,7 @@
         <ul>
           {% for person in site.people %}
             {% for person_group in person.groups %}
-              {% assign this_group_with_suffix = this_project | append: group.suffix %}
+              {% assign this_group_with_suffix = this_activity | append: group.suffix %}
               {% if person_group[0] == this_group_with_suffix %}
                 <li>
                   <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
