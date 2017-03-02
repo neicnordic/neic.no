@@ -8,11 +8,11 @@
       {{ page.content | markdownify }}
 
       {% for group in page.groups %}
-        <h3>{{ group.name }}</h3>
+        <h3>{{ group[1].name }}</h3>
         <ul>
           {% for person in site.people %}
             {% for person_group in person.groups %}
-              {% if person_group[0] == group.id %}
+              {% if person_group[0] == group[0] %}
                 <li>
                   <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
                   {% if person_group[1].role %}

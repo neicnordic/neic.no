@@ -3,12 +3,12 @@ layout: master
 include: activity
 name: Management
 groups:
-  - name: Executive team
-    id: xt
-  - name: Board
-    id: board
-  - name: Provider forum
-    id: provider-forum
+  xt:
+    name: Executive team
+  board:
+    name: Board
+  provider-forum:
+    name: Provider forum
 ---
 
 Some text about NeIC management.
