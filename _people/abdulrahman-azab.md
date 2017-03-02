@@ -3,7 +3,8 @@ layout: master
 include: person
 name: Abdulrahman Azab
 home: <a href="https://www.usit.uio.no/">USIT</a>
-country: NO
+country: Norway
+country_code: "NO"
 photo: assets/img/people/abdulrahman-azab.jpg
 email: azab@ifi.uio.no
 phone:

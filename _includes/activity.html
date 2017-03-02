@@ -9,14 +9,15 @@
 
       {% for group in page.groups %}
         <h3>{{ group[1].name }}</h3>
+        {% if group[1].description %}<p>{{ group[1].description }}</p>{% endif %}
         <ul>
           {% for person in site.people %}
             {% for person_group in person.groups %}
               {% if person_group[0] == group[0] %}
                 <li>
-                  <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
-                  {% if person_group[1].role %}
-                    - {{ person_group[1].role }}
+                  <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>,
+                  {{ person.country_code }}{% if person_group[1].role %},
+                    {{ person_group[1].role }}
                   {% endif %}
                 </li>
               {% endif %}
