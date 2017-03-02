@@ -11,4 +11,4 @@ groups:
     id: tryggve-sg
 ---
 
-Some text about the Tryggve activity.
+Some text about the Tryggve project.
