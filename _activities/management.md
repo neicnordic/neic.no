@@ -7,8 +7,11 @@ groups:
     name: Executive team
   board:
     name: Board
+    description: "The Nordic e-infrastructure provider organizations:"
   provider-forum:
     name: Provider forum
+    description: "Senior technical experts from the Nordic e-infrastructure provider organizations:"
 ---
 
-Some text about NeIC management.
+The people and teams that carry out governance and coordination of NeIC
+activities.

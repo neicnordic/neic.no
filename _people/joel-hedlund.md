@@ -7,19 +7,19 @@ country: Sweden
 country_code: SE
 photo: assets/img/people/joel-hedlund.jpg
 email: joel@nsc.liu.se
-phone: "M: +46 734 607126"
+phone: "+46 734 607126"
 groups:
-  staff:
-  tryggve-rg:
-    role: Observer
-  tryggve-sg:
-    role: Chair
   xt:
     role: Senior advisor
+  tryggve-sg:
+    role: Project owner, Chair
+  tryggve-rg:
+    role: Project owner, Observer
   neic2017-pc:
     role: Chair
   bdi-sg:
     role: Chair
+  staff:
 ---
 
 Joel Hedlund is located at the  [National Supercomputer Centre

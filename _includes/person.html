@@ -1,44 +1,45 @@
 <div class="container mtb">
-    <div class="row">
-        <div class="col-lg-3">
-            {% if page.photo %}
-                <img src="{{ site.baseurl }}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
-            {% endif %}
-        </div>
-
-        <div class="col-lg-9">
-            <h2>
-                {{ page.name | default:page.title }}
-            </h2>
-            <h3>
-                <div class="lowlight">
-                    <div>
-                        {{ page.home }}
-                    </div>
-                </div>
-            </h3>
-            {% assign extension = page.path | split: '.' | last  %}
-            <p>{% if site.markdown_ext contains extension %}{{ page.content | markdownify }}{% else %}{{ page.content }}{% endif %}</p>
-
-            {% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
-
-            <ul>
-            {% for session in site.sessions %}
-                {% if session.chair == person_path %}
-                     <li>Session chair: <a href="{{ session.url }}">{{ session.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-            {% for talk in site.talks %}
-                {% if talk.speaker == person_path %}
-                     <li>Talk: <a href="{{ talk.url }}">{{ talk.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-            {% for workshop in site.workshops %}
-                {% if workshop.chair == person_path %}
-                     <li>Workshop chair: <a href="{{ workshop.url }}">{{ workshop.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-        </div>
+  <div class="row">
+    <div class="col-lg-3">
+      {% if page.photo %}
+        <img src="{{ site.baseurl }}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
+      {% endif %}
     </div>
+
+    <div class="col-lg-9">
+      <h2>
+        {{ page.name | default:page.title }}
+      </h2>
+      <h3>
+        <div class="lowlight">
+          <div>
+            {{ page.home }}
+            {{ page.country }}
+          </div>
+        </div>
+      </h3>
+      <p><a href="mailto:{{ page.email }}">{{ page.email }}</a>{% if page.phone %}, <a href="tel:{{ page.phone }}">{{ page.phone }}</a>{% endif %}</p>
+      <p>{{ page.content | markdownify }}</p>
+
+      {% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
+
+      <h3>Engagements</h3>
+      <ul>
+        {% for activity in site.activities %}
+          {% assign activity_printed = false %}
+          {% for group in activity.groups %}
+            {% assign groupname = group[0] %}
+            {% if page.groups contains groupname %}
+              {% unless activity_printed %}
+                {% assign activity_printed = true %}
+                <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
+              {% endunless %}
+              <li>{{ group[1].name }}{% if page.groups[groupname].role %}, {{ page.groups[groupname].role }}{% endif %}</li>
+            {% endif %}
+          {% endfor %}
+          {% if activity_printed %}</ul>{% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </div>
