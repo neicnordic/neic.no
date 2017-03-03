@@ -5,5 +5,5 @@ main:
     text: 'People'
   - url: '/activities/'
     text: 'Activities'
-  - url: '/int/'
-    text: 'Internal'
+  - url: '/api/'
+    text: 'API'
