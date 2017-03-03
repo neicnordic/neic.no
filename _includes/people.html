@@ -5,15 +5,15 @@
 
       <h2>People</h2>
       {{ site.people | size }} people.
-      {% assign currentletter = '' %}
+      {% assign previous = '' %}
       <ul>
-        {% for person in site.people %}
-          {% assign firstletter = person.name | slice: 0 %}
-          {% unless firstletter == currentletter %}
-            {% assign currentletter = firstletter %}
-            <h5>{{ firstletter }}</h5>
+        {% assign sorted = site.people | sort: 'country'%}
+        {% for person in sorted %}
+          {% unless person.country == previous %}
+            {% assign previous = person.country %}
+            <h5>{{ previous }}</h5>
           {% endunless %}
-          <li><a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>, {{ person.country }}</li>
+          <li><a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a> - {{ person.home }}</li>
         {% endfor %}
       </ul>
     </div>
