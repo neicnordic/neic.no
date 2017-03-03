@@ -15,5 +15,4 @@ you cannot find what you are loking for in either of these sites, please
 [contact us](http://wiki.neic.no/wiki/Contact).
 
 This site uses [GitHub pages](https://pages.github.com/). You can view the
-sources and submit issues at the NeIC github account
-[neicnordic](https://github.com/neicnordic/).
+sources and submit issues at the [NeIC GitHub account: neicnordic](https://github.com/neicnordic/).
