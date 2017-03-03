@@ -7,3 +7,13 @@ main:
     text: 'Activities'
   - url: '/api/'
     text: 'API'
+  - section: 'About'
+    links:
+      - url: '/about/'
+        text: 'NeIC'
+      - url: '/about/mission/'
+        text: 'Mission, vision and strategy'
+      - url: '/about/history/'
+        text: 'History'
+      - url: '/about/site/'
+        text: 'This site'
