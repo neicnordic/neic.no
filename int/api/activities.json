@@ -1,0 +1,13 @@
+---
+permalink: "/:path/:basename"
+---
+{
+{% for activity in site.activities %}
+  {{ activity.path | replace: '_activities/', ''  | replace: '.md', '' | jsonify }}:
+  {
+    "name": {{ activity.name | jsonify }},
+    "groups": {{ activity.groups | jsonify }},
+    "url": {{ activity.url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+}

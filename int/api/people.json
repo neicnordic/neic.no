@@ -1,0 +1,19 @@
+---
+permalink: "/:path/:basename"
+---
+{
+{% for person in site.people %}
+  {{ person.path | replace: '_people/', ''  | replace: '.md', '' | jsonify }}:
+  {
+    "name": {{ person.name | jsonify }},
+    "groups": {{ person.groups | jsonify }},
+    "url": {{ person.url | jsonify }}
+    "home": {{ person.home | jsonify }},
+    "country": {{ person.country | jsonify }},
+    "country_code": {{ person.country_code | jsonify }},
+    "photo": {{ person.photo | jsonify }},
+    "email": {{ person.email | jsonify }},
+    "phone": {{ person.phone | jsonify }},
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+}
