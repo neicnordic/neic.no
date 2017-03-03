@@ -17,5 +17,7 @@ main:
         text: 'Organization'
       - url: '/about/history/'
         text: 'History'
+      - url: '/about/positions/'
+        text: 'Open positions'
       - url: '/about/site/'
         text: 'This site'
