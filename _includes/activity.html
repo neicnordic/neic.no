@@ -7,6 +7,9 @@
 
       {{ page.content | markdownify }}
 
+      {% assign homeurl = "https://wiki.neic.no/wiki/" | append: page.name %}
+      <p><a href="{{ page.homeurl | default: homeurl }}">More information</a></p>
+
       {% for group in page.groups %}
         <h3>{{ group[1].name }}</h3>
         {% if group[1].description %}<p>{{ group[1].description }}</p>{% endif %}

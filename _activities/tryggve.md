@@ -11,7 +11,6 @@ groups:
     name: Steering group
     description: "The Nordic ELIXIR nodes and NeIC:"
 ---
-
 Today, data saves lives. With more and better data, we can save more lives. By
 pooling and sharing sensitive personal data for biomedical research between
 countries, we can save more lives faster, making better cures, better diagnosis
