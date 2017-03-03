@@ -5,10 +5,10 @@ permalink: "/about/"
 ---
 ## About NeIC
 
-The Nordic e-Infrastructure Collaboration (NeIC)  facilitates development and
+**The Nordic e-Infrastructure Collaboration (NeIC)  facilitates development and
 operation of high-quality e-Infrastructure solutions in areas of joint Nordic
 interest. NeIC is a distributed organisation consisting of technical experts
-from academic high-performance computing centres across the Nordic countries.
+from academic high-performance computing centres across the Nordic countries.**
 
 The collaboration was launched in 2003 in response to a decision by the research
 funding agencies in the Nordic countries to contribute to a distributed

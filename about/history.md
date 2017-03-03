@@ -47,5 +47,5 @@ CERN experiment.
 
 The Nordic e-Infrastructure Collaboration (NeIC) was established on 1 January
 2012, as the result of dialogue between the stakeholders, including the national
-funding agencies. The NeIC is administered by NordForsk, which employs the
+funding agencies. NeIC is administered by NordForsk, which employs the
 director and provides secretarial and legal hosting service.

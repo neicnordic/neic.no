@@ -13,6 +13,8 @@ main:
         text: 'NeIC'
       - url: '/about/mission/'
         text: 'Mission, vision and strategy'
+      - url: '/about/organization/'
+        text: 'Organization'
       - url: '/about/history/'
         text: 'History'
       - url: '/about/site/'

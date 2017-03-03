@@ -16,7 +16,7 @@ groups:
     role: Observer
   staff:
 ---
-Gudmund Høst is the Director of the NeIC, and is employed at
+Gudmund Høst is the Director of NeIC, and is employed at
 [NordForsk](https://www.nordforsk.org/) in Oslo.
 
 Prior to this he has held positions at the Research Council of Norway and the

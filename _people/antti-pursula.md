@@ -18,7 +18,7 @@ groups:
 ---
 
 Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds
-a 60% position at NeIC. He is the activity manager of the NeIC's Tryggve activity
+a 60% position at NeIC. He is the activity manager of the Tryggve activity
 on sensitive data for the bio- and medical sciences. He is also a activity
 director of research infrastructures at CSC coordinating CSC’s participation in
 various research infrastructure activities. He has broad experience from different
