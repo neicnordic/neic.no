@@ -6,7 +6,13 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/ico/favicon.ico">
 
-    <title>{{ page.name | default: page.title | replace: '.md','' }} - NeIC web experiments</title>
+    {% if page.collection %}
+      {% assign title = page.name %}
+    {% else %}
+      {% assign title = page.name | replace: '.md','' | capitalize %}
+      {% assign title = page.title | default: title %}
+    {% endif %}
+    <title>{{ title }} - NeIC web experiments</title>
 
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
