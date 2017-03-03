@@ -43,19 +43,21 @@
 
       <h3>Engagements</h3>
       <ul>
-        {% for activity in site.activities %}
-          {% assign activity_printed = false %}
-          {% for group in activity.groups %}
-            {% assign groupname = group[0] %}
-            {% if page.groups contains groupname %}
-              {% unless activity_printed %}
-                {% assign activity_printed = true %}
-                <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
-              {% endunless %}
-              <li>{{ group[1].name }}{% if page.groups[groupname].role %}, {{ page.groups[groupname].role }}{% endif %}</li>
-            {% endif %}
+        {% assign previous_activity = '' %}
+        {% for person_group in page.groups %}
+          {% for activity in site.activities %}
+            {% for activity_group in activity.groups %}
+              {% assign groupname = activity_group[0] %}
+              {% if groupname == person_group[0] %}
+                {% unless activity == previous_activity %}
+                  {% if previous_activity %}</ul>{% endif %}
+                  {% assign previous_activity = activity %}
+                  <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
+                {% endunless %}
+                <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
-          {% if activity_printed %}</ul>{% endif %}
         {% endfor %}
       </ul>
     </div>
