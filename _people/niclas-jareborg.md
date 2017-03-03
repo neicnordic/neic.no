@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Niclas Jareborg
 home: <a href="https://nbis.se/">NBIS</a>
-country: Sweden
-country_code: SE
+country: SE
 photo:
 email: niclas.jareborg@nbis.se
 phone:

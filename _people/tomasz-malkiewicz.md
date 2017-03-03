@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Tomasz Malkiewicz
 home: <a href="https://csc.fi">CSC</a>
-country: Finland
-country_code: FI
+country: FI
 photo:
 email: tomasz.malkiewicz@csc.fi
 phone:

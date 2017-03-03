@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Ali Syed
 home: <a href="http://www.cbs.dtu.dk/">CBS</a>
-country: Denmark
-country_code: DK
+country: DK
 photo:
 email: alisyed@cbs.dtu.dk
 phone: "+45 60 90 46 46"

@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Jeppe Klok Due
 home: <a href="http://www.registerforskning.dk/">KOR</a>
-country: Denmark
-country_code: DK
+country: DK
 photo:
 email:
 phone:

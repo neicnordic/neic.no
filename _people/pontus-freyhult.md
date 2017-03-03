@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Pontus Freyhult
 home: <a href="https://nbis.se/">NBIS</a>
-country: Sweden
-country_code: SE
+country: SE
 photo:
 email: pontus.freyhult@it.uu.se
 phone:

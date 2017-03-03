@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Gunnar Bøe
 home: <a href="https://www.sigma2.no/">Sigma2</a>
-country: Norway
-country_code: "NO"
+country: "NO"
 photo:
 email:
 phone:

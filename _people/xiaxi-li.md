@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Xiaxi Li
 home: <a href="http://www.uib.no/">UiB</a>
-country: Norway
-country_code: "NO"
+country: "NO"
 photo:
 email: xiaxi.li@ii.uib.no
 phone:

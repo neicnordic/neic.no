@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Joel Hedlund
 home: <a href="https://www.nsc.liu.se">NSC</a>
-country: Sweden
-country_code: SE
+country: SE
 photo: assets/img/people/joel-hedlund.jpg
 email: joel@nsc.liu.se
 phone: "+46 734 607126"

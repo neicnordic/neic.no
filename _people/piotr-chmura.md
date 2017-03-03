@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Piotr Chmura
 home: <a href="http://www.cpr.ku.dk/">CPR</a>
-country: Denmark
-country_code: DK
+country: DK
 photo:
 email: piotr.chmura@cpr.ku.dk
 phone:

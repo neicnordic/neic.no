@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Frédéric Haziza
 home: <a href="https://nbis.se/">NBIS</a>
-country: Sweden
-country_code: SE
+country: SE
 photo:
 email: frederic.haziza@bils.se
 phone:

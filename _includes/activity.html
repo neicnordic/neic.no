@@ -19,7 +19,7 @@
               {% if person_group[0] == group[0] %}
                 <li>
                   <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>,
-                  {{ person.country_code }}{% if person_group[1].role %},
+                  {{ person.country }}{% if person_group[1].role %},
                     {{ person_group[1].role }}
                   {% endif %}
                 </li>

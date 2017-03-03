@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Baldur Eiríksson
 home: <a href="http://www.rhnet.is/">RHnet</a>
-country: Iceland
-country_code: IS
+country: IS
 photo:
 email:
 phone:

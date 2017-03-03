@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Michaela Barth
 home: <a href="https://www.pdc.kth.se">PDC</a>
-country: Sweden
-country_code: SE
+country: SE
 photo:
 email: caela@pdc.kth.se
 phone: "O: +46 87 90 78 91"

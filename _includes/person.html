@@ -14,7 +14,25 @@
         <div class="lowlight">
           <div>
             {{ page.home }}
-            {{ page.country }}
+            {% if page.country == 'DK' %}
+              Denmark
+            {% elsif page.country == 'EE' %}
+              Estonia
+            {% elsif page.country == 'ES' %}
+              Spain
+            {% elsif page.country == 'FI' %}
+              Finland
+            {% elsif page.country == 'IS' %}
+              Iceland
+            {% elsif page.country == 'NO' %}
+              Norway
+            {% elsif page.country == 'SE' %}
+              Sweden
+            {% elsif page.country == 'US' %}
+              USA
+            {% else %}
+              {{ page.country }}
+            {% endif %}
           </div>
         </div>
       </h3>

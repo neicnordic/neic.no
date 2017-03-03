@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Bartlomiej Wilkowski
 home: <a href="https://www.ssi.dk">SSI</a>
-country: Denmark
-country_code: DK
+country: DK
 photo:
 email:
 phone:

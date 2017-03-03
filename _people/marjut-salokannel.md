@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Marjut Salokannel
 home:
-country: Finland
-country_code: FI
+country: FI
 photo:
 email:
 phone:

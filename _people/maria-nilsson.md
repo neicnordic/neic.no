@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Maria Nilsson
 home: <a href="https://www.nordforsk.org">NordForsk</a>
-country: Sweden
-country_code: "SE"
+country: "SE"
 photo:
 email: maria-nilsson@nordforsk.org
 phone:

@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Francesca Iozzi
 home: <a href="https://www.usit.uio.no/">USIT</a>
-country: Norway
-country_code: "NO"
+country: "NO"
 photo:
 email: m.f.iozzi@usit.uio.no
 phone:

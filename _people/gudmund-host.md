@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Gudmund Høst
 home: <a href="https://www.nordforsk.org/">NordForsk</a>
-country: Norway
-country_code: "NO"
+country: "NO"
 photo: assets/img/people/gudmund-host.jpg
 email: gudmund.host@nordforsk.org
 phone:

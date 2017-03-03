@@ -3,8 +3,7 @@ layout: master
 include: person
 name: Jonas Hagberg
 home: <a href="https://nbis.se/">NBIS</a>
-country: Sweden
-country_code: SE
+country: SE
 photo:
 email: jonas.hagberg@scilifelab.se
 phone: "+46 706683869"
