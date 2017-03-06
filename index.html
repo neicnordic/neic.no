@@ -1,0 +1,38 @@
+---
+title: Home
+permalink: /
+---
+
+<h2> Welcome </h2>
+
+This is an experimental website where we play around to find out how we would like
+to structure our web information for easy maintenance in the future.
+
+<div class="events-container">
+  <script src="{{ site.baseurl }}/assets/js/gcal-events-titles.js"></script>
+  <h3><a href="{{ site.baseurl }}/events"> Current events </a></h3>
+  <span>
+    <script>
+      var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+      var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
+      var widget = document.scripts[document.scripts.length - 1].parentNode;
+      document.addEventListener("DOMContentLoaded", function(event) {
+        renderEventsTitles(widget, calendarid, key, false, "highlight", "");
+      });
+    </script>
+  </span>
+  <p><a href="{{ site.baseurl }}/events/past/"> Past events </a></p>
+</div>
+
+<h3> News </h3>
+
+<a href="{{site.baseurl}}/news/">See all news</a>
+
+{% assign latest_news = site.posts | slice: 0,10 %}
+{% for post in latest_news %}
+<h4> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> </h4>
+<p> {{ post.date | date: "%Y-%m-%d" }} </p>
+<p> {{ post.summary }} </p>
+{% endfor %}
+
+<a href="{{site.baseurl}}/news/">See all news</a>

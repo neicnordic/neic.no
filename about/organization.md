@@ -8,12 +8,12 @@ include: generic
 NordForsk is the host organisation for NeIC. The NordForsk Board has delegated
 responsibility for strategic decisions regarding computing and data-storage
 infrastructure and reaction to upcoming opportunities to the [NeIC Board]({{
-site.baseurl }}{% link _activities/governance.md %}). The NeIC Board reports to
+site.baseurl }}{% link _activities/management.md %}#board). The NeIC Board reports to
 the NordForsk Board and to the boards of the national eInfrastructure
 organisations on an annual basis.
 
 NeIC is managed by an [Executive Team]({{ site.baseurl }}{% link
-_activities/management.md %}) chaired by the NeIC Director. Most of NeIC’s
+_activities/management.md %}#executive-team) chaired by the NeIC Director. Most of NeIC’s
 activities are organized in projects. The Executive Team coordinates the
 activities and participate in project steering groups as project owners
 
