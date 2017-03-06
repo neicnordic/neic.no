@@ -7,9 +7,27 @@ permalink: pretty
 defaults:
   -
     scope:
+      path: "news"
       type: "pages"
     values:
+      layout: master
+      include: generic
+      permalink: /:path/:basename.html
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: master
+      include: generic
       permalink: /:path/:basename/
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: master
+      include: generic
+      permalink: /news/:year/:month/:day/:title/
 
 collections:
   activities:
@@ -18,3 +36,6 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+
+paginate: 40
+paginate_path: "/news/page:num/"

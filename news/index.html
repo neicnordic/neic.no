@@ -1,0 +1,18 @@
+---
+---
+<h1>News</h1>
+
+{% include news_pagination.html %}
+
+{% for post in paginator.posts %}
+
+  <h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>
+  <p>
+    {{ post.date| date: "%Y-%m-%d" }}<br/>
+    {% if post.photo %}<img src="{{ site.baseurl }}{{ post.photo }}" style="max-width: 200px;"><br/>{% endif %}
+    {{ post.summary }}
+  </p>
+
+{% endfor %}
+
+{% include news_pagination.html %}

@@ -1,6 +1,8 @@
 main:
   - url: '/'
     text: 'Home'
+  - url: '/news/'
+    text: 'News'
   - url: '/people/'
     text: 'People'
   - url: '/activities/'
