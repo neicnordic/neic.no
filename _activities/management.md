@@ -2,6 +2,7 @@
 layout: master
 include: activity
 name: Management
+ongoing: yes
 homeurl: https://wiki.neic.no/
 groups:
   board:

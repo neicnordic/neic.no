@@ -2,6 +2,7 @@
 layout: master
 include: activity
 name: Training
+ongoing: yes
 permalink: /training/
 groups:
 ---

@@ -60,6 +60,27 @@
           {% endfor %}
         {% endfor %}
       </ul>
+      {% if page.past_engagements %}
+        <h3>Past engagements</h3>
+        <ul>
+          {% assign previous_activity = '' %}
+          {% for person_group in page.past_engagements %}
+            {% for activity in site.activities %}
+              {% for activity_group in activity.groups %}
+                {% assign groupname = activity_group[0] %}
+                {% if groupname == person_group[0] %}
+                  {% unless activity == previous_activity %}
+                    {% if previous_activity %}</ul>{% endif %}
+                    {% assign previous_activity = activity %}
+                    <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
+                  {% endunless %}
+                  <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      {% endif %}
     </div>
   </div>
 </div>

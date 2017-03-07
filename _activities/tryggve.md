@@ -2,6 +2,7 @@
 layout: master
 include: activity
 name: Tryggve
+ongoing: yes
 groups:
   tryggve:
     name: Team

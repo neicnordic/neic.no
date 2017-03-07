@@ -1,11 +1,12 @@
 ---
 layout: master
 include: activity
-name: Biodiversity
-ongoing: yes 
+name: Glenna
+ongoing: no
 groups:
-  bdi:
+  glenna:
     name: Team
-  bdi-sg:
+  glenna-sg:
     name: Steering group
 ---
+Nordic collaboration on cloud services.
