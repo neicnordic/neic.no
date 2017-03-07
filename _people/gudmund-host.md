@@ -7,6 +7,7 @@ country: "NO"
 photo: assets/img/people/gudmund-host.jpg
 email: gudmund.host@nordforsk.org
 phone:
+on_contract: yes
 groups:
   xt:
     role: Director
@@ -14,7 +15,6 @@ groups:
     role: Observer
   provider-forum:
     role: Observer
-  staff:
 ---
 Gudmund Høst is the Director of NeIC, and is employed at
 [NordForsk](https://www.nordforsk.org/) in Oslo.

@@ -7,9 +7,9 @@ country: "NO"
 photo:
 email: m.f.iozzi@usit.uio.no
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the
 research service group aiming at developing, deployng and operating services

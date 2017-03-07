@@ -7,9 +7,9 @@ country: SE
 photo:
 email: pontus.freyhult@it.uu.se
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Pontus has worked in various roles within the fields of software development and

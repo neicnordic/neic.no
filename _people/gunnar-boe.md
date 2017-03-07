@@ -7,6 +7,7 @@ country: "NO"
 photo:
 email:
 phone:
+on_contract: no
 groups:
   board:
 ---

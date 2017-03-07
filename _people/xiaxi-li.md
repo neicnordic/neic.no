@@ -7,9 +7,9 @@ country: "NO"
 photo:
 email: xiaxi.li@ii.uib.no
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 Xiaxi Li is located at the Computational Biology Unit (CBU), University of
 Bergen, Norway. He is working in the Tryggve project on sensitive data

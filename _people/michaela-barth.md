@@ -6,11 +6,11 @@ home: <a href="https://www.pdc.kth.se">PDC</a>
 country: SE
 photo:
 email: caela@pdc.kth.se
-phone: "O: +46 87 90 78 91"
+phone: "+46 87 90 78 91"
+on_contract: yes
 groups:
   xt:
     role: Executive manager
-  staff:
 ---
 
 Michaela Barth is employed at the

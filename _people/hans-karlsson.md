@@ -7,6 +7,7 @@ country: SE
 photo:
 email: hans.karlsson@kemi.uu.se
 phone:
+on_contract: no
 groups:
   board:
 ---

@@ -7,9 +7,9 @@ country: SE
 photo:
 email: johan.viklund@nbis.se
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Johan Viklund is located at SciLifeLab in Uppsala, Sweden where he is working as

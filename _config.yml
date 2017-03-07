@@ -36,6 +36,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  alumni:
+    output: true
+    permalink: /:collection/:path/
 
 paginate: 40
 paginate_path: "/news/page:num/"

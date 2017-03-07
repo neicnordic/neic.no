@@ -7,6 +7,7 @@ country: DK
 photo:
 email: peterl@cbs.dtu.dk
 phone:
+on_contract: no
 groups:
   tryggve-sg:
 ---

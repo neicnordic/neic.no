@@ -7,9 +7,9 @@ country: SE
 photo:
 email: niclas.jareborg@nbis.se
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Niclas Jareborg is located at SciLifeLab in Stockholm, Sweden where he is the

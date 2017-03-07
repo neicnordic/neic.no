@@ -7,9 +7,9 @@ country: FI
 photo:
 email: jaakko.leinonen@csc.fi
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Jaakko has some 15 years of experience in desinging, running and managing

@@ -7,9 +7,9 @@ country: DK
 photo:
 email: erhh@dtu.dk
 phone: "+45 40952482"
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 25 years experience in R&D High Performance Computing, computing operations,
 system administration and consulting at global enterprises such as Ericsson, Cap

@@ -7,9 +7,9 @@ country: DK
 photo:
 email: alisyed@cbs.dtu.dk
 phone: "+45 60 90 46 46"
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 M.Sc. Computer science, with over 15 years of experience in IT from Oracle in
 the US to building large supercomputers across Europe at SGI (Silicon graphics)

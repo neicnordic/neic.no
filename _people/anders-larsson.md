@@ -7,9 +7,9 @@ country: SE
 photo:
 email: anders.larsson@bils.se
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Anders is part of the Tryggve project team. Systems developer at NBIS in

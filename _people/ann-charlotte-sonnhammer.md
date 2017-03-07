@@ -7,6 +7,7 @@ country: SE
 photo:
 email: 
 phone:
+on_contract: no
 groups:
   tryggve-rg:
     role: <a href="http://www.snic.vr.se/">SNIC</a>

@@ -7,6 +7,7 @@ country: FI
 photo:
 email: Tommi.Nyronen@csc.fi
 phone:
+on_contract: no
 groups:
   tryggve-sg:
 ---

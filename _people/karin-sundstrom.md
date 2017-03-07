@@ -7,6 +7,7 @@ country: SE
 photo:
 email: joel@nsc.liu.se
 phone:
+on_contract: no
 groups:
   tryggve-rg:
     role: <a href="http://www.nordicehealth.se/">NIASC</a>

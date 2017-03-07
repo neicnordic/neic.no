@@ -7,6 +7,7 @@ country: DK
 photo:
 email:
 phone:
+on_contract: no
 groups:
   tryggve-rg:
     role: <a href="http://deic.dk">DeIC</a>, Register based research

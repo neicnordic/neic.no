@@ -3,4 +3,4 @@ layout: master
 include: people
 ---
 
-The people engaging with NeIC.
+The people who currently engage in NeIC.

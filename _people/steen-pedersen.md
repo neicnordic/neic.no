@@ -7,6 +7,7 @@ country: "DK"
 photo:
 email: sp@adm.dtu.dk
 phone:
+on_contract: no
 groups:
   board:
 ---

@@ -7,6 +7,7 @@ country: FI
 photo: assets/img/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:
+on_contract: yes
 groups:
   tryggve:
     role: Project leader
@@ -14,7 +15,6 @@ groups:
     role: Project leader, Chair
   tryggve-sg:
     role: Project leader, Observer
-  staff:
 ---
 
 Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds

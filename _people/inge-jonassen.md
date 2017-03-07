@@ -7,6 +7,7 @@ country: "NO"
 photo:
 email: inge@ii.uib.no
 phone:
+on_contract: no
 groups:
   tryggve-sg:
 ---

@@ -7,9 +7,9 @@ country: DK
 photo:
 email: piotr.chmura@cpr.ku.dk
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 Piotr works mainly for software provisioning tasks in Tryggve project,
 developing especially the Tools and Resource Registry at ELIXIR.DK. He is

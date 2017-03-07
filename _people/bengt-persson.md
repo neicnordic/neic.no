@@ -7,6 +7,7 @@ country: SE
 photo:
 email: bpn@icm.uu.se
 phone:
+on_contract: no
 groups:
   tryggve-sg:
 ---

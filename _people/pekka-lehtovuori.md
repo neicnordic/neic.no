@@ -7,6 +7,7 @@ country: FI
 photo:
 email: pekka-lehtovuori@csc.fi
 phone:
+on_contract: no
 groups:
   board:
 ---

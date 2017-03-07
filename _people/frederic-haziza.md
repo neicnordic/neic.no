@@ -7,9 +7,9 @@ country: SE
 photo:
 email: frederic.haziza@bils.se
 phone:
+on_contract: yes
 groups:
   tryggve:
-  staff:
 ---
 
 Frédéric received his PhD in Computer Science from Uppsala University in the

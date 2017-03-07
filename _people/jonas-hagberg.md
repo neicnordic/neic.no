@@ -7,9 +7,9 @@ country: SE
 photo:
 email: jonas.hagberg@scilifelab.se
 phone: "+46 706683869"
+on_contract: no
 groups:
   tryggve:
-  staff:
 ---
 Jonas Hagberg is located at Scilifelab Dalarna, where he is the manager of the
 system development team at the National Bioinformatics Infrastructure Sweden -

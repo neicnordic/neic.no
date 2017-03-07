@@ -7,6 +7,7 @@ country: IS
 photo:
 email: jie@rhnet.is
 phone:
+on_contract: no
 groups:
   board:
 ---

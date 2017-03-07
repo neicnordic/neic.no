@@ -1,8 +1,14 @@
 main:
   - url: '/'
     text: 'Home'
-  - url: '/people/'
-    text: 'People'
+  - section: 'People'
+    links:
+      - url: '/people/'
+        text: 'Everybody'
+      - url: '/staff/'
+        text: 'Staff'
+      - url: '/alumni'
+        text: 'Alumni'
   - url: '/activities/'
     text: 'Activities'
   - section: 'Events'

@@ -7,10 +7,10 @@ country: FI
 photo:
 email: tomasz.malkiewicz@csc.fi
 phone:
+on_contract: yes
 groups:
   xt:
     role: Executive manager
   provider-forum:
     role: Secretary
-  staff:
 ---

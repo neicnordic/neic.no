@@ -7,6 +7,7 @@ country: FI
 photo:
 email:
 phone:
+on_contract: no
 groups:
   tryggve-rg:
     role: Legal counsel

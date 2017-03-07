@@ -7,6 +7,7 @@ country: FI
 photo:
 email: ville.savolainen@csc.fi
 phone:
+on_contract: no
 groups:
   provider-forum:
 ---

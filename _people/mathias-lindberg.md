@@ -7,6 +7,7 @@ country: SE
 photo:
 email:
 phone:
+on_contract: no
 groups:
   provider-forum:
 ---
