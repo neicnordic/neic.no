@@ -13,11 +13,11 @@ groups:
     role: Project leader
   glenna2-sg:
     role: Project leader, Observer
-past_engagements:
   glenna:
     role: Project leader
   glenna-sg:
     role: Project leader, Observer
+past_engagements:
 ---
 Dan Still is located at CSC - IT Center for Science Ltd in Finland and holds a
 80% position at NeIC. He is the project manager of the NeIC's Glenna project on
