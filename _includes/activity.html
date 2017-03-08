@@ -5,6 +5,19 @@
     <div class="col-lg-12">
       <h2>{{ page.name }}</h2>
 
+      <div style="border: 1px solid gray;">
+        <h5>{{ page.type }}</h5>
+        {% if page.phase %}<p>Phase: {{ page.phase }}</p>{% endif %}
+        <p>
+          Period:
+          {% if page.start %}
+            {{ page.start }} &mdash; {{ page.end }}
+          {% else %}
+            TBD
+          {% endif %}
+        </p>
+      </div>
+
       {{ content }}
 
       {% assign homeurl = "https://wiki.neic.no/wiki/" | append: page.name %}

@@ -2,15 +2,20 @@
 layout: master
 include: activity
 name: Tryggve
+type: Project
 ongoing: yes
+phase: Execution
+start: 2014-10-21
+end: 2017-10-21
 groups:
   tryggve:
     name: Team
   tryggve-rg:
     name: Reference group
+    description: Stakeholder engagement forum. Requirements gathering, outreach and quality assurance.
   tryggve-sg:
     name: Steering group
-    description: "The Nordic ELIXIR nodes and NeIC:"
+    description: The Nordic ELIXIR nodes and NeIC.
 ---
 Today, data saves lives. With more and better data, we can save more lives. By
 pooling and sharing sensitive personal data for biomedical research between

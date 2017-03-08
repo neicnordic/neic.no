@@ -2,7 +2,11 @@
 layout: master
 include: activity
 name: Training
+type: Operations
 ongoing: yes
+phase: Preparation
+start:
+end:
 permalink: /training/
 groups:
 ---
