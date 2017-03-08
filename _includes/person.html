@@ -60,11 +60,11 @@
           {% endfor %}
         {% endfor %}
       </ul>
-      {% if page.past_engagements %}
-        <h4>Past</h4>
+      {% if page.concluded_engagements %}
+        <h4>Concluded</h4>
         <ul>
           {% assign previous_activity = '' %}
-          {% for person_group in page.past_engagements %}
+          {% for person_group in page.concluded_engagements %}
             {% for activity in site.activities %}
               {% for activity_group in activity.groups %}
                 {% assign groupname = activity_group[0] %}

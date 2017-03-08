@@ -9,7 +9,7 @@ email:
 phone:
 on_contract: no
 groups:
-past_engagements:
+concluded_engagements:
   board:
 ---
 Board member until 2014-12-31.
