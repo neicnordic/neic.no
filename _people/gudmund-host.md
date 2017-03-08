@@ -12,7 +12,7 @@ groups:
   xt:
     role: Director
   board:
-    role: Observer
+    role: Ex officio, non-voting
   provider-forum:
     role: Observer
 ---
