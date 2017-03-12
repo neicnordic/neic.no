@@ -30,12 +30,14 @@
           {% for person in site.people %}
             {% for person_group in person.groups %}
               {% if person_group[0] == group[0] %}
-                <li>
-                  <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>,
-                  {{ person.country }}{% if person_group[1].role %},
-                    {{ person_group[1].role }}
-                  {% endif %}
-                </li>
+                {% unless person_group[1].finished %}
+                  <li>
+                    <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>,
+                    {{ person.country }}{% if person_group[1].role %},
+                      {{ person_group[1].role }}
+                    {% endif %}
+                  </li>
+                {% endunless %}
               {% endif %}
             {% endfor %}
           {% endfor %}

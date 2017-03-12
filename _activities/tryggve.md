@@ -3,7 +3,6 @@ layout: master
 include: activity
 name: Tryggve
 type: Project
-ongoing: yes
 phase: Execution
 start: 2014-10-21
 end: 2017-10-21

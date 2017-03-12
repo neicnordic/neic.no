@@ -12,7 +12,8 @@ groups:
   xt:
     role: Senior advisor
   tryggve-sg:
-    role: Project owner, Chair
+    finished: yes
+    role: Project owner, Chair, Until 2017-03-16.
   tryggve-rg:
     role: Project owner, Observer
   neic2017-pc:

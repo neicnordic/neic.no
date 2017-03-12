@@ -9,7 +9,8 @@ email:
 phone:
 on_contract: no
 groups:
-concluded_engagements:
   board:
+    finished: yes
+    role: Until 2014-12-31.
 ---
 Board member until 2014-12-31.

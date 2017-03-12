@@ -3,7 +3,6 @@ layout: master
 include: activity
 name: NeIC office
 type: Operations
-ongoing: yes
 start: 2012-01-01
 homeurl: https://wiki.neic.no/
 groups:

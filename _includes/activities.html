@@ -6,14 +6,14 @@
       <h2>Activities</h2>
       <ul>
         {% for activity in site.activities %}
-          {% unless activity.ongoing %}{% continue %}{% endunless %}
+          {% if activity.finished %}{% continue %}{% endif %}
           <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
         {% endfor %}
       </ul>
       <h3>Past</h3>
       <ul>
         {% for activity in site.activities %}
-          {% if activity.ongoing %}{% continue %}{% endif %}
+          {% unless activity.finished %}{% continue %}{% endunless %}
           <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
         {% endfor %}
       </ul>

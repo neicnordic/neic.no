@@ -46,29 +46,31 @@
         {% assign previous_activity = '' %}
         {% for person_group in page.groups %}
           {% for activity in site.activities %}
+            {% if activity.finished %}{% continue %}{% endif %}
             {% for activity_group in activity.groups %}
               {% assign groupname = activity_group[0] %}
               {% if groupname == person_group[0] %}
-                {% unless activity == previous_activity %}
-                  {% if previous_activity %}</ul>{% endif %}
-                  {% assign previous_activity = activity %}
-                  <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
+                {% unless person_group[1].finished %}
+                  {% unless activity == previous_activity %}
+                    {% if previous_activity %}</ul>{% endif %}
+                    {% assign previous_activity = activity %}
+                    <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
+                  {% endunless %}
+                  <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
                 {% endunless %}
-                <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
               {% endif %}
             {% endfor %}
           {% endfor %}
         {% endfor %}
       </ul>
-      {% if page.concluded_engagements %}
-        <h4>Concluded</h4>
-        <ul>
-          {% assign previous_activity = '' %}
-          {% for person_group in page.concluded_engagements %}
-            {% for activity in site.activities %}
-              {% for activity_group in activity.groups %}
-                {% assign groupname = activity_group[0] %}
-                {% if groupname == person_group[0] %}
+      {% assign previous_activity = false %}
+      {% capture list_items %}
+        {% for person_group in page.groups %}
+          {% for activity in site.activities %}
+            {% for activity_group in activity.groups %}
+              {% assign groupname = activity_group[0] %}
+              {% if groupname == person_group[0] %}
+                {% if activity.finished or person_group[1].finished %}
                   {% unless activity == previous_activity %}
                     {% if previous_activity %}</ul>{% endif %}
                     {% assign previous_activity = activity %}
@@ -76,9 +78,15 @@
                   {% endunless %}
                   <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
                 {% endif %}
-              {% endfor %}
+              {% endif %}
             {% endfor %}
           {% endfor %}
+        {% endfor %}
+      {% endcapture %}
+      {% if previous_activity %}
+        <h4>Past engagements</h4>
+        <ul>
+          {{ list_items }}
         </ul>
       {% endif %}
     </div>
