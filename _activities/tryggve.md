@@ -9,12 +9,19 @@ start: 2014-10-21
 end: 2017-10-21
 results: https://wiki.neic.no/wiki/Tryggve_Reports_and_Materials
 outreach: https://wiki.neic.no/wiki/Tryggve_documents
+documents:
+  - text: Project plan
+    url: https://wiki.neic.no/wiki/File:Tryggve_Project_Plan_approved_Nov-2014.pdf
+  - text: Collaboration agreement
+    url: https://wiki.neic.no/wiki/File:Tryggve_collaboration_agreement.pdf
 links:
-  - url: https://wiki.neic.no/Tryggve
-    text: External wiki
-    description: External documentation, manuals and guides.
-  - url: https://wiki.neic.no/int/Tryggve
-    text: Internal wiki
+  - text: External wiki
+    url: https://wiki.neic.no/Tryggve
+    description: Documentation, manuals and guides.
+  - text: Newsletters
+    url: https://wiki.neic.no/wiki/Tryggve_News
+  - text: Internal wiki
+    url: https://wiki.neic.no/int/Tryggve
     description: Internal working documents.
 groups:
   tryggve:

@@ -30,10 +30,19 @@
       {{ content }}
 
       {% if page.links %}
-      <h5>More information</h5>
+      <h5>Links</h5>
       <ul>
         {% for link in page.links %}
-          <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %} - {{ link.description }}{% endif %}</li>
+          <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if page.documents %}
+      <h5>Governance documents</h5>
+      <ul>
+        {% for link in page.documents %}
+          <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
         {% endfor %}
       </ul>
       {% endif %}

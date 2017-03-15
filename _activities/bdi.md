@@ -9,6 +9,11 @@ start: 2017-01-01
 end: 2019-12-31
 results: https://wiki.neic.no/wiki/bdi
 outreach: https://wiki.neic.no/wiki/bdi
+documents:
+  - text: Work plan
+    url: https://wiki.neic.no/wiki/File:20161124_Workplan_NeIC_BDI_final.pdf
+  - text: Collaboration agreement
+    url: https://wiki.neic.no/int/File:20160921_CA_BiodivInf_final2.pdf
 links:
   - url: https://wiki.neic.no/wiki/bdi
     text: External wiki
