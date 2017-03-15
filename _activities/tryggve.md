@@ -2,19 +2,40 @@
 layout: master
 include: activity
 name: Tryggve
+leader: antti-pursula
 type: Project
 phase: Execution
 start: 2014-10-21
 end: 2017-10-21
+results: https://wiki.neic.no/wiki/Tryggve_Reports_and_Materials
+outreach: https://wiki.neic.no/wiki/Tryggve_documents
+links:
+  - url: https://wiki.neic.no/Tryggve
+    text: External wiki
+    description: External documentation, manuals and guides.
+  - url: https://wiki.neic.no/int/Tryggve
+    text: Internal wiki
+    description: Internal working documents.
 groups:
   tryggve:
     name: Team
+    minutes: https://wiki.neic.no/int/Category:Tryggve_project_group_meetings
+    frequency: Weekly
   tryggve-rg:
     name: Reference group
     description: Stakeholder engagement forum. Requirements gathering, outreach and quality assurance.
+    frequency: 3-4 per year
+    minutes: https://wiki.neic.no/wiki/Category:Tryggve_reference_group_meetings
   tryggve-sg:
     name: Steering group
     description: The Nordic ELIXIR nodes and NeIC.
+    frequency: 3-4 per year
+    minutes: https://wiki.neic.no/wiki/Category:Tryggve_steering_group_meetings
+  tryggve-po:
+    name: Project office
+    description: Management.
+    minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
+    frequency: Weekly
 ---
 Today, data saves lives. With more and better data, we can save more lives. By
 pooling and sharing sensitive personal data for biomedical research between

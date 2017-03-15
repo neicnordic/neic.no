@@ -13,4 +13,8 @@ groups:
     role: Executive manager
   provider-forum:
     role: Secretary
+  tryggve-sg:
+    role: Project owner, Chair
+  tryggve-po:
+    role: Project owner
 ---

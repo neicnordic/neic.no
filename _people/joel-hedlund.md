@@ -16,6 +16,9 @@ groups:
     role: Project owner, Chair, Until 2017-03-16.
   tryggve-rg:
     role: Project owner, Observer
+  tryggve-po:
+    role: Project owner
+    finished: yes
   neic2017-pc:
     role: Chair
   bdi-sg:

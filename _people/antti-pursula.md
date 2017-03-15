@@ -13,6 +13,8 @@ groups:
     role: Project leader
   tryggve-rg:
     role: Project leader, Chair
+  tryggve-po:
+    role: Project leader
   tryggve-sg:
     role: Project leader, Observer
 ---
