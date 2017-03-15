@@ -21,8 +21,8 @@
         <p>Leader: <a href="{{ site.baseurl }}{{ leader.url }}">{{ leader.name }}</a></p>
         <p>
           <ul>
-            <li><a href="{{ page.results | default: "./results" }}">Results</a></li>
-            <li><a href="{{ page.outreach | default: "./outreach" }}">Outreach</a></li>
+            {% unless page.results == "N/A" %}<li><a href="{{ page.results | default: "./results" }}">Results</a></li>{% endunless %}
+            {% unless page.outreach == "N/A" %}<li><a href="{{ page.outreach | default: "./outreach" }}">Outreach</a></li>{% endunless %}
           </ul>
         </p>
       </div>
