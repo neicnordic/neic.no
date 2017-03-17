@@ -15,6 +15,8 @@ groups:
     role: Ex officio, non-voting
   provider-forum:
     role: Observer
+  neic2017-sg:
+    role: Project owner, Chair
 ---
 Gudmund Høst is the Director of NeIC, and is employed at
 [NordForsk](https://www.nordforsk.org/) in Oslo.

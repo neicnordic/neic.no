@@ -18,7 +18,7 @@ groups:
     role: Ex officio, Activity leader
   nt1:
     role: Activity leader
-  neic2017-po:
+  neic2017-org:
     role: Local coordinator
 ---
 

@@ -10,4 +10,5 @@ phone:
 on_contract: no
 groups:
   board:
+  neic2017-prg:
 ---

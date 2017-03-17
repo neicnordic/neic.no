@@ -10,4 +10,5 @@ phone:
 on_contract: no
 groups:
   provider-forum:
+  neic2017-prg:
 ---

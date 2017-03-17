@@ -10,6 +10,7 @@ phone:
 on_contract: yes
 groups:
   tryggve:
+  neic2017-pc:
 ---
 
 Niclas Jareborg is located at SciLifeLab in Stockholm, Sweden where he is the
