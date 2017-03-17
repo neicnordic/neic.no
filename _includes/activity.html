@@ -47,6 +47,16 @@
       </ul>
       {% endif %}
 
+      {% if page.outcome-statements %}
+      <h5>Outcome statements</h5>
+      <p>Visions and best-case-scenarios.</p>
+      <ul>
+        {% for statement in page.outcome-statements %}
+          <li>{{ statement }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
       <h3>People</h3>
       {% for group in page.groups %}
         <h4>{{ group[1].name }}</h4>
