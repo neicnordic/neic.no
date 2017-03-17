@@ -25,6 +25,9 @@ groups:
     role: Ex officio
   bdi-sg:
     role: Chair
+  poco-wg:
+    finished: yes
+    role: Training program lead
 ---
 
 Joel Hedlund is located at the  [National Supercomputer Centre

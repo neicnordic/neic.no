@@ -7,10 +7,14 @@ country: US
 photo:
 email: rlpennington1@gmail.com
 phone:
-on_contract: no
+on_contract: yes
 groups:
   xt:
     role: Special advisor
   neic2017-prg:
     role: Special advisor
+  poco-wg:
+    role: Chair
+  data-management-wg:
+    role: Chair
 ---

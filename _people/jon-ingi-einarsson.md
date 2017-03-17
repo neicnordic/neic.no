@@ -10,5 +10,6 @@ phone:
 on_contract: no
 groups:
   board:
+  poco-wg:
 ---
 Board member since 2017-02-01.

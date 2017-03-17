@@ -3,4 +3,4 @@ layout: master
 include: alumni
 ---
 
-The people who helped NeIC become what it is.
+The people who helped NeIC become what we are.

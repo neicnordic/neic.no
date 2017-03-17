@@ -11,6 +11,10 @@ on_contract: yes
 groups:
   xt:
     role: Executive manager
+  poco-wg:
+    role: Coordination
+  data-management-wg:
+    role: Coordination
   nt1-po:
     role: Activity owner
 ---
