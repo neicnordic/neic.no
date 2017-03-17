@@ -10,7 +10,6 @@ phone:
 on_contract: no
 groups:
   board:
-    finished: yes
     role: Until 2014-12-31.
 ---
 Board member until 2014-12-31.
