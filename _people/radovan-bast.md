@@ -13,6 +13,8 @@ groups:
     role: Project leader
   neic2017-pc:
     role: Deputy chair
+  poco-wg:
+    role: Ex officio
 ---
 Radovan Bast is employed in Tromsø (Norway) as a senior engineer in the High
 Performance Computing Group at UiT The Arctic University of Norway and
