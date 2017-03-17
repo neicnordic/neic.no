@@ -11,6 +11,8 @@ on_contract: yes
 groups:
   xt:
     role: Executive manager
+  nt1-po:
+    role: Activity owner
 ---
 
 Michaela Barth is employed at the
