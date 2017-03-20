@@ -21,8 +21,8 @@
         <p>Leader: <a href="{{ site.baseurl }}{{ leader.url }}">{{ leader.name }}</a></p>
         <p>
           <ul>
-            {% unless page.results == "N/A" %}<li><a href="{{ page.results | default: "./results" }}">Results</a></li>{% endunless %}
-            {% unless page.outreach == "N/A" %}<li><a href="{{ page.outreach | default: "./outreach" }}">Outreach</a></li>{% endunless %}
+            {% unless page.results == "N/A" %}<li><a href="{{ page.results | default: "#results" }}">Results</a></li>{% endunless %}
+            {% unless page.outreach == "N/A" %}<li><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></li>{% endunless %}
           </ul>
         </p>
       </div>
@@ -83,6 +83,36 @@
           {% endfor %}
         </ul>
       {% endfor %}
+      {% if page.outreach-tag %}
+      <h3>Outreach</h3>
+      <script src="{{ site.baseurl }}/assets/js/gcal-events.js"></script>
+      <span class="event-list">
+        <script>
+        function foo(widget) {
+          var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+          var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
+          document.addEventListener("DOMContentLoaded", function(event) {
+            renderEvents(widget, calendarid, key, false, "{{ page.outreach-tag }}", "");
+          });
+        }
+        foo(document.scripts[document.scripts.length - 1].parentNode);
+        </script>
+      </span>
+      <h4>Past</h4>
+      <span class="event-list">
+        <script>
+        function foo(widget) {
+          var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+          var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
+          document.addEventListener("DOMContentLoaded", function(event) {
+            renderEvents(widget, calendarid, key, true, "{{ page.outreach-tag }}", "");
+          });
+        }
+        foo(document.scripts[document.scripts.length - 1].parentNode);
+        </script>
+      </span>
+
+      {% endif %}
     </div>
   </div>
 </div>

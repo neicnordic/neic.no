@@ -25,6 +25,8 @@ main:
     links:
       - url: '/about/'
         text: 'NeIC'
+      - url: '/about/publications/'
+        text: 'Publications'
       - url: '/about/mission/'
         text: 'Mission, vision and strategy'
       - url: '/about/organization/'
