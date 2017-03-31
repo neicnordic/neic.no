@@ -15,12 +15,6 @@ outcome-statements:
   - Discover good working practices and bring them into the spotlight.
   - Assess structure and status of ongoing activities.
   - Deliver deviation lists to XT/activities for follow-up.
-
-documents:
-  - text: Project plan
-    url: https://wiki.neic.no/wiki/File:Tryggve_Project_Plan_approved_Nov-2014.pdf
-  - text: Collaboration agreement
-    url: https://wiki.neic.no/wiki/File:Tryggve_collaboration_agreement.pdf
 links:
   - text: External wiki
     url: https://wiki.neic.no/Project_analysis
