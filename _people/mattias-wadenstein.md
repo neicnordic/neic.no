@@ -20,6 +20,8 @@ groups:
     role: Activity leader
   neic2017-org:
     role: Local coordinator
+  project-analysis-rg:
+
 ---
 
 Mattias Wadenstein has a background in systems administration from the [High

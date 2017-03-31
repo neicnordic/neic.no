@@ -12,11 +12,17 @@ groups:
   xt:
     role: Senior advisor
   tryggve-sg:
-    role: Chair.
+    role: Chair
   tryggve-rg:
     role: Advisor
   tryggve-po:
-    role: Project owner.
+    role: Project owner
+  project-analysis:
+    role: Project leader
+  project-analysis-rg:
+    role: Chair
+  project-analysis-po:
+    role: Project leader
   neic2017-pc:
     role: Chair
   neic2017-prg:

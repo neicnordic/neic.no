@@ -17,4 +17,5 @@ groups:
     role: Chair
   data-management-wg:
     role: Chair
+  project-analysis-rg:
 ---

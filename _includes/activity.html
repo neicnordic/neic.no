@@ -25,37 +25,38 @@
             {% unless page.outreach == "N/A" %}<li><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></li>{% endunless %}
           </ul>
         </p>
+
+        {% if page.links %}
+        <h5>Links</h5>
+        <ul>
+          {% for link in page.links %}
+            <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if page.documents %}
+        <h5>Documents</h5>
+        <ul>
+          {% for link in page.documents %}
+            <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if page.outcome-statements %}
+        <h5>Outcome statements</h5>
+        <p>Visions and best-case-scenarios.</p>
+        <ul>
+          {% for statement in page.outcome-statements %}
+            <li>{{ statement }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
       </div>
 
       {{ content }}
-
-      {% if page.links %}
-      <h5>Links</h5>
-      <ul>
-        {% for link in page.links %}
-          <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-
-      {% if page.documents %}
-      <h5>Documents</h5>
-      <ul>
-        {% for link in page.documents %}
-          <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-
-      {% if page.outcome-statements %}
-      <h5>Outcome statements</h5>
-      <p>Visions and best-case-scenarios.</p>
-      <ul>
-        {% for statement in page.outcome-statements %}
-          <li>{{ statement }}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
 
       <h3>People</h3>
       {% for group in page.groups %}
