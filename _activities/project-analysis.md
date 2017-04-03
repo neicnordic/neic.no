@@ -28,23 +28,24 @@ links:
 groups:
   project-analysis:
     name: Team
+    description:
     minutes:
     frequency:
   project-analysis-rg:
-    name: Reference group
-    description: Quality assurance.
-    frequency: As needed, none yet
-    minutes: https://wiki.neic.no/int/Project_analysis
+    name: Reference
+    description:
+    frequency:
+    minutes: 
   project-analysis-sg:
-    name: Steering group
-    description: Governance.
-    frequency: As needed, none yet
-    minutes: https://wiki.neic.no/int/Project_analysis
+    name: Governance
+    description:
+    frequency:
+    minutes:
   project-analysis-po:
-    name: Project office
-    description: Management
+    name: Management
+    description:
     minutes: https://wiki.neic.no/int/Category:Project_analysis_management_meetings_2017
-    frequency: As needed.
+    frequency: As needed
 ---
 NeIC is carrying out a project analysis exercise in 2017q2, for quality
 assurance and continuous improvement of NeIC as an organization.
