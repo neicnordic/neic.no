@@ -73,7 +73,7 @@ Compressed time frame:
 2017-05-12  Interviews concluded.  
 2017-05-29  New website launched.  
 2017-05-29  NeIC 2017 opens.  
-2017-05-30  Info review; Internal document deadline for NeIC board lol.  
+2017-05-30  Info review; Internal document deadline for NeIC board.  
 2017-06-01  NeIC 2017 closes.  
 2017-06-15  NeIC board meeting.  
 2017-06-22  Report delivered to XT.  
