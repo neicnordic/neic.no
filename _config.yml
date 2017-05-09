@@ -1,6 +1,6 @@
 markdown_ext: "md"
 
-baseurl: ""
+baseurl: "https://www.neic.no/"
 
 # https://github.com/jekyll/jekyll/issues/302
 permalink: pretty
