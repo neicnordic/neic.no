@@ -1,0 +1,455 @@
+@media (min-width: 3400px) {
+    section.blue-box .left-blue {
+        background-color: transparent;
+    }
+    html body section.blue-box .min-with-bg {left: 52%;}
+}
+@media (min-width: 1200px) {
+    body section.blue-box .min-with-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    right: 0;
+    background-image: url(../images/focus-bg.png);
+    z-index: -1;
+    background-size: cover;
+    }
+    body section.blue-box .left-blue {
+    width: 60%;
+    left: 0;
+    right: 50px;
+    bottom: 0;
+    top: 0;
+}
+    body section.blue-box {background-image: none;position: relative;z-index: 0;}
+    body .container{width: 1145px;}
+    section.latest-page .news-list-block .single-news-list .news-details {
+        min-height: 310px;
+        max-height: 310px;
+    }
+
+}
+@media (max-width: 1200px) {
+   body section.latest-page .news-list-block .single-news-list .news-details {
+        min-height: 350px;
+        max-height: 350px;
+    } 
+    section.history .history-image {margin-right: 15px; }
+}
+@media (max-width: 991px) {
+    body .sidebar.image {
+    display: none;
+    }
+    body section.history h2 {margin-bottom: 15px;}
+    body section.organisation h2 {margin-bottom: 15px;}
+    body .mob-box {display: block;margin-top: 30px;}
+    body .desktop-box {display: none;}
+    body section.latest-page .news-list-block .single-news-list {width: 50%;}
+    section.latest-page .news-list-block .single-news-list .news-details {
+        min-height: 300px;
+    }
+    body section.history .history-image {margin-right: 25px; margin-bottom: 15px; }
+    body section.about .content .read-more {
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    }
+    body section.wys-editer .side-bar {margin-top: 15px;}
+    body section.current-events .left-event {width: 100%;}
+    body section.current-events .right-event {display: none;}
+    body section.current-pub .btn-block .btn.with-border {margin-top: 15px;}
+    body section.blue-box .left-blue {
+    width: 100%;
+    float: none;
+    padding: 50px 50px 90px 0px;
+    }
+    body section.blue-box .right-blue {
+    width: 100%;
+    float: none;
+    padding: 30px 15px;
+    background-image: url(../images/focus-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    body section.blue-box {background-image: none;}
+    section.activities-list .left-activities {
+    padding: 35px 50px 35px 35px;
+    width: 60%;
+    }
+    body section.contact .team .team-list-block .right-team {
+    padding-left: 0px;
+    }
+    body section.contact .team .team-list-block .left-team {
+    padding-right: 0px;
+    }
+    body section.contact .contact-map-box .address {font-size: 18px;text-align: center;line-height: normal;}
+    body section.contact .contact-map-box .map-btn {    float: none;
+    text-align: center;
+    margin: 15px auto 0;
+    display: block;
+    width: 200px;}
+    body section.cookies a.cookies-ok{
+    float: none;
+    text-align: center;
+    margin: 15px auto 0px;
+    font-size: 12px;
+    }
+    body section.cookies p {text-align: center;font-size: 12px;line-height: 16px;}
+    body footer .footer-img {text-align: center;margin-top: 15px;}
+    body footer h4 {margin-top: 15px;}
+    body footer {padding-top: 0px;}
+
+
+}
+@media (min-width:767px) and (max-width:991px) { 
+    body section.blue-box .container{width: 100%;padding-right: 0px;padding-left: 0px;}
+    body section.blue-box .left-blue {width: 750px;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto;}
+    body section.blue-box .right-blue {width: 750px;margin-right: auto;margin-left: auto;padding-right: 15px;padding-left: 15px;background-image: none;}
+    body section.blue-box .bg-min-max {
+    background-image: url(../images/focus-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+}
+
+ @media (max-width: 767px) {
+    body section.history .history-image {
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+footer p {font-size: 10px;}
+footer .col-md-6.col-sm-6:first-child {    width: 66%;
+    float: left;padding-right: 0;}
+    footer .col-md-6.col-sm-6:last-child {    width: 34%;
+    float: right;padding-right: 0;}
+    body header .navbar-header.logo .navbar-brand {    width: 150px;}
+    body header .menu.right-side.collapsed span{display: none;}
+    body header .menu.right-side.collapsed {height: 30px;
+    background-size: 30px auto;
+    line-height: 50px;
+    width: 30px;
+    background-position: 50% 50%;}
+    body header .menu.right-side span{display: none;}
+    body header .menu.right-side {height: 30px;
+    background-size: 30px auto;
+    line-height: 50px;
+    width: 30px;
+    background-position: 50% 50%;}
+    body header .navbar-header.logo {float: left;}
+    body header {
+        height: 50px;
+    padding: 10px 0px;
+    }
+    body section.banner .learn-more-link {
+    width: 120px;
+    height: 70px;
+    margin-left: -60px;
+    background-size: 120px 70px;
+    padding: 35px 9px;
+    font-size: 15px;
+    line-height: 15px;
+    }
+    body section.about {    padding: 40px 0px 40px;}
+    body section.about h2 {margin-top:20px;font-size: 30px;}
+    body section.about p {font-size: 20px;
+    line-height: 25px;}
+    body section.about ul.linl-list{margin-top: 0;}
+    body section.about ul.linl-list li a {font-size: 20px;padding: 0px;}
+    body section.current-events {padding: 30px 0px;}
+    body section.latest-news h4 {font-size: 20px;}
+    body section.latest-news p.date {margin-bottom: 15px;}
+    body section.latest-news .right-news .news-bg {
+    position: relative;
+    height: 150px;
+    width: 100%;
+    }
+    body section.latest-news .right-news .lite-white-bg {
+    margin: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 15px 25px;
+     min-height: auto;
+    }
+    body section.latest-news .lite-white-bg {
+    position: relative;
+    width: 100%;
+    padding: 15px 15px 25px;
+    min-height: auto;
+    }
+    body section.blue-box ul:last-child {margin-bottom: 0px;}
+    body section.latest-news .mob.news-bg {
+    position: relative;
+    height: 150px;
+    left: 0;
+    width: 100%;
+    margin-bottom: 0px;
+    background-position: 50% 50%;
+    display: block;
+    }
+    body section.latest-news .see-more-news {margin:30px auto;}
+    body section.latest-news .desktop.news-bg {display: none;}
+    body section.mission .mission-data h1.om-head {font-size: 35px;margin-bottom: 5px;}
+    body section.mission .mission-data p.description {font-size: 20px;}
+    body section.mission {padding: 50px 0;}
+    body section.cookies a.cookies-ok{
+    float: none;
+    text-align: center;
+    margin: 15px auto 0px;
+    font-size: 12px;
+    }
+    body section.cookies p {text-align: center;font-size: 12px;line-height: 16px;}
+    body footer .footer-img {text-align: center;margin-top: 15px;width: 120px;margin: 15px auto 0;}
+    body footer h4 {margin-top: 15px;}
+    body footer {padding-top: 0px;}
+    body footer .footer-bottom {margin-top: 15px;font-size: 12px;line-height: 20px;}
+    body section.latest-news {padding: 30px 0px 0px;}
+    body section.latest-news h2 {font-size: 30px;}
+    body section.latest-news .description-block {padding: 0 15px;margin-bottom: 15px;}
+    body #menu #mainmenu {top:50px;}
+    body #menu #mainmenu.collapse.in {width: 100%;}
+    body #menu .panel-body {padding: 25px 15px;}
+    body #sub-menu .sub-menu-item {margin-top: 15px;font-size: 18px;}
+    body #sub-menu .sub-menu-list li a {font-size: 16px;}
+    body section.current-events .left-event h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.current-events .left-event {padding: 15px;}
+    body section.current-events .left-event ul.event-list li {margin-bottom: 20px;}
+    body section.current-events .left-event ul.event-list li a.read-more {margin-top: 15px;}
+    html body div.body {margin-top: 0px;
+    padding-top: 50px;}
+    body section.single-pagebanner {height: 200px;}
+    body section.green-box-block-about {padding: 30px 0px;}
+    body section.green-box-block-about .green-box {    padding: 60px 15px 0;
+    background-size: 40px auto;
+    background-position: 50% 30px;}
+    body section.green-box-block-about .green-box h2 {font-size: 30px;margin: 15px 0;}
+    body section.green-box-block-about .green-box p {font-size: 16px;}
+    body section.green-box-block-about .green-box a.btn {font-size: 18px;margin-top: 0px;margin-bottom: -15px;}
+    body section.history h2 {margin: 0;font-size: 30px;margin-bottom: 15px;}
+    body section.history {padding: 30px 0px;}
+    body section.blue-box {background-image: none;}
+    body section.blue-box .left-blue {
+    width: 100%;
+    float: none;
+    padding: 30px 15px;
+    }
+    body section.blue-box .right-blue {
+    width: 100%;
+    float: none;
+    padding: 30px 15px;
+    background-image: url(../images/focus-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    body section.blue-box .container {padding: 0;}
+    body section.blue-box h2 {font-size: 30px;}
+    body section.blue-box p {font-size: 18px;}
+    body section.blue-box a.btn.with-border {margin:15px 0 0px;font-size: 15px;border: 1px solid #fff;;}
+    body section.organisation .left-org {    width: 100%;
+    float: none;
+    padding-right: 0px;}
+    body section.organisation {padding: 30px 0;}
+    body section.organisation h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.organisation .right-org {width: 100%;
+    float: none;}
+    body section.organisation .right-org .image-block {max-width: 100%;}
+    body section.current-pub {padding: 30px 0;}
+    body section.current-pub .left-pub {display: none;}
+    body section.current-pub .right-pub {left: 0;width: 100%;padding: 15px;}
+    body section.current-pub .right-pub h2 {font-size: 30px;}
+    body section.current-pub .right-pub ul.pub-list li h4.pub-title {font-size: 20px;}
+    body section.current-pub .right-pub ul.pub-list li p.pub-details {font-size: 14px;}
+    body section.current-pub .btn-block {text-align: center;}
+    body section.current-pub .btn-block .btn.with-border{
+    text-align: center;
+    margin: 15px auto 0;
+    font-size: 15px;
+    }
+    body section.api-section h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.api-section p {margin-bottom:15px;padding-right: 0px;font-weight: 300;font-family: 'Roboto', sans-serif;font-size: 14px;letter-spacing: 1px;line-height: 20px;}
+    body section.api-section h5 {font-size: 20px;}
+    section.api-section {padding: 30px 0;}
+    body section.contact #map {height: calc(50vh - 50px);}
+    body section.contact .contact-map-box .address {font-size: 18px;text-align: center;line-height: normal;}
+    body section.contact .contact-map-box .map-btn {    float: none;
+    text-align: center;
+    margin: 15px auto 0;
+    display: block;
+    width: 200px;}
+    body section.contact .contact-details-block h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.contact .contact-details-block p {font-size: 18px;}
+    body section.contact .team .team-nav-bar .left-bar {float: none;margin-top: 5px;text-align: center;}
+    body section.contact .team .team-nav-bar .left-bar .c-head {font-size: 20px;text-align: center;display: block;}
+    body section.contact .team .team-nav-bar .right-bar {float: none;margin-top: 15px;}
+    body section.contact .team .team-nav-bar .right-bar form {width: 100%;}
+    body section.contact .team .team-nav-bar .right-bar form label {
+    width: 40%;
+    padding: 0;
+    display: block;
+    text-align: left;
+    }
+    body section.contact .team .team-nav-bar .right-bar form select.custom {width: 60%;
+    display: block;}
+    body section.contact .team .team-list-block .left-team {padding-right: 0;}
+    body section.contact .team .team-list-block li .left-text {width: 60%;}
+    body section.contact .team .team-list-block li .right-text {    word-wrap: break-word;
+    word-break: break-all;    width: 40%;}
+    body section.contact .team .team-list-block .right-team {padding-left: 0; }
+    body section.contact .team .contact-persion .contact-photo {
+    float: none;
+    margin-right: 0;
+    text-align: center;
+    margin: 0 auto 25px;
+    width: 100%;
+    height: auto;
+    }
+    body section.contact .team .contact-persion .contact-photo img {width:100%;}
+    body section.contact .team .contact-persion .contact-persion-data .name {margin-top: 0px;}
+    body section.contact .team .contact-persion .contact-persion-data {    padding-left: 0px;}
+    body section.latest-page .news-list-block {padding: 0;}
+    body section.latest-page .news-list-block .single-news-list {width: 100%;float: none;display: block;margin: 30px 0;}
+    body section.latest-page .news-list-block .single-news-list .news-details {
+    max-height: none;
+    min-height: auto;
+    }
+    body section.latest-page h2 {font-size: 30px;}
+    body section.latest-page {padding: 30px 0;}
+    body section.wys-editer {padding: 30px 0;}
+    body section.wys-editer .left-align-image .right-text {margin-top: 15px;}
+    body section.wys-editer .left-align-image .left-image {float: none;}
+    body section.wys-editer .side-bar {padding: 15px;}
+    body section.green-box-block .green-box {
+    padding: 60px 15px 30px;
+    background-size: 40px auto;
+    background-position: 50% 30px;
+    }
+    body section.green-box-block {padding: 30px 0;}
+    body section.green-box-block .green-box h2{    font-size: 28px;
+    margin: 15px 0;}
+    body section.green-box-block .green-box p {font-size: 16px;margin-bottom: 15px;}
+    body section.publications h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.publications {padding: 30px 0;}
+    body section.publications .publications-list-block .single-publications-list .publications-details a.btn {margin-top: 24px;}
+    body .sidebar.image {text-align: center;display: none;}
+    body section.publications .publications-list-block .single-publications-list .publications-details p {margin: 15px 0 0;}
+    body section.single-activities h1 {font-size: 30px;}
+    body section.single-activities .project-box {padding: 15px;}
+    body section.green-box-block .green-box a.btn {margin-top: 15px;width: 250px;margin: 10px auto;}
+    body section.training h2 {font-size: 30px;}
+    body section.training .btn-block .btn.with-border {width: auto;min-width: 48%;padding-left: 10px;padding-right: 10px;}
+    body section.publications .pre-next-blk .nex-btn {
+    width: 45%;
+    padding: 0;
+    }
+    body section.publications .pre-next-blk .pre-btn {
+    width: 45%;
+    padding: 0;
+    }
+    body section.activities h2  {font-size: 30px;margin-bottom: 24px;}
+    body section.activities {padding: 30px 0 0;}
+    body section.activities p {font-size: 14px;margin-bottom: 24px;}
+    body section.activities ul.linl-list li a {font-size: 18px;background-size: auto 14px;}
+    body section.activities-list .left-activities h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.activities-list .right-activities {display: none;}
+    body section.activities-list {padding: 34px 0;}
+    body section.activities-list .left-activities {width: 100%;
+        padding: 15px;}
+    body section.activities-list ul.linl-list li a {font-size: 20px;}
+    body section.single-activities .toogle-box-small .panel a {font-size: 14px;}
+    body section.single-activities .toogle-box-big .panel a {background-size: 14px auto;font-size: 14px;line-height: 24px;}
+    body section.organisation .right-org .image-block {    padding: 0px;}
+    letter-spacing: 0px;
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body .single-publications-list .publications-details h4 a {margin: 25px 0 5px;text-transform: uppercase;font-weight: 700;font-family: 'Roboto', sans-serif;letter-spacing: 2px;font-size: 16px;}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body .single-publications-list .publications-details h6 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    color: #959b9e;
+    font-size: 15px;
+    margin: 5px 0 0;
+}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body .single-publications-list .publications-details p{
+    margin: 25px 0;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body .single-publications-list .publications-details a.btn-go {
+    font-size: 13px;
+}
+
+
+body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h4 a {    background-size: 14px auto;
+    font-size: 14px;
+    line-height: 24px;}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h6 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    color: #959b9e;
+    font-size: 15px;
+    margin: 5px 0 0;
+}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details p{
+    margin: 25px 0;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+    body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details a.btn-go {
+    font-size: 13px;
+}
+    body section.publications .publications-list-block .single-publications-list:last-child {margin-bottom:0;padding-bottom: 0;}
+body section.training .description p {font-size:16px;}
+body section.contact .team .team-nav-bar .left-bar .back-btn {
+    margin: auto;
+    text-align: center;
+    padding: 10px 0 10px 40px;
+}
+body section.contact .team .contact-persion {
+    padding: 20px 0px 0;
+}
+body section.contact .team {margin-bottom: 30px;padding-bottom: 0px;}
+body section.contact .team .team-list-block {padding-bottom: 0px;}
+body .mob-video {display: block;margin: 0;padding: 0;height: 100%;}
+.mob-video .modal-body {padding: 0;}
+.modal-content button.close {
+    position: absolute;
+    z-index: 1;
+    color: #fff;
+    right: 15px;
+    top: 15px;
+    background-color: #fff;
+    width: 50px;
+    height: 50px;
+    background-image: url(../images/video-close.png);
+    background-size: 30px auto;
+    background-position: 50% 50%;
+    opacity: 1;
+    background-repeat: no-repeat;
+    }
+    .modal-content {
+    border-radius: 0px;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    height: 100vh;
+    position: fixed;
+}
+    .mob-video .modal-dialog {margin:0;height: 100%;}
+    .mob-video .modal-content .modal-body{height: 100%;}
+    .mob-video-play, .mob-video-play:hover, .mob-video-play:active, .mob-video-play:visited, .mob-video-play:focus {position: absolute;top: 50%;width: 50px;height: 50px;background-color: transparent;background-image: url(../images/video-play.png);background-size: 50px auto;background-position: 50% 50%;left: 50%;margin-left: -25px;margin-top: -25px;border: none;background-color: transparent;outline: 0px auto -webkit-focus-ring-color; }
+}
+@media (max-width: 500px) {
+    body .sidebar.image {
+    text-align: center;
+    margin: auto;
+    float: none;
+    width: 100%;
+    }
+    body section.current-pub .btn-block .btn.with-border {display: block;}
+}
