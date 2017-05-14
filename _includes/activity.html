@@ -1,119 +1,180 @@
 {% assign this_activity = page.path | replace: '_activities/', ''  | replace: '.md', '' %}
+{% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
+{% assign leader = site.people | where:"path", leader_path  | first %}
 
-<div class="container mtt">
+<section class="single-pagebanner" style="background-image: url({{ site.baseurl}}/assets/images/sin-act-banner.png);">
+</section>
+
+<section class="wys-editer single-activities">
+      <div class="container">
+  <h1>{{ page.name }}</h1>
   <div class="row">
-    <div class="col-lg-12">
-      <h2>{{ page.name }}</h2>
+              <div class="col-md-7">
+      <div class="content">
+                         <div class="project-box">
+          <h2>{{ page.type }}</h2>
+            <p class="top">
+              {% if page.phase %}
+                <b>PHASE:</b> {{ page.phase }}
+              {% endif %}
+            </p>
+            <p class="no-space">
+              <b>PERIOD:</b>
+              {% if page.start %}
+                {{ page.start }} &mdash; {{ page.end }}
+              {% else %}
+                TBD
+              {% endif %}
+            </p>
+            <p class="no-space">
+              <b>LEADER:</b>
+              <span class="color"><b><a href="{{ site.baseurl }}{{ leader.url }}">{{ leader.name }}</a></b></span>
+            </p>
 
-      <div style="border: 1px solid gray;">
-        <h5>{{ page.type }}</h5>
-        {% if page.phase %}<p>Phase: {{ page.phase }}</p>{% endif %}
-        <p>
-          Period:
-          {% if page.start %}
-            {{ page.start }} &mdash; {{ page.end }}
+            {% unless page.results == "N/A" %}
+              <p class="top"><span class="color"><b><a href="{{ page.results | default: "#results" }}">Results</a></b></span></p>
+            {% endunless %}
+            {% unless page.outreach == "N/A" %}
+              <p class="no-space"><span class="color"><b><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></b></span></p>
+            {% endunless %}
+
+            {% if page.links %}
+              <p class="top"><b>LINKS:</b></p>
+              {% for link in page.links %}
+                <p class="no-space"><span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>{% if link.description %} - {{ link.description }}{% endif %}</p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.documents %}
+              <p class="top"><b>DOCUMENTS</b></p>
+              {% for link in page.documents %}
+                <p class="no-space"><span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>{% if link.description %} - {{ link.description }}{% endif %}</p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.outcome-statements %}
+              <p class="top"><b>OUTCOME STATEMENTS:</b></p>
+              <p class="no-space">Visions and best-case-scenarios:</p>
+              <ul>
+                {% for statement in page.outcome-statements %}
+                  <li>{{ statement }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+         </div>
+
+         {{ content }}
+
+         <div class="desktop-box">
+         <h2>OUTREACH</h2>
+         <h4>NEIC 2017 SENSITIVE DATA WORKSHOP</h4>
+          <p class="date">2017-05-30</p>
+          <p class="top">Workshop on use of sensitive data in research, including secure IT services and highlights of the outcomes of the Nordic Tryggve project, ethical and legal issues regarding the use of sensitive data, as well as researchers’ presentations on how the research data is currently being managed in the research community.</p>
+          <a href="#" class="btn-go">GO TO ARTICLE &raquo;</a>
+
+          <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+              <div role="tab" id="title1">
+                  <a class="btn collapsed" role="button" data-toggle="collapse" data-parent="#editer-accordion" href="#editer-h1" aria-expanded="true" aria-controls="editer-h1">
+                    PAST
+                  </a>
+              </div>
+              <div id="editer-h1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="title1">
+                <div class="panel-body">
+                  <div class="single-publications-list">
+                     <div class="publications-details">
+                       <h4><a href="#">INVESTIGATING OPTIONS FOR FUTURE NORDIC WLCG TIER-1 OPERATIONS</a></h4>
+                       <h6>MARCH 15 2017</h6>
+                       <p>The results of a cost-efficiency study for the current configuration, and of other possible configurations, of the Nordic WLCG Tier-1 (NDGF-T1), as well as some guidelines to improve its computing operations.</p>
+                       <a href="#" class="btn-go">GO TO ARTICLE &raquo;</a>
+                     </div>
+                   </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          </div>
+                        </div>
+              </div>
+              <div class="col-md-offset-1 col-md-4">
+                      <div class="toggle-bar">
+
+
+
+        <h2>PEOPLE</h2>
+        <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
+
+        {% for group in page.groups %}
+          {% if forloop.index == 1 %}
+            {% assign group_collapsed = '' %}
+            {% assign group_expanded = 'true' %}
+            {% assign group_in = 'in' %}
           {% else %}
-            TBD
+            {% assign group_collapsed = 'collapsed' %}
+            {% assign group_expanded = 'false' %}
+            {% assign group_in = '' %}
           {% endif %}
-        </p>
-        {% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
-        {% assign leader = site.people | where:"path", leader_path  | first %}
-        <p>Leader: <a href="{{ site.baseurl }}{{ leader.url }}">{{ leader.name }}</a></p>
-        <p>
-          <ul>
-            {% unless page.results == "N/A" %}<li><a href="{{ page.results | default: "#results" }}">Results</a></li>{% endunless %}
-            {% unless page.outreach == "N/A" %}<li><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></li>{% endunless %}
-          </ul>
-        </p>
-
-        {% if page.links %}
-        <h5>Links</h5>
-        <ul>
-          {% for link in page.links %}
-            <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
+          <div class="panel panel-default">
+            <div role="tab" id="sidebar-One">
+                <a class="box {{ group_collapsed }}"
+                   role="button"
+                   data-toggle="collapse"
+                   data-parent="#sidebar-accordion"
+                   href="#collapse-sidebar-{{ forloop.index }}"
+                   aria-expanded="{{ group_expanded }}"
+                   aria-controls="collapse-sidebar-{{ forloop.index }}">
+                  {{ group[1].name }}
+                </a>
+            </div>
+            <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
+              <div class="panel-body">
+                {% if group[1].description %}
+                  <p>{{ group[1].description }}</p><br><br>
+                {% endif %}
+                {% if group[1].minutes %}
+                  <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
+                {% endif %}
+                {% assign person_on_top = true %}
+                {% for person in site.people %}
+                  {% for person_group in person.groups %}
+                    {% if person_group[0] == group[0] %}
+                      {% unless person_group[1].finished %}
+                        {% if person_on_top %}
+                          <p class="top">
+                        {% else %}
+                          <p>
+                        {% endif %}
+                          <a href="{{ site.baseurl }}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                        </p>
+                        {% assign person_on_top = false %}
+                      {% endunless %}
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              </div>
+            </div>
+          </div>
           {% endfor %}
-        </ul>
-        {% endif %}
-
-        {% if page.documents %}
-        <h5>Documents</h5>
-        <ul>
-          {% for link in page.documents %}
-            <li><a href="{{ link.url }}">{{ link.text | default: link.url }}</a>{% if link.description %}. {{ link.description }}{% endif %}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-
-        {% if page.outcome-statements %}
-        <h5>Outcome statements</h5>
-        <p>Visions and best-case-scenarios.</p>
-        <ul>
-          {% for statement in page.outcome-statements %}
-            <li>{{ statement }}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
 
       </div>
+              </div>
 
-      {{ content }}
-
-      <h3>People</h3>
-      {% for group in page.groups %}
-        <h4>{{ group[1].name }}</h4>
-        {% if group[1].description %}<p>{{ group[1].description }}</p>{% endif %}
-        {% if group[1].minutes %}
-          <p>Minutes:
-            <a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}.
-          </p>
-        {% endif %}
-        <ul>
-          {% for person in site.people %}
-            {% for person_group in person.groups %}
-              {% if person_group[0] == group[0] %}
-                {% unless person_group[1].finished %}
-                  <li>
-                    <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>,
-                    {{ person.country }}{% if person_group[1].role %},
-                      {{ person_group[1].role }}
-                    {% endif %}
-                  </li>
-                {% endunless %}
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </ul>
-      {% endfor %}
-      {% if page.outreach-tag %}
-      <h3>Outreach</h3>
-      <script src="{{ site.baseurl }}/assets/js/gcal-events.js"></script>
-      <span class="event-list">
-        <script>
-        function foo(widget) {
-          var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
-          var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
-          document.addEventListener("DOMContentLoaded", function(event) {
-            renderEvents(widget, calendarid, key, false, "{{ page.outreach-tag }}", "");
-          });
-        }
-        foo(document.scripts[document.scripts.length - 1].parentNode);
-        </script>
-      </span>
-      <h4>Past</h4>
-      <span class="event-list">
-        <script>
-        function foo(widget) {
-          var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
-          var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
-          document.addEventListener("DOMContentLoaded", function(event) {
-            renderEvents(widget, calendarid, key, true, "{{ page.outreach-tag }}", "");
-          });
-        }
-        foo(document.scripts[document.scripts.length - 1].parentNode);
-        </script>
-      </span>
-
-      {% endif %}
-    </div>
+      </div>
   </div>
-</div>
+</section>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+  if ($(window).width() < 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  $(window).resize(function() {
+  if ($(window).width() <= 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  });
+});
+</script>
