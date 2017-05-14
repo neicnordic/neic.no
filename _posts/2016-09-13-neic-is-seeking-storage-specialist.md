@@ -1,7 +1,7 @@
 ---
 title:  The Nordic e-Infrastructure Collaboration (NeIC) is seeking NeIC Storage Specialist 
 summary: "NeIC is looking for a Storage Specialist to strengthen the Nordic Tier-1 team. As member of a dynamic virtual team you will have a variety of challenging tasks and involve extensive contact with research groups and specialist communities in the Nordic countries and internationally."
-photo:  /assets/img/news/toofarnorth-mini.jpeg
+photo:  /assets/images/news/toofarnorth-mini.jpeg
 ---
 
 NeIC is seeking Storage Specialist
@@ -9,7 +9,7 @@ NeIC is seeking Storage Specialist
 
 **NeIC is looking for a Storage Specialist to strengthen the Nordic Tier-1 team. As member of a dynamic virtual team you will have a variety of challenging tasks and involve extensive contact with research groups and specialist communities in the Nordic countries and internationally.**
 
-<a href="{{ site.baseurl }}/assets/img/news/toofarnorth.jpg"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/toofarnorth-mini.jpeg"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/toofarnorth.jpg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/toofarnorth-mini.jpeg"> </a>
 
 You are an excellent software developer skilled in Java programming with merits that include experience and interest in topics such as
 

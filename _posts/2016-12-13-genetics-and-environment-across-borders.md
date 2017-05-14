@@ -1,7 +1,7 @@
 ---
 title:  "Genetics and environment across borders" 
 summary: "What are the roles played by environmental and genetic factors in the development of schizophrenia? This question is being examined by an interdisciplinary team of researchers in five different countries. The Tryggve secure IT-based system has been vital in enabling researchers to share data across borders."
-photo:  "/assets/img/news/Sullivan_Patrick.jpg"
+photo:  "/assets/images/news/Sullivan_Patrick.jpg"
 ---
 
 Genetics and environment across borders
@@ -9,7 +9,7 @@ Genetics and environment across borders
 
 **What are the roles played by environmental and genetic factors in the development of schizophrenia? This question is being examined by an interdisciplinary team of researchers using case and control groups in five different countries. The Tryggve project’s secure IT-based system has been vital in enabling researchers to share data across borders.**
 
-<a href="{{ site.baseurl }}/assets/img/news/Sullivan_Patrick.jpg"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/Sullivan_Patrick_small.jpg"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/Sullivan_Patrick.jpg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/Sullivan_Patrick_small.jpg"> </a>
 
 “We’ve known for a long time that it’s both genes and environment,” states Professor Patrick Sullivan from the Karolinska Institutet. He is heading a major interdisciplinary research project which combines genetic and environmental data to help researchers to gain a better understanding of how schizophrenia develops.
 

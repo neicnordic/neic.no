@@ -1,7 +1,7 @@
 ---
 title:  "Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D support" 
 summary: "EISCAT_3D is an environmental research infrastructure on the European ESFRI roadmap, and NeIC is seeking a project manager/e-infrastructure specialist who can support the EISCAT_3D project in dealing with e-infrastructure challenges."
-photo:  "/assets/img/news/eiscat-3d-aurora-mini.jpeg"
+photo:  "/assets/images/news/eiscat-3d-aurora-mini.jpeg"
 ---
 
 Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D support
@@ -9,7 +9,7 @@ Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D sup
 
 **EISCAT_3D is an environmental research infrastructure on the European ESFRI roadmap, and NeIC is seeking a project manager/e-infrastructure specialist who can support the EISCAT_3D project in dealing with e-infrastructure challenges.**
 
-<a href="{{ site.baseurl }}/assets/img/news/eiscat-3d-aurora.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/eiscat-3d-aurora-mini.jpeg"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/eiscat-3d-aurora.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/eiscat-3d-aurora-mini.jpeg"> </a>
 
 It is proposed as an international research infrastructure using the incoherent scatter technique to study the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
 
@@ -21,6 +21,6 @@ NeIC is now seeking a project manager/e-infrastructure specialist who can suppor
 
 The position has a term of three years. Applications including CV should be submitted to <neic@nordforsk.org> within the extended deadline ***November 20th***. Questions about the position may be directed to [Gudmund Høst](mailto:gudmund.host@nordforsk.org), phone +47 95816846.
 
-[Full announcement text](/assets/img/news/2014-10-14-Open-position-announcement-NeIC_Support_EISCAT_3D_Project_lead_4.pdf "wikilink")
+[Full announcement text](/assets/images/news/2014-10-14-Open-position-announcement-NeIC_Support_EISCAT_3D_Project_lead_4.pdf "wikilink")
 
 Photo: LarsGöran/EISCAT

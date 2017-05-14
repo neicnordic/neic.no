@@ -4,7 +4,7 @@ include: person
 name: Antti Pursula
 home: <a href="https://csc.fi">CSC</a>
 country: FI
-photo: assets/img/people/antti-pursula.jpg
+photo: assets/images/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:
 on_contract: yes

@@ -4,7 +4,7 @@ include: person
 name: Kine Nordstokkå
 home: <a href="https://www.nordforsk.org">NordForsk</a>
 country: "NO"
-photo: assets/img/people/kine-nordstokka.jpg
+photo: assets/images/people/kine-nordstokka.jpg
 email: kine.nordstokka@nordforsk.org
 phone: "+47 908 10 670"
 on_contract: yes

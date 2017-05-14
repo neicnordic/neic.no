@@ -4,7 +4,7 @@ include: person
 name: Gudmund Høst
 home: <a href="https://www.nordforsk.org/">NordForsk</a>
 country: "NO"
-photo: assets/img/people/gudmund-host.jpg
+photo: assets/images/people/gudmund-host.jpg
 email: gudmund.host@nordforsk.org
 phone:
 on_contract: yes

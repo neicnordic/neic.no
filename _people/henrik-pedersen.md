@@ -4,7 +4,7 @@ include: person
 name: Henrik Pedersen
 home: <a href="http://sdu.dk">SDU</a>
 country: DK
-photo: assets/img/people/henrik-pedersen.jpg
+photo: assets/images/people/henrik-pedersen.jpg
 email: henrik@sdu.dk
 phone:
 on_contract: no

@@ -1,7 +1,7 @@
 ---
 title:  "Intensifying collaboration on the EISCAT_3D eInfrastructure" 
 summary: "On 5 November 2015, the NeIC EISCAT_3D Support (E3DS) project hosted a meeting in Stockholm, where stakeholders from the Nordic countries gathered to update one another on the status of EISCAT_3D, the progress of the E3DS project and the eInfrastructure roadmaps of providers of network, storage and computing resources."
-photo:  "/assets/img/news/eiscat_3d_shf_arn_nov_2015_image_mini.png"
+photo:  "/assets/images/news/eiscat_3d_shf_arn_nov_2015_image_mini.png"
 ---
 
 Intensifying collaboration on the EISCAT_3D eInfrastructure
@@ -13,7 +13,7 @@ Intensifying collaboration on the EISCAT_3D eInfrastructure
 <table>
 <tr style="line-height:0px; padding:0; margin:0;">
 <td style="padding:0; margin:0;">
-<img style="padding:0; margin:0; width:200px;" src="{{ site.baseurl }}/assets/img/news/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/>
+<img style="padding:0; margin:0; width:200px;" src="{{ site.baseurl }}/assets/images/news/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/>
 
 </td>
 </tr>

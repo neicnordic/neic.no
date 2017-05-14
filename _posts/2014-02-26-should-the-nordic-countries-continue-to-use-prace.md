@@ -1,7 +1,7 @@
 ---
 title:  Should the Nordic countries continue to use PRACE? 
 summary: "The Partnership for Advanced Computing in Europe (PRACE) provides Europe’s most extensive high-performance computing systems – 100 000 times more powerful than an ordinary PC. As PRACE is considering changing its payment model, the Nordic e-infrastructure Collaboration (NeIC) decided to evaluate Nordic researchers’ use of the resources."
-photo:  "/assets/img/news/rob-mini.jpeg"
+photo:  "/assets/images/news/rob-mini.jpeg"
 ---
 
 Should the Nordic countries continue to use PRACE?
@@ -9,7 +9,7 @@ Should the Nordic countries continue to use PRACE?
 
 **The Partnership for Advanced Computing in Europe (PRACE) provides Europe’s most extensive high-performance computing systems – 100 000 times more powerful than an ordinary PC. As PRACE is considering changing its payment model, the Nordic e-infrastructure Collaboration (NeIC) decided to evaluate Nordic researchers’ use of the resources.**
 
-<a href="{{ site.baseurl }}/assets/img/news/rob.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/rob-mini.jpeg"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/rob.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/rob-mini.jpeg"> </a>
 
 Today researchers are using [PRACE](http://www.prace-ri.eu/) resources for free, competing with each other to be awarded access based on a peer-review procedure. It is likely that PRACE will introduce a pay-for use policy. So what does Nordic research actually gain from using PRACE resources? Will it be worth paying for access or will it be more cost-efficient to create a Nordic facility?
 
@@ -50,7 +50,7 @@ The next pressing question is how the NeIC will respond to the evaluation. Direc
 
 - From the evaluation we have learned that Nordic researchers make use of roughly 25 per cent of a Tier-0 resource. Thus, an alternative to PRACE participation for the Nordics in the future could be to invest in a moderate Tier-0 facility. If a future payment model for PRACE is based on national GDP it could prove costly for the Nordic countries to participate, and an alternative Nordic Tier-0 facility might be more cost-efficient. The evaluation committee also had a hard time extracting the relevant information for their work. The implied lack of transparency is of serious concern because it may hamper the optimal use of the national-Nordic-European ecosystem of resources.
 
-<img class="smallpic" src="{{ site.baseurl }}/assets/img/news/gudmund.jpeg">
+<img class="smallpic" src="{{ site.baseurl }}/assets/images/news/gudmund.jpeg">
 
 The NeIC will discuss the evaluation report at their June meeting.
 
@@ -62,7 +62,7 @@ Dr Høst continues:
 
 - I’m also glad to learn that the committee concludes that the NeIC is a well-suited instrument for coordinating and cooperating on high-performance computing. Furthermore, the committee recommends that a future strategy for Nordic collaboration on high-performance computing is based on future research challenges. An important next step would be to build a scientific case through translation of researcher needs into technical requirements.
 
-[Evaluation of the Nordic Participation in PRACE](https://neic.nordforsk.org/assets/img/news/2014-prace-report-final.pdf)
+[Evaluation of the Nordic Participation in PRACE](https://neic.nordforsk.org/assets/images/news/2014-prace-report-final.pdf)
 ---------------------------------------------------------------------------------------------------------------
 
 ### Members of the evaluation committee:

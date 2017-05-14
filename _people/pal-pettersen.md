@@ -4,7 +4,7 @@ include: person
 name: Pål Pettersen
 home: <a href="https://www.nordforsk.org">NordForsk</a>
 country: "NO"
-photo: assets/img/people/pal-pettersen.jpg
+photo: assets/images/people/pal-pettersen.jpg
 email: pal.pettersen@nordforsk.org
 phone: "+47 908 10 670"
 on_contract: yes

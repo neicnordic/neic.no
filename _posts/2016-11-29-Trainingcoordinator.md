@@ -1,7 +1,7 @@
 ---
 title:  "The Nordic e-Infrastructure Collaboration (NeIC) is seeking a Training Programme Manager"
 summary: "NeIC is looking for a Training Programme Manager to develop and facilitate the implementation of a Nordic training programme for technical staff in the Nordic e-infrastructure community."
-photo: "/assets/img/news/Social_Network_Diagram_from_Wikipedia_mini.png"
+photo: "/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"
 ---
 
 The Nordic e-Infrastructure Collaboration (NeIC) is seeking a Training Programme Manager
@@ -9,7 +9,7 @@ The Nordic e-Infrastructure Collaboration (NeIC) is seeking a Training Programme
 
 **NeIC is looking for a Training Programme Manager to develop and facilitate the implementation of a Nordic training programme for technical staff in the Nordic e-infrastructure community.**
 
-<a href="{{ site.baseurl }}/assets/img/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a>
 
 As member of the distributed NeIC team you will have wide contact with NeIC staff and staff in the national e-infrastructure organizations. You share a general interest in research and training within the e-infrastructure domain. You are proficient in all forms of communication and time management and you have demonstrated skills in the organization of events. Candidates must have a good command of English (both written and spoken). Considerable traveling may be required. The Training Programme Manager will work closely with a group of national provider representatives that works to pool competences across the Nordic countries. The Training Programme Manager will report to this group and have regular follow-ups with a member of the NeIC Executive Team. The functions and responsibilities of the Training Programme Manager include:
 

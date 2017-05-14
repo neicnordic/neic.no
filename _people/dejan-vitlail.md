@@ -4,7 +4,7 @@ include: person
 name: Dejan Vitlacil
 home: <a href="https://www.pdc.kth.se">PDC</a>
 country: SE
-photo: assets/img/people/dejan-vitlacil.jpg
+photo: assets/images/people/dejan-vitlacil.jpg
 email: vitlacil@pdc.kth.se
 phone:
 on_contract: no

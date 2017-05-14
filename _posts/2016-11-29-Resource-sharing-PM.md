@@ -1,7 +1,7 @@
 ---
 title:  The Nordic e-Infrastructure Collaboration (NeIC) is seeking Resource Sharing Project Manager
 summary: "NeIC is looking for a Project Manager to implement a main component of the NeIC strategy. The envisioned outcome of the resource sharing project is a set of e-infrastructure policies, common processes and associated framework that forms a Nordic platform for providing services to share resources in an effective and consistent manner."
-photo:  /assets/img/news/Resource_sharing_img.png
+photo:  /assets/images/news/Resource_sharing_img.png
 ---
 
 NeIC is seeking Resource Sharing Project Manager
@@ -9,7 +9,7 @@ NeIC is seeking Resource Sharing Project Manager
 
 **NeIC is looking for a Project Manager to implement a main component of the NeIC strategy. The envisioned outcome of the resource sharing project is a set of e-infrastructure policies, common processes and associated framework that forms a Nordic platform for providing services to share resources in an effective and consistent manner.**
 
-<a href="{{ site.baseurl }}/assets/img/news/Resource_sharing_img.png"> <img class="smallpic" src="{{ site.baseurl }}/assets/img/news/Resource_sharing_img.png"> </a>
+<a href="{{ site.baseurl }}/assets/images/news/Resource_sharing_img.png"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/Resource_sharing_img.png"> </a>
 
 In the context of NeIC’s strategy implementation plan, the resources to share can be hardware (CPU cycles, storage), software, services, or human resources. A framework for sharing hardware resources is necessary for pursuing several collaboration opportunities, including HPC, data storage and cloud initiatives. Important elements include federated authentication, authorization and accounting, as well as harmonizing procedures in compliance with national rules and regulations. Another opportunity is the sharing of application expertise for advanced user support. The project will be defined and carried out with the involvement of national providers through an open planning effort. The planning will explore and consider the possibilities, processes and steps necessary to carry out the project in a manner that is harmonized with and supportive of the national providers and programs while also supporting Nordic programs. Previous investigations into billing and accounting may also provide a useful background for the work.
 
