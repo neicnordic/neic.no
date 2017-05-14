@@ -7,10 +7,34 @@
                 <div class="green-box">
       <div class="read-more-block closename">
         <h2>WHAT IS NEIC?</h2>
-        <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
-        <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
-        <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
-        <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
+        <p>
+	  The Nordic e-Infrastructure Collaboration (NeIC) facilitates
+          development and operation of high-quality e-Infrastructure solutions in areas
+          of joint Nordic interest. NeIC is a distributed organisation consisting of
+          technical experts from academic high-performance computing centres across the
+          Nordic countries.
+        </p>
+        <p>
+	  The Nordic e-Infrastructure Collaboration (NeIC) facilitates
+          development and operation of high-quality e-Infrastructure solutions in areas
+          of joint Nordic interest. NeIC is a distributed organisation consisting of
+          technical experts from academic high-performance computing centres across the
+          Nordic countries.
+        </p>
+        <p>
+	  The Nordic e-Infrastructure Collaboration (NeIC) facilitates
+          development and operation of high-quality e-Infrastructure solutions in areas
+          of joint Nordic interest. NeIC is a distributed organisation consisting of
+          technical experts from academic high-performance computing centres across the
+          Nordic countries.
+        </p>
+        <p>
+	  The Nordic e-Infrastructure Collaboration (NeIC) facilitates
+          development and operation of high-quality e-Infrastructure solutions in areas
+          of joint Nordic interest. NeIC is a distributed organisation consisting of
+          technical experts from academic high-performance computing centres across the
+          Nordic countries.
+        </p>
       </div>
         <!-- <a href="contact.php" class="btn">read more</a> -->
 
@@ -36,11 +60,34 @@
       <div class="row">
         <h2>OUR HISTORY</h2>
       <div class="read-more-block readless">
-        <p>In 2002 the Joint Committee of the Nordic Natural Science Research Councils (NOS-N) supported a pilot project with the aim of establishing an inter-Nordic data grid test facility (NDGF). The purpose of the NDGF was to distribute computing infrastructure. After a two-year pilot period, the NDGF was given the mandate to propose a Nordic grid infrastructure and an organisation to manage and develop the grid for scientific computing in the Nordic countries. The NDGF was hosted by NORDUnet A/S.</p>
-        <p>The NDGF pilot has since matured into the successful deployment of the first and only distributed Tier-1 service within the WLCG collaboration, and has served as a role model for regional collaboration.</p>
-        <p>In 2002 the Joint Committee of the Nordic Natural Science Research Councils (NOS-N) supported a pilot project with the aim of establishing an inter-Nordic data grid test facility (NDGF). The purpose of the NDGF was to distribute computing infrastructure. After a two-year pilot period, the NDGF was given the mandate to propose a Nordic grid infrastructure and an organisation to manage and develop the grid for scientific computing in the Nordic countries. The NDGF was hosted by NORDUnet A/S.</p>
-        <p>The NDGF pilot has since matured into the successful deployment of the first and only distributed Tier-1 service within the WLCG collaboration, and has served as a role model for regional collaboration.</p>
-        <!-- <a href="#" class="btn">READ MORE &raquo;</a> -->
+	<p>
+	  In 2002 the Joint Committee of the Nordic Natural Science Research
+          Councils (NOS-N) supported a pilot project with the aim of establishing an
+          inter-Nordic data grid test facility (NDGF). The purpose of the NDGF was to
+          distribute computing infrastructure. After a two-year pilot period, the NDGF
+          was given the mandate to propose a Nordic grid infrastructure and an
+          organisation to manage and develop the grid for scientific computing in the
+          Nordic countries. The NDGF was hosted by NORDUnet A/S.
+       </p>
+       <p>
+	 The NDGF pilot has since matured into the successful deployment of the
+         first and only distributed Tier-1 service within the WLCG collaboration, and
+         has served as a role model for regional collaboration.
+       <p>
+	<p>
+	  In 2002 the Joint Committee of the Nordic Natural Science Research
+          Councils (NOS-N) supported a pilot project with the aim of establishing an
+          inter-Nordic data grid test facility (NDGF). The purpose of the NDGF was to
+          distribute computing infrastructure. After a two-year pilot period, the NDGF
+          was given the mandate to propose a Nordic grid infrastructure and an
+          organisation to manage and develop the grid for scientific computing in the
+          Nordic countries. The NDGF was hosted by NORDUnet A/S.
+       </p>
+       <p>
+	 The NDGF pilot has since matured into the successful deployment of the
+         first and only distributed Tier-1 service within the WLCG collaboration, and
+         has served as a role model for regional collaboration.
+       <p>
       </div>
       </div>
       </div>
