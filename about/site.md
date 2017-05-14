@@ -14,5 +14,5 @@ Most NeIC information is published on the [NeIC wiki](http://wiki.neic.no). If
 you cannot find what you are looking for in either of these sites, please
 [contact us](http://wiki.neic.no/wiki/Contact).
 
-This site uses [GitHub pages](https://pages.github.com/). You can view the
-sources and submit issues at the [NeIC GitHub account: neicnordic](https://github.com/neicnordic/).
+You can contribute changes to this site or file issues at
+[https://github.com/neicnordic/neic.no](https://github.com/neicnordic/neic.no).
