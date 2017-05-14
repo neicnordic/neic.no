@@ -3,11 +3,11 @@
   <section class="single-pagebanner" style="background-image: url(images/pub-banner.png);">
   </section>
   <section class="publications">
-  	<div class="container">
+        <div class="container">
     <div class="row">
-  		<div class="col-md-8">
+                <div class="col-md-8">
         <div class="content">
-  			 <h2>Publications</h2>
+                         <h2>Publications</h2>
          <div class="publications-list-block">
            <div class="single-publications-list">
              <div class="publications-details">
@@ -49,7 +49,7 @@
                <a href="#" class="btn">GO TO ARTICLE &raquo;</a>
              </div>
            </div>
-           
+
 
 
 
@@ -59,7 +59,7 @@
       <div class="col-md-offset-1 col-md-3">
         <img src="images/right-side.png" class="sidebar image" alt="sidebar image">
       </div>
-  	</div>
+        </div>
   </div>
   </section>
 </div>

@@ -3,9 +3,9 @@
   <section class="single-pagebanner" style="background-image: url(images/about-banner.png);">
   </section>
   <section class="green-box-block-about">
-  	<div class="container">
-  		<div class="green-box">
-      <div class="read-more-block closename">  
+        <div class="container">
+                <div class="green-box">
+      <div class="read-more-block closename">
         <h2>WHAT IS NEIC?</h2>
         <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
         <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
@@ -13,9 +13,9 @@
         <p>The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest. NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.</p>
       </div>
         <!-- <a href="contact.php" class="btn">read more</a> -->
-        
+
       </div>
-  	</div>
+        </div>
   </section>
   <section class="mission" style="background-image: url(images/our-vision-bg.png);">
   <div class="container">
@@ -44,7 +44,7 @@
       </div>
       </div>
       </div>
-        
+
     </div>
   </section>
   <section class="blue-box">
@@ -115,7 +115,7 @@
   <div class="col-md-12">
   <div class="row">
       <div class="left-pub" style="background-image: url(images/publications.png);"></div>
-      
+
      <div class="right-pub">
         <h2>Publications</h2>
         <ul class="pub-list">
@@ -131,19 +131,19 @@
           <p class="description">The results of a cost-efficiency study for the current configuration, and of other possible configurations, of the Nordic WLCG Tier-1 (NDGF-T1), as well as some guidelines to improve its computing operations.</p>
           <a class="read-more" href="#">GO TO ARTICLE &raquo;</a>
           </li>
-          
-          
+
+
         </ul>
         <div class="btn-block">
           <a href="#" class="btn with-border white-hover-btn">SEE ALL</a>
           <a href="#" class="btn with-border white-hover-btn">GO TO WIKI</a>
         </div>
      </div>
-    
-      
+
+
       </div>
-    
-    
+
+
   </div>
   </div>
 

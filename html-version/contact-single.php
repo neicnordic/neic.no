@@ -1,5 +1,5 @@
 <?php include "header.php"; ?>
-<div class="body">   
+<div class="body">
   <section class="contact">
     <div id="map"></div>
     <script>
@@ -40,7 +40,7 @@
         </div>
       </div>
     </div>
-  	<div class="container">
+        <div class="container">
     <div class="contact-details-block">
       <h2>NEIC TEAM AND CONTACT</h2>
       <p>We are a distributed organisation consisting of administration and technical experts working at NordForsk, university IT-centres, and national e-infrastructure centers in the Nordics.university IT-centres, and national e-infrastructure centers in the Nordics.</p>
@@ -98,10 +98,10 @@
           <p class="no-space"><span class="color">Management, Project owner</span></p>
         </div>
       </div>
-      
+
     </div>
-  		
-  	</div>
+
+        </div>
   </section>
 </div>
 <?php include "footer.php"; ?>

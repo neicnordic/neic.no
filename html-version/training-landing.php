@@ -3,11 +3,11 @@
   <section class="single-pagebanner" style="background-image: url(images/upcom-banner.png);">
   </section>
   <section class="publications">
-  	<div class="container">
+        <div class="container">
     <div class="row">
-  		<div class="col-md-8">
+                <div class="col-md-8">
         <div class="content">
-  			 <h2>UPCOMING TRAINING EVENTS</h2>
+                         <h2>UPCOMING TRAINING EVENTS</h2>
          <div class="publications-list-block">
            <div class="single-publications-list">
              <div class="publications-details">
@@ -49,8 +49,8 @@
                <a href="#" class="btn">GO TO Event &raquo;</a>
              </div>
            </div>
-           
-           
+
+
 
 
 
@@ -58,7 +58,7 @@
       </div>
       </div>
       <div class="col-md-offset-1 col-md-3">
-        
+
       </div>
       <!-- <div class="col-md-12">
           <div class="pre-next-blk">
@@ -67,7 +67,7 @@
             <div class="clearfix"></div>
           </div>
       </div> -->
-  	</div>
+        </div>
   </div>
   </section>
 </div>

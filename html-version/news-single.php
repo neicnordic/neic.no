@@ -1,11 +1,11 @@
 <?php include "header.php"; ?>
 <div class="body">
   <section class="wys-editer news-single-page">
-  	<div class="container">
+        <div class="container">
     <div class="row">
-  		<div class="col-md-8">
+                <div class="col-md-8">
         <div class="content">
-  			 <h2>BETTER SOFTWARE LEADS TO BETTER SCIENCE</h2>
+                         <h2>BETTER SOFTWARE LEADS TO BETTER SCIENCE</h2>
          <p class="date">15 MARCH 2017</p>
          <hr>
          <div class="image-full-with"><img src="images/science.png" alt="news" /></div>
@@ -49,11 +49,11 @@
         <li>The CodeRefinery website: http://coderefinery.org</li>
         <li>Twitter: @coderefine</li>
         </ul>
-			 </div>
-  		</div>
-  		<div class="col-md-4">
-  			<div class="side-bar">
-          <h2>LATEST NEWS</h2>  
+                         </div>
+                </div>
+                <div class="col-md-4">
+                        <div class="side-bar">
+          <h2>LATEST NEWS</h2>
             <ul class="l-news">
               <li><p class="l-news-title"><a href="#">THE SMARTEST STORAGE FOR THE WORLD’S LARGEST DATA VOLUMES</a></p>
               <p class="l-news-date">7 APR 2017</p></li>
@@ -67,10 +67,10 @@
               <p class="l-news-date">13 DEC 2016</p></li>
               <li><p class="l-news-title"><a href="#">GENETICS AND ENVIRONMENT ACROSS BORDERS</a></p>
               <p class="l-news-date">13 DEC 2016</p></li>
-            </ul> 
+            </ul>
         </div>
-  		</div>
-  	</div>
+                </div>
+        </div>
     </div>
   </section>
 </div>

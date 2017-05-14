@@ -1,11 +1,11 @@
 <?php include "header.php"; ?>
 <div class="body">
   <section class="latest-page">
-  	<div class="container">
+        <div class="container">
     <div class="row">
-  		<div class="col-md-12">
+                <div class="col-md-12">
         <div class="content">
-  			 <h2>LATEST NEWS</h2>
+                         <h2>LATEST NEWS</h2>
          <div class="news-list-block">
            <div class="single-news-list">
              <div class="img-block">
@@ -78,7 +78,7 @@
 
          </div>
       </div>
-  	</div>
+        </div>
     </div>
   </section>
 </div>

@@ -3,12 +3,12 @@
   <section class="single-pagebanner" style="background-image: url(images/sin-act-banner.png);">
   </section>
   <section class="wys-editer single-activities">
-  	<div class="container">
+        <div class="container">
     <h1>TRYGGVE</h1>
     <div class="row">
-  		<div class="col-md-7">
+                <div class="col-md-7">
         <div class="content">
-  			   <div class="project-box">
+                           <div class="project-box">
             <h2>PROJECT</h2>
               <p class="top"><b>PHASE:</b> Execution</p>
               <p class="no-space"><b>PERIOD:</b> 2014-10-21 — 2017-10-21</p>
@@ -33,7 +33,7 @@
             <p class="date">2017-05-30</p>
             <p class="top">Workshop on use of sensitive data in research, including secure IT services and highlights of the outcomes of the Nordic Tryggve project, ethical and legal issues regarding the use of sensitive data, as well as researchers’ presentations on how the research data is currently being managed in the research community.</p>
             <a href="#" class="btn-go">GO TO ARTICLE &raquo;</a>
-            
+
             <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
               <div class="panel panel-default">
                 <div role="tab" id="title1">
@@ -57,11 +57,11 @@
 
             </div>
             </div>
- 			  </div>
-  		</div>
-  		<div class="col-md-offset-1 col-md-4">
-  			<div class="toggle-bar">
-          <h2>PEOPLE</h2> 
+                          </div>
+                </div>
+                <div class="col-md-offset-1 col-md-4">
+                        <div class="toggle-bar">
+          <h2>PEOPLE</h2>
           <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
               <div role="tab" id="sidebar-One">
@@ -95,7 +95,7 @@
                   <a class="box collapsed" role="button" data-toggle="collapse" data-parent="#sidebar-accordion" href="#collapse-sidebar-Two" aria-expanded="false" aria-controls="collapse-sidebar-Two">
                     REFERENCE GROUP
                   </a>
-                
+
               </div>
               <div id="collapse-sidebar-Two" class="panel-collapse collapse" role="tabpanel" aria-labelledby="sidebar-Two">
                 <div class="panel-body">
@@ -172,10 +172,10 @@
                 </div>
               </div>
             </div>
-          </div> 
-            
+          </div>
+
         </div>
-  		</div>
+                </div>
       <div class="mob-box col-md-12">
         <h2>OUTREACH</h2>
            <h4>NEIC 2017 SENSITIVE DATA WORKSHOP</h4>
@@ -208,7 +208,7 @@
 
 
 
-  	</div>
+        </div>
     </div>
   </section>
 </div>
