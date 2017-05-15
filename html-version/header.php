@@ -7,10 +7,10 @@
     <title>NEIC</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <link href="css/neic-styles.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-3.3.7.min.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-3.3.7.min.js"></script>
     <script src="js/readmore.js"></script>
   </head>
   <body>

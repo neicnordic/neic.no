@@ -7,7 +7,7 @@
     <title>NEIC</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <link href="css/neic-styles.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-3.3.7.min.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
   </head>
   <body>
