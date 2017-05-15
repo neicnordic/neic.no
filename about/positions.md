@@ -1,8 +1,4 @@
 ---
 layout: master
-include: generic
+include: open-positions
 ---
-
-## Open positions
-
-There are currently no open positions at NeIC
