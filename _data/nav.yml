@@ -15,10 +15,6 @@ main:
     links:
       - url: '/people/'
         text: 'Everybody'
-      - url: '/staff/'
-        text: 'Staff'
-      - url: '/alumni'
-        text: 'Alumni'
   - url: '/api/'
     text: 'API'
   - section: 'About'
