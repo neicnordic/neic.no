@@ -43,11 +43,11 @@ var GCal = {
 
   calendars: {
     "neic-events": {
-      id:"sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com",
+      id: "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com",
       key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
     },
     "neic-training": {
-      id:"ouebfn9g5muu6l7vjd9hhf0lp4%40group.calendar.google.com",
+      id: "ouebfn9g5muu6l7vjd9hhf0lp4%40group.calendar.google.com",
       key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
     },
   },

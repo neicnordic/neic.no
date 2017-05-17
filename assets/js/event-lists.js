@@ -1,26 +1,8 @@
-if(document.getElementById("frontpage-events-summary")) {
 
-  var frontpageEventsSummaryVue = new Vue({
-    el: '#frontpage-events-summary',
-    data: {
-      events: [],
-    },
-    delimiters: ["{[", "]}"],
-    mounted: function () {
-      var myVue = this;
-      $.getJSON(GCal.apiURL(), response => {
-        myVue.events = GCal.getMatchingEvents(response);
-        Vue.nextTick(function(){ anchors.add() });
-      });
-    }
-  });
+if(document.getElementById("calendar-events-list")) {
 
-}
-
-if(document.getElementById("upcoming-events-list")) {
-
-  var upcomingEventsVue = new Vue({
-    el: '#upcoming-events-list',
+  var calendarEventsVue = new Vue({
+    el: '#calendar-events-list',
     data: {
       events: [],
       highlights: [],
@@ -28,41 +10,27 @@ if(document.getElementById("upcoming-events-list")) {
     delimiters: ["{[", "]}"],
     mounted: function () {
       var myVue = this;
-      $.getJSON(GCal.apiURL(), response => {
-        myVue.events = GCal.getMatchingEvents(response, []);
+      var calendarName = '';
+      var hashtags = [];
+      var past = false;
+      if (this.$el.dataset) {
+        calendarName = this.$el.dataset.calendarName;
+        past = this.$el.dataset.past;
+        if (this.$el.dataset.hashtags) {
+          hashtags = this.$el.dataset.hashtags.replace(/\s/g,'').toLowerCase().split(",");
+        }
+      }
+      $.getJSON(GCal.apiURL(past, calendarName), response => {
+        myVue.events = GCal.getMatchingEvents(response, hashtags);
+        if (past){
+          myVue.events.reverse()
+        }
         myVue.highlights = []
         for (var i in myVue.events) {
           if (myVue.events[i].hashtags.indexOf("highlight") != -1) {
             myVue.highlights.push(myVue.events[i])
           }
         }
-        Vue.nextTick(function(){ anchors.add() });
-      });
-    }
-  });
-
-}
-
-if(document.getElementById("past-events-list")) {
-
-  var pastEventsVue = new Vue({
-    el: '#past-events-list',
-    data: {
-      events: [],
-      highlights: [],
-    },
-    delimiters: ["{[", "]}"],
-    mounted: function () {
-      var myVue = this;
-      $.getJSON(GCal.apiURL(true), response => {
-        myVue.events = GCal.getMatchingEvents(response, []).reverse();
-        myVue.highlights = []
-        for (var i in myVue.events) {
-          if (myVue.events[i].hashtags.indexOf("highlight") != -1) {
-            myVue.highlights.push(myVue.events[i])
-          }
-        }
-        console.log(myVue.highlights);
         Vue.nextTick(function(){ anchors.add() });
       });
     }
