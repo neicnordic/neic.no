@@ -3,40 +3,38 @@ title: Current events
 permalink: /events/
 ---
 
-<script src="{{ site.baseurl }}/assets/js/gcal-events.js"></script>
-
 <h1> Current events </h1>
 
-<p> This page contains upcoming events from the NeIC <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar</a>, which includes both NeIC events and stakeholder events where NeIC either has a presence or simply wants to advertize. You may also want to look for <a href="past/">past events</a>.
+<p>
+  This page contains upcoming events from the NeIC <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar</a>, which includes both NeIC events and stakeholder events where NeIC either has a presence or simply wants to advertize. You may also want to look for <a href="past/">past events</a>.
+</p>
 
-<h3> Highlights </h3>
+<span id="upcoming-events-list">
+  <h3> Highlights </h3>
 
-<span class="event-list">
-<script>
-function foo(widget) {
-  var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
-  var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
-  document.addEventListener("DOMContentLoaded", function(event) {
-    renderEvents(widget, calendarid, key, false, "highlight", "");
-  });
-}
-foo(document.scripts[document.scripts.length - 1].parentNode);
-</script>
-</span>
+  <div v-for="event in highlights">
+    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+    <p class="date">
+      <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+      <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+    </p>
+    <p class="top" v-html="event.blurb"></p>
+    <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+    <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
+  </div>
 
-<h2> All current events </h2>
+  <h2> All current events </h2>
+  <div v-for="event in events">
+    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+    <p class="date">
+      <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+      <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+    </p>
+    <p class="top" v-html="event.blurb"></p>
+    <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+    <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
+  </div>
 
-<span class="event-list">
-<script>
-function foo(widget) {
-  var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
-  var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
-  document.addEventListener("DOMContentLoaded", function(event) {
-    renderEvents(widget, calendarid, key, false, "", "");
-  });
-}
-foo(document.scripts[document.scripts.length - 1].parentNode);
-</script>
 </span>
 
 These lists are generated with javascript in your browser, so if you cannot see any events please check your settings.
