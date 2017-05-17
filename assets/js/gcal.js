@@ -13,29 +13,18 @@
 
 var GCal = {
 
-  apiURL(calendarId, key, timeMin, timeMax) {
-    var url = "https://www.googleapis.com/calendar/v3/calendars/" + calendarId
-      + "/events?key=" + key
-      + "&orderBy=startTime&singleEvents=true"
+  /*
+    Return the api url to get (optionally past) events from a calendar of choice.
 
-    if (timeMax) {
-      url = url + "&timeMax=" + timeMax.toISOString(); //new Date().toISOString();
-    }
-    if (timeMin) {
-      url = url + "&timeMin=" + timeMin.toISOString();
-    }
-
-    return url
-  },
-
-  getMatchingEvents(response, hashtags) {
-    var matchingEvents = [];
-    for (var i in response.items) {
-      if (this.hasHashtags(response.items[i], hashtags)) {
-        matchingEvents.push(this.eventInfo(response.items[i]));
-      }
-    }
-    return matchingEvents
+    See this.calendars for accepted calendar names.
+  */
+  apiURL(past = false, calendarName = "neic-events") {
+    return this.formatApiURL(
+      this.calendars[calendarName].id,
+      this.calendars[calendarName].key,
+      past ? null : new Date(),
+      past ? new Date() : null
+    )
   },
 
   eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs, urlRepl = '<a href="$1">$1</a>') {
@@ -48,6 +37,17 @@ var GCal = {
       blurb: this.blurb(eventDescriptionHTML),
       details: this.details(eventDescriptionHTML)
     }
+  },
+
+  calendars: {
+    "neic-events": {
+      id:"sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com",
+      key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
+    },
+    "neic-training": {
+      id:"ouebfn9g5muu6l7vjd9hhf0lp4%40group.calendar.google.com",
+      key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
+    },
   },
 
   defaultLinkPrefs: [
@@ -108,7 +108,6 @@ var GCal = {
     Website: http://www.neic.no/activities/tryggve
   */
   url(event, linkPrefs = this.defaultLinkPrefs) {
-    console.log(linkPrefs);
     for (var j in linkPrefs) {
       var pref = linkPrefs[j];
       if (pref == "googlecalendar") {
@@ -176,6 +175,30 @@ var GCal = {
     return date
   },
 
+  formatApiURL(calendarId, key, timeMin, timeMax) {
+    var url = "https://www.googleapis.com/calendar/v3/calendars/" + calendarId
+      + "/events?key=" + (key || this.defaultAuthKey)
+      + "&orderBy=startTime&singleEvents=true"
+
+    if (timeMax) {
+      url = url + "&timeMax=" + timeMax.toISOString(); //new Date().toISOString();
+    }
+    if (timeMin) {
+      url = url + "&timeMin=" + timeMin.toISOString();
+    }
+
+    return url
+  },
+
+  getMatchingEvents(response, hashtags) {
+    var matchingEvents = [];
+    for (var i in response.items) {
+      if (this.hasHashtags(response.items[i], hashtags)) {
+        matchingEvents.push(this.eventInfo(response.items[i]));
+      }
+    }
+    return matchingEvents
+  },
 
 
 }
