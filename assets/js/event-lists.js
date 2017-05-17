@@ -1,3 +1,22 @@
+if(document.getElementById("frontpage-events-summary")) {
+
+  var frontpageEventsSummaryVue = new Vue({
+    el: '#frontpage-events-summary',
+    data: {
+      events: [],
+    },
+    delimiters: ["{[", "]}"],
+    mounted: function () {
+      var myVue = this;
+      $.getJSON(GCal.apiURL(), response => {
+        myVue.events = GCal.getMatchingEvents(response);
+        Vue.nextTick(function(){ anchors.add() });
+      });
+    }
+  });
+
+}
+
 if(document.getElementById("activity-outreach")) {
 
   var activityOutreachVue = new Vue({

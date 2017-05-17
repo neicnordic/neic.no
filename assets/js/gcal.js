@@ -31,6 +31,7 @@ var GCal = {
     var eventDescriptionHTML = this.linkify(event.description, urlRepl);
     return {
       title: this.title(event),
+      hashtags: this.hashtags(event),
       dates: this.dates(event),
       url: this.url(event, linkPrefs),
       calendarUrl: this.googleCalendarEventURL(event),
