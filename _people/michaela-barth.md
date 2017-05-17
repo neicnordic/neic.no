@@ -17,6 +17,7 @@ groups:
     role: Coordination
   nt1-po:
     role: Activity owner
+  project-analysis-rg:
 ---
 
 Michaela Barth is employed at the
