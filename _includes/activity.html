@@ -6,13 +6,13 @@
 </section>
 
 <section class="wys-editer single-activities">
-      <div class="container">
-  <h1>{{ page.name }}</h1>
-  <div class="row">
-              <div class="col-md-7">
-      <div class="content">
-                         <div class="project-box">
-          <h2>{{ page.type }}</h2>
+  <div class="container">
+    <h1>{{ page.name }}</h1>
+    <div class="row">
+      <div class="col-md-7">
+        <div class="content">
+          <div class="project-box">
+            <h2>{{ page.type }}</h2>
             <p class="top">
               {% if page.phase %}
                 <b>PHASE:</b> {{ page.phase }}
@@ -61,107 +61,111 @@
                 {% endfor %}
               </ul>
             {% endif %}
-         </div>
+          </div>
 
-         {{ content }}
+          {{ content }}
 
-         <div class="desktop-box" id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
-         <h2>OUTREACH</h2>
-           <div v-for="event in upcoming">
-             <h4><a :href="event.url">{[ event.title.toUpperCase() ]}</a></h4>
-             <p class="date">{[ event.dates.start ]}{[ event.dates.end ? '&ndash; ' + event.dates.end : ""]}</p>
-             <p class="top">{[ event.blurb ]}</p>
-             <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
-           </div>
-          <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
-            <div class="panel panel-default">
-              <div role="tab" id="title1">
-                  <a class="btn collapsed" role="button" data-toggle="collapse" data-parent="#editer-accordion" href="#editer-h1" aria-expanded="true" aria-controls="editer-h1">
-                    PAST
-                  </a>
+          {% if page.outreach-tags %}
+            <div class="desktop-box" id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
+              <h2>OUTREACH</h2>
+              <div v-for="event in upcoming">
+                <h4><a :href="event.url">{[ event.title.toUpperCase() ]}</a></h4>
+                <p class="date">
+                  {[ event.dates.start ]}{[ event.dates.end ? ' &ndash; ' + event.dates.end : ""]}
+                  <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+                </p>
+                <p class="top">{[ event.blurb ]}</p>
+                <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
               </div>
-              <div id="editer-h1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="title1">
-                <div class="panel-body">
-                  <div class="single-publications-list">
-                     <div class="publications-details" v-for="event in past">
-                       <h4><a :href="event.url">{[ event.title.toUpperCase() ]}</a></h4>
-                       <h6>{[ event.dates.start ]}{[ event.dates.end ? '&ndash; ' + event.dates.end : ""]}</h6>
-                       <p>{[ event.blurb ]}</p>
-                       <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
-                     </div>
-                   </div>
+              <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                  <div role="tab" id="title1">
+                    <a class="btn collapsed" role="button" data-toggle="collapse" data-parent="#editer-accordion" href="#editer-h1" aria-expanded="true" aria-controls="editer-h1">
+                      PAST
+                    </a>
+                  </div>
+                  <div id="editer-h1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="title1">
+                    <div class="panel-body">
+                      <div class="single-publications-list">
+                        <div class="publications-details" v-for="event in past">
+                          <h4><a :href="event.url">{[ event.title.toUpperCase() ]}</a></h4>
+                          <h6>
+                            {[ event.dates.start ]}{[ event.dates.end ? ' &ndash; ' + event.dates.end : ""]}
+                            <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+                          </h6>
+                          <p>{[ event.blurb ]}</p>
+                          <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-
-          </div>
-          </div>
-                        </div>
-              </div>
-              <div class="col-md-offset-1 col-md-4">
-                      <div class="toggle-bar">
-
-
-
-        <h2>PEOPLE</h2>
-        <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
-
-        {% for group in page.groups %}
-          {% if forloop.index == 1 %}
-            {% assign group_collapsed = '' %}
-            {% assign group_expanded = 'true' %}
-            {% assign group_in = 'in' %}
-          {% else %}
-            {% assign group_collapsed = 'collapsed' %}
-            {% assign group_expanded = 'false' %}
-            {% assign group_in = '' %}
           {% endif %}
-          <div class="panel panel-default">
-            <div role="tab" id="sidebar-One">
+        </div>
+      </div>
+
+      <div class="col-md-offset-1 col-md-4">
+        <div class="toggle-bar">
+          <h2>PEOPLE</h2>
+          <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
+
+          {% for group in page.groups %}
+            {% if forloop.index == 1 %}
+              {% assign group_collapsed = '' %}
+              {% assign group_expanded = 'true' %}
+              {% assign group_in = 'in' %}
+            {% else %}
+              {% assign group_collapsed = 'collapsed' %}
+              {% assign group_expanded = 'false' %}
+              {% assign group_in = '' %}
+            {% endif %}
+            <div class="panel panel-default">
+              <div role="tab" id="sidebar-One">
                 <a class="box {{ group_collapsed }}"
-                   role="button"
-                   data-toggle="collapse"
-                   data-parent="#sidebar-accordion"
-                   href="#collapse-sidebar-{{ forloop.index }}"
-                   aria-expanded="{{ group_expanded }}"
-                   aria-controls="collapse-sidebar-{{ forloop.index }}">
+                  role="button"
+                  data-toggle="collapse"
+                  data-parent="#sidebar-accordion"
+                  href="#collapse-sidebar-{{ forloop.index }}"
+                  aria-expanded="{{ group_expanded }}"
+                  aria-controls="collapse-sidebar-{{ forloop.index }}">
                   {{ group[1].name }}
                 </a>
-            </div>
-            <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
-              <div class="panel-body">
-                {% if group[1].description %}
-                  <p>{{ group[1].description }}</p><br><br>
-                {% endif %}
-                {% if group[1].minutes %}
-                  <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
-                {% endif %}
-                {% assign person_on_top = true %}
-                {% for person in site.people %}
-                  {% for person_group in person.groups %}
-                    {% if person_group[0] == group[0] %}
-                      {% unless person_group[1].finished %}
-                        {% if person_on_top %}
-                          <p class="top">
-                        {% else %}
-                          <p>
-                        {% endif %}
-                          <a href="{{ site.baseurl }}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
-                        </p>
-                        {% assign person_on_top = false %}
-                      {% endunless %}
-                    {% endif %}
+              </div>
+              <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
+                <div class="panel-body">
+                  {% if group[1].description %}
+                    <p>{{ group[1].description }}</p><br><br>
+                  {% endif %}
+                  {% if group[1].minutes %}
+                    <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
+                  {% endif %}
+                  {% assign person_on_top = true %}
+                  {% for person in site.people %}
+                    {% for person_group in person.groups %}
+                      {% if person_group[0] == group[0] %}
+                        {% unless person_group[1].finished %}
+                          {% if person_on_top %}
+                            <p class="top">
+                          {% else %}
+                            <p>
+                          {% endif %}
+                            <a href="{{ site.baseurl }}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                          </p>
+                          {% assign person_on_top = false %}
+                        {% endunless %}
+                      {% endif %}
+                    {% endfor %}
                   {% endfor %}
-                {% endfor %}
+                </div>
               </div>
             </div>
-          </div>
           {% endfor %}
-
+          </div>
+        </div>
       </div>
-              </div>
-
-      </div>
+    </div>
   </div>
 </section>
 

@@ -35,7 +35,7 @@ groups:
     name: Reference
     description:
     frequency:
-    minutes: 
+    minutes:
   project-analysis-sg:
     name: Governance
     description:
@@ -57,24 +57,12 @@ assurance and continuous improvement of NeIC as an organization.
 * Do it as a matter of course. Do not wait until there is a problem.
 * Questionnaires and interviews with activity leads and owners.
 * Open invitation for spontaneous feedback from anyone involved in activities.
-* Document proposed actions to be followed up at later date.
-
-Compressed time frame:
-
-* PPS recommends to have "2 or more experience project leads" doing project review.
-* Workaround: Develop materials in collaboration with a few pilots, get feedback
-  from PPS training, then the rest.
 
 ### Roadmap
 2017-03-20  Start work on producing materials.  
 2017-04-19--20  PPS Training, Program and portfolio steering.  
-2017-04-24  Materials sent out to PMs and POs.  
-2017-05-02  Interviews with PMs and POs.  
-2017-05-12  Interviews concluded.  
 2017-05-29  New website launched.  
-2017-05-29  NeIC 2017 opens.  
 2017-05-30  Info review; Internal document deadline for NeIC board.  
-2017-06-01  NeIC 2017 closes.  
 2017-06-15  NeIC board meeting.  
 2017-06-22  Report delivered to XT.  
 2017-09-05  Deadline for implementation of proposed actions.  

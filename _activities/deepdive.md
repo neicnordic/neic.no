@@ -1,7 +1,7 @@
 ---
 layout: master
 include: activity
-name: Biodiversity
+name: DeepDive
 type: Project
 leader: thomas-roblitz
 phase: Execution
@@ -22,18 +22,20 @@ links:
     text: Internal wiki
     description: Internal working documents.
 groups:
-  bdi:
+  deepdive:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Biodiversity_team_meetings
     frequency: Monthly
-  bdi-sg:
+  deepdive-sg:
     name: Steering group
     description: Governance.
     minutes: https://wiki.neic.no/wiki/Biodiversity#Steering_Group_Meetings
     frequency: 3-4 per year
-  bdi-po:
+  deepdive-po:
     name: Project office
     description: Management.
     minutes: https://wiki.neic.no/int/Category:Biodiversity_management_meetings
     frequency: Weekly
 ---
+
+Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics.
