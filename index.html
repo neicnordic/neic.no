@@ -13,10 +13,9 @@ to structure our web information for easy maintenance in the future.
   <h3>Current events</h3>
   <p><a href="{{ site.baseurl }}/events">All current events</a></p>
   <ul id="frontpage-events-summary">
-    <li v-for="event in events">
-      <span :style="{ 'font-weight': event.hashtags.indexOf('highlight') != -1 ? 'bold' : 'normal' }">
-        <a :href="event.calendarUrl">{[ event.dates.start ]}</a>: <a :href="event.url">{[ event.title ]}</a>
-      </span>
+    <li v-for="event in events" :style="{ 'font-weight': event.hashtags.indexOf('highlight') != -1 ? 'bold' : 'normal' }">
+      <a :href="event.url" v-text="event.dates.start + ': ' + event.title"></a>
+      <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
     </li>
   </ul>
   <p><a href="{{ site.baseurl }}/events/past/"> Past events </a></p>
