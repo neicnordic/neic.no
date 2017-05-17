@@ -9,7 +9,7 @@ start: 2014-10-21
 end: 2017-10-21
 results: https://wiki.neic.no/wiki/Tryggve_Reports_and_Materials
 outreach:
-outreach-tag: tryggve
+outreach-tags: tryggve
 outcome-statements:
   - In October 2017 Tryggve will have successfully supported 5 Nordic research
     projects using transnational sensitive data.

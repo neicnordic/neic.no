@@ -67,11 +67,14 @@
 
          <div class="desktop-box">
          <h2>OUTREACH</h2>
-         <h4>NEIC 2017 SENSITIVE DATA WORKSHOP</h4>
-          <p class="date">2017-05-30</p>
-          <p class="top">Workshop on use of sensitive data in research, including secure IT services and highlights of the outcomes of the Nordic Tryggve project, ethical and legal issues regarding the use of sensitive data, as well as researchers’ presentations on how the research data is currently being managed in the research community.</p>
-          <a href="#" class="btn-go">GO TO ARTICLE &raquo;</a>
-
+         <div id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
+           <div v-for="event in events">
+             <h4>{[ event.title.toUpperCase() ]}</h4>
+             <p class="date">{[ event.dates.start ]}{[ event.dates.end ? '&ndash; ' + event.dates.end : ""]}</p>
+             <p class="top">{[ event.blurb ]}</p>
+             <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a>
+           </div>
+        </div>
           <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
               <div role="tab" id="title1">
