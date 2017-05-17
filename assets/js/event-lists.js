@@ -31,7 +31,10 @@ if(document.getElementById("calendar-events-list")) {
             myVue.highlights.push(myVue.events[i])
           }
         }
-        Vue.nextTick(function(){ anchors.add() });
+        Vue.nextTick(function(){
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          anchors.add();
+        });
       });
     }
   });
@@ -51,12 +54,18 @@ if(document.getElementById("activity-outreach")) {
       var outreachTags = this.$el.dataset.outreachTags.replace(/\s/g,'').toLowerCase().split(",");
       var myVue = this;
       $.getJSON(GCal.apiURL(), response => {
-        myVue.events = GCal.getMatchingEvents(response, outreachTags);
-        Vue.nextTick(function(){ anchors.add() });
+        myVue.upcoming = GCal.getMatchingEvents(response, outreachTags);
+        Vue.nextTick(function(){
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          anchors.add();
+        });
       });
       $.getJSON(GCal.apiURL(true), response => {
         myVue.past = GCal.getMatchingEvents(response, outreachTags).reverse();
-        Vue.nextTick(function(){ anchors.add() });
+        Vue.nextTick(function(){
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          anchors.add();
+        });
       });
     }
   });
@@ -76,7 +85,10 @@ if(document.getElementById("publications-list")) {
       var cal = GCal.calendars["neic-events"]
       $.getJSON(GCal.formatApiURL(cal.id, cal.key), response => {
         myVue.publications = GCal.getMatchingEvents(response, ["publication", "highlight"]);
-        Vue.nextTick(function(){ anchors.add() });
+        Vue.nextTick(function(){
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          anchors.add();
+        });
       });
     }
   });

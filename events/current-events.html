@@ -18,8 +18,10 @@ permalink: /events/
       <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
       <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
     </p>
-    <p class="top" v-html="event.blurb"></p>
-    <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+    <div class="read-more-block readless">
+      <p class="top" v-html="event.blurb"></p>
+      <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+    </div>
     <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
   </div>
 
@@ -30,9 +32,11 @@ permalink: /events/
       <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
       <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
     </p>
-    <p class="top" v-html="event.blurb"></p>
-    <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+    <div class="read-more-block readless">
+      <p class="top" v-html="event.blurb"></p>
+      <p class="top" v-html="event.details"></p>
     <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
+    </div>
   </div>
 
 </span>
