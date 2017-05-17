@@ -1,6 +1,6 @@
 if(document.getElementById("activity-outreach")) {
 
-  var activity_outreach = new Vue({
+  var activityOutreachVue = new Vue({
     el: '#activity-outreach',
     data: {
       upcoming: [],
@@ -16,6 +16,26 @@ if(document.getElementById("activity-outreach")) {
       });
       $.getJSON(GCal.apiURL(true), response => {
         myVue.past = GCal.getMatchingEvents(response, outreachTags).reverse();
+        Vue.nextTick(function(){ anchors.add() });
+      });
+    }
+  });
+
+}
+
+if(document.getElementById("publications-list")) {
+
+  var publicationsVue = new Vue({
+    el: '#publications-list',
+    data: {
+      publications: [],
+    },
+    delimiters: ["{[", "]}"],
+    mounted: function () {
+      var myVue = this;
+      var cal = GCal.calendars["neic-events"]
+      $.getJSON(GCal.formatApiURL(cal.id, cal.key), response => {
+        myVue.publications = GCal.getMatchingEvents(response, ["publication", "highlight"]);
         Vue.nextTick(function(){ anchors.add() });
       });
     }

@@ -1,27 +1,24 @@
 ---
 ---
 
-<script src="{{ site.baseurl }}/assets/js/gcal-events.js"></script>
-
 <h1> Publications </h1>
 
-<span class="event-list">
-<script>
-function foo(widget) {
-  var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
-  var key = "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684";
-  document.addEventListener("DOMContentLoaded", function(event) {
-    renderEvents(widget, calendarid, key, true, "publication,highlight", "");
-  });
-}
-foo(document.scripts[document.scripts.length - 1].parentNode);
-</script>
+<span class="event-list" id="publications-list">
+  <div v-for="event in publications">
+    <h4><a :href="event.url">{[ event.title.toUpperCase() ]}</a></h4>
+    <p class="date">
+      {[ event.dates.start ]}{[ event.dates.end ? ' &ndash; ' + event.dates.end : ""]}
+      <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+    </p>
+    <p class="top" v-html="event.blurb"></p>
+    <p class="top" v-html="event.details" style="border: 1px solid red;"></p>
+  </div>
 </span>
 
 <p> These lists are generated with javascript in your browser, so if you cannot
 see any events please check your settings.</p>
 
-<p> This list will only show a limited number of recent publlications (a few
+<p> This list will only show a limited number of recent publications (a few
 hundred). To see older events than this please use another means of accessing
 the calendar, as described on the
 <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar wiki page</a>.</p>
