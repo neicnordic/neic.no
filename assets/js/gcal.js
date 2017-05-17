@@ -27,7 +27,7 @@ var GCal = {
     )
   },
 
-  eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs, urlRepl = '<a href="$1">$1</a>') {
+  eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs, urlRepl = '<a href="$1">$1</a>$2') {
     var eventDescriptionHTML = this.linkify(event.description, urlRepl);
     return {
       title: this.title(event),
@@ -130,8 +130,8 @@ var GCal = {
 
     Use repl to define how links will be generated ($1 is the url).
   */
-  linkify(eventDescription, repl = '<a href="$1">$1</a>') {
-    var r = /(https?:\/\/\S+?)(?!\.([\s\n]|$))/gi;
+  linkify(eventDescription, repl = '<a href="$1">$1</a>$2') {
+    var r = /(https?:\/\/\S+?)(\.?([\s\n]|$))/gi;
     return eventDescription.replace(r, repl)
   },
 
@@ -146,7 +146,7 @@ var GCal = {
     Return remaining lines of the description (if any).
   */
   details(eventDescription) {
-    m = eventDescription.match(/(.*(\n([\s\S]+))?)/m);
+    m = eventDescription.match(/(.*(\n+([\s\S]+))?)/m);
     if (m && m[3]) {
       return m[3].replace(/\n/g, '<br/>\n')
     }
