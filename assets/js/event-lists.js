@@ -31,13 +31,7 @@ if(document.getElementById("calendar-events-list")) {
             myVue.highlights.push(myVue.events[i])
           }
         }
-        Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({
-            speed: 500,
-            collapsedHeight: 0,
-          });
-          anchors.add();
-        });
+        Vue.nextTick(function(){ addAnchorsAndDetailFolding(myVue) });
       });
     }
   });
@@ -58,17 +52,11 @@ if(document.getElementById("activity-outreach")) {
       var myVue = this;
       $.getJSON(GCal.apiURL(), response => {
         myVue.upcoming = GCal.getMatchingEvents(response, outreachTags);
-        Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
-          anchors.add();
-        });
+        Vue.nextTick(function(){ addAnchorsAndDetailFolding(myVue) });
       });
       $.getJSON(GCal.apiURL(true), response => {
         myVue.past = GCal.getMatchingEvents(response, outreachTags).reverse();
-        Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
-          anchors.add();
-        });
+        Vue.nextTick(function(){ addAnchorsAndDetailFolding(myVue) });
       });
     }
   });
@@ -88,12 +76,21 @@ if(document.getElementById("publications-list")) {
       var cal = GCal.calendars["neic-events"]
       $.getJSON(GCal.formatApiURL(cal.id, cal.key), response => {
         myVue.publications = GCal.getMatchingEvents(response, ["publication", "highlight"]);
-        Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
-          anchors.add();
-        });
+        Vue.nextTick(function(){ addAnchorsAndDetailFolding(myVue) });
       });
     }
   });
 
+}
+
+function addAnchorsAndDetailFolding(myvue){
+  var selector = "#" + myvue.$el.id + " .read-more-block";
+  $(selector).readmore({
+    speed: 500,
+    collapsedHeight: 0,
+    selector: selector,
+    moreLink: '<a href="#" class="btn" style="text-align: left;">Read More <span>&raquo;</span></a>',
+    lessLink: '<a href="#" class="btn" style="text-align: left;">Read Less <span>&laquo;</span></a>',
+  });
+  anchors.add();
 }

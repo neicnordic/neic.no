@@ -312,7 +312,7 @@
 
   $.fn.readmore = function(options) {
     var args = arguments,
-        selector = this.selector;
+        selector = options.selector;
 
     options = options || {};
 
@@ -339,4 +339,3 @@
   };
 
 }));
-
