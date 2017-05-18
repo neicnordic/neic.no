@@ -13,8 +13,6 @@ main:
     links:
       - url: '/people/'
         text: 'Everybody'
-  - url: '/api/'
-    text: 'API'
   - section: 'About'
     links:
       - url: '/about/'
@@ -31,3 +29,5 @@ main:
         text: 'Open positions'
       - url: '/about/site/'
         text: 'This site'
+  - url: '/api/'
+    text: 'API'
