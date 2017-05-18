@@ -1,6 +1,4 @@
 main:
-  - url: '/'
-    text: 'Home'
   - url: '/activities/'
     text: 'Activities'
   - section: 'Events'
