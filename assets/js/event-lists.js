@@ -32,7 +32,10 @@ if(document.getElementById("calendar-events-list")) {
           }
         }
         Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          $("#" + myVue.$el.id + " .read-more-block").readmore({
+            speed: 500,
+            collapsedHeight: 0,
+          });
           anchors.add();
         });
       });
@@ -56,14 +59,14 @@ if(document.getElementById("activity-outreach")) {
       $.getJSON(GCal.apiURL(), response => {
         myVue.upcoming = GCal.getMatchingEvents(response, outreachTags);
         Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
           anchors.add();
         });
       });
       $.getJSON(GCal.apiURL(true), response => {
         myVue.past = GCal.getMatchingEvents(response, outreachTags).reverse();
         Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
           anchors.add();
         });
       });
@@ -86,7 +89,7 @@ if(document.getElementById("publications-list")) {
       $.getJSON(GCal.formatApiURL(cal.id, cal.key), response => {
         myVue.publications = GCal.getMatchingEvents(response, ["publication", "highlight"]);
         Vue.nextTick(function(){
-          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 50});
+          $("#" + myVue.$el.id + " .read-more-block").readmore({speed: 500, collapsedHeight: 0});
           anchors.add();
         });
       });
