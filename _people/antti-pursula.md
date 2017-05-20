@@ -17,6 +17,10 @@ groups:
     role: Project leader
   tryggve-sg:
     role: Project leader, Observer
+  nicest-po:
+    role: Project owner
+  nicest-sg:
+    role: Project owner, Chair
 ---
 
 Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds
