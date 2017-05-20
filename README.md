@@ -4,7 +4,7 @@
 # Sources behind [https://neic.no](https://neic.no)
 
 
-## Serving the website locally
+## Testing your changes locally before you commit/submit your changes
 
 ```shell
 $ jekyll serve --baseurl ''
