@@ -7,7 +7,7 @@ country: "DK"
 photo:
 email:
 phone:
-on_contract: yes
+on_contract: no
 groups:
   nlpl-sg:
   nlpl:

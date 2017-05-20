@@ -7,7 +7,7 @@ country: "IS"
 photo:
 email:
 phone:
-on_contract: yes
+on_contract: no
 groups:
   deepdive-sg:
 ---
