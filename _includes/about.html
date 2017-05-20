@@ -161,19 +161,21 @@
           <h2>Publications</h2>
           <ul class="pub-list">
 
-            <li>
-              <h4 class="pub-title"><a href="#">NEIC ACHIEVEMENTS 2016</a></h4>
-              <p class="pub-details">MARCH 15 2017</p>
-              <p class="description">NeIC achievements during 2016.</p>
-              <a class="read-more" href="#">GO TO ARTICLE &raquo;</a>
-            </li>
+            <span class="event-list" id="publications-list">
+              <div v-for="(event, index) in publications">
 
-            <li>
-              <h4 class="pub-title"><a href="#">INVESTIGATING OPTIONS FOR FUTURE NORDIC WLCG TIER-1 OPERATIONS</a></h4>
-              <p class="pub-details">MARCH 15 2017</p>
-              <p class="description">The results of a cost-efficiency study for the current configuration, and of other possible configurations, of the Nordic WLCG Tier-1 (NDGF-T1), as well as some guidelines to improve its computing operations.</p>
-              <a class="read-more" href="#">GO TO ARTICLE &raquo;</a>
-            </li>
+                <!-- show only first three publications -->
+                <div v-if="index < 3">
+                  <li>
+                    <h4 class="pub-title"><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                    <p class="pub-details" v-html="event.dates.start"></p>
+                    <p class="description" v-html="event.blurb"></p>
+                    <a class="read-more" :href="event.url">GO TO ARTICLE &raquo;</a>
+                  </li>
+                </div>
+
+              </div>
+            </span>
 
           </ul>
           <div class="btn-block">
