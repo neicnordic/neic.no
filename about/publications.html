@@ -1,32 +1,52 @@
 ---
 ---
 
-<h1> Publications </h1>
+<section class="single-pagebanner" style="background-image: url({{ site.baseurl }}/assets/images/pub-banner.png);">
+</section>
 
-<span class="event-list" id="publications-list">
-  <div v-for="event in publications">
-    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
-    <p class="date" v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')">
-      <a class="anchorjs-link"
-         :href="event.calendarUrl"
-         :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
-         data-anchorjs-icon="📅"
-         style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
-    </p>
-    <p class="top" v-html="event.blurb"></p>
-    <div class="read-more-block readless">
-      <p class="top" v-html="event.details"></p>
+<section class="publications">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="content">
+          <h2> Publications </h2>
+          <div class="publications-list-block">
+
+            <span class="event-list" id="publications-list" v-cloak>
+              <div v-for="event in publications">
+
+                <div class="single-publications-list">
+                  <div class="publications-details">
+                    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                    <span class="v-cloak--hidden">
+                      <h6>{[ event.dates.start ]}</h6>
+                    </span>
+                    <p class="top" v-html="event.blurb"></p>
+                    <div class="read-more-block readless">
+                      <p class="top" v-html="event.details"></p>
+                    </div>
+                    <a :href="event.url" class="btn">GO TO ARTICLE &raquo;</a>
+                  </div>
+                </div>
+
+              </div>
+            </span>
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-offset-1 col-md-3">
+        <p>
+          This list is generated with JavaScript in your browser, so if you cannot see
+          any events please check your settings.
+        </p>
+
+        <p>
+          This list will only show a limited number of recent publications (a few
+          hundred). To see older events than this please use another means of accessing
+          the calendar, as described on the <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar wiki page</a>.
+        </p>
+      </div>
     </div>
   </div>
-</span>
-
-<p>
-  This list is generated with JavaScript in your browser, so if you cannot see
-  any events please check your settings.
-</p>
-
-<p>
-  This list will only show a limited number of recent publications (a few
-  hundred). To see older events than this please use another means of accessing
-  the calendar, as described on the <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar wiki page</a>.
-</p>
+</section>
