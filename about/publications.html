@@ -5,11 +5,11 @@
 
 <span class="event-list" id="publications-list">
   <div v-for="event in publications">
-    <h4><a href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
     <p class="date" v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')">
       <a class="anchorjs-link"
-         href="event.calendarUrl"
-         aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+         :href="event.calendarUrl"
+         :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
          data-anchorjs-icon="📅"
          style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
     </p>
