@@ -10,6 +10,8 @@
 $ jekyll serve --baseurl ''
 ```
 
+Then review your changes on [http://localhost:4000/](http://localhost:4000/).
+
 
 ## License
 
