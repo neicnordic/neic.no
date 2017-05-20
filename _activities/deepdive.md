@@ -25,7 +25,7 @@ groups:
   deepdive:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Biodiversity_team_meetings
-    frequency: Monthly
+    frequency: Bi-Weekly
   deepdive-sg:
     name: Steering group
     description: Governance.
