@@ -10,5 +10,6 @@ phone:
 on_contract: no
 groups:
   board:
+  nlpl-sg:
 ---
 Board member since 2015-01-01.

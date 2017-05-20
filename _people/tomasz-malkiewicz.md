@@ -17,5 +17,9 @@ groups:
     role: Project owner, Chair
   tryggve-po:
     role: Project owner
+  nlpl-sg:
+    role: Project owner, Chair
+  nlpl-po:
+    role: Project owner
   project-analysis-rg:
 ---
