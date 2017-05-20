@@ -27,8 +27,10 @@ groups:
     role: Chair
   neic2017-prg:
     role: Ex officio
-  bdi-sg:
+  deepdive-sg:
     role: Chair
+  deepdive-po:
+    role: Project owner
   poco-wg:
     finished: yes
     role: Training program lead
