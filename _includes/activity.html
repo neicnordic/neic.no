@@ -33,22 +33,22 @@
 
             {% unless page.results == "N/A" %}
               <p class="top">
-	        <span class="color"><b><a href="{{ page.results | default: "#results" }}">Results</a></b></span>
-	      </p>
+                <span class="color"><b><a href="{{ page.results | default: "#results" }}">Results</a></b></span>
+              </p>
             {% endunless %}
             {% unless page.outreach == "N/A" %}
               <p class="no-space">
-	        <span class="color"><b><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></b></span>
-	      </p>
+                <span class="color"><b><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></b></span>
+              </p>
             {% endunless %}
 
             {% if page.links %}
               <p class="top"><b>LINKS:</b></p>
               {% for link in page.links %}
                 <p class="no-space">
-		  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
-	          {% if link.description %} - {{ link.description }}{% endif %}
-		</p>
+                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
               {% endfor %}
             {% endif %}
 
@@ -56,9 +56,9 @@
               <p class="top"><b>DOCUMENTS</b></p>
               {% for link in page.documents %}
                 <p class="no-space">
-		  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
-	          {% if link.description %} - {{ link.description }}{% endif %}
-		</p>
+                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
               {% endfor %}
             {% endif %}
 
@@ -77,23 +77,35 @@
 
           {% if page.outreach-tags %}
             <div class="desktop-box" id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
+
               <h2>OUTREACH</h2>
               <div v-for="event in upcoming">
-                <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                <h4><a href="event.url" v-text="event.title.toUpperCase()"></a></h4>
                 <p class="date">
                   <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
-                  <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+                  <a class="anchorjs-link"
+                     href="event.calendarUrl"
+                     aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+                     data-anchorjs-icon="📅"
+                     style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;">
+                  </a>
                 </p>
                 <p class="top" v-html="event.blurb"></p>
                 <div class="read-more-block readless">
                   <p class="top" v-html="event.details"></p>
                 </div>
-                <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
               </div>
+
               <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">
                   <div role="tab" id="title1">
-                    <a class="btn collapsed" role="button" data-toggle="collapse" data-parent="#editer-accordion" href="#editer-h1" aria-expanded="true" aria-controls="editer-h1">
+                    <a class="btn collapsed"
+                       role="button"
+                       data-toggle="collapse"
+                       data-parent="#editer-accordion"
+                       href="#editer-h1"
+                       aria-expanded="true"
+                       aria-controls="editer-h1">
                       PAST
                     </a>
                   </div>
@@ -104,13 +116,17 @@
                           <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
                           <h6>
                             <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
-                            <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
+                            <a class="anchorjs-link "
+                               href="event.calendarUrl"
+                               aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+                               data-anchorjs-icon="📅"
+                               style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;">
+                            </a>
                           </h6>
                           <p v-html="event.blurb"></p>
                           <div class="read-more-block readless">
                             <p v-html="event.details"></p>
                           </div>
-                          <!-- <a :href="event.url" class="btn-go">GO TO ARTICLE &raquo;</a> -->
                         </div>
                       </div>
                     </div>
