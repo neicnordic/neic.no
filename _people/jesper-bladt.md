@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Jesper Bladt
-home: <a href="http://bios.au.dk/en/">Aarhus University, Department of Bioscience</a>
+home: <a href="http://bios.au.dk/en/">BIOS</a>
 country: "DK"
 photo:
 email:

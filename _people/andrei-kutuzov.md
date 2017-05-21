@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Andrei Kutuzov
-home: <a href="http://www.mn.uio.no/ifi/english/research/groups/ltg/index.html">University of Oslo, Language Technology Group</a>
+home: <a href="http://www.mn.uio.no/ifi/english/research/groups/ltg/index.html">UIO, LTG</a>
 country: "NO"
 photo:
 email:

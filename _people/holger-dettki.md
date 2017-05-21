@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Holger Dettki
-home: <a href="http://www.artdatabanken.se/en/">Swedish University of Agricultural Sciences, ArtDatabanken</a>
+home: <a href="http://www.artdatabanken.se/en/">SLU</a>
 country: "SE"
 photo:
 email:

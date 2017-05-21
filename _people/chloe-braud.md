@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Chloé Braud
-home: <a href="http://diku.dk/english/">University of Copenhagen, Department of Computer Science</a>
+home: <a href="http://diku.dk/english/">DIKU</a>
 country: "DK"
 photo:
 email:

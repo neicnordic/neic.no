@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Urmas Kõljalg
-home: <a href="http://www.natmuseum.ut.ee/en">University of Tartu, Natural History Museum</a>
+home: <a href="http://www.natmuseum.ut.ee/en">UT, NHM</a>
 country: "EE"
 photo:
 email:

@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Matthias Obst
-home: <a href="http://marine.gu.se/english">University of Gothenburg, Department of Marine Sciences</a>
+home: <a href="http://marine.gu.se/english">GU, DMS</a>
 country: "SE"
 photo:
 email:

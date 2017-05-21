@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Jörg Tiedemann
-home: <a href="http://www.helsinki.fi/modernlanguages/">University of Helsinki, Department of Modern Languages</a>
+home: <a href="http://www.helsinki.fi/modernlanguages/">UOH, DML</a>
 country: "FI"
 photo:
 email:

@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Miryam de Lhoneux
-home: <a href="http://www.lingfil.uu.se/">Uppsala University, Department of Linguistics and Philology</a>
+home: <a href="http://www.lingfil.uu.se/">LINGFIL</a>
 country: "SE"
 photo:
 email:

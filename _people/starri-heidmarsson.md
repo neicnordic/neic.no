@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Starri Heiðmarsson
-home: <a href="http://en.ni.is/">Icelandic Institute of Natural History</a>
+home: <a href="http://en.ni.is/">IINH</a>
 country: "IS"
 photo:
 email:
