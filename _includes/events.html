@@ -1,0 +1,64 @@
+<section class="single-pagebanner" style="background-image: url({{ site.baseurl }}/assets/images/upcom-banner.png);">
+</section>
+
+<section class="publications">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="content">
+
+          <h2>HIGHLIGHTS</h2>
+          <div class="publications-list-block">
+
+            {% include noscript.html %}
+
+	    <span id="calendar-events-list">
+
+              <div v-for="event in highlights">
+                <div class="single-publications-list">
+                  <div class="publications-details">
+                    {% include event.html %}
+                  </div>
+                </div>
+              </div>
+
+              <h2>ALL EVENTS</h2>
+              <div v-for="event in events">
+                <div class="single-publications-list">
+                  <div class="publications-details">
+                    {% include event.html %}
+                  </div>
+                </div>
+              </div>
+
+            </span>
+
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-md-offset-1 col-md-3">
+
+        <p>
+        This page contains
+        upcoming
+        events from the NeIC
+        <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar</a>,
+        which includes both NeIC events and stakeholder events which NeIC either
+        participates in or simply wants to advertize.
+
+        You may also want to look for
+        <a href="{{ site.baseurl }}/events/past/">past
+        events</a>.
+        </p>
+
+        <p>
+          This list is generated with JavaScript in your browser, so if you cannot see
+          any events please check your settings.
+        </p>
+
+      </div>
+    </div>
+  </div>
+</section>
