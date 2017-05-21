@@ -15,18 +15,7 @@
               <div v-for="event in events">
                 <div class="single-publications-list">
                   <div class="publications-details">
-
-                    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
-                    <h6 class="date">
-                      <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
-                      <a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;"></a>
-                    </h6>
-                    <p class="top" v-html="event.blurb"></p>
-                    <div class="read-more-block readless">
-                      <p class="top" v-html="event.details"></p>
-                    </div>
-                    <a :href="event.url" class="btn">GO TO EVENT &raquo;</a>
-
+                    {% include event.html %}
                   </div>
                 </div>
               </div>
