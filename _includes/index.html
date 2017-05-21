@@ -1,6 +1,6 @@
 <section class="banner">
-	<video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="{{ site.baseurl }}/assets/images/banner.png">
-		<source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
+        <video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="{{ site.baseurl }}/assets/images/banner.png">
+                <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
       </video>
       <div class="mob-video">
       <!-- Button trigger modal -->
@@ -16,8 +16,8 @@
               <button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
 
             <div class="modal-body">
-		    <video loop class="bg-video-mob" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; z-index: 0;" controls="false"  poster="{{ site.baseurl }}/assets/images/banner.png">
-		              <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
+                    <video loop class="bg-video-mob" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; z-index: 0;" controls="false"  poster="{{ site.baseurl }}/assets/images/banner.png">
+                              <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
                       </video>
 
             </div>
@@ -64,7 +64,7 @@
       <div class="col-md-12">
       <div class="row">
               <div class="event-wrap">
-		      <div class="right-event" style="background-image: url({{ site.baseurl }}/assets/images/current-event-bg.png);"></div>
+                      <div class="right-event" style="background-image: url({{ site.baseurl }}/assets/images/current-event-bg.png);"></div>
 
                       <div class="left-event">
                               <h2>CURRENT EVENTS</h2>
@@ -109,63 +109,43 @@
 </section>
 
 <section class="latest-news">
-      <div class="container">
-              <h2>LATEST NEWS</h2>
-              <div class="description-block">
-              <p>Mauris mauris nunc, condimentum eget quam sit amet, ullamcorper sodales augue. Suspendisse sodales felis quam. Quisque mauris nisl, dignissim et dolor vel.</p>
-              </div>
+  <div class="container">
+    <h2>LATEST NEWS</h2>
 
-                      <div class="left-news">
-			      <div class="mob news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-1.png);"></div>
-                              <div class="lite-white-bg">
-                              <h4><a href="#">BETTER SOFTWARE LEADS TO BETTER SCIENCE</a></h4>
-                              <p class="date">MARCH 15 2017</p>
+    {% comment %}
+    <div class="description-block">
+      <p>
+        Mauris mauris nunc, condimentum eget quam sit amet, ullamcorper sodales
+        augue. Suspendisse sodales felis quam. Quisque mauris nisl, dignissim et dolor
+        vel.
+      </p>
+    </div>
+    {% endcomment %}
 
-                              <p class="description">Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries.</p>
-                              <a href="" class="read-more">read more &raquo;</a>
-                              </div>
+    {% assign left_news = true %}
+    {% for post in site.posts %}
+      {% if forloop.index < 4 %}
+        {% if left_news %}
+          <div class="left-news">
+          {% assign left_news = false %}
+        {% else %}
+          <div class="right-news">
+          {% assign left_news = true %}
+        {% endif %}
+          <div class="desktop news-bg" style="background-image: url({{ site.baseurl }}{{ post.photo }});">
+          </div>
+          <div class="mob news-bg" style="background-image: url({{ site.baseurl }}{{ post.photo }});">
+          </div>
+          <div class="lite-white-bg">
+            <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+            <p class="date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            <p class="description">{{ post.summary }}</p>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="btn">read more &raquo;</a>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
 
-
-			      <div class="desktop news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-1.png);"></div>
-
-
-              </div>
-              <div class="right-news">
-
-
-		      <div class="desktop news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-2.png);"></div>
-		      <div class="mob news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-2.png);"></div>
-                              <div class="lite-white-bg">
-                              <h4><a href="#">NEW REPORT: ETHICAL REVIEW, DATA PROTECTION AND BIOMEDICAL RESEARCH IN THE NORDIC COUNTRIES – A LEGAL PERSPECTIVE</a></h4>
-                              <p class="date">MARCH 15 2017</p>
-
-                              <p class="description">The latest NordForsk Policy Paper gives an overview of the existing legislation in the Nordic countries regarding the collection and re-use of health-related personal data in medical research.</p>
-                              <a href="" class="read-more">read more &raquo;</a>
-                              </div>
-
-
-
-              </div>
-
-
-              <div class="left-news">
-
-		      <div class="mob news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-3.png);"></div>
-                              <div class="lite-white-bg">
-                              <h4><a href="#">THE SMARTEST STORAGE FOR THE WORLD’S LARGEST DATA VOLUMES</a></h4>
-                              <p class="date">APRIL 7 2017</p>
-
-                              <p class="description">CERN’s Large Hadron Collider is the world’s largest, between four Nordic countries.</p>
-                              <a href="" class="read-more">read more &raquo;</a>
-                              </div>
-
-			      <div class="desktop news-bg" style="background-image: url({{ site.baseurl }}/assets/images/news-blog-3.png);"></div>
-
-              </div>
-
-                      <a class="see-more-news black-hover-btn" href="#">See more News</a>
-
-
-
-      </div>
+    <a class="see-more-news black-hover-btn" href="{{ site.baseurl }}/news/">See more News</a>
+  </div>
 </section>
