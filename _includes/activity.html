@@ -78,6 +78,8 @@
           {% if page.outreach-tags %}
             <div class="desktop-box" id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
 
+              {% include noscript.html %}
+
               <h2>OUTREACH</h2>
               <div v-for="event in upcoming">
                 <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
