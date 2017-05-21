@@ -1,23 +1,20 @@
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/ico/favicon.ico">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="{{ site.baseurl }}/assets/ico/favicon.ico">
 
-    {% if page.collection %}
-      {% assign title = page.name %}
-    {% else %}
-      {% assign title = page.name | replace: '.md','' | capitalize %}
-      {% assign title = page.title | default: title %}
-    {% endif %}
-    <title>{{ title }} - NeIC web</title>
+{% if page.collection %}
+  {% assign title = page.name %}
+{% else %}
+  {% assign title = page.name | replace: '.md','' | capitalize %}
+  {% assign title = page.title | default: title %}
+{% endif %}
+<title>{{ title }} - NeIC web</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/neic-styles.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/vue-cloaking.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/bootstrap-3.3.7.min.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/responsive.css" rel="stylesheet">
-
-</head>
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/neic-styles.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/vue-cloaking.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/bootstrap-3.3.7.min.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/responsive.css" rel="stylesheet">

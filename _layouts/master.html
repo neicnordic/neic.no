@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="en">
-    {% include head.html %}
-
-    <body>
+    <head>
+        {% include head.html %}
         {% include header.html %}
-
+    </head>
+    <body>
         {% if page.include %}
             {% include {{ page.include }}.html %}
         {% endif %}
