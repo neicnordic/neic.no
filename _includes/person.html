@@ -1,18 +1,25 @@
-<div class="container mtb">
-  <div class="row">
-    <div class="col-lg-3">
-      {% if page.photo %}
-        <img src="{{ site.baseurl }}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
-      {% endif %}
-    </div>
+{% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
 
-    <div class="col-lg-9">
-      <h2>
-        {{ page.name | default:page.title }}
-      </h2>
-      <h3>
-        <div class="lowlight">
-          <div>
+<section class="contact">
+  <div class="container">
+    <div class="team">
+      <div class="team-nav-bar">
+        <div class="left-bar"><a href="{{ site.baseurl }}/people/" class="back-btn">Back to all</a></div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="contact-persion">
+        {% if page.photo %}
+          <div class="contact-photo">
+            <img src="{{ site.baseurl }}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
+          </div>
+        {% endif %}
+        <div class="contact-persion-data">
+
+          <p class="name">
+            {{ page.name | default:page.title }}
+          </p>
+
+          <p class="location">
             {{ page.home }}
             {% if page.country == 'DK' %}
               Denmark
@@ -33,61 +40,72 @@
             {% else %}
               {{ page.country }}
             {% endif %}
-          </div>
-        </div>
-      </h3>
-      <p><a href="mailto:{{ page.email }}">{{ page.email }}</a>{% if page.phone %}, <a href="tel:{{ page.phone }}">{{ page.phone }}</a>{% endif %}</p>
-      <p>{{ content }}</p>
+          </p>
 
-      {% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
+          <p class="email">
+            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+          </p>
 
-      <h3>Engagements</h3>
-      <ul>
-        {% assign previous_activity = '' %}
-        {% for person_group in page.groups %}
-          {% for activity in site.activities %}
-            {% if activity.finished %}{% continue %}{% endif %}
-            {% for activity_group in activity.groups %}
-              {% assign groupname = activity_group[0] %}
-              {% if groupname == person_group[0] %}
+          {% if page.phone %}
+            <p class="phone">
+              <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
+            </p>
+          {% endif %}
+
+          <p>
+            {{ content }}
+          </p>
+
+          <hr>
+
+          <p class="head">ENGAGEMENTS</p>
+          {% assign previous_activity = '' %}
+          {% for person_group in page.groups %}
+            {% for activity in site.activities %}
+              {% unless activity.finished %}
                 {% unless person_group[1].finished %}
-                  {% unless activity == previous_activity %}
-                    {% if previous_activity %}</ul>{% endif %}
-                    {% assign previous_activity = activity %}
-                    <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
-                  {% endunless %}
-                  <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
+                  {% for activity_group in activity.groups %}
+                    {% if activity_group[0] == person_group[0] %}
+                      {% unless activity == previous_activity %}
+                        {% assign previous_activity = activity %}
+                        <p class="top"><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></p>
+                      {% endunless %}
+                      <p class="no-space">
+                        <span class="color">
+                          {{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                        </span>
+                      </p>
+                    {% endif %}
+                  {% endfor %}
                 {% endunless %}
+              {% endunless %}
+            {% endfor %}
+          {% endfor %}
+
+          <p class="head-p">PAST ENGAGEMENTS</p>
+          {% assign previous_activity = '' %}
+          {% for person_group in page.groups %}
+            {% for activity in site.activities %}
+              {% if activity.finished or person_group[1].finished %}
+                  {% for activity_group in activity.groups %}
+                    {% if activity_group[0] == person_group[0] %}
+                      {% unless activity == previous_activity %}
+                        {% assign previous_activity = activity %}
+                        <p class="top"><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></p>
+                      {% endunless %}
+                      <p class="no-space">
+                        <span class="color">
+                          {{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                        </span>
+                      </p>
+                    {% endif %}
+                  {% endfor %}
               {% endif %}
             {% endfor %}
           {% endfor %}
-        {% endfor %}
-      </ul>
-      {% assign previous_activity = false %}
-      {% capture list_items %}
-        {% for person_group in page.groups %}
-          {% for activity in site.activities %}
-            {% for activity_group in activity.groups %}
-              {% assign groupname = activity_group[0] %}
-              {% if groupname == person_group[0] %}
-                {% if activity.finished or person_group[1].finished %}
-                  {% unless activity == previous_activity %}
-                    {% if previous_activity %}</ul>{% endif %}
-                    {% assign previous_activity = activity %}
-                    <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a><ul>
-                  {% endunless %}
-                  <li>{{ activity_group[1].name }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}</li>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        {% endfor %}
-        </ul>
-      {% endcapture %}
-      {% if previous_activity %}
-        <h4>Past engagements</h4>
-        {{ list_items }}
-      {% endif %}
+
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
