@@ -1,18 +1,32 @@
 ---
 ---
-<h1>News</h1>
+<section class="latest-page">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="content">
+          <h2>LATEST NEWS</h2>
+          <div class="news-list-block">
 
-{% include news_pagination.html %}
+            {% for post in paginator.posts %}
+              <div class="single-news-list">
+                {% if post.photo %}
+                  <div class="img-block">
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.photo }}" alt="news" /></a>
+                  </div>
+                {% endif %}
+                <div class="news-details">
+                  <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+                  <h6>{{ post.date | date: "%Y-%m-%d" }}</h6>
+                  <p>{{ post.summary }}</p>
+                  <a href="{{ site.baseurl }}{{ post.url }}" class="btn">read more &raquo;</a>
+                </div>
+              </div>
+            {% endfor %}
 
-{% for post in paginator.posts %}
-
-  <h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>
-  <p>
-    {{ post.date| date: "%Y-%m-%d" }}<br/>
-    {% if post.photo %}<img src="{{ site.baseurl }}{{ post.photo }}" style="max-width: 200px;"><br/>{% endif %}
-    {{ post.summary }}
-  </p>
-
-{% endfor %}
-
-{% include news_pagination.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
