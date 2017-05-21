@@ -26,7 +26,7 @@ defaults:
       type: "posts"
     values:
       layout: master
-      include: generic
+      include: post
       permalink: /news/:year/:month/:day/:title/
 
 collections:

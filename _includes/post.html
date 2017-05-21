@@ -1,0 +1,37 @@
+<section class="wys-editer news-single-page">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="content">
+          <h2>{{ page.title }}</h2>
+          <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
+
+          <hr>
+          <div class="image-full-with"><img src="{{ site.baseurl }}{{ page.photo }}" alt="news" /></div>
+
+          {{ content }}
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="side-bar">
+          <h2>LATEST NEWS</h2>
+          <ul class="l-news">
+            {% for post in site.posts %}
+              {% if forloop.index < 5 %}
+                <li>
+                  <p class="l-news-title">
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                  </p>
+                  <p class="l-news-date">
+                    {{ post.date | date: "%Y-%m-%d" }}
+                  </p>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
