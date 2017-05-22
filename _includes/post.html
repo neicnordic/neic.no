@@ -2,13 +2,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
+        <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
         <div class="content">
-          <h2>{{ page.title }}</h2>
-          <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
-
-          <hr>
-          <div class="image-full-with"><img src="{{ site.baseurl }}{{ page.photo }}" alt="news" /></div>
-
           {{ content }}
         </div>
       </div>
