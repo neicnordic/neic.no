@@ -28,7 +28,7 @@
             </p>
             <p class="no-space">
               <b>LEADER:</b>
-              <span class="color"><b><a href="{{ site.baseurl }}{{ leader.url }}">{{ leader.name }}</a></b></span>
+              <span class="color"><b><a href="{{ leader.url }}">{{ leader.name }}</a></b></span>
             </p>
 
             {% unless page.results == "N/A" %}
@@ -185,7 +185,7 @@
                           {% else %}
                             <p>
                           {% endif %}
-                            <a href="{{ site.baseurl }}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                            <a href="{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
                           </p>
                           {% assign person_on_top = false %}
                         {% endunless %}

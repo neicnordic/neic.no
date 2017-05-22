@@ -14,7 +14,7 @@ A new Nordic training calendar
 
 Today, NeIC is releasing a coordinated Nordic calendar to collect and disseminate information on upcoming training events that are being arranged by the NeIC or its partners, or are of interest to NeIC and NeIC stakeholders.
 
-<a href="{{ site.baseurl }}/assets/images/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a> This calendar is called NeIC training. You can view upcoming training events here: <https://neic.nordforsk.org/training/>
+<a href="/assets/images/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a> This calendar is called NeIC training. You can view upcoming training events here: <https://neic.nordforsk.org/training/>
 
 And more on accessing the calendar here: <https://wiki.neic.no/wiki/Training>
 

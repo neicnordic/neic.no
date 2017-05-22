@@ -13,7 +13,7 @@ Intensifying collaboration on the EISCAT_3D eInfrastructure
 <table>
 <tr style="line-height:0px; padding:0; margin:0;">
 <td style="padding:0; margin:0;">
-<img style="padding:0; margin:0; width:200px;" src="{{ site.baseurl }}/assets/images/news/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/>
+<img style="padding:0; margin:0; width:200px;" src="/assets/images/news/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/>
 
 </td>
 </tr>

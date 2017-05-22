@@ -9,7 +9,7 @@ The NeIC is seeking an SGAS Software Developer
 
 **Do you want to be a part of our team? The NeIC is seeking an expert who can deliver maintenance and development of the SGAS project.**
 
-<a href="{{ site.baseurl }}/assets/images/news/sgas-developer.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/sgas-developer-mini.jpeg"> </a>
+<a href="/assets/images/news/sgas-developer.jpeg"> <img class="smallpic" src="/assets/images/news/sgas-developer-mini.jpeg"> </a>
 
 The Nordic e-Infrastructure Collaboration (NeIC) is looking for a Software Developer being able to maintain and develop the SGAS accounting system. Main responsibilities will initially include release management, addressing bug reports and providing advanced technical support for current and new SGAS deployments and related development projects. Later responsibilities will be extended to keeping SGAS and its reporting tools compatible with new versions of batch systems, reporting systems and middle-wares, representing the Nordic countries in relevant standardisation groups and bodies and realization of a visualisation for the political layer.
 

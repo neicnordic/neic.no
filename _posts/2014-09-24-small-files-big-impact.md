@@ -9,7 +9,7 @@ Small files – Big impact: B2Share Nordic
 
 **The need for storing scientific data grows rapidly along with the technological development. The need to store in the easiest and most accessible way grows too. B2Share is an answer to this need.**
 
-<a href="{{ site.baseurl }}/assets/images/news/francesca-street.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/francesca-street-mini.jpeg"> </a>
+<a href="/assets/images/news/francesca-street.jpeg"> <img class="smallpic" src="/assets/images/news/francesca-street-mini.jpeg"> </a>
 
 On the 24-25 September 2014 the European Data Infrastructure – [EUDAT](http://www.eudat.eu/) – hosts their 3rd conference in Amsterdam addressing how to develop data infrastructure from a user perspective. The project B2Share is part of this. The project is large and has national coordinators. To take care of the Nordic needs, NeIC is running a project called B2Share Nordic. The purpose is to coordinate specific needs from the Nordic researchers, and adapt the database to these. Until 31st October 2014 you can make your needs known. Please don’t hesitate to contact the Nordic project manager Dan Still at NeIC.
 

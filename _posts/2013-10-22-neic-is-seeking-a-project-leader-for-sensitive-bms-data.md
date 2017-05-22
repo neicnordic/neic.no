@@ -9,7 +9,7 @@ NeIC is seeking a project leader for sensitive BMS data
 
 **Do you want to be a part of our team? NeIC is seeking a project leader to drive the development of a Nordic platform for sensitive data in bio- and medical sciences.**
 
-<a href="{{ site.baseurl }}/assets/images/news/dark-guitar.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/dark-guitar-mini.jpeg"> </a>
+<a href="/assets/images/news/dark-guitar.jpeg"> <img class="smallpic" src="/assets/images/news/dark-guitar-mini.jpeg"> </a>
 
 The Nordic e-Infrastructure Collaboration (NeIC) is looking for a project leader who can lead the development of a distributed and federated Nordic platform for secure storage, processing and authorized sharing of sensitive data, with primary use within bio- and medical sciences (BMS). Main responsibilities will include drafting the detail plan for the project, participating in staffing the project, leading work in the distributed team toward deliveries and project completion, provide regular reports for the project, and maintaining an active requirements dialogue with the reference groups.
 

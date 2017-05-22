@@ -7,7 +7,7 @@ photo:  "/assets/images/news/Tomasz_small.jpg"
 Tomasz Malkiewicz new member of the NeIC Executive Management team
 ==================================================================
 
-<a href="{{ site.baseurl }}/assets/images/news/Tomasz.jpg"><img class="smallpic" src="{{ site.baseurl }}/assets/images/news/Tomasz_small.jpg"></a>
+<a href="/assets/images/news/Tomasz.jpg"><img class="smallpic" src="/assets/images/news/Tomasz_small.jpg"></a>
 
 Tomasz is employed at the CSC - IT Center For Science Ltd., Finland, and holds a 80% position at the NeIC. Prior to the CSC, he has been working as a CNRS Postdoctoral Researcher at the LPSC Grenoble, France. He did his Ph.D., entitled ‘Tools for Physics with LHC and RIB’, at the Department of Physics, University of Jyväskylä, Finland.
 

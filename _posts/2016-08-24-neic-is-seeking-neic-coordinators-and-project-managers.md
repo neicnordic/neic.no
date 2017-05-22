@@ -9,7 +9,7 @@ NeIC is seeking NeIC Coordinators and Project Managers
 
 **NeIC is looking for the next generation of entrepreneurs to foster the Nordic e-infrastructure community. We are aiming to reinvigorate and diversify our team and we encourage both current NeIC staff and new candidates to apply.**
 
-<a href="{{ site.baseurl }}/assets/images/news/dark-guitar.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/dark-guitar-mini.jpeg"> </a>
+<a href="/assets/images/news/dark-guitar.jpeg"> <img class="smallpic" src="/assets/images/news/dark-guitar-mini.jpeg"> </a>
 
 The ideal candidates have excellent communication and collaboration skills, as well as expertise from development, deployment or operation of e-Infrastructure services. Candidates are expected to have experience in managing projects, relevant higher education and broad knowledge of technologies used in e-Infrastructures for research. It is expected that the candidates are employed at a national e-Infrastructure organization or one of its collaborating institutions. Candidates must have a good command of English (both written and spoken). The positions entail a wide variety of interesting tasks and involve extensive contact with research groups and specialist communities in the Nordic countries and internationally. Considerable travelling may be required.
 

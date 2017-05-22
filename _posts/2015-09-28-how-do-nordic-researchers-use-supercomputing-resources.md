@@ -9,11 +9,11 @@ How do Nordic researchers use supercomputing resources?
 
 **In the report “Cognitus, a Science Case for High Performance Computing in the Nordic Region”, Dr Rob Pennington has analyzed the use of high performance computing facilities and resources among Nordic researchers. He found that the research in the Nordic region that depends on computational capabilities is “clearly internationally competitive.”**
 
-<img class="smallpic" src="{{ site.baseurl }}/assets/images/news/cognitus_rob.jpeg"/>
+<img class="smallpic" src="/assets/images/news/cognitus_rob.jpeg"/>
 
 In 2013 and 2014, two evaluations of different aspects of the Nordic high performance computing area recommended that the Nordic e-Infrastructure Collaboration (NeIC), which is a part of NordForsk and thus of the Nordic Council of Ministers, take a closer look at how Nordic researchers are using supercomputing resources. In response, NeIC engaged Dr Rob Pennington, former Deputy Director for the National Center for Supercomputing Applications at University of Illinois, to investigate this in order to identify the Nordic researchers using High Performance Computing (HPC) and to map where and how they were getting access to these resources. The investigation resulted in the Cognitus report, which contains seven findings and eight recommendations. These provide decision-makers in the Nordic countries with valuable insight that can help to make Nordic HPC globally competitive.
 
-<img class="smallpic-left" src="{{ site.baseurl }}/assets/images/news/cognitus.jpg"/>
+<img class="smallpic-left" src="/assets/images/news/cognitus.jpg"/>
 
 **The Cognitus report - the short version**
 

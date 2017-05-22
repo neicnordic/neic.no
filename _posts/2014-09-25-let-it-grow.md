@@ -9,7 +9,7 @@ Let it grow
 
 **On 23–25 September 2014 NORDUnet hosted its 28th NORDUnet Conference in Uppsala, bringing together networking and cloud computing experts and users. NeIC’s Director Gudmund Høst presented the NeIC business model, focusing on the human factor. And precisely in the spirit of enhancing human relations between their organisations, NeIC and NORDUnet met for a working lunch.**
 
-<a href="{{ site.baseurl }}/assets/images/news/boards-meet.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/boards-meet-mini.jpeg"> </a>
+<a href="/assets/images/news/boards-meet.jpeg"> <img class="smallpic" src="/assets/images/news/boards-meet-mini.jpeg"> </a>
 
 Tuesday 23 September, Dr. Høst briefly presented the projects currently being carried out under NeIC, including easy sharing of data (B2Share Nordic), sensitive data (Tryggve), cloud computing for researchers (Glenna), supporting physics at CERN with data processing services, supporting “Nordic” ESFRI projects with e-Infrastructure services and policy support for Nordic stakeholders.
 

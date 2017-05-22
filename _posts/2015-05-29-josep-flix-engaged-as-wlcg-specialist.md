@@ -9,7 +9,7 @@ Josep Flix engaged as WLCG specialist
 
 **Josep Flix, Port d’Informaciò Cientifica (PIC) is engaged as external consultant/e-infrastructure specialist on WLCG Operations.**
 
-<img class="smallpic" src="{{ site.baseurl }}/assets/images/news/JosepFlix-small.png">
+<img class="smallpic" src="/assets/images/news/JosepFlix-small.png">
 
 Josep will lead a project to investigate the boundary conditions for the NT1 operations as given by both formal and informal requirements from WLCG and the LHC experiments supported. The project has funding for 3 person months and run through 2015.
 

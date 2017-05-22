@@ -7,7 +7,7 @@ photo:  "/assets/images/news/neic2017-800x600new-mini.jpg"
 Join us in Umeå for #NeIC2017
 ==============================
 
-<a href="{{ site.baseurl }}/assets/images/news/NeIC2017.jpg"><img class="smallpic" src="{{ site.baseurl }}/assets/images/news/NeIC2017.jpg"></a>
+<a href="/assets/images/news/NeIC2017.jpg"><img class="smallpic" src="/assets/images/news/NeIC2017.jpg"></a>
 
 Building on the enthusiasm from the first two Nordic e-Infrastructure Conferences in 2013 and 2015, we are happy to announce the next NeIC Conference, to be hosted by NeIC and SNIC. The \#NeIC2017 conference will take place at Folkets Hus in Umeå, Sweden, 29 May - 1 June. The preliminary programme is available at [the \#NeIC2017 website](http://neic2017.nordforsk.org/schedule). Similar to the first two NeIC conferences we aim to organise NeIC 2017 as a collaboration between CSC, DeIC, NeIC, NORDUnet, RHnet, SNIC, and UNINETT Sigma2.
 

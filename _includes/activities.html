@@ -1,4 +1,4 @@
-<section class="single-pagebanner" style="background-image: url({{ site.baseurl }}/assets/images/act-banner.png);">
+<section class="single-pagebanner" style="background-image: url(/assets/images/act-banner.png);">
 </section>
 
 <section class="activities">
@@ -21,7 +21,7 @@
                       <ul class="linl-list">
                         {% for activity in site.activities %}
                           {% if activity.finished %}{% continue %}{% endif %}
-                          <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
+                          <li><a href="{{ activity.url }}">{{ activity.name }}</a></li>
                         {% endfor %}
                       </ul>
               </div>
@@ -41,7 +41,7 @@
                       <ul class="linl-list">
                               {% for activity in site.activities %}
                                 {% unless activity.finished %}{% continue %}{% endunless %}
-                                <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
+                                <li><a href="{{ activity.url }}">{{ activity.name }}</a></li>
                               {% endfor %}
                       </ul>
                       </div>

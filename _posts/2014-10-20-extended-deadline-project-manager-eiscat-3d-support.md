@@ -9,7 +9,7 @@ Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D sup
 
 **EISCAT_3D is an environmental research infrastructure on the European ESFRI roadmap, and NeIC is seeking a project manager/e-infrastructure specialist who can support the EISCAT_3D project in dealing with e-infrastructure challenges.**
 
-<a href="{{ site.baseurl }}/assets/images/news/eiscat-3d-aurora.jpeg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/eiscat-3d-aurora-mini.jpeg"> </a>
+<a href="/assets/images/news/eiscat-3d-aurora.jpeg"> <img class="smallpic" src="/assets/images/news/eiscat-3d-aurora-mini.jpeg"> </a>
 
 It is proposed as an international research infrastructure using the incoherent scatter technique to study the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
 

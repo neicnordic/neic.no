@@ -9,7 +9,7 @@ New NeIC board appointed
 
 **1 June 2015 the NordForsk board appointed a new NeIC board.**
 
-<img class="smallpic" src="{{ site.baseurl }}/assets/images/news/pekka_lehtovuori.jpeg">
+<img class="smallpic" src="/assets/images/news/pekka_lehtovuori.jpeg">
 
 The new NeIC board met 9 June and elected Pekka Lehtovuori as chair for two years with Steen Pedersen as chair-in-elect for the following two-year period.
 

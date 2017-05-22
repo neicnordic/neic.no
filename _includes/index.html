@@ -1,5 +1,5 @@
 <section class="banner">
-  <video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="{{ site.baseurl }}/assets/images/banner.png">
+  <video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="/assets/images/banner.png">
     <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
   </video>
   <div class="mob-video">
@@ -13,7 +13,7 @@
         <div class="modal-content">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
           <div class="modal-body">
-            <video loop class="bg-video-mob" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; z-index: 0;" controls="false"  poster="{{ site.baseurl }}/assets/images/banner.png">
+            <video loop class="bg-video-mob" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; z-index: 0;" controls="false"  poster="/assets/images/banner.png">
               <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
             </video>
           </div>
@@ -38,7 +38,7 @@
             technical experts from academic high-performance computing centres across the
             Nordic countries.
           </p>
-	  <a href="{{ site.baseurl }}/about/" class="read-more white-hover-btn">Read More</a>
+	  <a href="/about/" class="read-more white-hover-btn">Read More</a>
         </div>
       </div>
 
@@ -47,7 +47,7 @@
         <ul class="linl-list">
           {% for activity in site.activities %}
             {% unless activity.finished %}
-              <li><a href="{{ site.baseurl }}{{ activity.url }}">{{ activity.name }}</a></li>
+              <li><a href="{{ activity.url }}">{{ activity.name }}</a></li>
             {% endunless %}
           {% endfor %}
         </ul>
@@ -61,7 +61,7 @@
     <div class="col-md-12">
       <div class="row">
         <div class="event-wrap">
-          <div class="right-event" style="background-image: url({{ site.baseurl }}/assets/images/current-event-bg.png);">
+          <div class="right-event" style="background-image: url(/assets/images/current-event-bg.png);">
           </div>
           <div class="left-event">
 
@@ -90,7 +90,7 @@
   </div>
 </section>
 
-<section class="mission" style="background-image: url({{ site.baseurl }}/assets/images/our-mission-bg.png);">
+<section class="mission" style="background-image: url(/assets/images/our-mission-bg.png);">
   <div class="container">
     <div class="mission-data">
       <h1 class="om-head">OUR MISSION:</h1>
@@ -123,20 +123,20 @@
           <div class="right-news">
           {% assign left_news = true %}
         {% endif %}
-          <div class="desktop news-bg" style="background-image: url({{ site.baseurl }}{{ post.photo }});">
+          <div class="desktop news-bg" style="background-image: url({{ post.photo }});">
           </div>
-          <div class="mob news-bg" style="background-image: url({{ site.baseurl }}{{ post.photo }});">
+          <div class="mob news-bg" style="background-image: url({{ post.photo }});">
           </div>
           <div class="lite-white-bg">
-            <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
             <p class="date">{{ post.date | date: "%Y-%m-%d" }}</p>
             <p class="description">{{ post.summary }}</p>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="btn">read more &raquo;</a>
+            <a href="{{ post.url }}" class="btn">read more &raquo;</a>
           </div>
         </div>
       {% endif %}
     {% endfor %}
 
-    <a class="see-more-news black-hover-btn" href="{{ site.baseurl }}/news/">See more News</a>
+    <a class="see-more-news black-hover-btn" href="/news/">See more News</a>
   </div>
 </section>

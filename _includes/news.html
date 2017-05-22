@@ -10,14 +10,14 @@
               <div class="single-news-list">
                 {% if post.photo %}
                   <div class="img-block">
-                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.photo }}" alt="news" /></a>
+                    <a href="{{ post.url }}"><img src="{{ post.photo }}" alt="news" /></a>
                   </div>
                 {% endif %}
                 <div class="news-details">
-                  <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+                  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
                   <h6>{{ post.date | date: "%Y-%m-%d" }}</h6>
                   <p>{{ post.summary }}</p>
-                  <a href="{{ site.baseurl }}{{ post.url }}" class="btn">read more &raquo;</a>
+                  <a href="{{ post.url }}" class="btn">read more &raquo;</a>
                 </div>
               </div>
             {% endfor %}

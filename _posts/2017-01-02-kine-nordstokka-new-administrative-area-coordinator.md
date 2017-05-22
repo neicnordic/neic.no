@@ -7,7 +7,7 @@ photo:  "/assets/images/news/kine.jpg"
 Kine Nordstokkå new coordinator for NeIC
 ========================================
 
-<img class="smallpic" src="{{ site.baseurl }}/assets/images/news/kine.jpg">
+<img class="smallpic" src="/assets/images/news/kine.jpg">
 
 Kine has been hired by NordForsk as an Advisor working for the NeIC programme.
 

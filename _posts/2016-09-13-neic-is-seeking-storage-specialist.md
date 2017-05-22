@@ -9,7 +9,7 @@ NeIC is seeking Storage Specialist
 
 **NeIC is looking for a Storage Specialist to strengthen the Nordic Tier-1 team. As member of a dynamic virtual team you will have a variety of challenging tasks and involve extensive contact with research groups and specialist communities in the Nordic countries and internationally.**
 
-<a href="{{ site.baseurl }}/assets/images/news/toofarnorth.jpg"> <img class="smallpic" src="{{ site.baseurl }}/assets/images/news/toofarnorth-mini.jpeg"> </a>
+<a href="/assets/images/news/toofarnorth.jpg"> <img class="smallpic" src="/assets/images/news/toofarnorth-mini.jpeg"> </a>
 
 You are an excellent software developer skilled in Java programming with merits that include experience and interest in topics such as
 
