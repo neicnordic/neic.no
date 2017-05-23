@@ -11,6 +11,8 @@ on_contract: yes
 groups:
   glenna2:
     role: Project leader
+  glenna2-po:
+    role: Project leader
   glenna2-sg:
     role: Project leader, Observer
   glenna:

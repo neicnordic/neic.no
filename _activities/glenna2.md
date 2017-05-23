@@ -4,7 +4,7 @@ include: activity
 name: Glenna2
 type: Project
 leader: dan-still
-phase: Execution
+phase: Preparation
 start: 2017-01-01
 end: 2019-12-31
 results: https://wiki.neic.no/wiki/Glenna2

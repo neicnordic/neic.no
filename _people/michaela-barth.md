@@ -17,6 +17,10 @@ groups:
     role: Coordination
   nt1-po:
     role: Activity owner
+  glenna2-sg:
+    role: Chair
+  glenna2-po:
+    role: Project owner
   project-analysis-rg:
 ---
 
