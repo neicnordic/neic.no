@@ -11,7 +11,7 @@ results: https://wiki.neic.no/wiki/Pool_Competencies#Documents
 outreach: N/A
 documents:
   - text: Strategy 2016-2020
-    url: ../../about/mission/
+    url: /about/#strategy-and-focus
 groups:
   poco-wg:
     name: Pool competencies working group
@@ -25,5 +25,5 @@ groups:
 Pool competencies is a focus area under the NeIC 2016-2020 strategy. The pool
 competencies working group is working to map out the competencies that are
 present or needed among the Nordic e-infrastructure providers and key
-stakeholders, starting within the area of [training](../training/) and currently
+stakeholders, starting within the area of [training](/training/) and currently
 expanding to other areas starting with data management.
