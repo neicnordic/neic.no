@@ -19,6 +19,8 @@ groups:
     role: Special advisor
   poco-wg:
     role: Chair
+  ratatosk-sg:
+    role: Observer
   data-management-wg:
     role: Chair
   project-analysis-rg:

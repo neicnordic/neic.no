@@ -10,4 +10,5 @@ phone:
 on_contract: no
 groups:
   poco-wg:
+  ratatosk-sg:
 ---

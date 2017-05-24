@@ -11,4 +11,5 @@ on_contract: no
 groups:
   provider-forum:
   poco-wg:
+  ratatosk-sg:
 ---

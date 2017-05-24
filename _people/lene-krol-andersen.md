@@ -12,4 +12,5 @@ groups:
   poco-wg:
   coderefinery-sg:
   neic2017-prg:
+  ratatosk-sg:
 ---
