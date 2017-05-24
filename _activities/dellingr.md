@@ -4,8 +4,8 @@ include: activity
 name: Dellingr
 type: Project
 leader: john-white
-phase: Preparation
-start: 2017-01-01
+phase: Execution
+start: 2017-01-10
 end:
 results: https://wiki.neic.no/wiki/Dellingr
 outreach:
@@ -36,12 +36,12 @@ groups:
     frequency: None yet
 ---
 
-The approach will be to work with the national e-infrastructure providers to
+The approach is to work with the national e-infrastructure providers to
 define a functional framework for resource sharing that will recognize and build
 upon the unique strengths of each provider to advance research in each of the
 respective countries and within the Nordic region overall.
 
-The pilot implementation should be driven initially by:
+The pilot implementation is driven initially by:
 
 a relevant scientific problem or goal from one or more research groups who are
 willing and able to commit a limited and defined amount of effort to working on
