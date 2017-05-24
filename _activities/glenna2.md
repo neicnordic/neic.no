@@ -22,18 +22,17 @@ links:
 groups:
   glenna2:
     name: Team
-    description: Governance.
-    minutes: https://wiki.neic.no/int/Glenna
-    frequency: Weekly
+    minutes: 
+    frequency: None yet.
   glenna2-sg:
     name: Steering group
     description: Governance.
-    minutes: https://wiki.neic.no/wiki/Glenna
+    minutes: https://wiki.neic.no/wiki/Category:Glenna2_steering_group_meetings
     frequency: 3-4 per year
   glenna2-po:
     name: Project office
     description: Management.
-    minutes: https://wiki.neic.no/int/Glenna
+    minutes: https://wiki.neic.no/int/Category:Glenna2_management_meetings
     frequency: Weekly
 ---
 Nordic collaboration on cloud services.
