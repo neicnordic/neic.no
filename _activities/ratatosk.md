@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: Ratatosk
 type: Operations
-leader:
+leader: anne-marie-bach
 phase: Preparation
 start: 2017-04-21
 end:
