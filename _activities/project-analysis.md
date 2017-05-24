@@ -18,7 +18,6 @@ outcome-statements:
 links:
   - text: External wiki
     url: https://wiki.neic.no/Project_analysis
-    description: Documentation, manuals and guides.
   - text: Working documents
     url: https://goo.gl/HkKRcL
     description: Internal working documents.
@@ -34,8 +33,8 @@ groups:
   project-analysis-rg:
     name: Reference
     description:
-    frequency:
-    minutes:
+    frequency: As needed
+    minutes: https://goo.gl/1tn47h
   project-analysis-sg:
     name: Governance
     description:
