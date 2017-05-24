@@ -10,5 +10,6 @@ phone:
 on_contract: no
 groups:
   tryggve-sg:
+  tryggve2-sg:
   neic2017-prg:
 ---

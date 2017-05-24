@@ -17,6 +17,16 @@ groups:
     role: Project leader
   tryggve-sg:
     role: Project leader, Observer
+  tryggve2:
+    role: Project leader
+  tryggve2-pm:
+    role: Project leader
+  tryggve2-rg:
+    role: Project leader
+  tryggve2-po:
+    role: Project leader
+  tryggve2-sg:
+    role: Project leader, Observer
   nicest-po:
     role: Project owner
   nicest-sg:

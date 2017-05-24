@@ -10,6 +10,12 @@ phone:
 on_contract: yes
 groups:
   tryggve:
+  tryggve2:
+    role: Sub-project leader
+  tryggve2-pm:
+    role: Sub-project leader
+  tryggve2-rg:
+    role: Sub-project leader
 ---
 Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the
 research service group aiming at developing, deployng and operating services

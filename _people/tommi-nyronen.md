@@ -10,4 +10,5 @@ phone:
 on_contract: no
 groups:
   tryggve-sg:
+  tryggve2-sg:
 ---

@@ -10,6 +10,12 @@ phone: "+45 60 90 46 46"
 on_contract: yes
 groups:
   tryggve:
+  tryggve2:
+    role: Sub-project leader
+  tryggve2-pm:
+    role: Sub-project leader
+  tryggve2-rg:
+    role: Sub-project leader
 ---
 M.Sc. Computer science, with over 15 years of experience in IT from Oracle in
 the US to building large supercomputers across Europe at SGI (Silicon graphics)

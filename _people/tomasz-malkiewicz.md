@@ -17,6 +17,10 @@ groups:
     role: Project owner, Chair
   tryggve-po:
     role: Project owner
+  tryggve2-sg:
+    role: Project owner, Chair
+  tryggve2-po:
+    role: Project owner
   dellingr-sg:
     role: Chair
   dellingr-po:
