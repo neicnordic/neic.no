@@ -11,6 +11,10 @@ on_contract: yes
 groups:
   xt:
     role: Special advisor
+  dellingr-sg:
+    role: Advisor
+  dellingr:
+    role: Advisor
   neic2017-prg:
     role: Special advisor
   poco-wg:

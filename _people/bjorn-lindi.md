@@ -10,5 +10,6 @@ phone:
 on_contract:
 groups:
   coderefinery:
+  dellingr:
 past_engagements:
 ---
