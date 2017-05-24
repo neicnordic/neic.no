@@ -5,10 +5,11 @@ name: Hans A. Eide
 home: <a href="https://www.sigma2.no/">Sigma2</a>
 country: "NO"
 photo:
-email:
+email: hans.eide@uninett.no
 phone:
 on_contract: no
 groups:
   provider-forum:
   neic2017-prg:
+  coderefinery-sg:
 ---

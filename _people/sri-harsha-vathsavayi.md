@@ -1,15 +1,13 @@
 ---
 layout: master
 include: person
-name: Erik Edelmann
+name: Sri Harsha Vathsavayi
 home: <a href="http://www.csc.fi">CSC</a>
 country: FI
 photo:
-email: erik.edelmann@csc.fi
-phone: "+358 50 381 9055"
+email: sriharsha.vathsavayi@csc.fi
+phone: "+358 50 381 2785"
 on_contract: yes
 groups:
-  nt1:
-    role: Alice Operations Contact
   coderefinery:
 ---

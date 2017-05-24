@@ -1,15 +1,13 @@
 ---
 layout: master
 include: person
-name: Erik Edelmann
+name: Nikolai Denissov
 home: <a href="http://www.csc.fi">CSC</a>
 country: FI
 photo:
-email: erik.edelmann@csc.fi
-phone: "+358 50 381 9055"
+email: nikolai.denissov@csc.fi
+phone: "+358 40 159 0188"
 on_contract: yes
 groups:
-  nt1:
-    role: Alice Operations Contact
   coderefinery:
 ---

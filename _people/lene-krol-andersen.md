@@ -9,6 +9,7 @@ email:  lene.krol.andersen@deic.dk
 phone:
 on_contract: no
 groups:
-  neic2017-prg:
   poco-wg:
+  coderefinery-sg:
+  neic2017-prg:
 ---
