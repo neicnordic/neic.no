@@ -1,13 +1,46 @@
 <section class="banner">
-  <video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="/assets/images/banner.png">
+  <!-- <video autoplay loop class="bg-video" style="width:100% ; height: auto; min-width:100%; min-height:100%; object-fit: cover; preload=auto; position:absolute; z-index: -1; " poster="/assets/images/banner.png">
     <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
-  </video>
-  <div class="mob-video">
-    <!-- Button trigger modal -->
+  </video> -->
+
+  <a href="javascript:void(0)" id="video1">PLAY VIDEO</a>
+  <div id="vidBox">
+    <div id="videCont">
+      <video id="my_video" class="video-js" controls preload="auto" data-setup="{}">
+        <source src="https://neic.no/bigmedia/neic_webintro.mp4" type="video/mp4">
+      </video>
+     </div>
+  </div>
+  <script type="text/javascript">
+    $(function () {
+               $('#vidBox').VideoPopUp({
+                  backgroundColor: "#000000",
+                  opener: "video1",
+                    maxweight: "320",
+                    pausevideo: true,
+                    idvideo: "v1"
+                });
+            });
+  </script>
+  <script>
+      videojs("my_video").ready(function(){
+
+      var vid = this;
+      vid.on("ended", function(){
+        $('#vidBox').css("display", "none");
+        $("#my_video_html5_api").get(0).pause();
+      });
+      });
+
+      $(document).delegate('#video1',"click",function () {    
+        $("#my_video_html5_api").get(0).play();    
+      });
+  </script>
+
+  <!-- <div class="mob-video">
     <button type="button" class="mob-video-play btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
     </button>
 
-    <!-- Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -20,7 +53,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <a class="learn-more-link smooth" href="#about">Learn more</a>
 </section>
 
@@ -31,7 +64,7 @@
       <div class="col-md-7" style="position: static;">
         <div class="content">
           <h2>About Us</h2>
-	  <p>
+	         <p>
             The Nordic e-Infrastructure Collaboration (NeIC) facilitates
             development and operation of high-quality e-Infrastructure solutions in areas
             of joint Nordic interest. NeIC is a distributed organisation consisting of

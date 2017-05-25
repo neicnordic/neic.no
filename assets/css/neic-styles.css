@@ -60,6 +60,7 @@ section.banner {
     height: 100vh;
     max-width: 100%;
     overflow: hidden;
+    background-image: url(../images/banner.png);
 }
 section.banner .learn-more-link{
     position: absolute;
@@ -968,6 +969,7 @@ section.latest-page .news-list-block{
     margin: 0 -15px;
 }
 section.latest-page .news-list-block:after{content:'';clear: both;display: block;}
+section.latest-page .news-list-block .single-news-list a{display:block;}
 section.latest-page .news-list-block .single-news-list{
     width: 33.33%;
     float: left;
@@ -976,8 +978,11 @@ section.latest-page .news-list-block .single-news-list{
 }
 section.latest-page .news-list-block .single-news-list .img-block{
     width: 100%;
-    height: 200px;
+    padding-top: 55%;
     margin-bottom: 20px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
 section.latest-page .news-list-block .single-news-list .img-block img{
     width: 100%;
@@ -1814,7 +1819,23 @@ section.contact .team .team-nav-bar .right-bar form select.custom option {    fo
 body section.single-activities .toogle-box-small .panel p a.hover-blue {color: #000;text-decoration: underline;}
 body section.single-activities .toogle-box-small .panel p a.hover-blue:hover {    color: #008c88;
     transition: 0.5s all;}
-
+.banner #video1 {height: 48px;
+    position: absolute;
+    top: 50%;
+    line-height: 48px;
+    left: 50%;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 0;
+    width: 200px;
+    margin-left: -100px;
+    margin-top: -24px;}
+.banner #video1:hover{background-color: #fff;color: #333}
 section.wys-editer h1{
     margin: 0;
     text-transform: uppercase;
