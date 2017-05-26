@@ -1,7 +1,7 @@
 ---
 title: "Studying dark matter"
 summary: "“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter."
-photo: "/assets/images/news/farid-ould-saada-small.jpg"
+photo: "/assets/images/news/farid-ould-saada.jpg"
 ---
 
 # Studying dark matter
@@ -9,7 +9,7 @@ photo: "/assets/images/news/farid-ould-saada-small.jpg"
 **“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter.**
 
 <a href="/assets/images/news/farid-ould-saada.jpg">
-<img class="smallpic" src="/assets/images/news/farid-ould-saada-small.jpg">
+<img class="smallpic" src="/assets/images/news/farid-ould-saada.jpg">
 </a>
 
 Professor Ould-Sadaa explains that dark matter is a mystery in both particle physics and astrophysics. We know from observations that the universe must contain a type of matter that does not emit or interact with electromagnetic radiation, so it must be different from the ordinary matter that surrounds us.

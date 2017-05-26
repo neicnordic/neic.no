@@ -1,7 +1,7 @@
 ---
 title: "Better software leads to better science"
 summary: "Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries."
-photo: "/assets/images/news/radovan-bast-small.jpg"
+photo: "/assets/images/news/radovan-bast.jpg"
 ---
 
 # Better software leads to better science
@@ -9,7 +9,7 @@ photo: "/assets/images/news/radovan-bast-small.jpg"
 **Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries.**
 
 <a href="/assets/images/news/radovan-bast.jpg">
-<img class="smallpic-left" src="/assets/images/news/radovan-bast-small.jpg">
+<img class="smallpic-left" src="/assets/images/news/radovan-bast.jpg">
 </a>
 
 “The quality of scientific software is increasingly becoming critical for the advancement of knowledge. We firmly believe that developing better software leads to better science”, says Radovan Bast. He leads the CodeRefinery project and is a Senior Engineer in the High Performance Computing Group at the University of Tromsø – The Arctic University of Norway.
