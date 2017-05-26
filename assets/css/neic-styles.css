@@ -57,9 +57,10 @@ section.banner {
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
-    height: 100vh;
+    height: 60vh;
     max-width: 100%;
     overflow: hidden;
+    background-image: url(../images/banner.png);
 }
 section.banner .learn-more-link{
     position: absolute;
@@ -968,6 +969,7 @@ section.latest-page .news-list-block{
     margin: 0 -15px;
 }
 section.latest-page .news-list-block:after{content:'';clear: both;display: block;}
+section.latest-page .news-list-block .single-news-list a{display:block;}
 section.latest-page .news-list-block .single-news-list{
     width: 33.33%;
     float: left;
@@ -976,8 +978,11 @@ section.latest-page .news-list-block .single-news-list{
 }
 section.latest-page .news-list-block .single-news-list .img-block{
     width: 100%;
-    height: 200px;
+    padding-top: 55%;
     margin-bottom: 20px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
 section.latest-page .news-list-block .single-news-list .img-block img{
     width: 100%;
