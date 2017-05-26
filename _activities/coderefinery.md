@@ -11,7 +11,7 @@ results: http://coderefinery.org
 outreach:
 documents:
   - text: Project directive
-    url: https://wiki.neic.no/w/ext/img_auth.php/d/d3/16-42-03Glenna2ProjectDirective.pdf
+    url: https://wiki.neic.no/w/ext/img_auth.php/5/5a/Collaborative_Infrastructure_for_Scientific_Software_Project_directive.doc
 links:
   - url: http://coderefinery.org
     text: Web
