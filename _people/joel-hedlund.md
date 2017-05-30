@@ -25,7 +25,7 @@ groups:
   tryggve2-rg:
     role: Scientific manager, Chair
   tryggve2-sg:
-    role: Scientific manager, Observer
+    role: Scientific manager, Secretary
   project-analysis:
     role: Project leader
   project-analysis-rg:
