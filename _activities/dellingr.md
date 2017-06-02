@@ -41,13 +41,12 @@ define a functional framework for resource sharing that will recognize and build
 upon the unique strengths of each provider to advance research in each of the
 respective countries and within the Nordic region overall.
 
-The pilot implementation is driven initially by:
-
-a relevant scientific problem or goal from one or more research groups who are
+The pilot implementation is driven initially by a relevant scientific problem or goal from one or more research groups who are
 willing and able to commit a limited and defined amount of effort to working on
 an one or more national e-infrastructure providers who can commit to supporting
-an innovative or new mode of resource use on their systems. The initial approach
-would be to carry out an extended functional exercise to define the scope of
+an innovative or new mode of resource use on their systems.
+
+The initial approach would be to carry out an extended functional exercise to define the scope of
 each of the tasks, explore and define the problems and opportunities associated
 with resources sharing, and identify any significant concerns or unique
 opportunities. This would be followed by using a small set of selected test
