@@ -11,9 +11,9 @@ results: "#results"
 outreach: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
 documents:
   - text: Work plan
-    url: -
+    url: N/A
   - text: Collaboration agreement
-    url: -
+    url: N/A
 links:
   - url: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
     text: External wiki
