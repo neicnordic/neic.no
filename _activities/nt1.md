@@ -8,23 +8,23 @@ phase: In operation
 start: 2006-01-01
 end: 2050-12-31
 results: "#results"
-outreach: https://wiki.neic.no/wiki/bdi
+outreach: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
 documents:
   - text: Work plan
-    url: https://wiki.neic.no/wiki/File:20161124_Workplan_NeIC_BDI_final.pdf
+    url: -
   - text: Collaboration agreement
-    url: https://wiki.neic.no/int/File:20160921_CA_BiodivInf_final2.pdf
+    url: -
 links:
-  - url: https://wiki.neic.no/wiki/bdi
+  - url: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
     text: External wiki
     description: External documentation, manuals and guides.
-  - url: https://wiki.neic.no/int/bdi
+  - url: https://wiki.neic.no/int/NeIC_NT1
     text: Internal wiki
     description: Internal working documents.
 groups:
   nt1:
     name: Team
-    minutes: https://wiki.neic.no/int/Category:Biodiversity_team_meetings
+    minutes: https://wiki.neic.no/int/Category:NDGF_Weekly_Status_Meetings
     frequency: Weekly
   nlcg:
     name: NLCG committee
@@ -33,7 +33,7 @@ groups:
     frequency: 4 per year
   nt1-po:
     name: Management
-    minutes: https://wiki.neic.no/int/nt1
+    minutes: https://wiki.neic.no/int/NeIC_NT1
     frequency: Bi-weekly
 ---
 
