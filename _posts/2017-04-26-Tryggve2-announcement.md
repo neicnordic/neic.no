@@ -11,6 +11,7 @@ photo: "/assets/images/news/joel-antti-neic2015-small.jpg"
 <a href="/assets/images/news/joel-antti-neic2015.jpg">
 <img class="smallpic" src="/assets/images/news/joel-antti-neic2015-small.jpg">
 </a>
+Photo: Terje Seierstad
 
 The governing partners of Tryggve2 are NeIC and the ELIXIR Nodes in Denmark, Finland, Norway and Sweden. Tryggve2 will incorporate a staff of 16 full-time equivalents, and will thus comprise a major increase in Nordic efforts within the e-infrastructure for sensitive data. In agreement with the partners, NeIC has appointed Antti Pursula (CSC) as the Project Manager for Tryggve2.
 
