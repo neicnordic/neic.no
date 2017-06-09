@@ -9,6 +9,7 @@ start: 2006-01-01
 end: 2050-12-31
 results: "#results"
 outreach: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
+documents:
 links:
   - url: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
     text: External wiki

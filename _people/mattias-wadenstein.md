@@ -21,6 +21,7 @@ groups:
   neic2017-org:
     role: Local coordinator
   project-analysis-rg:
+  e3ds:
 
 ---
 

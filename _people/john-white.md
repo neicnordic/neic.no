@@ -16,4 +16,9 @@ groups:
   dellingr-po:
     role: Project leader
   e3ds:
+    role: Project leader
+  e3ds-sg:
+    role: Observer, Project leader
+  e3ds-po:
+    role: Project leader
 ---

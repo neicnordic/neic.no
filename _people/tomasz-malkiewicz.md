@@ -31,5 +31,9 @@ groups:
     role: Project owner, Chair
   nlpl-po:
     role: Project owner
+  e3ds-sg:
+    role: Project owner, Chair
+  e3ds-po:
+    role: Project owner
   project-analysis-rg:
 ---
