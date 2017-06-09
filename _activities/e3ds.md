@@ -1,14 +1,14 @@
 ---
 layout: master
 include: activity
-name: EISCAT 3D support
+name: EISCAT_3D support
 type: Project
 leader: john-white
 phase: Execution
 start: 2015-01-15
 end: 2018-01-14
-results: N/A #???
-outreach: N/A #???
+results: https://wiki.neic.no/wiki/EISCAT_3D_support#Documents
+outreach: https://wiki.neic.no/wiki/EISCAT_3D_support#Meetings_with_external_projects
 documents:
   - text: Project plan
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d2/E3DS_ProjectPlan_20_03_2017.pdf
@@ -21,18 +21,18 @@ links:
 groups:
   e3ds:
     name: Team
-    minutes: #???
-    frequency: #???
+    minutes: https://wiki.neic.no/int/EISCAT_3D#Project_team_weekly_meetings
+    frequency: Weekly
   e3ds-sg:
     name: Steering group
     description: Governance.
-    minutes: #???
-    frequency: #???
+    minutes: https://wiki.neic.no/int/EISCAT_3D#Steering_group_meetings
+    frequency: Every 6 months (internal)
   e3ds-po:
     name: Project office
     description: Project ownership issues.
-    minutes: #???
-    frequency: #???
+    minutes: https://wiki.neic.no/int/EISCAT_3D#PM_-_AC_meetings
+    frequency: Weekly
 ---
 
 The NeIC EISCAT_3D Technical support EISCAT_3D community on network, computing
