@@ -24,9 +24,3 @@ groups:
   e3ds:
 
 ---
-
-Mattias Wadenstein has a background in systems administration from the [High
-Performance Computing Center North (HPC2N)](https://www.hpc2n.umu.se), Umeå
-University, and has been working for the NDGF Tier-1 as systems integrator for
-most of the project’s lifetime. He is now Area Coordinator and is responsible
-for delivering the WLCG Tier-1 services to the LHC experiments.

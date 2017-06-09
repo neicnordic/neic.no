@@ -3,7 +3,7 @@ layout: master
 include: person
 name: John White
 home: <a href="http://home.cern/">CERN</a>
-country: "CH"
+country: "FR"
 photo:
 email: john.white@cern.ch
 phone:

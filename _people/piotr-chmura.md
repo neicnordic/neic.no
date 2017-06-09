@@ -11,6 +11,3 @@ on_contract: yes
 groups:
   tryggve:
 ---
-Piotr works mainly for software provisioning tasks in Tryggve project,
-developing especially the Tools and Resource Registry at ELIXIR.DK. He is
-located at Center for Protein Research at University of Copenhagen.

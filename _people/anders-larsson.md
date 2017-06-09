@@ -11,8 +11,3 @@ on_contract: yes
 groups:
   tryggve:
 ---
-
-Anders is part of the Tryggve project team. Systems developer at NBIS in
-Uppsala, Sweden. PhD in Systematic Biology from Evolutionary Biology Center at
-Uppsala University. Also involved in Elixir Local EGA project and European
-PhenoMeNal project.

@@ -18,5 +18,3 @@ groups:
   neic2017-org:
     role: Ex officio, Project leader (outgoing)
 ---
-Pål Pettersen is employed at NordForsk, Oslo. He works as the NeIC
-Administrative Coordinator

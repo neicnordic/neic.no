@@ -12,11 +12,3 @@ groups:
   tryggve:
   neic2017-pc:
 ---
-
-Niclas Jareborg is located at SciLifeLab in Stockholm, Sweden where he is the
-Data Manager at the National Bioinformatics Infrastructure Sweden - NBIS. He is
-the system owner representative of the Mosler secure computing system for
-research using sensitive data, and a member of the Tryggve project. Niclas has a
-PhD in Microbiology from Uppsala University, and over the years he has worked
-with bio/informatics, line management, Lean, and Agile in both academia and
-industry.

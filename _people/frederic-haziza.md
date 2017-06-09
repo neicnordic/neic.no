@@ -11,9 +11,3 @@ on_contract: yes
 groups:
   tryggve:
 ---
-
-Frédéric received his PhD in Computer Science from Uppsala University in the
-field of Algorithmic Program Verification. Prior to joining NBIS, Frédéric
-worked for UPPMAX, where he was involved in setting up Smog, the first cloud
-service at UPPMAX, as well as bioimg.org, a catalogue of life science virtual
-machine images.

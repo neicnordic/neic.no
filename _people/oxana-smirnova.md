@@ -14,9 +14,3 @@ groups:
   nlcg:
     role: Ex officio, Secretary
 ---
-
-Oxana Smirnova is employed at the [Particle Physics division in Lund
-University](http://www.hep.lu.se/), Sweden. A graduate of Moscow State
-University, she obtained a Ph.D. in Physics from Lund University, working with
-the DELPHI experiment at CERN. She is a member of the ATLAS collaboration at
-CERN, and is one of the developers of the distributed grid computing model.

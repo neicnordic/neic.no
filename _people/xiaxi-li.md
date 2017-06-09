@@ -11,8 +11,3 @@ on_contract: yes
 groups:
   tryggve:
 ---
-Xiaxi Li is located at the Computational Biology Unit (CBU), University of
-Bergen, Norway. He is working in the Tryggve project on sensitive data
-for the bio- and medical sciences. He has a background as a software engineer,
-and got the master degree in Software Engineering of Distributed Systems at KTH
-Royal Institute of Technology, Stockholm.
