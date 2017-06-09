@@ -38,14 +38,14 @@ groups:
 The NeIC EISCAT_3D Technical support EISCAT_3D community on network, computing
 and storage challenges.
 
-EISCAT_3D is an environmental research infrastructure on the European ESFRI
-roadmap. It is proposed as an international research infrastructure using the
-incoherent scatter technique to study the upper atmosphere above the Arctic in
-order to investigate how the Earth's atmosphere is coupled to space. EISCAT_3D
-is a multi-static phased array radar system that will be installed at remote
-locations in the most Northern parts of the Scandinavian peninsula. The system
-will be operated by and be an integral part of the EISCAT Scientific
-Association.
+[EISCAT_3D](https://eiscat3d.se) is an environmental research infrastructure on
+the European ESFRI roadmap. It is proposed as an international research
+infrastructure using the incoherent scatter technique to study the upper
+atmosphere above the Arctic in order to investigate how the Earth's atmosphere
+is coupled to space. EISCAT_3D is a multi-static phased array radar system that
+will be installed at remote locations in the most Northern parts of the
+Scandinavian peninsula. The system will be operated by and be an integral part
+of the EISCAT Scientific Association.
 
 The e-infrastructure challenges for EISCAT_3D include finding cost-efficient
 state of the art solutions for on-site computing and establishing network
