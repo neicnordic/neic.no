@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Hjörleifur Sveinbjörnsson
 home: <a href="https://www.rhnet.is">RHnet</a>
-country: "NO"
+country: "IS"
 photo:
 email: hs@hi.is
 phone:
