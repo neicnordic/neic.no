@@ -105,9 +105,9 @@ var GCal = {
     URLs must start with the protocol http:// or https://.
 
     Examples:
-    more info: https://www.neic.no
-    MORE INFO: https://www.neic.no/training/upcoming including dates!
-    Website: http://www.neic.no/activities/tryggve
+    more info: https://neic.no
+    MORE INFO: https://neic.no/training/upcoming including dates!
+    Website: http://neic.no/tryggve
   */
   url(event, linkPrefs = this.defaultLinkPrefs) {
     for (var j in linkPrefs) {

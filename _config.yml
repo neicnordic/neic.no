@@ -30,7 +30,7 @@ defaults:
 collections:
   activities:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
   people:
     output: true
     permalink: /:collection/:path/

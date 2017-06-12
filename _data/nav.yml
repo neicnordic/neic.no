@@ -21,7 +21,7 @@ main:
     text: 'Training'
   - url: 'https://wiki.neic.no'
     text: 'Wiki'
-  - url: '/activities/office/'
+  - url: '/office/'
     text: 'Contact'
   - url: '/api/'
     text: 'API'
