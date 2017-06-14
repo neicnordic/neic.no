@@ -1,0 +1,51 @@
+---
+title: NeIC 2017: Crossing boundaries - changing the world
+summary: "More than 200 technical experts, researchers, and decision-makers in computing and storage joined forces at the NeIC 2017 conference. The event took place in Umeå, Sweden from 29 May – 1 June and included both workshops and conference sessions with high-profile speakers from academia and industry."
+photo: /assets/images/news/NeIC-2017_Gudmund_Hoest_small.jpg
+---
+
+# NeIC 2017: Crossing boundaries - changing the world
+
+**More than 200 technical experts, researchers, and decision-makers in computing and storage joined forces at the NeIC 2017 conference. The event took place in Umeå, Sweden from 29 May – 1 June and included both workshops and conference sessions with high-profile speakers from academia and industry.**
+
+Written by Tor Martin Nilsen, NordForsk
+
+NeIC has hosted the large bi-annual conference twice before, in 2013 in Trondheim and 2015 in Espoo, to bringing together the Nordic eInfrastructure community to discuss, develop ideas and prepare for the future. This year Umeå was the place to be. The event was hosted and organised by NeIC and the Swedish National Infrastructure for Computing (SNIC ).
+
+During the first two days, attendees could participate in a wide variety of workshops. The workshops have been a popular part of the last two NeIC conferences, and the sessions this year included containers, data management, dCache, offensive security, sensitive data and bioethics of databanks and data sharing (held by the Nordic Committee on Bioethics). [See all the workshop presentations here.](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFckpldHVwNm5BMms) 
+
+The two subsequent days were dedicated to the official NeIC 2017 conference, with sessions on society, science and technology on the first day, and industry and online computing as the concluding part of the final day.
+
+<img class="smallpic" src="/assets/images/news/NeIC-2017_Bjorn_Hellerod_WEB_small.png">
+
+The opening session focused on the significance and importance of cross-border eInfrastructure collaboration in the Nordic region and the first talk was held by Björn Halleröd, Secretary General of the Council for Research Infrastructures at the Swedish Research Council. 
+
+He asked how the Swedish Research Council, as a funding agency, can help to further develop the national eInfrastructure, SNIC, and spoke about the kinds of challenges that other research infrastructures are facing and that will affect the development of SNIC. Halleröd concluded that no country can or should meet eInfrastructure demands on its own, and that we need to cooperate to build capacity and to utilise the capacity we build. 
+
+<img class="smallpic" src="/assets/images/news/NeIC-2017_Hans_Karlsson_small.png">
+
+Fittingly, Hans Karlsson, Director of SNIC, took the stage after Halleröd. He started by explaining the formulation of a new SNIC and discussed how SNIC, from its perspective, can and will continue to collaborate within Sweden, the Nordic countries, Europe and with the rest of the world.
+
+“By collaborating across the borders, both geographically and scientifically, we will have the possibility to change and expand the eInfrastructure environment by sharing resources, knowledge and experiences. SNIC, as the national Swedish provider of eInfrastructure, aims to give the Swedish researchers the necessary tools and resources to do research on the highest international level, through collaborations within Sweden, between the Nordic countries and on the European level”, stated Karlsson.
+
+<img class="smallpic" src="/assets/images/news/NeIC-2017_Gunnel_Gustafsson_small.png">
+
+Professor Gunnel Gustafsson, Director of NordForsk, the third opening session speaker, gave a talk on the opportunities for increased Nordic research infrastructure collaboration. NordForsk has been the host organisation for NeIC since 2012 and professor Gustafsson stated that since then, NeIC's activities have expanded widely (from about 10 to at least 40 full time equivalent positions) and she believed that NeIC could become a model for eInfrastructure cooperation in the Nordic region and beyond. 
+
+Next up was NeIC Director Gudmund Høst, who started his presentation by looking back on five years of NeIC, offering insights into its culture, ongoing collaborations and some of NeIC’s achievements. 
+
+He went on to outline some of the possible future directions for NeIC, envisioning NeIC as a potential global role model for cross-border distributed and sustainable eInfrastructure services.
+
+<img class="smallpic" src="/assets/images/news/NeiC-2017_Barend_Mons_small.png">
+
+Professor Barend Mons, the Scientific Director of the Netherlands Bioinformatics Centre (NBIC) and Chair of the High Level Expert Group on the European Open Science Cloud gave the keynote presentation of the opening session. Mons gave an interesting and entertaining presentation on how the European Open Science Cloud, the FAIR principles, and their subsequent implementation, will support the ambition to cross borders and change science in fundamental ways to the benefit of society. 
+
+The conference sessions continued throughout the afternoon, before NeIC 2017 was concluded with the final sessions and NeIC prizes the following day. A wide range of acclaimed speakers shared their knowledge from stage during these sessions, among them Antti Pursula (NeIC Tryggve), Gun Peggy Knudsen (Norwegian Institute of Public Health), Gard Thomassen (University of Oslo), Niklas Blomberg (ELIXIR), Kyle Chard (UChicago and Argonne), Anders Kofod-Petersen (DABAI), and Jørn Kristiansen (Norwegian Meteorological Institute).   
+
+[See the complete programme](http://neic2017.nordforsk.org/schedule/)
+[See all the workshop presentations here](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFckpldHVwNm5BMms) 
+
+<span class="discreet">
+Text: Tor Martin Nilsen/NordForsk
+Photo: Terje Heiestad
+</span>
