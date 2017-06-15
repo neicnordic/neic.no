@@ -34,7 +34,7 @@ groups:
     minutes: https://wiki.neic.no/int/Category:NLCG_Meetings
     frequency: 4 per year
   nt1-sg:
-    name: Steerig Group
+    name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:NT1_steering_group_meetings
     frequency: 4 per year
   nt1-po:
