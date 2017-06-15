@@ -20,7 +20,7 @@ groups:
   nt1-sg:
     role: Chair
   nlcg:
-    role: Ex officio, activity owner
+    role: Ex officio, Activity owner
   glenna2-sg:
     role: Chair
   glenna2-po:
