@@ -17,6 +17,10 @@ groups:
     role: Coordination
   nt1-po:
     role: Activity owner
+  nt1-sg:
+    role: Chair
+  nlcg:
+    role: Ex officio, activity owner
   glenna2-sg:
     role: Chair
   glenna2-po:

@@ -14,9 +14,15 @@ links:
   - url: https://wiki.neic.no/wiki/Nordic_WLCG_tier-1_facility
     text: External wiki
     description: External documentation, manuals and guides.
+  - url: http://wlcg-sam.cern.ch/reports/
+    text: WLCG reports
+    description: WLCG reports on availability and reliability, including NDGF-T1
   - url: https://wiki.neic.no/int/NeIC_NT1
     text: Internal wiki
     description: Internal working documents.
+  - url: https://source.coderefinery.org/dmytrok/NT1/issues
+    text: Action points
+    description: Internal action point tracking.
 groups:
   nt1:
     name: Team
@@ -26,6 +32,10 @@ groups:
     name: NLCG committee
     description: Governance. Nordic LGC computing grid committee.
     minutes: https://wiki.neic.no/int/Category:NLCG_Meetings
+    frequency: 4 per year
+  nt1-sg:
+    name: Steerig Group
+    minutes: https://wiki.neic.no/wiki/Category:NT1_steering_group_meetings
     frequency: 4 per year
   nt1-po:
     name: Management

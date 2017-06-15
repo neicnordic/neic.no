@@ -14,6 +14,8 @@ groups:
     finished: yes
   nt1-po:
     role: Activity leader
+  nt1-sg:
+    role: Ex officio, Activity leader
   nlcg:
     role: Ex officio, Activity leader
   nt1:

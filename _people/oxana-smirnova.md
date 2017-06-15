@@ -11,6 +11,8 @@ on_contract: yes
 groups:
   nt1:
     role: CERN liaison
+  nt1-sg:
+    role: CERN liaison
   nlcg:
     role: Ex officio, Secretary
 ---
