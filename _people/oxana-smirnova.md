@@ -10,9 +10,9 @@ phone: "+46 709 22 46 57"
 on_contract: yes
 groups:
   nt1:
-    role: CERN liaison
+    role: CERN Liaison
   nt1-sg:
-    role: Member, user and CERN representative
+    role: Member, User and CERN representative
   nlcg:
     role: Ex officio, Secretary
 ---
