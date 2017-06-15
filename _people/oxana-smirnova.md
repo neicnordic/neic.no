@@ -12,7 +12,7 @@ groups:
   nt1:
     role: CERN liaison
   nt1-sg:
-    role: CERN liaison
+    role: Member, user and CERN representative
   nlcg:
     role: Ex officio, Secretary
 ---
