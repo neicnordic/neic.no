@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Juha Tornroos
+name: Juha Törnroos
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
