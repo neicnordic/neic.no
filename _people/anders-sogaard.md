@@ -5,7 +5,7 @@ name: Anders Søgaard
 home: <a href="http://diku.dk/english/">DIKU</a>
 country: "DK"
 photo:
-email:
+email: soegaard@di.ku.dk
 phone:
 on_contract: no
 groups:

@@ -5,7 +5,7 @@ name: Yves Scherrer
 home: <a href="http://www.helsinki.fi/modernlanguages/">UOH, DML</a>
 country: "FI"
 photo:
-email:
+email: yves.scherrer@helsinki.fi
 phone:
 on_contract: yes
 groups:

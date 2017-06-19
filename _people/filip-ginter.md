@@ -5,7 +5,7 @@ name: Filip Ginter
 home: <a href="http://bionlp.utu.fi/index.html">BioNLP</a>
 country: "FI"
 photo:
-email:
+email: ginter@cs.utu.fi
 phone:
 on_contract: yes
 groups:

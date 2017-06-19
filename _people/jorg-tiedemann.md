@@ -5,7 +5,7 @@ name: Jörg Tiedemann
 home: <a href="http://www.helsinki.fi/modernlanguages/">UOH, DML</a>
 country: "FI"
 photo:
-email:
+email: jorg.tiedemann@helsinki.fi
 phone:
 on_contract: yes
 groups:

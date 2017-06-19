@@ -5,7 +5,7 @@ name: Gongbo Tang
 home: <a href="http://www.lingfil.uu.se/">LINGFIL</a>
 country: "SE"
 photo:
-email:
+email: gongbo.tang@lingfil.uu.se
 phone:
 on_contract: yes
 groups:
