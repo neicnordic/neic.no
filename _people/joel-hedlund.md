@@ -18,14 +18,14 @@ groups:
   tryggve-po:
     role: Project owner
     finished: yes
-  tryggve2:
-    role: Scientific manager
-  tryggve2-pm:
-    role: Scientific manager
-  tryggve2-rg:
-    role: Scientific manager, Chair
   tryggve2-sg:
     role: Scientific manager, Secretary
+  tryggve2-rg:
+    role: Scientific manager, Chair
+  tryggve2-pm:
+    role: Scientific manager
+  tryggve2:
+    role: Scientific manager
   project-analysis:
     role: Project leader
   project-analysis-rg:
