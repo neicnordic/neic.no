@@ -5,7 +5,7 @@ name: Torben Lauritzen
 home: <a href="http://bios.au.dk/en/">BIOS</a>
 country: "DK"
 photo:
-email:
+email: tol@bios.au.dk
 phone:
 on_contract: yes
 groups:

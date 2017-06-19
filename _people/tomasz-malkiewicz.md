@@ -31,6 +31,10 @@ groups:
     role: Project owner, Chair
   nlpl-po:
     role: Project owner
+  deepdive-sg:
+    role: Project owner, Chair
+  deepdive-po:
+    role: Project owner, Chair
   e3ds-sg:
     role: Project owner, Chair
   e3ds-po:

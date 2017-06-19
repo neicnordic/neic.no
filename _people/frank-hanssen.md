@@ -5,7 +5,7 @@ name: Frank Hanssen
 home: <a href="http://www.nina.no/english/Home">NINA</a>
 country: "NO"
 photo:
-email:
+email: frank.hanssen@nina.no
 phone:
 on_contract: yes
 groups:

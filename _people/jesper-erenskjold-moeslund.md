@@ -5,7 +5,7 @@ name: Jesper Erenskjold Moeslund
 home: <a href="http://bios.au.dk/en/">BIOS</a>
 country: "DK"
 photo:
-email:
+email: jesper.moeslund@bios.au.dk
 phone:
 on_contract: yes
 groups:

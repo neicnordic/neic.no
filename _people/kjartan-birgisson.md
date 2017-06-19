@@ -5,7 +5,7 @@ name: Kjartan Birgisson
 home: <a href="http://en.ni.is/">IINH</a>
 country: "IS"
 photo:
-email:
+email: kjartan@ni.is
 phone:
 on_contract: yes
 groups:

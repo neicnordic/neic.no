@@ -5,7 +5,7 @@ name: Jesper Bladt
 home: <a href="http://bios.au.dk/en/">BIOS</a>
 country: "DK"
 photo:
-email:
+email: jb@bios.au.dk
 phone:
 on_contract: yes
 groups:
