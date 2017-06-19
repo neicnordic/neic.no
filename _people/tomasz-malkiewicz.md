@@ -26,7 +26,8 @@ groups:
   dellingr-po:
     role: Project owner
   dellingr:
-    role: Project owner
+    role: Project manager, Acting
+    finished: yes
   nlpl-sg:
     role: Project owner, Chair
   nlpl-po:
