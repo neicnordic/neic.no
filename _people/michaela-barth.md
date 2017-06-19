@@ -34,4 +34,8 @@ groups:
     role: Chair
   ratatosk-po:
     role: Activity owner
+  neic2015-sg:
+    role: Chair
+  neic2015-po:
+    role: Project owner, Chair
 ---

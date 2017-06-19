@@ -10,4 +10,5 @@ phone:
 on_contract:
 groups:
   dellingr-sg:
+  neic2015-prg:
 ---

@@ -11,4 +11,5 @@ on_contract: no
 groups:
   nlcg:
     role: Infrastructure
+  neic2015-prg:
 ---

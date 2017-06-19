@@ -38,6 +38,12 @@ groups:
     role: Ex officio
   neic2017-org:
     role: Program committee chair
+  neic2015-pc:
+    role: Chair
+  neic2015-prg:
+    role: Ex officio
+  neic2015-org:
+    role: Program committee chair
   deepdive-sg:
     role: Chair
     finished: yes

@@ -17,4 +17,10 @@ groups:
     role: Ex officio, Project leader
   neic2017-org:
     role: Ex officio, Project leader
+  neic2015-po:
+    role: Project leader
+  neic2015-pc:
+    role: Project leader, Secretary
+  neic2015-org:
+    role: Project leader, Chair
 ---

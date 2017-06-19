@@ -22,6 +22,8 @@ groups:
   project-analysis-sg:
   project-analysis-po:
     role: Project owner
+  neic2015-prg:
+    role: Chair
 
 ---
 Gudmund Høst is the Director of NeIC, and is employed at

@@ -15,4 +15,5 @@ groups:
     role: Member, User and CERN representative
   nlcg:
     role: Ex officio, Secretary
+  neic2015-pc:
 ---

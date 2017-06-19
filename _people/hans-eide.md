@@ -12,4 +12,5 @@ groups:
   provider-forum:
   neic2017-prg:
   coderefinery-sg:
+  neic2015-pc:
 ---
