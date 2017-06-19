@@ -12,9 +12,9 @@ groups:
   xt:
     role: ADM Coordinator
   neic2017-sg:
-    role: Ex officio, Project leader (outgoing)
+    role: Ex officio, Project leader
   neic2017-pc:
-    role: Ex officio, Project leader (outgoing)
+    role: Ex officio, Project leader
   neic2017-org:
-    role: Ex officio, Project leader (outgoing)
+    role: Ex officio, Project leader
 ---
