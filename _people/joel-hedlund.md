@@ -12,8 +12,7 @@ groups:
   xt:
     role: Senior advisor
   tryggve-sg:
-    role: Chair
-    finished: yes
+    role: Scientific manager, Secretary
   tryggve-rg:
     role: Scientific manager
   tryggve-po:
