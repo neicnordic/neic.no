@@ -5,7 +5,7 @@ name: Yongqi Gao
 home: <a href="https://www.nersc.no/">NERSC</a>
 country: "NO"
 photo:
-email:
+email: yongqi.gao@nersc.no
 phone:
 on_contract: no
 groups:

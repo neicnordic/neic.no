@@ -5,7 +5,7 @@ name: Risto Makkonen
 home: <a href="http://www.physics.helsinki.fi/english/">UoHel</a>
 country: "FI"
 photo:
-email:
+email: risto.makkonen@helsinki.fi
 phone:
 on_contract: no
 groups:

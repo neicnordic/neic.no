@@ -5,7 +5,7 @@ name: Petteri Uotila
 home: <a href="http://en.ilmatieteenlaitos.fi/">FMI</a>
 country: "FI"
 photo:
-email:
+email: petteri.uotila@fmi.fi
 phone:
 on_contract: no
 groups:

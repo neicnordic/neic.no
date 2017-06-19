@@ -5,7 +5,7 @@ name: Hamish Struthers
 home: <a href="https://www.nsc.liu.se/">NSC</a>
 country: "SE"
 photo:
-email:
+email: struthers@nsc.liu.se
 phone:
 on_contract: no
 groups:
