@@ -13,8 +13,9 @@ groups:
     role: Senior advisor
   tryggve-sg:
     role: Chair
+    finished: yes
   tryggve-rg:
-    role: Advisor
+    role: Scientific manager
   tryggve-po:
     role: Project owner
     finished: yes

@@ -5,7 +5,7 @@ name: Jeppe Klok Due
 home: <a href="http://www.registerforskning.dk/">KOR</a>
 country: DK
 photo:
-email:
+email: jkd@sa.dk
 phone:
 on_contract: no
 groups:

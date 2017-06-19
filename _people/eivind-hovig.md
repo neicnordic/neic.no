@@ -5,7 +5,7 @@ name: Eivind Hovig
 home: <a href="https://uio.no">UiO</a>
 country: "NO"
 photo:
-email:
+email: ehovig@ifi.uio.no
 phone:
 on_contract: no
 groups:

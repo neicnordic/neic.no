@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Marjut Salokannel
-home:
+home: <a href="http://sareco.fi/">Sareco</a>
 country: FI
 photo:
-email:
+email: marjut.salokannel@sareco.fi
 phone:
 on_contract: no
 groups:

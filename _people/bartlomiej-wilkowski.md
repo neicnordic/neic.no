@@ -5,7 +5,7 @@ name: Bartlomiej Wilkowski
 home: <a href="https://www.ssi.dk">SSI</a>
 country: DK
 photo:
-email:
+email: baw@ssi.dk
 phone:
 on_contract: no
 groups:

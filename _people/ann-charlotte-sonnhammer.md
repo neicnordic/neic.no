@@ -5,7 +5,7 @@ name: Ann-Charlotte Sonnhammer
 home: <a href="http://www.snic.vr.se/">SNIC</a>
 country: SE
 photo:
-email: 
+email: ann-charlotte.sonnhammer@it.uu.se
 phone:
 on_contract: no
 groups:
