@@ -5,7 +5,7 @@ name: Ville-Matti Riihikoski
 home: <a href="https://www.luomus.fi/en">LUOMUS</a>
 country: "FI"
 photo:
-email:
+email: ville-matti.riihikoski@helsinki.fi
 phone:
 on_contract: yes
 groups:

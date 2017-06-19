@@ -5,7 +5,7 @@ name: Gunnar Bøe
 home: <a href="https://www.sigma2.no/">Sigma2</a>
 country: "NO"
 photo:
-email:
+email: gunnar.boe@uninett.no
 phone:
 on_contract: no
 groups:
