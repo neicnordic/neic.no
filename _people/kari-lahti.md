@@ -5,7 +5,7 @@ name: Kari Lahti
 home: <a href="https://www.luomus.fi/en">LUOMUS</a>
 country: "FI"
 photo:
-email:
+email: kari.lahti@tut.fi
 phone:
 on_contract: no
 groups:
