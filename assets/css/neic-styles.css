@@ -1169,7 +1169,7 @@ section.single-activities .project-box{
 }
 .team .no-space {
     font-size: 12px;
-    font-weight: 600;
+    padding-left: 2em;
 }
 
 .top {
@@ -1667,21 +1667,21 @@ section.contact .team .team-nav-bar .right-bar form select.custom{
     background-repeat: no-repeat;
     background-position: 98% 50%;
 }
-section.contact .team .contact-persion {
+section.contact .team .contact-person {
     padding: 50px 0px;
 }
-section.contact .team .contact-persion .contact-photo{
+section.contact .team .contact-person .contact-photo{
     width: 255px;
     height: 225px;
     float: left;
     margin-right: 25px;
 }
-section.contact .team .contact-persion .contact-photo img{}
-section.contact .team .contact-persion .contact-persion-data{
+section.contact .team .contact-person .contact-photo img{}
+section.contact .team .contact-person .contact-person-data{
     width: auto;
     padding-left: 280px;
 }
-section.contact .team .contact-persion .contact-persion-data .name{
+section.contact .team .contact-person .contact-person-data .name{
     margin: -10px 0 0px;
     color: #008c88;
     text-transform: uppercase;
@@ -1691,7 +1691,7 @@ section.contact .team .contact-persion .contact-persion-data .name{
     letter-spacing: 2px;
 }
 
-section.contact .team .contact-persion .contact-persion-data .location{
+section.contact .team .contact-person .contact-person-data .location{
     margin: -5px 0 0px;
     color: #000;
     font-weight: 700;
@@ -1700,9 +1700,7 @@ section.contact .team .contact-persion .contact-persion-data .location{
     letter-spacing: 1px;
 }
 
-section.contact .team .contact-persion .contact-persion-data .email a {color: #008c88;}
-section.contact .team .contact-persion .contact-persion-data .phone a {color: #008c88;}
-section.contact .team .contact-persion .contact-persion-data .email{
+section.contact .team .contact-person .contact-person-data .email{
     margin: 10px 0 5px;
     color: #008c88;
     font-weight: 700;
@@ -1713,7 +1711,7 @@ section.contact .team .contact-persion .contact-persion-data .email{
     background-repeat: no-repeat;
     background-position: 0% 50%;
 }
-section.contact .team .contact-persion .contact-persion-data .phone{
+section.contact .team .contact-person .contact-person-data .phone{
     color: #008c88;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
@@ -1724,7 +1722,7 @@ section.contact .team .contact-persion .contact-persion-data .phone{
     background-repeat: no-repeat;
     background-position: 0% 50%;
 }
-section.contact .team .contact-persion .contact-persion-data .head{
+section.contact .team .contact-person .contact-person-data .head{
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
@@ -1732,13 +1730,13 @@ section.contact .team .contact-persion .contact-persion-data .head{
     margin: 0px 0 0;
     letter-spacing: 2px;
 }
-section.contact .team .contact-persion .contact-persion-data .head-p{    text-transform: uppercase;
+section.contact .team .contact-person .contact-person-data .head-p{    text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     margin: 35px 0 0;
     letter-spacing: 2px;}
-section.contact .team .contact-persion .contact-persion-data hr{border-top: 2px solid #a1a1a1;}
+section.contact .team .contact-person .contact-person-data hr{border-top: 2px solid #a1a1a1;}
 section.contact .team .team-list-block {
     padding: 20px 0px;
 }
@@ -1794,7 +1792,7 @@ a[href^="https://www.google.com/maps"] {
 .gm-bundled-control .gmnoprint {
     display: block;
 }
-.contact-persion-data .top {margin-top: 15px!important;}
+.contact-person-data .top {margin-top: 15px!important;}
 .read-more-block {overflow: hidden;}
 section.green-box-block-about .green-box a.btn span {display: none;}
 video.bg-video {
