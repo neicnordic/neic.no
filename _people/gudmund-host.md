@@ -17,6 +17,8 @@ groups:
     role: Observer
   neic2017-sg:
     role: Project owner, Chair
+  neic2017-prg:
+    role: Chair
   project-analysis-sg:
   project-analysis-po:
     role: Project owner

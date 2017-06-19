@@ -5,7 +5,7 @@ name: Marianne Sloth Madsen
 home: <a href="http://www.dmi.dk/en/vejr/">DMI</a>
 country: "DK"
 photo:
-email:
+email: msm@dmi.dk
 phone:
 on_contract: yes
 groups:
