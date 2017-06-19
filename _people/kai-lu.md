@@ -5,7 +5,7 @@ name: Kai Lu
 home: <a href="https://www.nsc.liu.se/">NSC</a>
 country: "SE"
 photo:
-email:
+email: kai.lu@liu.se
 phone:
 on_contract: yes
 groups:

@@ -5,7 +5,7 @@ name: Declan O'Donnell
 home: <a href="http://en.ilmatieteenlaitos.fi/">FMI</a>
 country: "FI"
 photo:
-email:
+email: declan.odonnell@fmi.fi
 phone:
 on_contract: no
 groups:

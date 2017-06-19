@@ -5,7 +5,7 @@ name: Klaus Wyser
 home: <a href="https://www.smhi.se/en">SMHI</a>
 country: "SE"
 photo:
-email:
+email: klaus.wyser@smhi.se
 phone:
 on_contract: yes
 groups:
