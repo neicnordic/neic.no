@@ -5,7 +5,7 @@ name: Frédéric Haziza
 home: <a href="https://nbis.se/">NBIS</a>
 country: SE
 photo:
-email: frederic.haziza@bils.se
+email: frederic.haziza@nbis.se
 phone:
 on_contract: yes
 groups:

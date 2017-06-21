@@ -5,7 +5,7 @@ name: Pontus Freyhult
 home: <a href="https://nbis.se/">NBIS</a>
 country: SE
 photo:
-email: pontus.freyhult@it.uu.se
+email: pontus.freyhult@nbis.se
 phone:
 on_contract: yes
 groups:
