@@ -4,7 +4,7 @@ include: person
 name: Niclas Jareborg
 home: <a href="https://nbis.se/">NBIS</a>
 country: SE
-photo:
+photo: assets/images/people/niclas-jareborg.jpg
 email: niclas.jareborg@nbis.se
 phone:
 on_contract: yes
