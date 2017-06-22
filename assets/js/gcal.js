@@ -27,8 +27,8 @@ var GCal = {
     )
   },
 
-  eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs, urlRepl = '<a href="$1">$1</a>$2') {
-    var eventDescriptionHTML = this.linkify(event.description || "", urlRepl);
+  eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs) {
+    var eventDescriptionHTML = this.linkify(event.description || "");
     return {
       title: this.title(event),
       hashtags: this.hashtags(event),
@@ -132,9 +132,12 @@ var GCal = {
 
     Use repl to define how links will be generated ($1 is the url).
   */
-  linkify(eventDescription, repl = '<a href="$1">$1</a>$2') {
-    var r = /(https?:\/\/\S+?)(\.?([\s\n]|$))/gi;
-    return eventDescription.replace(r, repl)
+  linkify(eventDescription) {
+    var http_s = /(https?:\/\/\S+?)(\.?([\s\n]|$))/gi;
+    var email = /([A-Za-z1-9-._]+@[A-Za-z1-9-._]+\.[A-Za-z1-9]+)/gi;
+    return eventDescription
+      .replace(http_s, '<a href="$1">$1</a>$2')
+      .replace(email, '<a href="mailto:$1">$1</a>');
   },
 
   /*
