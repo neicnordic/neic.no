@@ -4,23 +4,22 @@ include: activity
 name: Project analysis
 type: Project
 leader: joel-hedlund
-phase: Execution
+phase: Conclusion
 start: 2014-04-01
 end: 2017-06-30
-results: "#results"
+results: https://goo.gl/DTJZyz
 outreach: "#outreach"
 outcome-statements:
   - Develop a framework for lightweight project analysis that is usable also for
     operations.
   - Discover good working practices and bring them into the spotlight.
-  - Assess structure and status of ongoing activities.
-  - Deliver deviation lists to XT/activities for follow-up.
 links:
-  - text: External wiki
-    url: https://wiki.neic.no/Project_analysis
-  - text: Working documents
-    url: https://goo.gl/HkKRcL
-    description: Internal working documents.
+  - text: Project analysis report
+    description: with recommendations.
+    url: https://goo.gl/5S4wr6
+  - text: Project governance process
+    description: overview in graphics and text.
+    url: https://wiki.neic.no/Project_process#Overview
   - text: Internal wiki
     url: https://wiki.neic.no/int/Project_analysis
     description: Internal working documents.
@@ -54,7 +53,6 @@ assurance and continuous improvement of NeIC as an organization.
   projects and operations.
 * Do it openly (eg Google drive folder open for comments by all).
 * Do it as a matter of course. Do not wait until there is a problem.
-* Questionnaires and interviews with activity leads and owners.
 * Open invitation for spontaneous feedback from anyone involved in activities.
 
 ### Roadmap
@@ -67,9 +65,6 @@ assurance and continuous improvement of NeIC as an organization.
 2017-09-05  Deadline for implementation of proposed actions.  
 2017-09-05  Info review; Internal document deadline for NeIC board.  
 2017-09-21  NeIC board meeting.
-
-### Results
-No results yet.
 
 ### Outreach
 This is primarily an internal activity. Results will be made public.
