@@ -12,6 +12,8 @@ outreach: https://wiki.neic.no/wiki/EISCAT_3D_support#Meetings_with_external_pro
 documents:
   - text: Project plan
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d2/E3DS_ProjectPlan_20_03_2017.pdf
+  - text: Collaboration Agreement
+    url: https://wiki.neic.no/w/ext/img_auth.php/4/48/Signed_E3DS_ca.pdf
 links:
   - url: https://wiki.neic.no/wiki/EISCAT_3D_support
     text: External wiki
