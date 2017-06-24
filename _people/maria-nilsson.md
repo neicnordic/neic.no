@@ -8,6 +8,7 @@ photo:
 email: maria-nilsson@nordforsk.org
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-rg:
     role: <a href="https://www.nordforsk.org">NordForsk</a>, Register based research

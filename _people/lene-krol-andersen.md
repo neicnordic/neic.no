@@ -8,6 +8,7 @@ photo: assets/images/people/lene-krol-andersen.jpg
 email:  lene.krol.andersen@deic.dk
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   poco-wg:
   coderefinery-sg:

@@ -8,6 +8,7 @@ photo:
 email: john.white@cern.ch
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   dellingr:
     role: Project leader

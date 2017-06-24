@@ -8,7 +8,11 @@ photo:
 email: contact@nixon-security.se
 phone:
 on_contract: no
+has_been_on_contract: yes
 groups:
+  nt1:
+    finished: yes
+    role: Security officer
 ---
 With over 10 years of experience in IT security, Leif Nixon was involved with
 the NDGF Tier-1 since its inception. During his time at the National

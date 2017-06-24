@@ -8,6 +8,7 @@ photo: assets/images/people/gudmund-host.jpg
 email: gudmund.host@nordforsk.org
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Director

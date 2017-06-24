@@ -8,6 +8,7 @@ photo:
 email: Tommi.Nyronen@csc.fi
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-sg:
   tryggve2-sg:

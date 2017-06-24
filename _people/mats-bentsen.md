@@ -8,6 +8,7 @@ photo:
 email: Mats.Bentsen@uni.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   nicest-sg:
 ---

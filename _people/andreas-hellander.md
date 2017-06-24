@@ -8,6 +8,7 @@ photo:
 email: andreas.hellander@it.uu.se
 phone:
 on_contract:
+has_been_on_contract: no
 groups:
   glenna2-sg:
 ---

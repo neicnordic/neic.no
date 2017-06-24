@@ -8,6 +8,7 @@ photo: assets/images/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
     role: Project leader

@@ -8,6 +8,7 @@ photo:
 email: jkd@sa.dk
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-rg:
     role: <a href="http://deic.dk">DeIC</a>, Register based research

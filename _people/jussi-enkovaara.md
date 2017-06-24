@@ -8,6 +8,7 @@ photo:
 email: jussi.enkovaara@csc.fi
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   poco-wg:
   ratatosk-sg:

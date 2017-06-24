@@ -8,6 +8,7 @@ photo:
 email: struthers@nsc.liu.se
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   nicest-sg:
 ---

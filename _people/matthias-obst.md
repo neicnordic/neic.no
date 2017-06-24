@@ -8,6 +8,7 @@ photo:
 email: matthias.obst@marine.gu.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   deepdive-sg:
   deepdive:

@@ -8,6 +8,7 @@ photo:
 email: hs@hi.is
 phone:
 on_contract:
+has_been_on_contract:
 groups:
   dellingr:
   glenna2:

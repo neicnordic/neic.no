@@ -8,6 +8,7 @@ photo:
 email: emanuel@ifi.uio.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nlpl:
 ---

@@ -8,6 +8,7 @@ photo:
 email:  Haavard.Helstrup@ift.uib.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   nlcg:
     role: Experiments

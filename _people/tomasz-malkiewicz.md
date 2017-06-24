@@ -8,6 +8,7 @@ photo:
 email: tomasz.malkiewicz@csc.fi
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Executive manager

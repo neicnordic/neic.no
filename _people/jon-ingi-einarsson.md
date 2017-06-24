@@ -8,6 +8,7 @@ photo:
 email: jie@rhnet.is
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   board:
   poco-wg:

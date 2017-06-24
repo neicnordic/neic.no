@@ -8,6 +8,7 @@ photo: assets/images/people/thomas-roblitz.jpg
 email: thomas.roblitz@usit.uio.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Area coordinator, until 2017.

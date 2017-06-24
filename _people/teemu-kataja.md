@@ -8,6 +8,7 @@ photo:
 email: teemu.kataja@csc.fi
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

@@ -8,6 +8,7 @@ photo:
 email: sara.stymne@lingfil.uu.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nlpl:
 ---

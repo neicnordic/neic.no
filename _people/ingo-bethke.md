@@ -8,6 +8,7 @@ photo:
 email: ingo.bethke@uni.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nicest:
 ---

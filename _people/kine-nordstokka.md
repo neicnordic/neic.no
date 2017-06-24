@@ -8,6 +8,7 @@ photo: assets/images/people/kine-nordstokka.jpg
 email: kine.nordstokka@nordforsk.org
 phone: "+47 908 10 670"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Coordinator

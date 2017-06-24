@@ -8,6 +8,7 @@ photo:
 email: ebba@hi.is
 phone:
 on_contract:
+has_been_on_contract: no
 groups:
   dellingr-sg:
   neic2015-prg:

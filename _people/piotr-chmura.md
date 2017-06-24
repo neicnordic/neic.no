@@ -8,6 +8,7 @@ photo:
 email: piotr.chmura@cpr.ku.dk
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

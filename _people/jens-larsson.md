@@ -8,6 +8,7 @@ photo:
 email: jens@ndgf.org
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nt1:
     role: Tier-1 Operations

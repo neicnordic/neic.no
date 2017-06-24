@@ -8,6 +8,7 @@ photo:
 email: allan.zirk@ut.ee
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   deepdive:
 ---

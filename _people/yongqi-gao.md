@@ -8,6 +8,7 @@ photo:
 email: yongqi.gao@nersc.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   nicest-sg:
 ---

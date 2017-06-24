@@ -8,6 +8,7 @@ photo:
 email: nikolai.denissov@csc.fi
 phone: "+358 40 159 0188"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   coderefinery:
 ---

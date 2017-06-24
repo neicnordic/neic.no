@@ -1,5 +1,12 @@
 {% assign people_sorted_by_country = site.people | sort: 'country' %}
-{% assign alumni_sorted_by_country = site.alumni | sort: 'country' %}
+{% assign active_groups = "" %}
+{% for activity in site.activities %}
+  {% unless activity.finished %}
+    {% for group in activity.groups %}
+      {% assign active_groups = active_groups | append: group[0] | append: ',' %}
+    {% endfor %}
+  {% endunless %}
+{% endfor %}
 
 <section class="contact">
   <div id="map"></div>
@@ -68,9 +75,10 @@
               <div class="form-group">
                 <label for="sel1">Filter by:</label>
                 <select v-model="people_filter" class="form-control custom" id="sel1">
+                  <option>All involved</option>
                   <option>Staff</option>
+                  <option>Former staff</option>
                   <option>Everybody</option>
-                  <option>Alumni</option>
                 </select>
                 <div class="clearfix"></div>
               </div>
@@ -97,6 +105,14 @@
                     <ul>
                       {% for person in people_sorted_by_country %}
                         {% if person.on_contract %}
+                          {% assign active = false %}
+                          {% for group in person.groups %}
+                            {% if group[1].finished %}{% continue %}{% endif%}
+                            {% if active_groups contains group[0] %}
+                              {% assign active = true %}
+                            {% endif %}
+                          {% endfor %}
+                          {% unless active %}{% continue %}{% endunless %}
                           {% unless person.country == previous_country %}
                             {% assign previous_country = person.country %}
 
@@ -114,6 +130,45 @@
                           {% endunless %}
                           <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                         {% endif %}
+                      {% endfor %}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div v-if="people_filter === 'All involved'">
+              <div class="col-md-6">
+                <div class="row">
+                  <div class="left-team">
+                    {% assign previous_country = '' %}
+                    {% assign num_countries = 0 %}
+                    <ul>
+                      {% for person in people_sorted_by_country %}
+                        {% assign active = false %}
+                        {% for group in person.groups %}
+                          {% if group[1].finished %}{% continue %}{% endif%}
+                          {% if active_groups contains group[0] %}
+                            {% assign active = true %}
+                          {% endif %}
+                        {% endfor %}
+                        {% unless active %}{% continue %}{% endunless %}
+                        {% unless person.country == previous_country %}
+                          {% assign previous_country = person.country %}
+
+                            {% assign num_countries = num_countries | plus: 1 %}
+                            {% if num_countries == 6 %}  <!-- we need to break the column, hardcoded to put 3 countries "left* -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="row">
+                  <div class="right-team">
+                              {% endif %}
+
+                            <h4>{{ previous_country }}</h4>
+                        {% endunless %}
+                          <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                       {% endfor %}
                     </ul>
                   </div>
@@ -152,19 +207,27 @@
               </div>
             </div>
 
-            <div v-if="people_filter === 'Alumni'">
+            <div v-if="people_filter === 'Former staff'">
               <div class="col-md-6">
                 <div class="row">
                   <div class="left-team">
                     {% assign previous_country = '' %}
                     {% assign num_countries = 0 %}
                     <ul>
-                      {% for person in alumni_sorted_by_country %}
+                      {% for person in people_sorted_by_country %}
+                          {% unless person.has_been_on_contract %}{% continue %}{% endunless %}
+                          {% assign active = false %}
+                          {% for group in person.groups %}
+                            {% if group[1].finished %}{% continue %}{% endif%}
+                            {% if active_groups contains group[0] %}
+                              {% assign active = true %}
+                            {% endif %}
+                          {% endfor %}
+                          {% if active %}{% continue %}{% endif %}
                           {% unless person.country == previous_country %}
                             {% assign previous_country = person.country %}
-
                               {% assign num_countries = num_countries | plus: 1 %}
-                              {% if num_countries == 4 %}  <!-- we need to break the column, hardcoded to put 3 countries "left* -->
+                              {% if num_countries == 6 %}  <!-- we need to break the column, hardcoded to put 5 countries "left* -->
                   </div>
                 </div>
               </div>

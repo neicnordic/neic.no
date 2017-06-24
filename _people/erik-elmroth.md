@@ -8,6 +8,7 @@ photo:
 email:
 phone:
 on_contract:
+has_been_on_contract: no
 groups:
   neic2015-prg:
 ---

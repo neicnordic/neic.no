@@ -8,6 +8,7 @@ photo:
 email: ambach@au.dk
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   ratatosk-po:
     role: Training manager

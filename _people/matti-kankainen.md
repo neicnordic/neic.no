@@ -8,6 +8,7 @@ photo:
 email: matti-kankainen@helsinki.fi
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-rg:
     role: Sequencing infrastructure

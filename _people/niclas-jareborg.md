@@ -8,6 +8,7 @@ photo: assets/images/people/niclas-jareborg.jpg
 email: niclas.jareborg@nbis.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
   neic2017-pc:

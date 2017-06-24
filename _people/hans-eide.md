@@ -8,6 +8,7 @@ photo:
 email: hans.eide@uninett.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   provider-forum:
   neic2017-prg:

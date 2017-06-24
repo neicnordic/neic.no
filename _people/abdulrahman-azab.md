@@ -8,6 +8,7 @@ photo: assets/images/people/abdulrahman-azab.jpg
 email: azab@ifi.uio.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

@@ -8,6 +8,7 @@ photo:
 email:  Farid.Ould-Saada@fys.uio.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   nlcg:
     role: Experiments

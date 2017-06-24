@@ -8,6 +8,7 @@ photo:
 email: jorn.amundsen@uninett.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   dellingr-sg:
 ---

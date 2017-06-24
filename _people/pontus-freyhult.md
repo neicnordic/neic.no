@@ -8,6 +8,7 @@ photo: assets/images/people/pontus-freyhult.jpg
 email: pontus.freyhult@nbis.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

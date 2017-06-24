@@ -8,6 +8,7 @@ photo:
 email: mani@hi.is
 phone:
 on_contract:
+has_been_on_contract: no
 groups:
   dellingr:
 past_engagements:

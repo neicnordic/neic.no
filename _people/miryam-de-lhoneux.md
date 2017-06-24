@@ -8,6 +8,7 @@ photo:
 email: miryam.de_lhoneux@lingfil.uu.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nlpl:
 ---

@@ -8,6 +8,7 @@ photo: assets/images/people/mattias-wadenstein.jpg
 email: maswan@ndgf.org
 phone: "+46 70 796 9462"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: NT1 coordinator, Until 2017-03-31

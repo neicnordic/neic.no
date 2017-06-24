@@ -8,6 +8,7 @@ photo: assets/images/people/oxana-smirnova.jpg
 email: oxana.smirnova@hep.lu.se
 phone: "+46 709 22 46 57"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   nt1:
     role: CERN Liaison

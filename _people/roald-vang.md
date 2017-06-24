@@ -8,6 +8,7 @@ photo:
 email: roald.vang@nina.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   deepdive-sg:
 ---

@@ -8,6 +8,7 @@ photo: assets/images/people/johan-viklund.jpg
 email: johan.viklund@nbis.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

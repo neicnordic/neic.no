@@ -8,6 +8,7 @@ photo:
 email: kgn@sdu.dk
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   provider-forum:
   dellingr-sg:

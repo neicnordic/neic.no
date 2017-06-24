@@ -8,6 +8,7 @@ photo: assets/images/people/radovan-bast.jpg
 email: radovan.bast@uit.no
 phone: "+47 776 44 117"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   coderefinery:
     role: Project leader

@@ -8,6 +8,7 @@ photo:
 email: carl-fredrik.enell@eiscat.se
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   e3ds:
 ---

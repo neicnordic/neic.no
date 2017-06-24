@@ -8,6 +8,7 @@ photo:
 email: starri@ni.is
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   deepdive-sg:
 ---

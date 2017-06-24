@@ -8,6 +8,7 @@ photo:
 email: gurvinder.singh@uninett.no
 phone:
 on_contract:
+has_been_on_contract: no
 groups:
   glenna2:
   glenna:

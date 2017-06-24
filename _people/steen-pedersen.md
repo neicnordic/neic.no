@@ -8,7 +8,9 @@ photo:
 email: sp@adm.dtu.dk
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   board:
+    role: Chair
 ---
 Board member since 2012-01-01.

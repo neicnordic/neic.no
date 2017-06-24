@@ -8,6 +8,7 @@ photo: assets/images/people/jonas-hagberg.jpg
 email: jonas.hagberg@nbis.se
 phone: "+46 706683869"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

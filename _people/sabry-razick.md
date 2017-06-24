@@ -8,6 +8,7 @@ photo:
 email: sabry.razick@usit.uio.no
 phone: "+4793870788"
 on_contract:
+has_been_on_contract: no
 groups:
   coderefinery:
 ---

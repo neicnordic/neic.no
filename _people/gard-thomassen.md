@@ -8,6 +8,7 @@ photo:
 email: g.o.s.thomassen@usit.uio.no
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-rg:
     role: <a href="https://sigma2.no">Sigma2</a>

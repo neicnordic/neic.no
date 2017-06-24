@@ -8,6 +8,7 @@ photo:
 email: sari.lasanen@oulu.fi
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   e3ds:
 ---

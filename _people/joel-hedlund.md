@@ -8,6 +8,7 @@ photo: assets/images/people/joel-hedlund.jpg
 email: joel@nsc.liu.se
 phone: "+46 734 607126"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Senior advisor

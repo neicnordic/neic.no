@@ -8,6 +8,7 @@ photo:
 email: stina.westman@csc.fi
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   data-management-wg:
 ---

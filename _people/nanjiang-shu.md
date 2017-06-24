@@ -8,6 +8,7 @@ photo: assets/images/people/nanjiang-shu.jpg
 email: nanjiang.shu@nbis.se
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
 ---

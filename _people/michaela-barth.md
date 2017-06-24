@@ -8,6 +8,7 @@ photo:
 email: caela@pdc.kth.se
 phone: "+46 87 90 78 91"
 on_contract: yes
+has_been_on_contract: yes
 groups:
   xt:
     role: Executive manager

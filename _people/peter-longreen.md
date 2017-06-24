@@ -8,6 +8,7 @@ photo:
 email: peterl@cbs.dtu.dk
 phone:
 on_contract: no
+has_been_on_contract: no
 groups:
   tryggve-sg:
   tryggve2-sg:

@@ -8,6 +8,7 @@ photo:
 email: m.f.iozzi@usit.uio.no
 phone:
 on_contract: yes
+has_been_on_contract: yes
 groups:
   tryggve:
   tryggve2:
