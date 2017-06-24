@@ -26,6 +26,10 @@ groups:
     role: Chair
   glenna2-po:
     role: Project owner
+  glenna-sg:
+    role: Chair
+  glenna-po:
+    role: Project owner
   coderefinery-sg:
     role: Chair
   coderefinery-po:

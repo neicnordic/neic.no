@@ -14,4 +14,5 @@ groups:
   neic2017-prg:
   coderefinery-sg:
   neic2015-pc:
+  glenna-sg:
 ---

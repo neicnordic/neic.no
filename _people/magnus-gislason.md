@@ -11,4 +11,6 @@ on_contract:
 has_been_on_contract: no
 groups:
   glenna2-sg:
+  glenna-sg:
+  glenna:
 ---

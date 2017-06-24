@@ -20,5 +20,6 @@ groups:
     role: Project leader
   glenna-sg:
     role: Project leader, Observer
-past_engagements:
+  glenna-po:
+    role: Project leader
 ---
