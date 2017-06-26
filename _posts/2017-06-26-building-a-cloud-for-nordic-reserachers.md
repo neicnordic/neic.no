@@ -44,7 +44,7 @@ In addition, Glenna has supported the meteorological institutes in Finland and N
 
 # Weather forecasting moves into the cloud
 
-**”“The most important thing is that this was a learning exercise and a successful proof-of-concept. We learnt that it can be surprisingly easy to install heavy weather forecasting programs in a cloud environment”, says researcher Niko Sokka at the Finnish Meteorological Institute.**
+**”The most important thing is that this was a learning exercise and a successful proof-of-concept. We learnt that it can be surprisingly easy to install heavy weather forecasting programs in a cloud environment”, says researcher Niko Sokka at the Finnish Meteorological Institute.**
 
 Modern weather forecasting relies heavily on measurements of atmospheric factors like temperatures, humidity, wind speeds and so on, which are entered into massive computer models designed to calculate how the weather is going to develop in specific regions. One of the regional atmosphere model systems used by meteorological offices in several European countries is called Harmonie, and a simplified model used for teaching and education is called Harmonie MUSC.
 
