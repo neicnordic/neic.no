@@ -7,6 +7,10 @@ photo: "/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg"
 
 **Researchers across the Nordic region are starting to enjoy a new “elastic” cloud computing infrastructure from where they can collaborate and share systems and resources. The Glenna project has already supported the development of both a Norwegian and a Danish national cloud service into true Nordic services, and more services are in the pipeline.**
 
+<a href="/assets/images/news/john-white.jpg">
+  <img class="smallpic" src="/assets/images/news/NeIC_Dan_Still_WEB_DSC05627_small.jpg">
+</a>
+
 Cloud computing – the delivery of hosted computer resources and data instead of building and maintaining computing infrastructures in-house – has the same advantages for researchers as for the man on the street, and then some. It allows research institutions to reduce or avoid infrastructure costs, and enables them to focus more on their core activities instead of spending time and money on computer infrastructure. Cloud computing also makes it possible to adjust the use of resources in line with changing or fluctuating demands.
 “But cloud computing can have pros and cons,” says Project Manager Dan Still from the CSC – IT Center for Science in Finland. He led the aptly named Glenna project from the start in 2014 to the finish in 2016, and is now preparing for Glenna 2, which will continue and expand the work done in Glenna. The name of the projects ereis taken from an old Icelandic word that can mean “Opening in the clouds,” which is exactly what Still and colleagues have been working on: They are opening cloud computing for specialised services to researchers in the five Nordic countries.
 
