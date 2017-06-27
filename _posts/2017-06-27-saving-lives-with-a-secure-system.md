@@ -81,7 +81,7 @@ Bartlomiej Wilkowski is now working on developing the pilot for precisely such a
 
 There are a number of issues that need to be solved, in terms of both technology and organisation, before this idea becomes a reality.
 
-“The biological samples can, of course, give rise to many different kinds of data, and we want to make sure these data are stored in a way such that they can later be used by as many researches as possible. This is going to be a challenge, and that is one of the reasons why we need the help of the infrastructure experts in NeIC and their national partners,” Dr Wilkowski states.
+“The biological samples can, of course, give rise to many different kinds of data, and we want to make sure these data are stored in a way such that they can later be used by as many researchers as possible. This is going to be a challenge, and that is one of the reasons why we need the help of the infrastructure experts in NeIC and their national partners,” Dr Wilkowski states.
 
 “My hope is that this idea can help to advance biomedical research in the Nordic countries. The benefits for researchers are that the planned databank can reduce the need for time-consuming procedures and analyses of biological samples, while also delivering a secure way of handling personal information,” Bartlomiej Wilkowski concludes.
 
