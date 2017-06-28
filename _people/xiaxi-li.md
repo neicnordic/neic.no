@@ -4,7 +4,7 @@ include: person
 name: Xiaxi Li
 home: <a href="http://www.uib.no/">UiB</a>
 country: "NO"
-photo:
+photo: assets/images/people/Xiaxi_Li.jpg
 email: xiaxi.li@ii.uib.no
 phone:
 on_contract: yes
