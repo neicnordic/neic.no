@@ -15,20 +15,29 @@ groups:
     finished: yes
   deepdive:
     role: Project manager
+    finished: yes
   deepdive-sg:
     role: Project manager, Observer
+    finished: yes
   deepdive-po:
     role: Project manager
+    finished: yes
   nicest:
     role: Project manager
+    finished: yes
   nicest-sg:
     role: Project manager, Observer
+    finished: yes
   nicest-po:
     role: Project manager
+    finished: yes
   nlpl:
     role: Project manager
+    finished: yes
   nlpl-sg:
     role: Project manager, Observer
+    finished: yes
   nlpl-po:
     role: Project manager
+    finished: yes
 ---
