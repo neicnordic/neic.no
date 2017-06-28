@@ -4,7 +4,7 @@ include: person
 name: Gerd Behrmann
 home:
 country: DK
-photo:
+photo: assets/images/people/Gerd_Behrmann.jpg
 email: behrmann@ndgf.org
 phone: "+45 60 62 64 35"
 on_contract: yes
