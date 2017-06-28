@@ -4,7 +4,7 @@ include: person
 name: Ali Syed
 home: <a href="http://www.cbs.dtu.dk/">CBS</a>
 country: DK
-photo:
+photo: ssets/images/people/Ali_Syed.jpg
 email: alisyed@cbs.dtu.dk
 phone: "+45 60 90 46 46"
 on_contract: yes
