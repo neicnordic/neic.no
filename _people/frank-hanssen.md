@@ -4,7 +4,7 @@ include: person
 name: Frank Hanssen
 home: <a href="http://www.nina.no/english/Home">NINA</a>
 country: "NO"
-photo:
+photo: assets/images/people/Frank_Hanssen.jpg
 email: frank.hanssen@nina.no
 phone:
 on_contract: yes
