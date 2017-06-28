@@ -4,7 +4,7 @@ include: person
 name: Tomasz Malkiewicz
 home: <a href="https://csc.fi">CSC</a>
 country: FI
-photo:
+photo: assets/images/people/Tomasz_Malkiewicz.jpg
 email: tomasz.malkiewicz@csc.fi
 phone:
 on_contract: yes
