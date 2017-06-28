@@ -4,7 +4,7 @@ include: person
 name: Maiken Pedersen
 home: <a href="http://www.usit.uio.no">USIT</a>
 country: "NO"
-photo:
+photo: assets/images/people/Maiken_Pedersen.jpg
 email: maikenp@usit.uio.no
 phone:
 on_contract: yes
