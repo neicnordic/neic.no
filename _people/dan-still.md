@@ -4,7 +4,7 @@ include: person
 name: Dan Still
 home: <a href="https://csc.fi">CSC</a>
 country: FI
-photo:
+photo: assets/images/people/Dan_Still.jpg
 email: dan.still@csc.fi
 phone:
 on_contract: yes
