@@ -4,7 +4,7 @@ include: person
 name: Jens Larsson
 home: <a href="http://www.nsc.liu.se">NSC</a>
 country: SE
-photo:
+photo: assets/images/people/Jens_Larsson.jpg
 email: jens@ndgf.org
 phone:
 on_contract: yes
