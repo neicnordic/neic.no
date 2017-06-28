@@ -4,7 +4,7 @@ include: person
 name: Thomas Röblitz
 home: <a href="https://usit.uio.no">USIT</a>
 country: "NO"
-photo: assets/images/people/thomas-roblitz.jpg
+photo: assets/images/people/Thomas_Roeblitz.jpg
 email: thomas.roblitz@usit.uio.no
 phone:
 on_contract: yes
