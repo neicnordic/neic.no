@@ -4,7 +4,7 @@ include: person
 name: John White
 home: <a href="http://home.cern/">CERN</a>
 country: "FR"
-photo:
+photo: assets/images/people/john-white.jpg
 email: john.white@cern.ch
 phone:
 on_contract: yes
