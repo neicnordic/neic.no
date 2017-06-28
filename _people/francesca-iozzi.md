@@ -4,7 +4,7 @@ include: person
 name: Francesca Iozzi
 home: <a href="https://www.usit.uio.no/">USIT</a>
 country: "NO"
-photo:
+photo: assets/images/people/Fransesca_Iozzi.jpg
 email: m.f.iozzi@usit.uio.no
 phone:
 on_contract: yes
