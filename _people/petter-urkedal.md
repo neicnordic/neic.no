@@ -4,7 +4,7 @@ include: person
 name: Petter Urkedal
 home: <a href="http://www.nbi.dk">NBI</a>
 country: DK
-photo:
+photo: assets/images/people/Petter_Urkedal.jpg
 email: urkedal@nbi.dk
 phone:
 on_contract: yes
