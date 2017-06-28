@@ -4,7 +4,7 @@ include: person
 name: Erland Hochheim
 home: <a href="http://www.cbs.dtu.dk/">CBS</a>
 country: DK
-photo:
+photo: assets/images/people/Erland_Hochheim.jpg
 email: erhh@dtu.dk
 phone: "+45 40952482"
 on_contract: yes
