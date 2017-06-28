@@ -4,7 +4,7 @@ include: person
 name: Christian Ulrik Søttrup
 home: <a href="http://www.nbi.dk">NBI</a>
 country: DK
-photo: assets/images/people/Christian_Soettrup_WEB.jpg
+photo: assets/images/people/Christian_Soettrup.jpg
 email: soettrup@nbi.dk
 phone:
 on_contract: yes
