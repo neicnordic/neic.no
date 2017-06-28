@@ -4,7 +4,7 @@ include: person
 name: Ulf Tigerstedt
 home: <a href="http://www.csc.fi">CSC</a>
 country: FI
-photo:
+photo: assets/images/people/Ulf_Tigerstedt.jpg
 email: ulf.tigerstedt@csc.fi
 phone:
 on_contract: yes
