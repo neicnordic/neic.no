@@ -20,7 +20,7 @@ links:
   - url: https://wiki.neic.no/int/NeIC_NT1
     text: Internal wiki
     description: Internal working documents.
-  - url: https://source.coderefinery.org/dmytrok/NT1/issues
+  - url: https://source.coderefinery.org/NT1/Operations/issues
     text: Action points
     description: Internal action point tracking.
 groups:
