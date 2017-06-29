@@ -4,7 +4,7 @@ include: person
 name: Mattias Wadenstein
 home: <a href="https://www.hpc2n.umu.se">HPC2N</a>
 country: SE
-photo: assets/images/people/mattias-wadenstein.jpg
+photo: assets/images/people/Mattias_Wadenstein2.jpg
 email: maswan@ndgf.org
 phone: "+46 70 796 9462"
 on_contract: yes
