@@ -4,7 +4,7 @@ include: person
 name: Oxana Smirnova
 home: <a href="http://www.lu.se">LU</a>
 country: SE
-photo: assets/images/people/oxana-smirnova.jpg
+photo: assets/images/people/Oxana_Smirnova.jpg
 email: oxana.smirnova@hep.lu.se
 phone: "+46 709 22 46 57"
 on_contract: yes
