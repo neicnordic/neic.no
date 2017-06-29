@@ -4,7 +4,7 @@ include: person
 name: Rob Pennington
 home: <a href="https://neic.nordforsk.org">NeIC</a>
 country: US
-photo:
+photo: assets/images/people/Rob_Pennington.jpg
 email: rlpennington1@gmail.com
 phone:
 on_contract: yes
