@@ -36,13 +36,11 @@ The Glenna project has already completed the expansion of one Danish and one Nor
 
 These examples illustrate one of the basic ideas behind Glenna: To exchange services that have already been created in one Nordic country. Development of both the DeIC data service and the Lifeportal as national services was costly, so it made good economic sense to expand them into Nordic services for a relatively small additional investment.
 
-In addition, Glenna has supported the meteorological institutes in Finland and Norway in developing a weather forecasting model called Harmonie MUSC into a cloud-based programme.
-
-The Glenna project also succeeded in making the Nordic National clouds elastic, which means that the systems are able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible at each point in time.
-
 “The DeIC data portal and the Lifeportal service are now accessible cross-border, and a nice feature is that Nordic researchers don’t have to apply or register themselves as users. They can access the services if they are registered as students or researchers in one of the Nordic countries,” says Still.
 
 In addition, Glenna has supported the meteorological institutes in Finland and Norway in developing a weather forecasting model called Harmonie MUSC into a cloud-based programme.
+
+The Glenna project also succeeded in making the Nordic National clouds elastic, which means that the systems are able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible at each point in time.
 
 “The Nordic countries share a high level of trust amongst themselves, and this is a prerequisite for the implementation of Nordic solutions instead of national ones,” Still adds.
 
