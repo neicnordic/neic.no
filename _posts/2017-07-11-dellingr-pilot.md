@@ -14,6 +14,6 @@ Dellingr has a pool of compute time available for smaller projects which need im
 computing resources from participating countries have been contributed to this project and are available be matched to and
 used by researchers. The webpage for the Dellingr project and the page to apply for resources may be found at:
 
-https://dellingr.neic.no/
+<a href="https://dellingr.neic.no/">https://dellingr.neic.no/</a>
 
 
