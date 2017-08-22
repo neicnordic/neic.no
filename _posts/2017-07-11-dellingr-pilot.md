@@ -1,19 +1,13 @@
 ---
-title: "NeIC Dellingr Project opens the resource-sharing pilot"
-summary: "Through Dellingr NeIC will work with the national e-infrastructure providers to define a functional framework for resource sharing that will recognize and build upon the unique strengths of each provider to advance research in each of the respective countries and within the Nordic region overall."
-photo: "/assets/images/latest-news-1.png"
+title: "NeIC awarded funding from the Research Council of Norway"
+summary: NeIC, together with Sigma2, is one of 19 projects (out of 92 applicants) who have been invited to contract negotiations with the Research Council of Norway."
+photo: "/assets/images/latest-news-3.png"
 
 ---
-# Dellingr Resource-Sharing pilot
+# NeIC awarded funding from the Research Council of Norway
 
-The NeIC Dellingr project is pleased to announce that the first cross-border Nordic resource sharing pilot is now open.
-The aims of this project include the sharing and exchange of Nordic eInfrastructure Resources and Nordic High Performance
-Computing (HPC) Collaboration.
-
-Dellingr has a pool of compute time available for smaller projects which need immediate access to a compute resource. HPC
-computing resources from participating countries have been contributed to this project and are available be matched to and
-used by researchers. The webpage for the Dellingr project and the page to apply for resources may be found at:
-
-<a href="https://dellingr.neic.no/">https://dellingr.neic.no/</a>
-
-
+NeIC, together with Sigma2, is one of 19 projects (out of 92 applicants) who have been invited to contract negotiations with the Research Council of Norway as part of a call under the National Financing Initiative for Research Infrastructure (INFRASTRUKTUR). Through this call a total of 1 billion NOK is awarded to projects working on advancing research infrastructures. NeIC has been awarded support for its work on research e-infrastructure for the timeframe 2018- 2022.
+ 
+In its announcement, RCN writes that e-infrastructure is important for many academic disciplines, and particularly research that generate large amounts of data and where complex calculations are needed.
+ 
+«I am delighted that the Research Council of Norway has chosen to prioritise long term support for Nordic collaboration on digital infrastructures for research», says Gudmund Høst, Director of NeIC. «This will put us in an excellent position to continue supporting development of common Nordic services beyond what is possible using only national capabilities.» 
