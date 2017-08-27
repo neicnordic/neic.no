@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Fredrik Robertsen Singh
+name: Fredrik Robertsén
 home: <a href="https://www.csc.fi/">CSC</a>
 country: "FI"
 photo:
