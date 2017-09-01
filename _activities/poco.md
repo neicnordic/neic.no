@@ -10,7 +10,7 @@ end: 2020-12-31
 results: https://wiki.neic.no/wiki/Pool_Competencies#Documents
 outreach: N/A
 documents:
-Project: Humanities, Digital Competences
+  - text: Project Humanities, Digital Competences
   - text: Strategy 2016-2020
     url: /about/#strategy-and-focus
 groups:
