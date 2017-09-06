@@ -32,7 +32,6 @@ groups:
     role: Project manager
   project-analysis-rg:
     role: Chair
-    finished: yes
   project-analysis-po:
     role: Project leader
     neic2017-pc:
