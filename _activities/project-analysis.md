@@ -7,6 +7,7 @@ leader: joel-hedlund
 phase: Conclusion
 start: 2014-04-01
 end: 2017-06-30
+finished: yes
 results: https://goo.gl/DTJZyz
 outreach: "#outreach"
 outcome-statements:
