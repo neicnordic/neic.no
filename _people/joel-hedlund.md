@@ -12,6 +12,7 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior advisor
+    finished: yes
   tryggve-sg:
     role: Scientific manager, Secretary
   tryggve-rg:
@@ -28,12 +29,13 @@ groups:
   tryggve2:
     role: Scientific manager
   project-analysis:
-    role: Project leader
+    role: Project manager
   project-analysis-rg:
     role: Chair
+    finished: yes
   project-analysis-po:
     role: Project leader
-  neic2017-pc:
+    neic2017-pc:
     role: Chair
   neic2017-prg:
     role: Ex officio
