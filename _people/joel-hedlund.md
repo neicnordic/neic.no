@@ -34,7 +34,7 @@ groups:
     role: Chair
   project-analysis-po:
     role: Project leader
-    neic2017-pc:
+  neic2017-pc:
     role: Chair
   neic2017-prg:
     role: Ex officio
