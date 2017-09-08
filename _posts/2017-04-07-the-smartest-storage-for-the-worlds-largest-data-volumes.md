@@ -30,7 +30,7 @@ One of the Tier 1 centres is located in the Nordic countries, and it functions l
 
 “The Nordic facility is in fact one of the smaller Tier 1 facilities, although it is still a massive undertaking. But the most interesting thing is perhaps that the distributed structure has worked so well that it is now being seen as a model for the future,” Mr Wadenstein explains.
 
-According to a [recent evaluation report](https://neic.nordforsk.org/2016/07/05/nordic-model.html)  by Dr Josep Flix, the Nordic model provides a unique set of competencies and is a successful example which other data and computing centres around the world could learn from. The evaluation report states that the Nordic distributed model may even prove critical for the worldwide LHC network’s future capacity to handle large volumes of data from CERN.
+According to a [recent evaluation report](2016-07-05-nordic-model.html)  by Dr Josep Flix, the Nordic model provides a unique set of competencies and is a successful example which other data and computing centres around the world could learn from. The evaluation report states that the Nordic distributed model may even prove critical for the worldwide LHC network’s future capacity to handle large volumes of data from CERN.
 
 ## Rising to the challenge
 
