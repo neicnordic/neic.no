@@ -11,7 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Coordinator
+    role: Administrative Area Coordinator
   neic2017-sg:
     role: Ex officio, Project leader
   neic2017-pc:
