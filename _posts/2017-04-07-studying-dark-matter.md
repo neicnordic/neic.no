@@ -24,4 +24,4 @@ The scientists at CERN soon realised that they would need a system for distribut
 
 “It was necessary to have a critical mass of scientists and other experts in order to establish a Tier 1 facility, and none of the Nordic countries had the necessary resources on their own. But we reached the level of critical mass when we decided to collaborate at the Nordic level,” Professor Ould-Sadaa concludes.
 
-Have a look at our article [The smartest storage for the world’s largest data volumes](https://neic.nordforsk.org/2017/04/07/the-smartest-storage-for-the-worlds-largest-data-volumes.html) to read more about the Nordic Data Grid Facility.
+Have a look at our article [The smartest storage for the world’s largest data volumes](../../../../2017/04/07/the-smartest-storage-for-the-worlds-largest-data-volumes) to read more about the Nordic Data Grid Facility.
