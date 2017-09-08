@@ -50,4 +50,4 @@ The LHC machine is taken down for upgrading from time to time. The latest upgrad
 
 According to Mr Wadenstein, one of the advantages of the distributed setup is that the system is very scalable. The future will be bringing new challenges because a planned LHC upgrade in 2022 could lead to a factor 100 increase in data volumes to be stored and processed.
 
-Read our article [Studying dark matter](https://neic.nordforsk.org/2017/04/07/studying-dark-matter.html) to read more about the Nordic Data Grid Facility and how it is supporting the study of dark matter.
+Read our article [Studying dark matter](../../../../2017/04/07/studying-dark-matter) to read more about the Nordic Data Grid Facility and how it is supporting the study of dark matter.
