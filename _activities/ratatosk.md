@@ -17,7 +17,7 @@ links:
     url: /training/upcoming
     description: Training events relevant to NeIC and stakeholders.
   - text: External wiki
-    url: https://wiki.neic.no/wiki/Training
+    url: https://wiki.neic.no/wiki/Ratatosk
 groups:
   ratatosk-po:
     name: Project office
