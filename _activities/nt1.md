@@ -74,7 +74,7 @@ storage.
 
 #### dCache
 Storage of NDGF Tier1 is distributed across many computing centres. The
-dCache system , developed with contribution from NeIC, takes care of
+dCache system, developed with contribution from NeIC, takes care of
 orchestrating data stored on disks and tapes all over Scandinavia. It also
 accepts data from CERN and other Tier1 centres.
 
@@ -83,6 +83,10 @@ A number of additional services are necessary for a Grid center operations.
 These include VOMS, FTS, BDII, SAM tests, and of course smooth network
 services. NDGF Tier1 uses these products as provided by their respective
 developers and [EGI](http://www.egi.eu/).  
+
+<a name="nlcg" id="nlcg"></a>
+### NLCG commitee
+Nordic LHC Computing Grid ([NLCG](https://wiki.neic.no/int/NLCG)) Committee is a NeIC body that oversees CERN-related activities, such as Nordic Tier1 implementation and interactions with ATLAS, ALICE and CMS experiments at CERN. The NLCG Committee is governed by Terms of Reference approved by the NeIC Board and has agreed to act as a reference group for the Nordic Tier-1 activity within NeIC.
 
 ### Results
  * [Availability / reliability report](http://argo.egi.eu/lavoisier/site_ar?granularity=monthly&report=Critical&site=NDGF-T1&accept=html)
