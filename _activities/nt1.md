@@ -84,7 +84,6 @@ These include VOMS, FTS, BDII, SAM tests, and of course smooth network
 services. NDGF Tier1 uses these products as provided by their respective
 developers and [EGI](http://www.egi.eu/).  
 
-<a name="nlcg" id="nlcg"></a>
 ### NLCG commitee
 Nordic LHC Computing Grid ([NLCG](https://wiki.neic.no/int/NLCG)) Committee is a NeIC body that oversees CERN-related activities, such as Nordic Tier1 implementation and interactions with ATLAS, ALICE and CMS experiments at CERN. The NLCG Committee is governed by Terms of Reference approved by the NeIC Board and has agreed to act as a reference group for the Nordic Tier-1 activity within NeIC.
 
