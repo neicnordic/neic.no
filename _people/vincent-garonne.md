@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Vincent Garonne
-home:
+home: USIT
 country: "NO"
 photo:
 email: vincent.garonne@usit.uio.no
