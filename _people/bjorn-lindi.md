@@ -4,12 +4,14 @@ include: person
 name: Bjørn Lindi
 home: <a href="https://ntnu.no">NTNU</a>
 country: "NO"
-photo:
+photo: assets/images/people/Bjorn_Lindi.jpg
 email: bjorn.lindi@ntnu.no
 phone:
 on_contract:
 has_been_on_contract: no
 groups:
+  nlpl:
+    role: Project Manager
   coderefinery:
   dellingr:
 past_engagements:
