@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NLPL
 type: Project
-leader: thomas-roblitz
+leader: bjorn-lindi
 phase: Execution
 start: 2017-01-01
 end: 2019-12-31
