@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Jon Kåre Hellan 
-home: <a https://www.uninett.no">UNINETT</a>
+home: <a href="https://www.uninett.no">UNINETT</a>
 country: "NO"
 photo:
 email: jon.kare.hellan@uninett.no
