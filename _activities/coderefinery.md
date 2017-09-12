@@ -36,7 +36,7 @@ groups:
   coderefinery:
     name: Team
     minutes: https://drive.google.com/drive/folders/0B3i0ZRReqpSxWGNLZmN4RmYzNUk
-    frequency: Biweekly
+    frequency: Weekly
   coderefinery-sg:
     name: Steering group
     description: Governance.
