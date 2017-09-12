@@ -19,6 +19,9 @@ links:
   - url: https://wiki.neic.no/int/Dellingr
     text: Internal wiki
     description: Internal working documents.
+  - url: https://dellingr.neic.no
+    text: Dellingr Welcome Page
+    description: Apply for access to HPC resources 
 groups:
   dellingr:
     name: Team
