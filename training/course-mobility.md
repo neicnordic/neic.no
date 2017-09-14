@@ -21,4 +21,4 @@ The second, the course mobility part of the programme, is by supporting training
  
 This open call for proposals focuses on the course mobility part of the programme. The goal is to bring the courses closer to the participants by contributing to the creation of transferable courses, or updating existing courses and making them more transferable.
 
-
+### More information coming here soon
