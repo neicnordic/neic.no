@@ -3,7 +3,7 @@ layout: master
 include: training
 ---
 
-## Ratatosk Mobility Enhancement cut-off dates
+## Mobility Enhancement cut-off dates
 
 ### Course Mobility
 We are happy to announce an [open call for course mobility proposals](/training/course-mobility). NeIC’s [Ratatosk](/ratatosk) mobility enhancement programme is a framework for transferring courses, extend and/or supplement national training efforts (even across national borders) in a Nordic context.
