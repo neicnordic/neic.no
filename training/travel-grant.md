@@ -16,7 +16,7 @@ This grant under The NeIC Nordic Mobility Enhancement Programme is intended to p
 ### Requirements
 Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
 Technically the specific course or module has to be embodied in the NeIC Training Calendar.
-All courses on the [NeIC calendar](https://neic.no/training) are available for application.
+(All courses on the [NeIC calendar](https://neic.no/training) are available for application).
  
 ### Deadline
 The application process is available at [travel grant](https://neic.no/training/travel-grant) and has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods.
