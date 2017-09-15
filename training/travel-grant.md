@@ -47,7 +47,7 @@ You are welcome to contact the NeIC training programme manager, [Anne-Marie Bach
 Please use and fill in [mandatory application form](https://wiki.neic.no/wiki/File:TRAVEL_GRANT_APPLICATION.pdf)
 
 ### Submission process
-Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to ratatosk-application@neic.no
+Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
 
 
 
