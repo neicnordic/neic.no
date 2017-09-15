@@ -14,12 +14,12 @@ NeIC's interest in training is focused on e-Science and e-Infrastructure skills 
 This grant under The NeIC Nordic Mobility Enhancement Programme is intended to provide or supplement travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
  
 ### Requirements
-Only courses /modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found at https://neic.no/training/travel-grant.
-Technically the specific course or module has to be embodied in the NeIC Training Calendar at https://neic.no/training.
+Only courses /modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
+Technically the specific course or module has to be embodied in the NeIC Training Calendar.
 All courses on [NeIC calendar](https://neic.no/training) are available for application.
  
 ### Deadline
-The application process is available at https://neic.no/training/travel-grant and has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods.
+The application process is available at [travel grant](https://neic.no/training/travel-grant) and has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods.
 Here you will also find the date for when to submit and how long the process should take for consideration.              
 
 ### Assessment of applications
@@ -41,7 +41,7 @@ Review of each application is done by the Ratatosk training programme manager an
 The notification process is typically 1 week after review (5 working days).
  
 ### Contact
-You are welcome to contact the NeIC training programme manager, Anne-Marie Bach directly for more information. https://neic.no/people/anne-marie-bach/
+You are welcome to contact the NeIC training programme manager, [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) directly for more information. 
 
 ### How to apply  
 Please use and fill in [mandatory application form](https://wiki.neic.no/wiki/File:TRAVEL_GRANT_APPLICATION.pdf)
