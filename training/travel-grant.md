@@ -25,7 +25,7 @@ Here you will also find the date for when to submit and how long the process sho
 ### Assessment of applications
 Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by Anne-Marie Bach and Michaela Barth.
 
-### Criterias for assessment are:
+### Criterias for assessment are
 Impact of the training
 Rarity of the course
 Timeliness
@@ -49,6 +49,6 @@ Please use and fill in the mandatory application form at https://neic.no/trainin
 ### Submission process
 Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to ratatosk-application@neic.no
 
-
+### Application
 
 
