@@ -51,7 +51,7 @@ The proposals will be prioritised by the following:
 
 Review of each application is done by the steering group of the NeIC's Ratatosk Mobility Enhancement Programme. 
 
-Budget and course description, being content, minimum number and intended number of participants and the total amount for funding from the Ratatosk Mobility Enhancement Programme, and if it is funded by other parts, please specify.
+There is no application form, you are expected to write a proposal (typically 2-4 pages) including argumentation, budget and course description. In your application, please specify the content, minimum and intended number of participants as well as the total amount for funding you would like to receive from the Ratatosk Mobility Enhancement Programme, and if it is funded by other parts.
 
 The reimbursement can only take place if above conditions are met including the minimum amount of participants and upon receipt of the questionnaire (additional survey questions will be provided) result plus a short report.
 The budget in connection with travel expenses includes relevant information about date and venue of the event. Specific information concerning the various budget items, being:
