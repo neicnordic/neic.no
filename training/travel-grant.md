@@ -26,11 +26,11 @@ Here you will also find the date for when to submit and how long the process sho
 Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth](/https://neic.no/people/michaela-barth/).
 
 ### Criterias for assessment are
-Impact of the training
-Rarity of the course
-Timeliness
-Distribution of gathered knowledge afterwards
-Significant amount 
+* Impact of the training
+  * Rarity of the course
+  * Timeliness
+  * Distribution of gathered knowledge afterwards
+  * Significant amount 
 
 
 ### Process
