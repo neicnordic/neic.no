@@ -14,7 +14,7 @@ NeIC's interest in training is focused on e-Science and e-Infrastructure skills 
 This grant under The NeIC Nordic Mobility Enhancement Programme is intended to provide or supplement travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
  
 ### Requirements
-Only courses /modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
+Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
 Technically the specific course or module has to be embodied in the NeIC Training Calendar.
 All courses on the [NeIC calendar](https://neic.no/training) are available for application.
  
@@ -23,7 +23,7 @@ The application process is available at [travel grant](https://neic.no/training/
 Here you will also find the date for when to submit and how long the process should take for consideration.              
 
 ### Assessment of applications
-Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth](/https://neic.no/people/michaela-barth/).
+Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth](https://neic.no/people/michaela-barth/).
 
 ### Criterias for assessment are
   * Impact of the training
@@ -44,7 +44,7 @@ The notification process is typically 1 week after review (5 working days).
 You are welcome to contact the NeIC training programme manager, [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) directly for more information. 
 
 ### How to apply  
-Please use and fill in the [mandatory application form](https://wiki.neic.no/wiki/File:TRAVEL_GRANT_APPLICATION.pdf)
+Please use and fill in the [mandatory application form](https://wiki.neic.no/wiki/File:TRAVEL_GRANT_APPLICATION.pdf).
 
 ### Submission process
 Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
