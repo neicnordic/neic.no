@@ -13,5 +13,5 @@ You can now apply for a [travel grant](https://neic.no/training/travel-grant/) o
 The first cut-off date is set to **October 2, 2017**. The second cut-off is scheduled for **October 16, 2017**.
 
 ## Open Call for Course Mobility
-Furthermore, we are happy to announce an [open call for course mobility](https://neic.no/training/course-mobility/) proposals. NeIC’s Ratatosk mobility enhancement programme is a framework for transferring courses, extend and/or supplement national training efforts (even across national borders) in a Nordic context. The main target group for the open call for course course mobility are presenters (teachers, trainers and instructors) who want to open up their courses to a Nordic audience.
+Furthermore, we are happy to announce an [open call for course mobility](https://neic.no/training/course-mobility/) proposals. NeIC’s Ratatosk mobility enhancement programme is a framework for transferring courses, extend and/or supplement national training efforts (even across national borders) in a Nordic context. The main target group for the open call for course mobility are presenters (teachers, trainers and instructors) who want to open up their courses to a Nordic audience.
 The application process is available from September 15, 2017 to **October 15, 2017**.
