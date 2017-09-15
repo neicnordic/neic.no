@@ -40,7 +40,7 @@ This complements current training offerings with new training in areas where the
 NeIC funded movable module courses have to be open to Nordic participants from the initial announcement until two weeks before the event starts.
 
 ### Application and Review Process Description
-The application process is available at https://neic.no/training/course-mobility and aiming to have cut-off dates four times a year. After the call closes, decisions will be made available within one month.
+The application process as described here is aiming to have cut-off dates four times a year. The cut-off dates are announced at [NeIC's training page](https://neic.no/training/). After the call closes, decisions will be made available within one month.
 
 The proposals will be prioritised by the following:
 *Impact of the proposal
@@ -62,8 +62,8 @@ The budget in connection with travel expenses includes relevant information abou
 *Visa, if needed
 
 ### Submission process
-Please email and submit your application to ratatosk-application@neic.no
+Please email and submit your application to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
 
-In case of any questions arising concerning this application, please don’t hesitate to contact the NeIC Ratatosk Training Programme Manager Anne-Marie Bach (ambach@au.dk) directly.
+In case of any questions arising concerning this application, please don’t hesitate to contact the NeIC Ratatosk Training Programme Manager ([Anne-Marie Bach](mailto:ambach@au.dk)) directly.
  
 
