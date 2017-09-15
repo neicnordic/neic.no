@@ -6,9 +6,7 @@ include: travel-grant
 ## Ratatosk Mobility Enhancement Travel Grant
 
 ### Purpose
-The goal of training is to raise competence in staff and end users which leads to more effective and productive work by the staff and end users. This is an aspect of the Nordic training programme for technical staff in the Nordic e-infrastructure community. The benefits include more efficient operations and use of resources and an improved capability for the researchers in conducting research.
- 
-NeIC's interest in training is focused on e-Science and e-Infrastructure skills among scientists and e-Infrastructure personnel in the Nordic region, for the purpose of raising the quality of the scientific output.
+The goal of training is to raise competence in staff and end users which leads to more effective and productive work by the Nordic e-infrastructure community. The benefits include more efficient operations and use of resources and an improved capability for the researchers in conducting research.
  
 ### Who can apply
 This grant under The NeIC Nordic Mobility Enhancement Programme is intended to provide or supplement travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
@@ -16,7 +14,7 @@ This grant under The NeIC Nordic Mobility Enhancement Programme is intended to p
 ### Requirements
 Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
 Technically the specific course or module has to be embodied in the NeIC Training Calendar.
-(All courses on the [NeIC calendar](https://neic.no/training) are available for application).
+(All courses on the [NeIC Training Calendar](https://neic.no/training) are available for application).
  
 ### Deadline
 The application process is available at [travel grant](https://neic.no/training/travel-grant) and has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods.
