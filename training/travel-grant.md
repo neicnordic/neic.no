@@ -23,7 +23,7 @@ The application process is available at [travel grant](https://neic.no/training/
 Here you will also find the date for when to submit and how long the process should take for consideration.              
 
 ### Assessment of applications
-Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth]/https://neic.no/people/michaela-barth/).
+Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth](/https://neic.no/people/michaela-barth/).
 
 ### Criterias for assessment are
 Impact of the training
