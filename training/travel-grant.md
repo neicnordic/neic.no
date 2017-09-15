@@ -9,7 +9,7 @@ include: travel-grant
 The goal of training is to raise competence in staff and end users which leads to more effective and productive work by the Nordic e-infrastructure community. The benefits include more efficient operations and use of resources and an improved capability for the researchers in conducting research.
  
 ### Who can apply
-This grant under The NeIC Nordic Mobility Enhancement Programme is intended to provide or supplement travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
+This grant under [The NeIC Ratatosk Mobility Enhancement Programme](https://wiki.neic.no/wiki/Ratatosk#Public_documents) is intended to provide or supplement travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
  
 ### Requirements
 Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
@@ -44,7 +44,7 @@ You are welcome to contact the NeIC training programme manager, [Anne-Marie Bach
 Please use and fill in the [mandatory application form](https://wiki.neic.no/w/ext/img_auth.php/d/dd/TRAVEL_GRANT_APPLICATION.pdf).
 
 ### Submission process
-Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
+Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no).
 
 
 
