@@ -6,7 +6,9 @@ photo: "/assets/images/latest-news-5.png"
 ---
 # Open call for course mobility and travel grants
 
-The [Ratatosk](/ratatosk) Nordic mobility enhancement programme is entering execution phase today. The efforts of the mobility enhancement programme are directed to increasing the opportunities for trainees in two ways: student mobility via travel grants and course mobility.
+The [Ratatosk](/ratatosk) mobility enhancement programme is entering execution phase today. The efforts of this Nordic mobility enhancement programme are directed to increasing the opportunities for trainees in two ways:
+* student mobility via travel grants and
+* course mobility.
 
 ## Ratatosk Travel grants available
 You can now apply for a [travel grant](https://neic.no/training/travel-grant/) offered by the NeIC Ratatosk Travel Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. 
