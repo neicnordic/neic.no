@@ -13,12 +13,11 @@ This grant under The NeIC Nordic Mobility Enhancement Programme is intended to p
  
 ### Requirements
 Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
-Technically the specific course or module has to be embodied in the NeIC Training Calendar.
-(All courses on the [NeIC Training Calendar](https://neic.no/training) are available for application).
+Technically the specific course or module has to be embodied in the [NeIC Training Calendar](https://neic.no/training).
+(All courses on the NeIC Training Calendar are available for application).
  
 ### Deadline
-The application process is available at [travel grant](https://neic.no/training/travel-grant) and has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods.
-Here you will also find the date for when to submit and how long the process should take for consideration.              
+The application process as described here has cut-off dates twice a month, generally on the 1st and 15th of each month, but not outside the holiday periods. The cut-off dates are announced at [NeIC’s training page](/training).            
 
 ### Assessment of applications
 Twice monthly (e.g. 1st and 15th or first working day thereafter) an assessment will be done by [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) and [Michaela Barth](https://neic.no/people/michaela-barth/).
@@ -42,7 +41,7 @@ The notification process is typically 1 week after review (5 working days).
 You are welcome to contact the NeIC training programme manager, [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/) directly for more information. 
 
 ### How to apply  
-Please use and fill in the [mandatory application form](https://wiki.neic.no/wiki/File:TRAVEL_GRANT_APPLICATION.pdf).
+Please use and fill in the [mandatory application form](https://wiki.neic.no/w/ext/img_auth.php/d/dd/TRAVEL_GRANT_APPLICATION.pdf).
 
 ### Submission process
 Please email and submit your application by use of the mandatory form including scanned documents and duly signed signatures to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
