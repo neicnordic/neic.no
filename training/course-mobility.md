@@ -15,9 +15,9 @@ NeIC's interest in training is focused on e-Science and e-Infrastructure skills 
 ### Approach
 The Ratatosk Nordic mobility enhancement programme efforts are directed to increasing the opportunities for trainees in two ways:
 
-First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally.  
+* First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally.  
 
-The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
+* The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
  
 This open call for proposals focuses on the course mobility part of the programme. The goal is to bring the courses closer to the participants by contributing to the creation of transferable courses, or updating existing courses and making them more transferable.
 
