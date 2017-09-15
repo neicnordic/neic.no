@@ -11,7 +11,7 @@ The [Ratatosk](/ratatosk) mobility enhancement programme is entering execution p
 * course mobility.
 
 ## Ratatosk Travel grants available
-You can now apply for a [travel grant](https://neic.no/training/travel-grant/) offered by the NeIC Ratatosk Travel Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. 
+You can now apply for a [Ratatosk travel grant](https://neic.no/training/travel-grant/) - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. 
 The first cut-off date is set to **October 2, 2017**. The second cut-off is scheduled for **October 16, 2017**.
 
 ## Open Call for Course Mobility
