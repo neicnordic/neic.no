@@ -4,7 +4,7 @@ include: activity
 name: Ratatosk
 type: Operations
 leader: anne-marie-bach
-phase: Preparation
+phase: Execution
 start: 2017-04-21
 end:
 results: N/A
@@ -44,7 +44,7 @@ NeIC's interest in training is focused on e-Science and e-Infrastructure skills 
 
 The Ratatosk Nordic mobility enhancement programme efforts are directed to increasing the opportunities for trainees in two ways:
 
-First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally.  
+* First is the student mobility part ([travel grants](training/travel-grants) enabling trainees to travel to attend Nordic training courses which are not available locally.  
 
-The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
+* The second, the [course mobility](training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
 
