@@ -1,6 +1,6 @@
 ---
 title: "Open call for course mobility and travel grants now available"
-summary: You can now apply for grants offered by the NeIC Ratatosk Travel Mobility Enhancement Programme.
+summary: You can now apply for travel grants offered by NeIC' Ratatosk Travel Mobility Enhancement Programme as well as submit a proposal to the open call on course mobility.
 photo: "/assets/images/latest-news-5.png"
 
 ---
