@@ -43,11 +43,11 @@ NeIC funded movable module courses have to be open to Nordic participants from t
 The application process as described here is aiming to have cut-off dates four times a year. The cut-off dates are announced at [NeIC's training page](https://neic.no/training/). After the call closes, decisions will be made available within one month.
 
 The proposals will be prioritised by the following:
-*Impact of the proposal
-*Nordic component
-*Sustainability of the course material
-*Train-the-Trainer component
-*Interdisciplinarity
+* Impact of the proposal
+* Nordic component
+* Sustainability of the course material
+* Train-the-Trainer component
+* Interdisciplinarity
 
 Review of each application is done by the steering group of the NeIC's Ratatosk Mobility Enhancement Programme. 
 
@@ -56,10 +56,10 @@ Budget and course description, being content, minimum number and intended number
 The reimbursement can only take place if above conditions are met including the minimum amount of participants and upon receipt of the questionnaire (additional survey questions will be provided) result plus a short report.
 The budget in connection with travel expenses includes relevant information about date and venue of the event. Specific information concerning the various budget items, being:
 
-*Cheapest return tickets
-*Transport to and from airport
-*Hotel/accommodation
-*Visa, if needed
+* Cheapest return tickets
+* Transport to and from airport
+* Hotel/accommodation
+* Visa, if needed
 
 ### Submission process
 Please email and submit your application to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
