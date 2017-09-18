@@ -31,7 +31,7 @@ groups:
     frequency: 3-4 yearly
 ---
 The Ratatosk mobility enhancement programme is a NeIC training activity with a
-yearly budget of 0.5 NOK
+yearly budget of 0.5 million NOK
 
 
 ### Purpose
