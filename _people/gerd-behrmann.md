@@ -13,5 +13,5 @@ groups:
   nt1:
     role: Systems Software Specialist
   coderefinery-sg:
-    role: Technical advisor
+    role: Technical advisor (observer)
 ---
