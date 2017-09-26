@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NICEST
 type: Project
-leader: thomas-roblitz
+leader: chandan-basu
 phase: Execution
 start: 2017-01-01
 end: 2019-12-31
@@ -24,7 +24,7 @@ links:
 groups:
   nicest:
     name: Team
-    minutes: https://wiki.neic.no/int/Category:ESM_team_meetings
+    minutes: https://wiki.neic.no/int/Earth_system_modeling#Meeting_minutes
     frequency: Bi-Weekly
   nicest-sg:
     name: Steering group
