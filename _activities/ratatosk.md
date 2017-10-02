@@ -14,9 +14,12 @@ links:
     url: /training
     description: Training portals relevant to NeIC and stakeholders.
   - text: Upcoming training
-    url: /training/upcoming
+    url: /training/upcoming 
     description: Training events relevant to NeIC and stakeholders.
-  - text: External wiki
+  - text: Twitter    
+    url: https://twitter.com/NeICnordic?lang=en    
+    description: Main news channel
+  - text: External wiki
     url: https://wiki.neic.no/wiki/Ratatosk
 groups:
   ratatosk-po:
