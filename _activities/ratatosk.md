@@ -14,9 +14,9 @@ links:
     url: /training
     description: Training portals relevant to NeIC and stakeholders.
   - text: Upcoming training
-    url: /training/upcoming 
+    url: /training/upcoming
     description: Training events relevant to NeIC and stakeholders.
-  - text: External wiki
+  - text: External wiki
     url: https://wiki.neic.no/wiki/Ratatosk
 groups:
   ratatosk-po:
@@ -47,4 +47,5 @@ The Ratatosk Nordic mobility enhancement programme efforts are directed to incre
 * First is the student mobility part ([travel grants](../training/travel-grant)) enabling trainees to travel to attend Nordic training courses which are not available locally.  
 
 * The second, the [course mobility](../training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
+
 
