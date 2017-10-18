@@ -1,14 +1,15 @@
 ---
 layout: master
 include: person
-name: Chloé Braud
+name: Isabelle Augenstein
 home: <a href="http://diku.dk/english/">DIKU</a>
 country: "DK"
 photo:
-email: tmr170@hum.ku.dk
+email: augenstein@di.ku.dk
 phone:
 on_contract: no
-has_been_on_contract: yes
+has_been_on_contract: no
 groups:
-
+  nlpl-sg:
+  nlpl:
 ---
