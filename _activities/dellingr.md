@@ -21,7 +21,10 @@ links:
     description: Internal working documents.
   - url: https://dellingr.neic.no
     text: Dellingr Welcome Page
-    description: Apply for access to HPC resources 
+    description:
+  - url: https://dellingr.neic.no/apply/
+    text: Apply for access to HPC resources 
+    description:
 groups:
   dellingr:
     name: Team
