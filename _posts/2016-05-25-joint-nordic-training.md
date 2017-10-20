@@ -1,7 +1,7 @@
 ---
 title:  "Joint Nordic training: Improve your e-Skills"
 summary: "To make the most of our e-infrastructure resources in the Nordic countries, NeIC has launched a coordinated Nordic calendar indicating when and where you can find events to improve your skills. An easy and simple tool to use."
-photo: "/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"
+photo: "{% include baseurl %}/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"
 ---
 
 Joint Nordic training: Improve your e-Skills
@@ -14,7 +14,7 @@ A new Nordic training calendar
 
 Today, NeIC is releasing a coordinated Nordic calendar to collect and disseminate information on upcoming training events that are being arranged by the NeIC or its partners, or are of interest to NeIC and NeIC stakeholders.
 
-<a href="/assets/images/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a> This calendar is called NeIC training. You can view upcoming training events here: <https://neic.no/training/>
+<a href="{% include baseurl %}/assets/images/news/Social_Network_Diagram_from_Wikipedia.png"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"> </a> This calendar is called NeIC training. You can view upcoming training events here: <https://neic.no/training/>
 
 And more on accessing the calendar here: <https://wiki.neic.no/wiki/Training>
 

@@ -1,7 +1,7 @@
 ---
 title:  "Large turnout for NeIC 2015"
 summary: "Building on the success of the inaugural conference in 2013, the 2015 version of the Nordic e-Infrastructure Conference attracted more than 180 scientists, experts, and decision makers."
-photo:  "/assets/images/news/large_turnout_image_mini.jpg"
+photo:  "{% include baseurl %}/assets/images/news/large_turnout_image_mini.jpg"
 ---
 
 Large turnout for NeIC 2015
@@ -9,7 +9,7 @@ Large turnout for NeIC 2015
 
 **Building on the success of the inaugural conference in 2013, the 2015 version of the Nordic e-Infrastructure Conference attracted more than 180 scientists, experts, and decision makers.**
 
-<img class="smallpic" src="/assets/images/news/large_turnout_image_mini.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/large_turnout_image_mini.jpg">
 
 The event was hosted by CSC - IT Center for Science, and took place May 5–8 at the Swedish-Finnish Cultural Centre, Hanasaari, in Espoo, Finland.
 

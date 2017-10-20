@@ -1,7 +1,7 @@
 ---
 title:  "Registration now open: NeIC2015 conference"
 summary: "NeIC will 5-8 May 2015 host the second conference on e-infrastructure: Nordic Collaboration for Global Excellence."
-photo:  "/assets/images/news/guitar.jpeg"
+photo:  "{% include baseurl %}/assets/images/news/guitar.jpeg"
 ---
 
 Registration now open: NeIC2015 conference
@@ -9,7 +9,7 @@ Registration now open: NeIC2015 conference
 
 **NeIC will 5-8 May 2015 host the second conference on e-infrastructure: Nordic Collaboration for Global Excellence.**
 
-<a href="/assets/images/guitar.jpeg"> <img class="smallpic" src="/assets/images/guitar.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/guitar.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/guitar.jpeg"> </a>
 
 In 2015, NeIC and CSC are hosting, in collaboration with UNINETT Sigma, NORDUnet, DeIC, RHnet, and SNIC the four days of networking, training, and sharing of ideas in order for the wider e-infrastructure community to get wiser together.
 

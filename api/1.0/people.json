@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: "/:path/:basename"
+permalink: "{% include baseurl %}/:path/:basename"
 ---
 {
 {% for person in site.people %}

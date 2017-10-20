@@ -1,12 +1,12 @@
 ---
 title: "John White new Dellingr Project Manager"
 summary: "Through Dellingr NeIC will work with the national e-infrastructure providers to define a functional framework for resource sharing that will recognize and build upon the unique strengths of each provider to advance research in each of the respective countries and within the Nordic region overall."
-photo: "/assets/images/news/john-white.jpg"
+photo: "{% include baseurl %}/assets/images/news/john-white.jpg"
 ---
 # John White new Dellingr Project Manager
 
-<a href="/assets/images/news/john-white.jpg">
-  <img class="smallpic" src="/assets/images/news/john-white.jpg">
+<a href="{% include baseurl %}/assets/images/news/john-white.jpg">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/news/john-white.jpg">
 </a>
 
 NeIC has engaged John White as project manager for the Dellingr project. In this project NeIC will work with the national e-infrastructure providers to define a functional framework for resource sharing that will recognize and build upon the unique strengths of each provider to advance research in each of the respective countries and within the Nordic region overall. John will share his time between managing the Dellingr and EISCAT_3D Support projects, increasing his NeIC commitment to 100% from 1. September 2017.

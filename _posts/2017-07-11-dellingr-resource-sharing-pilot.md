@@ -1,7 +1,7 @@
 ---
 title: "NeIC Dellingr Project opens the resource-sharing pilot"
 summary: "Through Dellingr NeIC will work with the national e-infrastructure providers to define a functional framework for resource sharing that will recognize and build upon the unique strengths of each provider to advance research in each of the respective countries and within the Nordic region overall."
-photo: "/assets/images/latest-news-1.png"
+photo: "{% include baseurl %}/assets/images/latest-news-1.png"
 
 ---
 # Dellingr Resource-Sharing pilot

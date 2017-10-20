@@ -1,14 +1,14 @@
 ---
 title: "Saving lives with a secure system for sharing biomedical data"
 summary: "Before: Biomedical researchers often exchanged sensitive data about people’s health between institutions or across borders via poorly protected means such as USB drives or CDs sent via registered mail. Now: Researchers can exchange data at great speed – and save more lives – via a secure Nordic data sharing service."
-photo: "/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg"
+photo: "{% include baseurl %}/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg"
 ---
 # Saving lives with a secure system for sharing biomedical data
 
 **Before: Biomedical researchers often exchanged sensitive data about people’s health between institutions or across borders via poorly protected means such as USB drives or CDs sent via registered mail. Now: Researchers can exchange data at great speed – and save more lives – via a secure Nordic data sharing service.**
 
-<a href="/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg">
-  <img class="smallpic" src="/assets/images/news/AnttiPursala_JoellHedlund_small.jpg">
+<a href="{% include baseurl %}/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/news/AnttiPursala_JoellHedlund_small.jpg">
 </a>
 
 Hundreds of Nordic research groups and projects are already making use of data sharing systems that have been developed with assistance from NeIC’s project Tryggve, which takes its name from an old Norse word meaning “trusty, faithful, true, safe”. The modern form “trygg” is still used in most Nordic languages, so anybody who hears about the project immediately understands that this is about building something trustworthy.
@@ -57,8 +57,8 @@ International cooperation is especially beneficial when it comes to personalised
 
 **Nordic human biobanks are of great value to researchers trying to find a cure for diseases such as cancer, diabetes, cardiovascular disease and more. Imagine if researchers could analyse readymade datasets instead of biological samples from the biobanks: That would save lots of time and money, and make biobanks even more valuable for public health.**
 
-<a href="/assets/images/news/Bartlomiej Wilkowski.png">
-  <img class="smallpic" src="/assets/images/news/Bartlomiej Wilkowski_small.jpg">
+<a href="{% include baseurl %}/assets/images/news/Bartlomiej Wilkowski.png">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/news/Bartlomiej Wilkowski_small.jpg">
 </a>
 
 The Nordic countries have a large number of biobanks which contain biological samples taken from healthy people and people suffering from various types of illness. Research groups are constantly requesting withdrawals of samples in order to analyse them for new links between genetic and environmental factors and disease. But most biological samples are small, and each withdrawal reduces the content of the biobank.

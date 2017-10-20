@@ -1,7 +1,7 @@
 ---
 title: "The smartest storage for the world’s largest data volumes"
 summary: "CERN’s Large Hadron Collider is the world’s largest, most complex experimental facility, generating the world’s largest data volumes. This calls for extremely smart data handling and storage solutions, and one of the smartest is distributed between four Nordic countries."
-photo: "/assets/images/news/mattias-wadenstein.jpg"
+photo: "{% include baseurl %}/assets/images/news/mattias-wadenstein.jpg"
 ---
 
 # The smartest storage for the world’s largest data volumes
@@ -14,8 +14,8 @@ The Large Hadron Collider (LHC) outside Geneva, on the border between Switzerlan
 
 The LHC is not only an extremely advanced and complicated research facility, the multitude of sensors and instruments along the LHC also produce enormous amounts of data. The current production amounts to hundreds of petabytes per year, and production is expected to increase by 10 to 100 times in the near future. That is why CERN needs the Worldwide LHC Computing Grid (WLCG). The WLCG is exactly what the name implies: a global collaboration of more than 170 computing centres in 42 countries linking together national and international grid infrastructures.
 
-<a href="/assets/images/news/mattias-wadenstein.jpg">
-<img class="smallpic" src="/assets/images/news/mattias-wadenstein-small.jpg">
+<a href="{% include baseurl %}/assets/images/news/mattias-wadenstein.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/mattias-wadenstein-small.jpg">
 </a>
 
 “The structure of distributed computer centres was chosen because no institution alone would have been capable of receiving, storing and processing the total output of data from CERN,” explains High Performance Computing expert Mattias Wadenstein at NeIC. He is also the manager of the distributed Nordic Tier 1 site in the WLCG.

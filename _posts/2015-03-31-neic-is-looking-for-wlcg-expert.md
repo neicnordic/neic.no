@@ -1,7 +1,7 @@
 ---
 title:  "NeIC is looking for WLCG specialist" 
 summary: "We have an open position for an external consultant/e-infrastructure specialist on WLCG Operations. Apply before 3 May 2015."
-photo:  "/assets/images/news/gerd-maswan-mini.jpeg"
+photo:  "{% include baseurl %}/assets/images/news/gerd-maswan-mini.jpeg"
 ---
 
 NeIC is looking for WLCG specialist
@@ -9,7 +9,7 @@ NeIC is looking for WLCG specialist
 
 **We have an open position for an external consultant/e-infrastructure specialist on WLCG Operations. Apply before 3 May 2015.**
 
-<a href="/assets/images/news/gerd-maswan.jpeg"> <img class="smallpic" src="/assets/images/news/gerd-maswan-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/gerd-maswan.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/gerd-maswan-mini.jpeg"> </a>
 
 NeIC is looking for an external consultant who can do an investigation into the boundary conditions for the NT1 operations as given by both formal and informal requirements from WLCG and the LHC experiments supported.
 

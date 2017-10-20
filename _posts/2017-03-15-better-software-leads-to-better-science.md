@@ -1,21 +1,21 @@
 ---
 title: "Better software leads to better science"
 summary: "Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries."
-photo: "/assets/images/news/radovan-bast.jpg"
+photo: "{% include baseurl %}/assets/images/news/radovan-bast.jpg"
 ---
 
 # Better software leads to better science
 
 **Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries.**
 
-<a href="/assets/images/news/radovan-bast.jpg">
-<img class="smallpic-left" src="/assets/images/news/radovan-bast.jpg">
+<a href="{% include baseurl %}/assets/images/news/radovan-bast.jpg">
+<img class="smallpic-left" src="{% include baseurl %}/assets/images/news/radovan-bast.jpg">
 </a>
 
 “The quality of scientific software is increasingly becoming critical for the advancement of knowledge. We firmly believe that developing better software leads to better science”, says Radovan Bast. He leads the CodeRefinery project and is a Senior Engineer in the High Performance Computing Group at the University of Tromsø – The Arctic University of Norway.
 
-<a href="/assets/images/news/thor-wikfeldt.jpg">
-<img class="smallpic" src="/assets/images/news/thor-wikfeldt-small.jpg">
+<a href="{% include baseurl %}/assets/images/news/thor-wikfeldt.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/thor-wikfeldt-small.jpg">
 </a>
 
 “This project is not only about educating the people who come to the workshops, in order to learn how to develop and use better software. We also hope that they can go back to their institutions and share what they have learnt and contribute to developing a better culture. In addition, we are planning to set up a platform for version control of public and private code, to simplify collaboration and enable code review in order to improve quality and knowledge transfer”, adds Thor Wikfeldt. He is an application expert at the Center for High Performance Computing (PDC) at KTH Royal Institute of Technology in Stockholm.

@@ -4,13 +4,13 @@
   <div class="container">
     <div class="team">
       <div class="team-nav-bar">
-        <div class="left-bar"><a href="/people/" class="back-btn">Back to all</a></div>
+        <div class="left-bar"><a href="{% include baseurl %}/people/" class="back-btn">Back to all</a></div>
         <div class="clearfix"></div>
       </div>
       <div class="contact-person">
         {% if page.photo %}
           <div class="contact-photo">
-            <img src="/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
+            <img src="{% include baseurl %}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
           </div>
         {% endif %}
         <div class="contact-person-data">
