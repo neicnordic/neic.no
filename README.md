@@ -20,6 +20,11 @@ Page layout should be in html files.
 Ideally (almost) no content should be in html files.
 
 
+## Dimensions for news pictures
+
+News pictures should be ideally be 762x507 px in size.
+
+
 ## License
 
 Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
