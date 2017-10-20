@@ -1,5 +1,7 @@
 markdown_ext: "md"
 
+bp: "" # Must be "" in main repo. Forks set this to "neic.no/" to get *.github.io/neic.no/ to render right.
+
 # https://github.com/jekyll/jekyll/issues/302
 permalink: pretty
 defaults:
