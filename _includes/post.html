@@ -16,7 +16,7 @@
               {% if forloop.index < 5 %}
                 <li>
                   <p class="l-news-title">
-                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <a href="{% include baseurl %}{{ post.url }}">{{ post.title }}</a>
                   </p>
                   <p class="l-news-date">
                     {{ post.date | date: "%Y-%m-%d" }}

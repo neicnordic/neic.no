@@ -25,7 +25,7 @@
         <ul class="linl-list">
           {% for activity in site.activities %}
             {% unless activity.finished %}
-              <li><a href="{{ activity.url }}">{{ activity.name }}</a></li>
+              <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
             {% endunless %}
           {% endfor %}
         </ul>
@@ -106,10 +106,10 @@
           <div class="mob news-bg" style="background-image: url({{ post.photo }});">
           </div>
           <div class="lite-white-bg">
-            <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <h4><a href="{% include baseurl %}{{ post.url }}">{{ post.title }}</a></h4>
             <p class="date">{{ post.date | date: "%Y-%m-%d" }}</p>
             <p class="description">{{ post.summary }}</p>
-            <a href="{{ post.url }}" class="btn">read more &raquo;</a>
+            <a href="{% include baseurl %}{{ post.url }}" class="btn">read more &raquo;</a>
           </div>
         </div>
       {% endif %}

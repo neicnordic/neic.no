@@ -30,12 +30,12 @@
                          aria-labelledby="sub-menu-h{{ forloop.index }}">
                       <ul class="sub-menu-list">
                         {% for i in item.links %}
-                          <li><a href="{{ i.url }}">{{ i.text }}</a></li>
+                          <li><a href="{% include baseurl %}{{ i.url }}">{{ i.text }}</a></li>
                         {% endfor %}
                       </ul>
                     </div>
                   {% else %}
-                    <a href="{{ item.url }}" class="sub-menu-item no-collapse">
+                    <a href="{% include baseurl %}{{ item.url }}" class="sub-menu-item no-collapse">
                       {{ item.text }}
                     </a>
                   {% endif %}

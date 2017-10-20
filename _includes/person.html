@@ -72,7 +72,7 @@
                     {% if activity_group[0] == person_group[0] %}
                       {% unless activity == previous_activity %}
                         {% assign previous_activity = activity %}
-                        <p class="top"><a href="{{ activity.url }}">{{ activity.name }}</a></p>
+                        <p class="top"><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></p>
                       {% endunless %}
                       <p class="no-space">
                         <span>
@@ -95,7 +95,7 @@
                     {% if activity_group[0] == person_group[0] %}
                       {% unless activity == previous_activity %}
                         {% assign previous_activity = activity %}
-                        <p class="top"><a href="{{ activity.url }}">{{ activity.name }}</a></p>
+                        <p class="top"><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></p>
                       {% endunless %}
                       <p class="no-space">
                         <span>
