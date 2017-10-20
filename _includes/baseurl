@@ -1,1 +1,1 @@
-{{ site.github.owner_name }}
+{% if site.github.owner_name != 'neicnordic' %}/{{ site.github.repository_name }}{% endif %}
