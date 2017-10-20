@@ -3,6 +3,25 @@ layout: master
 include: training
 ---
 
+## NeIC training calendar
+Please contact NeIC if you would like to advertize your training activity here, and you believe it is in scope for NeIC.
+<a href="/training/upcoming/" class="btn white-hover-btn">UPCOMING EVENTS</a>
+<a href="/training/past/" class="btn white-hover-btn">PREVIOUS EVENTS</a>
+
+## Nordic National Training Portals
+<div class="description">
+      <p>Training portals operated by NeIC partners and stakeholders.</p>
+    </div>
+    <div class="btn-block">
+      <p><b>National e-infrastructure providers:</b></p>
+      <a href="https://vidensportal.deic.dk/kurser" class="btn with-border black-hover-btn">DEIC, DK</a>
+      <a href="http://www.csc.fi/web/training" class="btn with-border black-hover-btn">CSC, FI</a>
+      <a href="https://www.sigma2.no/content/training" class="btn with-border black-hover-btn">Sigma2, NO</a>
+      <a href="http://docs.snic.se/wiki/Training" class="btn with-border black-hover-btn">SNIC, SE</a>
+    </div>
+	  <p><br /><p>
+</div>
+
 ## Mobility Enhancement cut-off dates
 
 ### Course Mobility
