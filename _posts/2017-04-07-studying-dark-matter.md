@@ -1,7 +1,7 @@
 ---
 title: "Studying dark matter"
 summary: "“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter."
-photo: "{% include baseurl %}/assets/images/news/farid-ould-saada.jpg"
+photo: "/assets/images/news/farid-ould-saada.jpg"
 ---
 
 # Studying dark matter

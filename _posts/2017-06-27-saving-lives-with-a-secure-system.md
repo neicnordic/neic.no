@@ -1,7 +1,7 @@
 ---
 title: "Saving lives with a secure system for sharing biomedical data"
 summary: "Before: Biomedical researchers often exchanged sensitive data about people’s health between institutions or across borders via poorly protected means such as USB drives or CDs sent via registered mail. Now: Researchers can exchange data at great speed – and save more lives – via a secure Nordic data sharing service."
-photo: "{% include baseurl %}/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg"
+photo: "/assets/images/news/AnttiPursala_JoellHedlund_29B5493.jpg"
 ---
 # Saving lives with a secure system for sharing biomedical data
 

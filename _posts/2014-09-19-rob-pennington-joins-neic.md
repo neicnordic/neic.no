@@ -1,7 +1,7 @@
 ---
 title:  "Rob Pennington joins the NeIC team" 
 summary: "NCSA deputy director Rob Pennington has joined the Nordic e-Infrastructure Collaboration team as a special advisor from Sept. 15. While at NeIC, Rob will lead efforts to develop the Nordic scientific case for large-scale high-performance computing."
-photo:  "{% include baseurl %}/assets/images/news/rob-small.jpeg"
+photo: "/assets/images/news/rob-small.jpeg"
 ---
 
 Rob Pennington joins the NeIC team

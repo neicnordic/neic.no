@@ -1,7 +1,7 @@
 ---
 title:  "Genetics and environment across borders" 
 summary: "What are the roles played by environmental and genetic factors in the development of schizophrenia? This question is being examined by an interdisciplinary team of researchers in five different countries. The Tryggve secure IT-based system has been vital in enabling researchers to share data across borders."
-photo:  "{% include baseurl %}/assets/images/news/Sullivan_Patrick.jpg"
+photo: "/assets/images/news/Sullivan_Patrick.jpg"
 ---
 
 Genetics and environment across borders

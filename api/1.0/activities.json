@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: "{% include baseurl %}/:path/:basename"
+permalink: "/:path/:basename"
 ---
 {
 {% for activity in site.activities %}

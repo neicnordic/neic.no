@@ -1,7 +1,7 @@
 ---
 title:  "The Tryggve project is underway"
 summary: "On 21 and 22 October 2014, project leader Antti Pursula hosted the kick-off conference for the Tryggve project at the Technical University of Denmark."
-photo:  "{% include baseurl %}/assets/images/news/tommi-at-work.jpeg"
+photo: "/assets/images/news/tommi-at-work.jpeg"
 ---
 
 The Tryggve project is underway

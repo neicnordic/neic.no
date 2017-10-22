@@ -1,7 +1,7 @@
 ---
 title: "Building a cloud for Nordic researchers"
 summary: "Researchers across the Nordic region are starting to enjoy a new “elastic” cloud computing infrastructure from where they can collaborate and share systems and resources. The Glenna project has already supported the development of both a Norwegian and a Danish national cloud service into true Nordic services, and more services are in the pipeline."
-photo: "{% include baseurl %}/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg"
+photo: "/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg"
 ---
 # Building a cloud for Nordic researchers
 

@@ -14,8 +14,6 @@ outcome-statements:
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161220_NeIC_NLPL_workplan_approved.pdf
-  - text: Collaboration agreement
-    url: N/A
 links:
   - url: https://wiki.neic.no/wiki/Nordic_Language_Processing_Laboratory
     text: External wiki

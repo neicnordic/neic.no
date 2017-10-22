@@ -1,7 +1,7 @@
 ---
 title:  "Glenna Project has started: Let’s create a Nordic cloud" 
 summary: "The Glenna project was launched 3 November in Arlanda, Stockholm. Project Manager Dan Still invited a total of 13 participants from the five Nordic countries to attend the kick-off meeting."
-photo:  "{% include baseurl %}/assets/images/news/glenna-kickoff-mini.jpeg"
+photo: "/assets/images/news/glenna-kickoff-mini.jpeg"
 ---
 
 Glenna Project has started: Let’s create a Nordic cloud

@@ -1,7 +1,7 @@
 ---
 title: "John White new Dellingr Project Manager"
 summary: "Through Dellingr NeIC will work with the national e-infrastructure providers to define a functional framework for resource sharing that will recognize and build upon the unique strengths of each provider to advance research in each of the respective countries and within the Nordic region overall."
-photo: "{% include baseurl %}/assets/images/news/john-white.jpg"
+photo: "/assets/images/news/john-white.jpg"
 ---
 # John White new Dellingr Project Manager
 

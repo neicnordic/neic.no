@@ -1,7 +1,7 @@
 ---
 title:  "Let it grow" 
 summary: "On 23–25 September 2014 NORDUnet hosted its 28th NORDUnet Conference in Uppsala, bringing together networking and cloud computing experts and users. NeIC’s Director Gudmund Høst presented the NeIC business model, focusing on the human factor. And precisely in the spirit of enhancing human relations between their organisations, NeIC and NORDUnet met for a working lunch."
-photo:  "{% include baseurl %}/assets/images/news/boards-meet-mini.jpeg"
+photo: "/assets/images/news/boards-meet-mini.jpeg"
 ---
 
 Let it grow

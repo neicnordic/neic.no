@@ -1,7 +1,7 @@
 ---
 title: "NeIC awarded funding from the Research Council of Norway"
 summary: NeIC, together with Sigma2, is one of 19 projects (out of 92 applicants) who have been invited to contract negotiations with the Research Council of Norway."
-photo: "{% include baseurl %}/assets/images/latest-news-3.png"
+photo: "/assets/images/latest-news-3.png"
 
 ---
 # NeIC awarded funding from the Research Council of Norway

@@ -1,7 +1,7 @@
 ---
 title:  "Enhancing eInfrastructures for wild animal research" 
 summary: "A Biotelemetry Sensor Data Workshop was held in Uppsala in November 2015 as part of the effort to enhance Nordic collaboration on how to handle data from sensors mounted on wild animals."
-photo:  "{% include baseurl %}/assets/images/news/biotel_ws_group_picture_small.jpg"
+photo: "/assets/images/news/biotel_ws_group_picture_small.jpg"
 ---
 
 Enhancing eInfrastructures for wild animal research

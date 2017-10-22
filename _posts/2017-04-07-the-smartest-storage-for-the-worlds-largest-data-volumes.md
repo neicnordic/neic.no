@@ -1,7 +1,7 @@
 ---
 title: "The smartest storage for the world’s largest data volumes"
 summary: "CERN’s Large Hadron Collider is the world’s largest, most complex experimental facility, generating the world’s largest data volumes. This calls for extremely smart data handling and storage solutions, and one of the smartest is distributed between four Nordic countries."
-photo: "{% include baseurl %}/assets/images/news/mattias-wadenstein.jpg"
+photo: "/assets/images/news/mattias-wadenstein.jpg"
 ---
 
 # The smartest storage for the world’s largest data volumes

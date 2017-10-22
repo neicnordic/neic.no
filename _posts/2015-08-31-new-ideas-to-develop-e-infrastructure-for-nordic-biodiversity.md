@@ -1,7 +1,7 @@
 ---
 title:  "New ideas to develop e-infrastructure for Nordic biodiversity" 
 summary: "On 26/27 August 2015, biodiversity researchers and service developers gathered in Oslo to present scientific use cases and to discuss opportunities for Nordic collaboration on advancing e-Infrastructure and its use beyond what is possible at the national level."
-photo:  "{% include baseurl %}/assets/images/news/biodiversity-ws-august-2015.jpeg"
+photo: "/assets/images/news/biodiversity-ws-august-2015.jpeg"
 ---
 
 New ideas to develop e-infrastructure for Nordic biodiversity

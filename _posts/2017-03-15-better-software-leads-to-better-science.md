@@ -1,7 +1,7 @@
 ---
 title: "Better software leads to better science"
 summary: "Software and computing skills have become essential in most fields of research, but researchers are often struggling with software that is unnecessarily complex and therefore not sustainable. But help is at hand, in the shape of workshops that promote better software development practices in scientific communities across the Nordic countries."
-photo: "{% include baseurl %}/assets/images/news/radovan-bast.jpg"
+photo: "/assets/images/news/radovan-bast.jpg"
 ---
 
 # Better software leads to better science

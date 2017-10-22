@@ -1,7 +1,7 @@
 ---
 title:  "Tomasz Malkiewicz new member of the NeIC Executive Management team"
 summary: "Tomasz will be part of the NeIC Executive Team, where he will help implement strategy, contribute to future strategy development, coordinate NeIC’s activities on resource sharing and sensitive data collaboration, and initiate new technical projects."
-photo:  "{% include baseurl %}/assets/images/news/tomasz-malkiewicz.jpg"
+photo: "/assets/images/news/tomasz-malkiewicz.jpg"
 ---
 
 Tomasz Malkiewicz new member of the NeIC Executive Management team

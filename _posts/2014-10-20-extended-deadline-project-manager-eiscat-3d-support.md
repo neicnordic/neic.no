@@ -1,7 +1,7 @@
 ---
 title:  "Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D support" 
 summary: "EISCAT_3D is an environmental research infrastructure on the European ESFRI roadmap, and NeIC is seeking a project manager/e-infrastructure specialist who can support the EISCAT_3D project in dealing with e-infrastructure challenges."
-photo:  "{% include baseurl %}/assets/images/news/eiscat-3d-aurora-mini.jpeg"
+photo: "/assets/images/news/eiscat-3d-aurora-mini.jpeg"
 ---
 
 Extended deadline: Project manager/e-infrastructure specialist for EISCAT_3D support

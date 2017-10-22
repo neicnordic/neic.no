@@ -1,8 +1,8 @@
 ---
 layout: master
 include: person
-name: Andreas Åkre Solberg 
-home: '<a https://www.uninett.no">UNINETT</a>'
+name: Andreas Åkre Solberg
+home: '<a href="https://www.uninett.no">UNINETT</a>'
 country: "NO"
 photo:
 email: andreas.solberg@uninett.no

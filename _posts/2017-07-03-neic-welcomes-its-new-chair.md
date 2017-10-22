@@ -1,7 +1,7 @@
 ---
 title: "NeIC welcomes its new Chair"
 summary: "Dr Steen Pedersen, Director of DeIC, appointed as Chair of NeIC Board will serve s two-year term starting 15th June 2017, with Gunnar Bøe, Managing Director of UNINETT Sigma2, elected as chair-in-elect."
-photo: "{% include baseurl %}/assets/images/news/Steen_Pedersen.jpg"
+photo: "/assets/images/news/Steen_Pedersen.jpg"
 ---
 # Steen Pedersen new Chair of NeIC Board
 

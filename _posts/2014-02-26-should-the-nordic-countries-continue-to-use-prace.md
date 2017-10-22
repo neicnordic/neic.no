@@ -1,7 +1,7 @@
 ---
 title:  Should the Nordic countries continue to use PRACE? 
 summary: "The Partnership for Advanced Computing in Europe (PRACE) provides Europe’s most extensive high-performance computing systems – 100 000 times more powerful than an ordinary PC. As PRACE is considering changing its payment model, the Nordic e-infrastructure Collaboration (NeIC) decided to evaluate Nordic researchers’ use of the resources."
-photo:  "{% include baseurl %}/assets/images/news/rob-mini.jpeg"
+photo: "/assets/images/news/rob-mini.jpeg"
 ---
 
 Should the Nordic countries continue to use PRACE?

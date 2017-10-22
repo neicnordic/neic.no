@@ -1,7 +1,7 @@
 ---
 title:  "John White new NeIC project manager for the Supporting EISCAT_3D-project"
 summary: "NeIC has hired Geneva-based physicist John White to support EISCAT_3D in meeting its e-Infrastructure and e-Science needs."
-photo:  "{% include baseurl %}/assets/images/news/john-white.jpg"
+photo: "/assets/images/news/john-white.jpg"
 ---
 
 John White new NeIC project manager for the Supporting EISCAT_3D-project

@@ -1,7 +1,7 @@
 ---
 title:  "Tryggve takes care of sensitive data"
 summary: "Researchers seeking to share biomedical data between Nordic countries face both technical and legal hurdles. The joint Nordic project Tryggve offers services that address these challenges by allowing researchers to process and share data securely across national borders."
-photo:  "{% include baseurl %}/assets/images/news/Antti_profile2.jpg"
+photo: "/assets/images/news/Antti_profile2.jpg"
 ---
 
 Tryggve takes care of sensitive data

@@ -1,0 +1,1 @@
+{% assign firstchar = include.url|slice:0 %}{% assign secondchar = include.url|slice:1 %}{% if firstchar == '/' and secondchar != '/' %}{% include baseurl %}{% endif %}{{ include.url | default: include.default }}

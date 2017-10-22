@@ -1,7 +1,7 @@
 ---
 layout: master
 include: api
-permalink: "{% include baseurl %}/api/"
+permalink: "/api/"
 ---
 
 ## Application Programming Interface

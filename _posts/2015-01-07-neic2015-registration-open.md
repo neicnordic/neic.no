@@ -1,7 +1,7 @@
 ---
 title:  "Registration now open: NeIC2015 conference"
 summary: "NeIC will 5-8 May 2015 host the second conference on e-infrastructure: Nordic Collaboration for Global Excellence."
-photo:  "{% include baseurl %}/assets/images/news/guitar.jpeg"
+photo: "/assets/images/news/guitar.jpeg"
 ---
 
 Registration now open: NeIC2015 conference

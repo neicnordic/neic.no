@@ -10,7 +10,7 @@
               <div class="single-news-list">
                 {% if post.photo %}
                   <a href="{% include baseurl %}{{ post.url }}">
-                    <div class="img-block" style="background-image: url({{ post.photo }});"></div>
+                    <div class="img-block" style="background-image: url({% include baseurl %}{{ post.photo }});"></div>
                   </a>
                 {% endif %}
                 <div class="news-details">

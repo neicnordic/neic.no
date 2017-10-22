@@ -101,9 +101,9 @@
           <div class="right-news">
           {% assign left_news = true %}
         {% endif %}
-          <div class="desktop news-bg" style="background-image: url({{ post.photo }});">
+          <div class="desktop news-bg" style="background-image: url({% include baseurl %}{{ post.photo }});">
           </div>
-          <div class="mob news-bg" style="background-image: url({{ post.photo }});">
+          <div class="mob news-bg" style="background-image: url({% include baseurl %}{{ post.photo }});">
           </div>
           <div class="lite-white-bg">
             <h4><a href="{% include baseurl %}{{ post.url }}">{{ post.title }}</a></h4>

@@ -6,7 +6,7 @@ type: Operations
 leader: gudmund-host
 start: 2012-01-01
 results: N/A
-outreach: ../../events/
+outreach: /events
 documents:
   - text: Strategy 2016-2020
     url: https://wiki.neic.no/wiki/NeIC_Strategy_2016-2020

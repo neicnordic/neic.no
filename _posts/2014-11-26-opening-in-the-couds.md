@@ -1,7 +1,7 @@
 ---
 title:  "Opening in the clouds" 
 summary: "Meet Dan Still. He is the newest member of the NeIC team and is responsible for the Glenna project. Glenna is Icelandic for “opening in the clouds” - a poetic way to designate the coming Nordic Cloud."
-photo:  "{% include baseurl %}/assets/images/news/dan-street-mini.jpeg"
+photo: "/assets/images/news/dan-street-mini.jpeg"
 ---
 
 Opening in the clouds
