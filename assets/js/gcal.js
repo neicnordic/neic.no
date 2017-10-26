@@ -182,7 +182,7 @@ var GCal = {
 
   formatApiURL(calendarId, key, timeMin, timeMax) {
     var url = "https://www.googleapis.com/calendar/v3/calendars/" + calendarId
-      + "{% include baseurl %}/events?key=" + (key || this.defaultAuthKey)
+      + "/events?key=" + (key || this.defaultAuthKey)
       + "&orderBy=startTime&singleEvents=true"
 
     if (timeMax) {
