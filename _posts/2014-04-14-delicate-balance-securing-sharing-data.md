@@ -1,7 +1,7 @@
 ---
 title:  "A delicate balance between securing and sharing data" 
 summary: "NeIC has recently hired 39-year-old Finn Antti Pursula to coordinate the Tryggve Project – an ambitious project designed to develop simpler, safer, e-infrastructure services for researchers to improve our quality of life. Mr Pursula is employed by CSC in Finland, and will continue to have his office there. In this interview he explains the Tryggve Project."
-photo:  "/assets/images/news/antti-portrait.jpeg"
+photo: "/assets/images/news/antti-portrait.jpeg"
 ---
 
 A delicate balance between securing and sharing data
@@ -9,7 +9,7 @@ A delicate balance between securing and sharing data
 
 **NeIC has recently hired 39-year-old Finn Antti Pursula to coordinate the Tryggve Project – an ambitious project designed to develop simpler, safer, e-infrastructure services for researchers to improve our quality of life. Mr Pursula is employed by CSC in Finland, and will continue to have his office there. In this interview he explains the Tryggve Project.**
 
-<a href="/assets/images/news/antti-portrait.jpeg"> <img class="smallpic" src="/assets/images/news/antti-portrait.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/antti-portrait.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/antti-portrait.jpeg"> </a>
 
 **What is the Tryggve Project?**
 

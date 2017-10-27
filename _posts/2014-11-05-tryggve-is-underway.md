@@ -1,7 +1,7 @@
 ---
 title:  "The Tryggve project is underway"
 summary: "On 21 and 22 October 2014, project leader Antti Pursula hosted the kick-off conference for the Tryggve project at the Technical University of Denmark."
-photo:  "/assets/images/news/tommi-at-work.jpeg"
+photo: "/assets/images/news/tommi-at-work.jpeg"
 ---
 
 The Tryggve project is underway
@@ -9,7 +9,7 @@ The Tryggve project is underway
 
 **On 21 and 22 October 2014, project leader Antti Pursula hosted the kick-off conference for the Tryggve project at the Technical University of Denmark.**
 
-<a href="/assets/images/news/tommi-at-work.jpeg"> <img class="smallpic" src="/assets/images/news/tommi-at-work.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/tommi-at-work.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/tommi-at-work.jpeg"> </a>
 
 The Tryggve project will create a platform enabling researchers in the Nordic countries to share and analyze sensitive biomedical data while at the same time ensuring these data cannot be misused.
 
@@ -25,7 +25,7 @@ There are over three million European researchers in the life sciences. This is 
 
 ### Cooperation across borders
 
-<img class="smallpic-left" src="/assets/images/news/tryggve-kickoff.jpeg">
+<img class="smallpic-left" src="{% include baseurl %}/assets/images/news/tryggve-kickoff.jpeg">
 
 The two-day conference focused on a discussion of the scientific challenges and objectives. Time was also spent discussing how to work together optimally when most participants are spending 50 per cent or less of their total work time on the Tryggve project and they are spread throughout the Nordic region and in various organisations as well. Good routines and clear communication are called for to ensure that all the participants can stay apprised of what their colleagues have achieved and what is expected of everyone. Colleagues working in a virtual environment cannot meet at the water cooler to talk about how to move forward with a problem. They have to send emails to each other instead, which makes the cooperation a little more formal and laborious. By the same token, it also becomes more structured and it is easier to follow how the project is developing.
 

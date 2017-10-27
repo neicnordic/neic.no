@@ -9,7 +9,7 @@ NeIC seeking input for new funding plan
 
 *' The Nordic e-Infrastructure Collaboration (NeIC) is drawing up its new five-year funding plan, to start in 2016, and is seeking input through Letters of Interest from the research community on priority areas on which to focus.*'
 
-<a href="/assets/images/news/loi-2014.jpeg"> <img class="smallpic" src="/assets/images/news/loi-2014-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/loi-2014.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/loi-2014-mini.jpeg"> </a>
 
 - The current funding plan focuses heavily on biomedicine as an area that can benefit greatly from joint Nordic e-infrastructure, says Gudmund Høst, Director of the NeIC.
 

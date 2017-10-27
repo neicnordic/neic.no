@@ -1,7 +1,7 @@
 ---
 title:  "NOK 500 000 in NordForsk funding for Nordic software solution" 
 summary: "The Advanced Resource Connector (ARC) is an Open Source software solution that facilitates researcher participation in CERN's Large Hadron Collider experiments, among other applications."
-photo:  "/assets/images/news/arc-logo.png"
+photo: "/assets/images/news/arc-logo.png"
 ---
 
 NOK 500 000 in NordForsk funding for Nordic software solution
@@ -9,7 +9,7 @@ NOK 500 000 in NordForsk funding for Nordic software solution
 
 **The Advanced Resource Connector (ARC) is an Open Source software solution that facilitates researcher participation in CERN's Large Hadron Collider experiments, among other applications.**
 
-<img class="smallpic" src="/assets/images/news/arc-logo.png">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/arc-logo.png">
 
 eScience infrastructure enables researchers in all disciplines to use computing power to create simulations, process data, store large amounts of data, and more. The ARC serves as a middleware, linking together research e-Infrastructure in the Nordic countries by providing access to computational and data resources.
 

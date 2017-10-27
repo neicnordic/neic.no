@@ -1,7 +1,7 @@
 ---
 title:  "Opening in the clouds" 
 summary: "Meet Dan Still. He is the newest member of the NeIC team and is responsible for the Glenna project. Glenna is Icelandic for “opening in the clouds” - a poetic way to designate the coming Nordic Cloud."
-photo:  "/assets/images/news/dan-street-mini.jpeg"
+photo: "/assets/images/news/dan-street-mini.jpeg"
 ---
 
 Opening in the clouds
@@ -9,7 +9,7 @@ Opening in the clouds
 
 **Meet Dan Still. He is the newest member of the NeIC team and is responsible for the Glenna project. Glenna is Icelandic for “opening in the clouds” - a poetic way to designate the coming Nordic Cloud.**
 
-<a href="/assets/images/news/dan-street.jpeg"> <img class="smallpic" src="/assets/images/news/dan-street-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/dan-street.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/dan-street-mini.jpeg"> </a>
 
 Dan is a Finnish computer scientist and has worked at CSC since 2005. Before that he was employed at Argonne National Laboratory outside Chicago, USA. From 1 September 2014 he is spending 50 % of his time at NeIC, where he is managing the brand-new Glenna project, scheduled to run for the next two years.
 

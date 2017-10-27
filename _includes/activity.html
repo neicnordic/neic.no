@@ -2,7 +2,7 @@
 {% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
 {% assign leader = site.people | where:"path", leader_path  | first %}
 
-<section class="single-pagebanner" style="background-image: url(/assets/images/sin-act-banner.png);">
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/sin-act-banner.png);">
 </section>
 
 <section class="wys-editer single-activities">
@@ -28,17 +28,17 @@
             </p>
             <p class="no-space">
               <b>LEADER:</b>
-              <span class="color"><b><a href="{{ leader.url }}">{{ leader.name }}</a></b></span>
+              <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
             </p>
 
             {% unless page.results == "N/A" %}
               <p class="top">
-                <span class="color"><b><a href="{{ page.results | default: "#results" }}">Results</a></b></span>
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.results default="#results" %}">Results</a></b></span>
               </p>
             {% endunless %}
             {% unless page.outreach == "N/A" %}
               <p class="no-space">
-                <span class="color"><b><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></b></span>
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.outreach default="#outreach" %}">Outreach</a></b></span>
               </p>
             {% endunless %}
 
@@ -46,7 +46,7 @@
               <p class="top"><b>LINKS:</b></p>
               {% for link in page.links %}
                 <p class="no-space">
-                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
                   {% if link.description %} - {{ link.description }}{% endif %}
                 </p>
               {% endfor %}
@@ -56,7 +56,7 @@
               <p class="top"><b>DOCUMENTS</b></p>
               {% for link in page.documents %}
                 <p class="no-space">
-                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
                   {% if link.description %} - {{ link.description }}{% endif %}
                 </p>
               {% endfor %}
@@ -191,7 +191,7 @@
                           {% else %}
                             <p>
                           {% endif %}
-                            <a href="{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                            <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
                           </p>
                           {% assign person_on_top = false %}
                         {% endif %}

@@ -12,8 +12,6 @@ outreach: https://wiki.neic.no/wiki/Earth_system_modeling#Outreach
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161125_NeIC_ESM_work_plan_approved.pdf
-  - text: Collaboration agreement
-    url: N/A
 links:
   - url: https://wiki.neic.no/wiki/Earth_system_modeling
     text: External wiki

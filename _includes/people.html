@@ -128,7 +128,7 @@
 
                             <h4>{{ previous_country }}</h4>
                           {% endunless %}
-                          <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
+                          <li><div class="left-text"><a href="{% include baseurl %}{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                         {% endif %}
                       {% endfor %}
                     </ul>
@@ -168,7 +168,7 @@
 
                             <h4>{{ previous_country }}</h4>
                         {% endunless %}
-                          <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
+                          <li><div class="left-text"><a href="{% include baseurl %}{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                       {% endfor %}
                     </ul>
                   </div>
@@ -199,7 +199,7 @@
 
                             <h4>{{ previous_country }}</h4>
                           {% endunless %}
-                          <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
+                          <li><div class="left-text"><a href="{% include baseurl %}{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                       {% endfor %}
                     </ul>
                   </div>
@@ -238,7 +238,7 @@
 
                             <h4>{{ previous_country }}</h4>
                           {% endunless %}
-                          <li><div class="left-text"><a href="{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
+                          <li><div class="left-text"><a href="{% include baseurl %}{{ person.url }}">{{ person.name }}</a></div><div class="right-text">{{ person.home }}</div></li>
                       {% endfor %}
                     </ul>
                   </div>

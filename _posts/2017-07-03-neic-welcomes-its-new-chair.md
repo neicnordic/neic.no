@@ -5,8 +5,8 @@ photo: "/assets/images/news/Steen_Pedersen.jpg"
 ---
 # Steen Pedersen new Chair of NeIC Board
 
-<a href="/assets/images/news/Steen_Pedersen2.jpg">
-  <img class="smallpic" src="/assets/images/news/Steen_Pedersen_small.jpg">
+<a href="{% include baseurl %}/assets/images/news/Steen_Pedersen2.jpg">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/news/Steen_Pedersen_small.jpg">
 </a>
 
 At its Board meeting on the 15th June, Pekka Lehtovuori (Director, Services for research, CSC), who has served as Chair of the NeIC Board for a two-year period, handed over his responsibilities as Chair to Dr. Steen Pedersen, Director of the Danish e-Infrastructure Collaboration (DeIC). Steen will serve as Chair of NeIC Board for two years, while Gunnar Bøe, Managing Director of UNINETT Sigma2 has been elected as chair-in-elect for the following two-year period. 

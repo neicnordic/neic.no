@@ -5,8 +5,8 @@ photo: "/assets/images/people/chandan-basu.jpg"
 ---
 # Chandan Basu new NICEST Project Manager
 
-<a href="/assets/images/people/chandan-basu.jpg">
-  <img class="smallpic" src="/assets/images/people/chandan-basu.jpg">
+<a href="{% include baseurl %}/assets/images/people/chandan-basu.jpg">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/people/chandan-basu.jpg">
 </a>
 
 NeIC has engaged Chandan Basu as project manager for NICEST, its project on Earth System Modelling. This project will strengthen the Nordic ESM community by efficiently using various e-infrastructures through competence building, and sharing and exchanging knowledge. It will result in increased efficiency of ESM teams and open doors for future scientific and technical collaborations. The project will increase collaboration along three focused activities:
