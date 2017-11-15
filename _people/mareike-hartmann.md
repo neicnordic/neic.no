@@ -1,11 +1,11 @@
 ---
 layout: master
 include: person
-name: Johannes Bjerva
+name: Mareike Hartmann
 home: <a href="http://diku.dk/english/">DIKU</a>
 country: "DK"
 photo:
-email: bjerva@di.ku.dk
+email: hartmann@di.ku.dk
 phone:
 on_contract: no
 has_been_on_contract: no

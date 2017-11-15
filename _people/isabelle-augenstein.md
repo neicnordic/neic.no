@@ -10,6 +10,5 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  nlpl-sg:
   nlpl:
 ---
