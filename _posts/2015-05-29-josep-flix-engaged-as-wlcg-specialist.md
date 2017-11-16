@@ -1,7 +1,7 @@
 ---
 title:  "Josep Flix engaged as WLCG specialist" 
 summary: "Josep Flix, Port d’Informaciò Cientifica (PIC) is engaged as external consultant/e-infrastructure specialist on WLCG Operations."
-photo: "/assets/images/news/JosepFlix-small.png"
+photo: "/assets/images/latest-news-2.png"
 ---
 
 Josep Flix engaged as WLCG specialist
