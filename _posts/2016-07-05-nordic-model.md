@@ -1,7 +1,7 @@
 ---
 title:  "Nordic model offers unique set of competencies in large data set analysis" 
 summary: "Although it might be more cost-effective to consolidate six Nordic computing centres into one, the Nordic distributed model also provides a unique set of competencies, new evaluation report concludes"
-photo: "/assets/images/news/NT1_Costs_2015_Breakdown_2.png"
+photo: "/assets/images/latest-news-1.png"
 ---
 
 Nordic model offers unique set of competencies in large data set analysis
