@@ -1,6 +1,7 @@
 ---
 title:  "NeIC is seeking Area Coordinator" 
 summary: "Do you want to be a part of our team? NeIC is seeking a new area coordinator who can further develop the Generic Area as well as coordinate existing projects."
+photo: "/assets/images/latest-news-3.png"
 ---
 
 NeIC is seeking Area Coordinator
