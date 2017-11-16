@@ -1,7 +1,7 @@
 ---
 title:  BMS dugnad 
 summary: "NeIC is arranging a project proposal workshop (dugnad) within the Bio- and Medical Sciences (BMS) area."
-photo:  /assets/images/news/dugnad-mini.jpeg
+photo:  photo: "/assets/images/latest-news-1.png"
 ---
 
 BMS dugnad
