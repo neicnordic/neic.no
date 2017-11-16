@@ -1,7 +1,7 @@
 ---
 title:  "Dejan Vitlacil joins the NeIC Executive Team" 
 summary: "Dejan Vitlacil is engaged as temporary NeIC Generic Area Coordinator from October 1st."
-photo: "/assets/images/news/dejan-small.jpeg"
+photo: "/assets/images/latest-news-2.png"
 ---
 
 Dejan Vitlacil joins the NeIC Executive Team
