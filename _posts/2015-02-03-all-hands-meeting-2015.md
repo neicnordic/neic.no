@@ -1,7 +1,7 @@
 ---
 title:  "All Hands Meeting 2015" 
 summary: "The first NeIC All Hands Meeting gathered 47 people at Skeikampen, 27.-30. January."
-photo: "/assets/images/news/ahm15-azab-host-mini.jpeg"
+photo: "/assets/images/latest-news-1.png"
 ---
 
 All Hands Meeting 2015
