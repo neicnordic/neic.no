@@ -1,6 +1,7 @@
 ---
 title:  NeIC at the EGI Community Forum 2014 
 summary: "NeIC will participate at the EGI Community Forum 19 to 23 May 2014."
+photo: "/assets/images/latest-news-1.png"
 ---
 
 = NeIC will participate at the EGI Community Forum 19 to 23 May 2014 "
