@@ -1,7 +1,7 @@
 ---
 title: The most successful distributed environment I’ve encountered
 summary: “The Nordic eInfrastructure Collaboration (NeIC) has developed the most successful distributed environment I’ve ever worked in,” states Jon Kerr Nilsen of the University Center for Information Technology (USIT) at the University of Oslo. He is so pleased with the NeIC system that he intends to replicate it to a large degree when designing a High Performance Computing operations environment between four Norwegian universities. 
-photo: "/assets/images/news/JosepFlix-small.png"
+photo: "/assets/images/news/JonKerrNilsen2.png"
 ---
 # “The most successful distributed environment I’ve encountered”
 
