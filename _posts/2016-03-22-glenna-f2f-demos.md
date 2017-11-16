@@ -1,7 +1,7 @@
 ---
 title:  Glenna F2F meeting held in Kastrup 
 summary: "During this year's Glenna F2F meeting demonstrations and hands-on tutorials of Cloud services available so far were held."
-photo:  /assets/images/news/20160315_800x600.jpg
+photo:  /assets/images/latest-news-5.png
 ---
 
 This year's Glenna F2F meeting was held in Kastrup on March 15th
