@@ -1,7 +1,7 @@
 ---
 title:  "New NeIC board appointed" 
 summary: "1 June 2015 the NordForsk board appointed a new NeIC board."
-photo: "/assets/images/news/pekka_lehtovuori.jpeg"
+photo: "/assets/images/latest-news-3.png"
 ---
 
 New NeIC board appointed
