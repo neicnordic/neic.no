@@ -1,7 +1,7 @@
 ---
 title:  "Small files – Big impact: B2Share Nordic" 
 summary: "The need for storing scientific data grows rapidly along with the technological development. The need to store in the easiest and most accessible way grows too. B2Share is an answer to this need."
-photo: "/assets/images/news/francesca-street-mini.jpeg"
+photo: "/assets/images/latest-news-3.png"
 ---
 
 Small files – Big impact: B2Share Nordic
