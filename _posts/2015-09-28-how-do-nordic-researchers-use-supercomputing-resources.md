@@ -1,7 +1,7 @@
 ---
 title:  "How do Nordic researchers use supercomputing resources?" 
 summary: "In the report “Cognitus, a Science Case for High Performance Computing in the Nordic Region”, Dr Rob Pennington has analyzed the use of high performance computing facilities and resources among Nordic researchers. He found that the research in the Nordic region that depends on computational capabilities is “clearly internationally competitive.”"
-photo: "/assets/images/news/cognitus_rob.jpeg"
+photo: "/assets/images/latest-news-4.png"
 ---
 
 How do Nordic researchers use supercomputing resources?
