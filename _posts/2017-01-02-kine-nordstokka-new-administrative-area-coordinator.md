@@ -1,7 +1,7 @@
 ---
 title:  "Kine Nordstokkå new NeIC coordinator"
 summary: "Kine will work at the NeIC secretariat in Oslo to coordinate and support the growing portfolio of projects and NeIC team across the Nordic region."
-photo: "/assets/images/news/kine.jpg"
+photo: "/assets/images/latest-news-1.png"
 ---
 
 Kine Nordstokkå new coordinator for NeIC
