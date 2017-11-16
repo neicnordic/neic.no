@@ -1,7 +1,7 @@
 ---
 title:  "The Nordic e-Infrastructure Collaboration (NeIC) is seeking a Training Programme Manager"
 summary: "NeIC is looking for a Training Programme Manager to develop and facilitate the implementation of a Nordic training programme for technical staff in the Nordic e-infrastructure community."
-photo: "/assets/images/news/Social_Network_Diagram_from_Wikipedia_mini.png"
+photo: "/assets/images/latest-news-2.png"
 ---
 
 The Nordic e-Infrastructure Collaboration (NeIC) is seeking a Training Programme Manager
