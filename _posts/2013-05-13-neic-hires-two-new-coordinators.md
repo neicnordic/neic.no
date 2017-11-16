@@ -1,6 +1,7 @@
 ---
 title:  NeIC hires two new coordinators 
 summary: "The NeIC is pleased to announce that Michaela Barth began in her position as Coordinator for Generic Technologies on 1 March 2013, and Joel Hedlund became Coordinator for Bio- and Medical Sciences Services on 1 April 2013."
+photo: "/assets/images/latest-news-4.png"
 ---
 
 NeIC hires two new coordinators
