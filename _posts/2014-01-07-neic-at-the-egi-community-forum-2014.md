@@ -4,8 +4,6 @@ summary: "NeIC will participate at the EGI Community Forum 19 to 23 May 2014."
 photo: "/assets/images/latest-news-1.png"
 ---
 
-= NeIC will participate at the EGI Community Forum 19 to 23 May 2014 "
-
 **NeIC will participate at the EGI Community Forum 19 to 23 May 2014.**
 
 NeIC, the Nordic e-Infrastructure Collaboration, is facilitating the development of advanced IT tools and services in areas of importance to Nordic researchers. In order to fill the gap between the successful NeIC2013 conference with its popular workshop session and the next big NeIC conference in 2015, some of the current activities going on in Nordic collaboration in the field of e-infrastructure and the handling of scientific data will be presented and can be discussed actively at the EGI Community Forum 2014.
