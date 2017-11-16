@@ -1,7 +1,7 @@
 ---
 title:  Discussions on e-Infrastructure in Trondheim 
 summary: "Questions on e-Infrastructure were discussed on the conference “Nordic e-Infrastructure Collaboration: Lessons, Opportunities and Future Directions” 15-16 May 2013 in Trondheim. NeIC held the conference in cooperation with CSC - IT Center for Science, DeIC, NORDUnet, Norwegian University of Science & Technology, RHnet, Swedish National Infrastructure for Computing and UNINETT Sigma. 160 researchers, policy makers and R&D industry representatives participated."
-photo:  /assets/images/news/neic2013-mini.jpeg
+photo:  photo: "/assets/images/latest-news-2.png"
 ---
 
 Discussions on e-Infrastructure in Trondheim
