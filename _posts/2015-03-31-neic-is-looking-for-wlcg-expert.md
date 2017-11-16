@@ -1,7 +1,7 @@
 ---
 title:  "NeIC is looking for WLCG specialist" 
 summary: "We have an open position for an external consultant/e-infrastructure specialist on WLCG Operations. Apply before 3 May 2015."
-photo: "/assets/images/news/gerd-maswan-mini.jpeg"
+photo: "/assets/images/latest-news-2.png"
 ---
 
 NeIC is looking for WLCG specialist
