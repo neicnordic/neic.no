@@ -1,7 +1,7 @@
 ---
 title:  The Nordic e-Infrastructure Collaboration (NeIC) is seeking Resource Sharing Project Manager
 summary: "NeIC is looking for a Project Manager to implement a main component of the NeIC strategy. The envisioned outcome of the resource sharing project is a set of e-infrastructure policies, common processes and associated framework that forms a Nordic platform for providing services to share resources in an effective and consistent manner."
-photo:  /assets/images/news/Resource_sharing_img.png
+photo:  /assets/images/latest-news-4.png
 ---
 
 NeIC is seeking Resource Sharing Project Manager
