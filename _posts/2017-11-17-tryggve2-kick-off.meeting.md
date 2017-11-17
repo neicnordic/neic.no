@@ -40,9 +40,6 @@ Further information:
 https://neic.no/tryggve2/ 
 
 Antti Pursula
-
 Project Manager
-
 antti.pursula(at)csc.fi
-
 tryggve@neic.no   
