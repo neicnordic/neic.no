@@ -18,6 +18,10 @@ links:
     description: Training events relevant to NeIC and stakeholders.
   - text: External wiki
     url: https://wiki.neic.no/wiki/Ratatosk
+  - text: Icelandic Workshops
+    url: https://wiki.neic.no/wiki/Ratatosk
+  - text: Digital Humanities, Phase one activities
+    url: https://wiki.neic.no/wiki/Ratatosk
 groups:
   ratatosk-po:
     name: Project office
