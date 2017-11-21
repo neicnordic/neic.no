@@ -16,7 +16,7 @@ links:
   - text: Upcoming training
     url: /training/upcoming
     description: Training events relevant to NeIC and stakeholders.
-  - text: External wiki
+  - text: External wiki on Ratatosk
     url: https://wiki.neic.no/wiki/Ratatosk
   - text: Icelandic Workshops
     url: https://wiki.neic.no/wiki/Ratatosk
