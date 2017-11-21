@@ -20,8 +20,10 @@ links:
     url: https://wiki.neic.no/wiki/Ratatosk
   - text: Icelandic Workshops
     url: https://wiki.neic.no/wiki/Ratatosk
-  - text: Digital Humanities, Phase one activities
+    description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region.
+  - text: Digital Humanities 
     url: https://wiki.neic.no/wiki/Ratatosk
+    description: Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material.  
 groups:
   ratatosk-po:
     name: Project office
