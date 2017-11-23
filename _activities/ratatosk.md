@@ -19,7 +19,7 @@ links:
   - text: External wiki on Ratatosk
     url: https://wiki.neic.no/wiki/Ratatosk
   - text: Icelandic Workshops
-    url: https://drive.google.com/open?id=1YwVRQKaZmJg5qKAay5o9NnKXwe_mlBEg
+    url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
     description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region.
   - text: Digital Humanities 
     url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities
