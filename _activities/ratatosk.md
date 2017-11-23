@@ -22,7 +22,7 @@ links:
     url: https://drive.google.com/open?id=1YwVRQKaZmJg5qKAay5o9NnKXwe_mlBEg
     description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region.
   - text: Digital Humanities 
-    url: https://drive.google.com/open?id=0BzaNWKlRsEMDZWdKTW0tV1dBbVk
+    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities
     description: Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material.  
 groups:
   ratatosk-po:
