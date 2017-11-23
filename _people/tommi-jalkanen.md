@@ -1,15 +1,14 @@
 ---
 layout: master
 include: person
-name: Jaakko Leinonen
+name: Tommi Jalkanen
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
-email: jaakko.leinonen@csc.fi
+email: tommi.jalkanen@csc.fi
 phone:
-on_contract: yes
-has_been_on_contract: yes
+on_contract:
+has_been_on_contract:
 groups:
-  tryggve1:
   tryggve2:
 ---

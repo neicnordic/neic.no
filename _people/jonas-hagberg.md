@@ -10,5 +10,6 @@ phone: "+46 706683869"
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
+  tryggve1:
+  tryggve2:  
 ---
