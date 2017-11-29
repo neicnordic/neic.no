@@ -13,11 +13,14 @@ groups:
   xt:
     role: Senior advisor
     finished: yes
-  tryggve-sg:
-    role: Scientific manager, Secretary
-  tryggve-rg:
-    role: Scientific manager
   tryggve-po:
+    role: Project owner
+    finished: yes
+  tryggve1-sg:
+    role: Scientific manager, Secretary
+  tryggve1-rg:
+    role: Scientific manager
+  tryggve1-po:
     role: Project owner
     finished: yes
   tryggve2-sg:

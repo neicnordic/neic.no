@@ -10,6 +10,9 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  tryggve-rg:
+  tryggve1-rg:
     role: <a href="https://sigma2.no">Sigma2</a>
+  tryggve2-rg:
+    role: <a href="https://sigma2.no">Sigma2</a>
+
 ---

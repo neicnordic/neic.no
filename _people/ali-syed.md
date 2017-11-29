@@ -10,7 +10,7 @@ phone: "+45 60 90 46 46"
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
+  tryggve1:
   tryggve2:
     role: Sub-project leader
   tryggve2-pm:

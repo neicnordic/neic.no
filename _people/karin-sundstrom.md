@@ -10,6 +10,8 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  tryggve-rg:
+  tryggve1-rg:
+    role: <a href="http://www.nordicehealth.se/">NIASC</a>
+  tryggve2-rg:
     role: <a href="http://www.nordicehealth.se/">NIASC</a>
 ---

@@ -10,6 +10,6 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  tryggve-sg:
+  tryggve1-sg:
   tryggve2-sg:
 ---
