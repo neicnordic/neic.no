@@ -714,7 +714,7 @@
   <td><div>master</div></td>
   <td><div>person</div></td>
   <td><div>Erland Hochheim</div></td>
-  <td><div>&lt;a href="<a href="https://www.computerome.dk/&quot;&gt;National Life Science Supercomputing Center&lt;/a">https://www.computerome.dk/"&gt;National Life Science Supercomputing Center&lt;/a</a>&gt;</div></td>
+  <td><div>&lt;a href="<a href="https://www.computerome.dk/&quot;&gt;DTU&lt;/a">https://www.computerome.dk/"&gt;DTU;/a</a>&gt;</div></td>
   <td><div>DK</div></td>
   <td><div>assets/images/people/Erland_Hochheim.jpg</div></td>
   <td><div>erhh@dtu.dk</div></td>
