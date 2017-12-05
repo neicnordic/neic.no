@@ -154,6 +154,7 @@ var GCal = {
     m = eventDescription.match(/(.*(\n+([\s\S]+))?)/m);
     if (m && m[3]) {
       return m[3].replace(/\n/g, '<br/>\n')
+        .replace(/^ +/gm, function(x){ return new Array(x.length + 1).join('&nbsp;') });
     }
     return ""
   },
