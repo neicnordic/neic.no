@@ -21,6 +21,8 @@ projects:
 links:
   - text: Newsletters
     url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
+  - text: Use cases
+    url: usecase
 groups:
 ---
 Today, data saves lives. With more and better data, we can save more lives. By
