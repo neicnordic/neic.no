@@ -29,3 +29,4 @@ News pictures should be ideally be 762x507 px in size.
 
 Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Source code is licensed under [MPL v2.0](../master/LICENSE).
+  
