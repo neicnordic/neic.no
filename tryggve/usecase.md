@@ -51,21 +51,21 @@ In a nutshell, the accepted use cases will receive access to secure data process
 
 For more information on **the benefits, see [these slides](http://www.slideshare.net/anttipursula/tryggve-support-forresearch).**
 
-###Submit a Use Case Proposal
+### Submit a Use Case Proposal
 
 Use Cases for Tryggve can be proposed online at any time. There are two alternatives for doing this: either provide information on your research case in an online form, or download and complete a .docx template and submit it by email to the project manager (antti.pursula@csc.fi). Please select one of the two options:
 * **[Online form](https://docs.google.com/forms/d/e/1FAIpQLScWMEzgcuhufIH2ZKsrsxCES3lI1v06pBIed5-ZL523i0Ohxg/formResponse)**.
 * **[.docx template](https://wiki.neic.no/wiki/File:Tryggve_Use_Case_form.docx)** for download
 
-###List of current use cases
+### List of current use cases
 
 Please find the list the current use cases [here](https://docs.google.com/spreadsheets/d/10TT_A_ennA_dfL2f9NAyYBcZiMXFp1BHeR-j3Sfb65E/edit#gid=0)
 
-###Review process of Use Cases
+### Review process of Use Cases
 
 Please find the process description [here](https://docs.google.com/document/d/1gGpUXtdodo2OMP9gGUIvwwM2zOv_zxfFxrwY_sDZQ4Q/edit)
 
-###Links to national systems for sensitive data
+### Links to national systems for sensitive data
 
 If a research project does not qualify as Tryggve use case, it is also possible to access the individual service providers directly. The links below help to find information on accessing the individual secure systems directly. Note that access to these services may require a service fee.
 
