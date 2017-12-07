@@ -1,6 +1,7 @@
 ---
 layout: master
 include: document
+banner: "/assets/images/sin-act-banner.png"
 ---
 
 ## Use cases
