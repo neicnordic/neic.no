@@ -4,7 +4,7 @@ include: document
 banner: "/assets/images/sin-act-banner.png"
 ---
 
-## Use cases
+## Tryggve Use Cases
 
 
 Tryggve team wants to support researchers in taking the **secure data services** into use, and thereby to achieve results **faster and safer**. In practice, Tryggve implements specific **Use Cases** as part of the project. The Use Cases drive the development in Tryggve towards actual and concrete demands of the users. Use Cases aim to solve real-life issues in data management and/or to provide state-of-the-art research environment for sensitive research data.
@@ -68,3 +68,7 @@ If a research project does not qualify as Tryggve use case, it is also possible 
 
 Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) on any questions concerning accessing of the Nordic systems
 for sensitive data, for example if you are unsure whether to submit a use case or access separate systems directly.
+
+More on **[Tryggve](https://neic.no/tryggve/)**
+
+
