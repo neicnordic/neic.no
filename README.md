@@ -16,6 +16,7 @@ Go to [#web](http://neic.slack.com/messages/web) in NeIC slack if you need someo
 * Ideally (almost) no content should be in html files.
 * News pictures should be ideally be 762x507 px in size.
 * Work locally ([cf below](#work-locally)).
+* Show your changes to others at YOURNAME.github.io/neic.no ([cf below](#show-your-changes-to-others)).
 
 ### You need
 A [GitHub](https://github.com/) account.
@@ -25,7 +26,7 @@ you are part of the [neicnordic](https://github.com/neicnordic) organization.
 Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack.
 
 ### Work locally
-1. Clone the site to your laptop.
+1. Clone the source code to your laptop.
 2. Serve it with `jekyll serve`.
 3. See changes live on [http://localhost:4000/](http://localhost:4000/).
 4. Edit until happy.
@@ -33,6 +34,12 @@ Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack.
 6. Push your changes back to GitHub.
 
 [Full guide here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
+
+### Show your changes to others
+If you work in a fork then you can point others to YOURNAME.github.io/neic.no to show them your work
+(but nothing is shown until you actually commit a change).
+
+Example: yohell.github.io/neic.no
 
 ### What's where?
 We use Jekyll collections. Information on similar things are in the same folder.
@@ -50,7 +57,8 @@ Edit it until it is how you want it. Commit.
 * Preferred method: Fork and pull request ([guide here](https://help.github.com/articles/fork-a-repo/))
 * For very minor things like updating an email address: Edit in place.
 
-The best way is to work locally ([cf above](#work-locally)).
+The best way is to [work locally](#work-locally), 
+then [show your changes to others](#show-your-changes-to-others).
 
 ### What if something goes wrong?
 Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack, but here's the
