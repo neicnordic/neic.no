@@ -15,6 +15,7 @@ Go to [#web](http://neic.slack.com/messages/web) in NeIC slack if you need someo
 * Page layout should be in html files.
 * Ideally (almost) no content should be in html files.
 * News pictures should be ideally be 762x507 px in size.
+* Make a fork ([guide here](https://help.github.com/articles/fork-a-repo/))
 * Work locally ([cf below](#work-locally)).
 * Show your changes to others at https://YOURNAME.github.io/neic.no ([cf below](#show-your-changes-to-others)).
 
