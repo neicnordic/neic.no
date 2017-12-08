@@ -16,7 +16,7 @@ Go to [#web](http://neic.slack.com/messages/web) in NeIC slack if you need someo
 * Ideally (almost) no content should be in html files.
 * News pictures should be ideally be 762x507 px in size.
 * Work locally ([cf below](#work-locally)).
-* Show your changes to others at YOURNAME.github.io/neic.no ([cf below](#show-your-changes-to-others)).
+* Show your changes to others at https://YOURNAME.github.io/neic.no ([cf below](#show-your-changes-to-others)).
 
 ### You need
 A [GitHub](https://github.com/) account.
@@ -36,10 +36,10 @@ Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack.
 [Full guide here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 ### Show your changes to others
-If you work in a fork then you can point others to YOURNAME.github.io/neic.no to show them your work
+If you work in a fork then you can point others to https://YOURNAME.github.io/neic.no to show them your work
 (but nothing is shown until you actually commit a change).
 
-Example: yohell.github.io/neic.no
+Example: https://yohell.github.io/neic.no
 
 ### What's where?
 We use Jekyll collections. Information on similar things are in the same folder.
