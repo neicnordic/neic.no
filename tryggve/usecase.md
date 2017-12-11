@@ -62,7 +62,7 @@ Please find the process description [here](https://docs.google.com/document/d/1g
 If a research project does not qualify as Tryggve use case, it is also possible to access the individual service providers directly. The links below help to find information on accessing the individual secure systems directly. Note that access to these services may require a service fee.
 
 * [Computerome](http://wiki.bio.dtu.dk/computerome/index.php/Computerome_-_Danish_National_Supercomputer_for_Life_Sciences#Access_to_Computerome) (Denmark)
-* [ePouta](https://research.csc.fi/pouta-user-guide) (Finland)
+* [ePouta](https://research.csc.fi/cloud-computing) (Finland)
 * [TSD](http://www.uio.no/english/services/it/research/storage/sensitive-data/index.html) (Norway)
 * [Mosler](https://wiki.bils.se/wiki/Mosler_user_documentation) (Sweden)
 
