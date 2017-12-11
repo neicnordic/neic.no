@@ -13,7 +13,7 @@ The easiest way to start using secure services from Tryggve is to apply for a Tr
 
 ### Tryggve offering for use cases
 
-In a nutshell, the accepted use cases will receive access to secure data processing environments; expert assistance from Tryggve; support in legal and ethical questions to make their case happen; and an opportunity to influence future developments as an early adopter. All this will be provided free of charge for the use cases for a limited time (up to a reasonable amount of disk space and computing resources).
+In a nutshell, the accepted use cases will receive support from the Tryggve project that can include, for example, access to secure data processing environments; technical support from Tryggve; support in legal and ethical questions to make their case happen; and an opportunity to influence future developments as an early adopter. The work support according to jointly prepared implementation plan will be provided free of charge for the use cases. The Tryggve project strives to provide also access to secure data and computing services for free, for a limited time (up to a reasonable amount of disk space and computing resources), although this needs to be confirmed case by case with the project management.
 
 #### Accessing and moving research data
 * Secure data transfer, based on secure FTP
