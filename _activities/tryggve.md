@@ -2,7 +2,7 @@
 layout: master
 include: activity
 name: Tryggve
-type: 
+type: Project
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
