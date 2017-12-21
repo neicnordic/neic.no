@@ -1,6 +1,6 @@
 ---
 title: "NeIC established MoU with ETAIS"
-summary: "We are thrilled to announce that NeIC has officially established a memorandum of understanding with The Estonian Scientific Computing Infrastructure (ESTAI)"
+summary: "We are thrilled to announce that NeIC has officially established a memorandum of understanding with The Estonian Scientific Computing Infrastructure (ETAIS)"
 photo: "/assets/images/latest-news-4.png"
 
 ---
