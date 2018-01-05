@@ -28,8 +28,8 @@ groups:
   e3ds-sg:
     name: Steering group
     description: Governance.
-    minutes: https://wiki.neic.no/int/EISCAT_3D#Steering_group_meetings
-    frequency: Every 6 months (internal)
+    minutes: https://wiki.neic.no/wiki/EISCAT_3D_support#Steering_Group_meetings
+    frequency: Approx every 6 months
   e3ds-po:
     name: Project office
     description: Project ownership issues.
