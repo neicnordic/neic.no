@@ -30,7 +30,7 @@ groups:
     minutes: https://goo.gl/ngwJLK
     frequency: Monthly
     description: Team plenaries (subteams meet more frequently). NeIC
-      associates get access on request from project management.
+      associates get access to minutes on request from project management.
   tryggve2-rg:
     name: Reference group
     description: Stakeholder engagement forum. Requirements gathering, outreach
@@ -44,7 +44,7 @@ groups:
     minutes: https://goo.gl/DsegLq
   tryggve2-pm:
     name: Project management
-    description: Management. NeIC associates get access on request from project management.
+    description: Management. NeIC associates get access to minutes on request from project management.
     minutes: https://goo.gl/PUVGl3
     frequency: Weekly
   tryggve2-po:
