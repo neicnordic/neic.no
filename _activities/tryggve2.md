@@ -53,4 +53,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
-Tryggve2 is a continuation of the first [Tryggve](../tryggve1/).
+Tryggve2 continues the collaboration of the first [Tryggve](../tryggve1/) project.
