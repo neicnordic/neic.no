@@ -1,6 +1,6 @@
 ---
 layout: master
-include: 
+include: activity
 name: Tryggve
 type: 
 leader: antti-pursula
