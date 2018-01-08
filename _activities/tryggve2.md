@@ -5,8 +5,8 @@ name: Tryggve2
 type: Project
 leader: antti-pursula
 phase: Execution
-start: 2017-04-27
-end: 2020-12-31
+start: 2017-10-21
+end: 2020-10-31
 results: N/A
 outreach: N/A
 outreach-tag:
@@ -20,7 +20,7 @@ documents:
 links:
   - text: Tryggve
     url: ../tryggve
-    description: Tryggve Nordic sensitive data program homepage.
+    description: Tryggve Nordic sensitive data projects' homepage.
   - text: Internal wiki
     url: https://wiki.neic.no/int/Tryggve2
     description: Internal working documents.
@@ -53,5 +53,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
-Tryggve2 is a continuation of the [Tryggve](../tryggve/) project which entered
-execution phase on 2017-10-21.
+Tryggve2 is a continuation of the first [Tryggve](../tryggve1/).
