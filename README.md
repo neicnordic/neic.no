@@ -81,25 +81,25 @@ The best way is to [work locally](#work-locally),
 then [show your changes to others](#show-your-changes-to-others).
 
 
-### What if something goes wrong?
+## Troubleshooting
 
-Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack, but here's the
-basics depending how you were working:
-
-
-#### If you were working "in place"
-
-Very quickly go ask someone in [#web](http://neic.slack.com/messages/web) in
-NeIC slack if they can help you fix your mess.
+If you hit a problem and do not know how to get out of it, ask in
+[#web](http://neic.slack.com/messages/web) in NeIC slack, but here's the basics
+depending how you were working:
 
 
-#### If you were working the proper way
+### If you were working directly through the web interface
 
-(eg you were working on a fork/clone, ie not "in place")
+Ask in [#web](http://neic.slack.com/messages/web) in the
+NeIC slack for help.
 
-The nuclear option is always easiest: just delete the mess.
-1. Make a new clone of whatever you were working on and which worked before you broke it.
-2. Copy over the stuff you want and not the stuff you don't want.
+
+### If you were working on a local clone
+
+This is a simple, non-elegant solution:
+
+1. Make a new clone of whatever you were working on and which worked before it broke.
+2. Copy over the stuff you want and leave behind the changes you wish to discard.
 3. Commit.
-4. Push back your changes.
-5. Delete the old mess you made.
+4. Push your changes.
+5. Delete the broken clone.
