@@ -7,10 +7,7 @@ Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 Source code is licensed under [MPL v2.0](../master/LICENSE).
 
 
-## How to update the neic.no website
-
-
-### Short version
+## Executive summary
 
 We use GitHub pages. Sources are at https://github.com/neicnordic/neic.no.
 The web is full of [guides and tutorials](http://lmgtfy.com/?q=github+pages+howto).
@@ -18,27 +15,44 @@ GitHub pages uses [GitHub flavored markdown syntax](https://help.github.com/cate
 Go to [#web](http://neic.slack.com/messages/web) in NeIC slack if you need someone to talk to.
 
 
-#### Tips
+## Requirements to edit the website
 
-* Ideally content should be in Markdown files.
-* Page layout should be in html files.
-* Ideally (almost) no content should be in html files.
-* News pictures should be ideally be 762x507 px in size.
-* Make a fork ([guide here](https://help.github.com/articles/fork-a-repo/))
-* Work locally ([cf below](#work-locally)).
-* Show your changes to others at https://YOURNAME.github.io/neic.no ([cf below](#show-your-changes-to-others)).
-
-
-### You need
-
-A [GitHub](https://github.com/) account.
+You need a [GitHub](https://github.com/) account.
 
 Optional: For very minor things like updating an email address it's easiest if
 you are part of the [neicnordic](https://github.com/neicnordic) organization.
 Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack.
 
+If you want to preview the website locally on your computer, you need to
+install [Jekyll](https://jekyllrb.com).
 
-### Work locally
+
+## Why is the website on GitHub/Jekyll?
+
+This way we do not have to worry about hosting, backup, and uptime. Also we
+allow anybody to submit changes and corrections without the need of giving
+these persons write or edit permissions.
+
+
+## Recommendations for editing pages
+
+
+### Show non-trivial changes to others before they are on the main site
+
+For trivial changes like updating an email address: Edit in directly through
+the web interface if you have write/edit permissions.
+
+For non-trivial changes, make a fork ([guide
+here](https://help.github.com/articles/fork-a-repo/)).
+
+If you work in a fork then you can point others to
+https://YOURUSER.github.io/neic.no to show them your work (but nothing is shown
+until you actually commit a change).
+
+Example: https://yohell.github.io/neic.no.
+
+
+### Work locally if you can (not trivial on Windows)
 
 1. Clone the source code to your laptop.
 2. Serve it with `jekyll serve`.
@@ -50,35 +64,24 @@ Ask in [#web](http://neic.slack.com/messages/web) in NeIC slack.
 [Full guide here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 
-### Show your changes to others
+### Where to place things
 
-If you work in a fork then you can point others to https://YOURNAME.github.io/neic.no to show them your work
-(but nothing is shown until you actually commit a change).
+- Ideally content should be in Markdown files.
+- Page layout should be in html files.
+- Ideally (almost) no content should be in html files.
 
-Example: https://yohell.github.io/neic.no
+We use Jekyll collections. Information on similar things are in the same
+folder. Examples:
 
-
-### What's where?
-
-We use Jekyll collections. Information on similar things are in the same folder.
-Examples:
-
-* People are in `_people/`.
-* Activities are in `_activities/`.
-* News articles are in `_posts/`.
-* ... you get the idea.
+- People are in `_people/`.
+- Activities are in `_activities/`.
+- News articles are in `_posts/`.
+- ... you get the idea.
 
 
-### How do I edit something?
+### Media
 
-Find something that's similar to what you want. Copy it if you need to.
-Edit it until it is how you want it. Commit.
-
-* Preferred method: Fork and pull request ([guide here](https://help.github.com/articles/fork-a-repo/))
-* For very minor things like updating an email address: Edit in place.
-
-The best way is to [work locally](#work-locally),
-then [show your changes to others](#show-your-changes-to-others).
+- News pictures should be ideally be 762x507 px in size.
 
 
 ## Troubleshooting
