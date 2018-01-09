@@ -5,7 +5,7 @@ name: Rafal Wolanin
 home: <a href="http://www.dtu.dk/">DTU</a>
 country: DK
 photo:
-email: 
+email: rawo@dtu.dk 
 phone:
 on_contract:
 has_been_on_contract:

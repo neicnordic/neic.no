@@ -20,7 +20,9 @@ projects:
     url: /tryggve1
 links:
   - text: Newsletters
-    url: https://wiki.neic.no/wiki/Tryggve_News # Change to Tryggve2 newsletter folder when suitable.
+    url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
+  - text: Use cases
+    url: usecase
 groups:
 ---
 Today, data saves lives. With more and better data, we can save more lives. By
