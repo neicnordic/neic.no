@@ -59,10 +59,10 @@ Example: https://yohell.github.io/neic.no
 We use Jekyll collections. Information on similar things are in the same folder.
 Examples:
 
-* People are in _people/.
-* Activities are in _activities/.
-* News articles are in _posts/.
-* ...you get the idea.
+* People are in `_people/`.
+* Activities are in `_activities/`.
+* News articles are in `_posts/`.
+* ... you get the idea.
 
 
 ### How do I edit something?
@@ -99,6 +99,7 @@ The nuclear option is always easiest: just delete the mess.
 3. Commit.
 4. Push back your changes.
 5. Delete the old mess you made.
+
 
 ## License
 
