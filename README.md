@@ -3,6 +3,10 @@
 
 # Sources behind [https://neic.no](https://neic.no)
 
+Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Source code is licensed under [MPL v2.0](../master/LICENSE).
+
+
 ## How to update the neic.no website
 
 
@@ -99,9 +103,3 @@ The nuclear option is always easiest: just delete the mess.
 3. Commit.
 4. Push back your changes.
 5. Delete the old mess you made.
-
-
-## License
-
-Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-Source code is licensed under [MPL v2.0](../master/LICENSE).
