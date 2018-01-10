@@ -43,5 +43,7 @@ groups:
     role: Project owner, Chair
   e3ds-po:
     role: Project owner
+  nicest-sg:
+    role: Project owner, Chair
   project-analysis-rg:
 ---
