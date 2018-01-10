@@ -45,5 +45,7 @@ groups:
     role: Project owner
   nicest-sg:
     role: Project owner, Chair
+  nicest-po:
+    role: Project owner
   project-analysis-rg:
 ---
