@@ -31,6 +31,11 @@ groups:
     description: Governance.
     minutes: https://wiki.neic.no/wiki/Category:Glenna2_steering_group_meetings
     frequency: 3-4 per year
+   glenna2-rg:
+    name: Reference group
+    description: Governance.
+    minutes: https://wiki.neic.no/wiki/Category:Glenna2_reference_group_meetings
+    frequency: 1-3 per year
   glenna2-po:
     name: Project office
     description: Management.
