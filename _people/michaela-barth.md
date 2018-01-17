@@ -28,7 +28,7 @@ groups:
     role: Project owner
   glenna-sg:
     role: Chair
-  glenna-rg:
+  glenna2-rg:
     role: Chair
   glenna-po:
     role: Project owner
