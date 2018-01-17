@@ -4,7 +4,7 @@ include: person
 name: Jørn Kristiansen
 home: <a href="http://met.no/">Norwegian Meteorological Institute</a>
 country: "NO"
-photo: ../assets/people/jorn-kristiansen.jpg
+photo: ../assets/images/people/jorn-kristiansen.jpg
 email: jorn.kristiansen@met.no
 phone:
 on_contract:
