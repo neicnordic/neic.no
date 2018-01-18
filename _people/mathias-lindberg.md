@@ -7,9 +7,9 @@ country: SE
 photo:
 email: mathlin@chalmers.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: no
 groups:
   provider-forum:
-  glenna2:
+  
 ---
