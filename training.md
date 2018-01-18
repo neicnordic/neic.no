@@ -15,5 +15,5 @@ The application process for the fifth round is available from January 18, 2018 t
 
 ### Travel Grants
 You can now apply for a [travel grant](/training/travel-grant) offered by the NeIC [Ratatosk](/ratatosk) Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
-The eigth **cut-off** date is set to **January 18**, 2018. The nineth cut-off is scheduled for **February 1, 2018**. For the next round, feel free to check out this page occasionally.
+The nineth **cut-off** date is set to **February 1**, 2018. The tenth cut-off is scheduled for **February 15, 2018**. For the next round, feel free to check out this page occasionally.
 
