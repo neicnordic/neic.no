@@ -1,4 +1,4 @@
-----
+---
 layout: master
 include: person
 name: Johan Guldmyr
@@ -9,4 +9,4 @@ email: johan.guldmyr@csc.fi
 phone:
 on_contract: yes
 groups:
-----
+---
