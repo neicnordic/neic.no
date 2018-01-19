@@ -11,4 +11,5 @@ on_contract:
 has_been_on_contract: no
 groups:
   coderefinery:
+  glenna2:
 ---
