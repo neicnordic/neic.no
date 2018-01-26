@@ -5,8 +5,8 @@ name: Tryggve2
 type: Project
 leader: antti-pursula
 phase: Execution
-start: 2017-04-27
-end: 2020-12-31
+start: 2017-10-21
+end: 2020-10-31
 results: N/A
 outreach: N/A
 outreach-tag:
@@ -19,7 +19,7 @@ documents:
 links:
   - text: Tryggve
     url: ../tryggve
-    description: Tryggve Nordic sensitive data project's homepage.
+    description: Tryggve Nordic sensitive data projects' homepage.
   - text: Internal wiki
     url: https://wiki.neic.no/int/Tryggve2
     description: Internal working documents.
@@ -29,7 +29,7 @@ groups:
     minutes: https://goo.gl/ngwJLK
     frequency: Monthly
     description: Team plenaries (subteams meet more frequently). NeIC
-      associates get access on request from project management.
+      associates get access to minutes on request from project management.
   tryggve2-rg:
     name: Reference group
     description: Stakeholder engagement forum. Requirements gathering, outreach
@@ -43,7 +43,7 @@ groups:
     minutes: https://goo.gl/DsegLq
   tryggve2-pm:
     name: Project management
-    description: Management. NeIC associates get access on request from project management.
+    description: Management. NeIC associates get access to minutes on request from project management.
     minutes: https://goo.gl/PUVGl3
     frequency: Weekly
   tryggve2-po:
@@ -52,5 +52,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
-Tryggve2 is a continuation of the [Tryggve](../tryggve/) project which entered
-execution phase on 2017-10-21.
+Tryggve2 continues the collaboration of the first [Tryggve](../tryggve1/) project.

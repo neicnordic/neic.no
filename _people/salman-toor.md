@@ -11,5 +11,6 @@ on_contract:
 has_been_on_contract: no
 groups:
   glenna2:
+    role: Aim3 Leader
   glenna:
 ---

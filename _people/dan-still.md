@@ -16,6 +16,8 @@ groups:
     role: Project leader
   glenna2-sg:
     role: Project leader, Observer
+  glenna2-rg:
+    role: Project leader, Observer
   glenna:
     role: Project leader
   glenna-sg:

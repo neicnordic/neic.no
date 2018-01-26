@@ -30,8 +30,4 @@ groups:
     role: Project leader
   tryggve2-sg:
     role: Project leader, Observer
-  nicest-po:
-    role: Project owner
-  nicest-sg:
-    role: Project owner, Chair
 ---

@@ -4,7 +4,7 @@ include: activity
 name: Glenna2
 type: Project
 leader: dan-still
-phase: Preparation
+phase: Execution
 start: 2017-01-01
 end: 2020-03-30
 results: https://wiki.neic.no/wiki/Glenna2
@@ -24,8 +24,14 @@ links:
 groups:
   glenna2:
     name: Team
-    minutes: 
+    minutes:
     frequency: None yet.
+  glenna2-rg:
+     name: Reference group
+     description: Stakeholder engagement forum. Requirements gathering, outreach
+       and quality assurance.
+     minutes: https://wiki.neic.no/wiki/Category:Glenna2_reference_group_meetings
+     frequency: 1-3 per year
   glenna2-sg:
     name: Steering group
     description: Governance.
