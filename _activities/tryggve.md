@@ -2,7 +2,8 @@
 layout: master
 include: activity
 name: Tryggve
-type:
+type: Program
+tagline: Nordic Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
@@ -15,7 +16,7 @@ documents:
 projects:
   - text: Tryggve2
     url: /tryggve2
-    description: Currently active
+    description: Currently active project
   - text: Tryggve1
     url: /tryggve1
     description: Past project

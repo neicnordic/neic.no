@@ -3,6 +3,7 @@ layout: master
 include: activity
 name: Tryggve2
 type: Project
+hide-on-frontpage: yes
 leader: antti-pursula
 phase: Execution
 start: 2017-10-21
@@ -52,4 +53,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
-Tryggve2 continues the collaboration of the first [Tryggve](../tryggve1/) project.
+Tryggve2 continues the collaboration of the first [Tryggve](../tryggve/) project.
