@@ -1,6 +1,7 @@
 ---
 title: "Nordic High Performance Computing & Applications Workshop"
 summary: "In August 2017, the University of Iceland held a successful Nordic High Performance Computing & Applications Workshop in Reykjavík with participants from across the Nordics."
+photo: "/assets/images/latest-news-2.png"
 ---
 
 Nordic High Performance Computing & Applications Workshop
