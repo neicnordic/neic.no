@@ -19,7 +19,7 @@ documents:
 links:
   - text: Tryggve
     url: ../tryggve
-    description: Tryggve - Nordic sensitive data project's homepage.
+    description: Tryggve Nordic sensitive data project's homepage.
   - text: Internal wiki
     url: https://wiki.neic.no/int/Tryggve2
     description: Internal working documents.
