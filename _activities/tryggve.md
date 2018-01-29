@@ -2,7 +2,7 @@
 layout: master
 include: activity
 name: Tryggve
-type: Program
+type: 
 tagline: Nordic Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
