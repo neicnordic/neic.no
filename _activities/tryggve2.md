@@ -3,6 +3,7 @@ layout: master
 include: activity
 name: Tryggve2
 type: Project
+hide-on-frontpage: yes
 leader: antti-pursula
 phase: Execution
 start: 2017-10-21
@@ -12,11 +13,10 @@ outreach: N/A
 outreach-tag:
 outcome-statements:
 documents:
+  - text: Project plan
+    url: https://drive.google.com/open?id=1TopZ2bilospLF8Xy4poRWI3XdI8MXqLo
   - text: Project directive
     url: https://goo.gl/gY5vMz
-  - text: Project plan
-    url: https://goo.gl/Nfuavb
-    description: Conditionally approved, to be finalized by 2018-02-14.
 links:
   - text: Tryggve
     url: ../tryggve
@@ -53,4 +53,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
-Tryggve2 continues the collaboration of the first [Tryggve](../tryggve1/) project.
+Tryggve2 continues the collaboration of the first [Tryggve](../tryggve/) project.

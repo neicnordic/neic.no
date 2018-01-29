@@ -1158,6 +1158,14 @@ section.single-activities h1{
     letter-spacing: 2px;
     font-size: 40px;
 }
+section.single-activities .tagline {
+  margin-bottom: 1ex;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 1px;
+  font-size: 26px;
+}
 section.single-activities .project-box{
     background: #ebf7f6;
     padding: 20px;
