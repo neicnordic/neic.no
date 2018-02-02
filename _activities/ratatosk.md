@@ -33,7 +33,7 @@ groups:
   ratatosk-sg:
     name: Steering group
     description: Governance.
-    minutes: https://wiki.neic.no/wiki/Pool_Competencies
+    minutes: https://wiki.neic.no/wiki/Category:Ratatosk_steering_group_meetings
     frequency: 3-4 yearly
 ---
 The Ratatosk mobility enhancement programme is a NeIC training activity with a
