@@ -15,9 +15,12 @@ documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161220_NeIC_NLPL_workplan_approved.pdf
 links:
+  - url: http://wiki.nlpl.eu
+    text: The NLPL Wiki
+    description: Project wiki with pages for the different activities
   - url: https://wiki.neic.no/wiki/Nordic_Language_Processing_Laboratory
     text: External wiki
-    description: External documentation, manuals and guides.
+    description: External documents - Steering Group minutes, Work plan 
   - url: https://wiki.neic.no/int/Nordic_Language_Processing_Laboratory
     text: Internal wiki
     description: Internal working documents.
@@ -25,12 +28,12 @@ groups:
   nlpl:
     name: Team
     minutes: https://wiki.neic.no/int/Category:NLPL_team_meetings_2017
-    frequency: Bi-weekly
+    frequency: Monthly
   nlpl-sg:
     name: Steering group
     description: Governance.
     minutes: https://wiki.neic.no/wiki/Nordic_language_processing_laboratory#Steering_Group_Meetings
-    frequency: Monthly
+    frequency: Quarterly
   nlpl-po:
     name: Project office
     description: Management.
