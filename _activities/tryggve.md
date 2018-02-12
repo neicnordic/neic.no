@@ -38,3 +38,8 @@ Tryggve contributes to facilitating automated cross-border sample and data movem
 The outcomes of Tryggve project will enable researchers to conduct their research utilising sensitive data in secure settings and facilitate Nordic collaboration in biomedical research. In practice, Tryggve implements specific Use Cases as part of the project. The Use Cases drive the development in Tryggve towards actual and concrete demands of the users. The easiest way to start using secure services from Tryggve is to apply for a [Tryggve use case](https://neic.no/tryggve/usecase/).
 
 Currently active project is [Tryggve2](https://neic.no/tryggve2/), which continues and expands the work done in [Tryggve1](https://neic.no/tryggve1/).
+
+Tryggve Newsletter is sent monthly on [the Tryggve news mailing list](tryggve-news@neic.no). To subscribe or unsubscribe to the Tryggve newsletter, please go to [this page](https://neic.no/mailman/listinfo/tryggve-news).
+
+Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) for more information! Follow [@NordicTryggve](https://twitter.com/nordictryggve) in Twitter for updates. 
+
