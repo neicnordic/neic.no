@@ -52,6 +52,8 @@ Use Cases for Tryggve can be proposed online at any time. There are two alternat
 * **[Online form](https://docs.google.com/forms/d/e/1FAIpQLScWMEzgcuhufIH2ZKsrsxCES3lI1v06pBIed5-ZL523i0Ohxg/formResponse)**.
 * **[.docx template](https://wiki.neic.no/wiki/File:Tryggve_Use_Case_form.docx)** for download
 
+Please do not submit any sensitive data in your use case description. Basic use case info will be made public on acceptance, see List of current use cases below.
+
 ### List of current use cases
 Please find the list the current use cases [here](https://docs.google.com/spreadsheets/d/10TT_A_ennA_dfL2f9NAyYBcZiMXFp1BHeR-j3Sfb65E/edit#gid=0)
 
