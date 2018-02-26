@@ -1,8 +1,8 @@
 ---
 layout: master
 include: person
-name: Baldur Eiríksson
-home: <a href="http://www.rhnet.is/">RHnet</a>
+name: Helmut Neukirchen 
+home: <a href="https://uni.hi.is/helmut/">University of Iceland</a>
 country: IS
 photo:
 email:
