@@ -58,4 +58,8 @@ groups:
   poco-wg:
     finished: yes
     role: Training program lead
+  nicest:
+    role: Project manager interim
+  nicest-sg:
+    role: Project manager interim, Observer
 ---
