@@ -60,6 +60,8 @@ groups:
     role: Training program lead
   nicest:
     role: Project manager interim
+  nicest-po:
+    role: Project manager interim
   nicest-sg:
     role: Project manager interim, Observer
 ---
