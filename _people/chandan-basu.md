@@ -10,9 +10,9 @@ phone: "+46 736 569357"
 on_contract: yes
 groups:
   nicest:
-    role: Project manager
+    role: Project manager (on leave)
     finished: no
   nicest-sg:
-    role: Project manager, Observer
+    role: Project manager, Observer (on leave)
     finished: no
 ---
