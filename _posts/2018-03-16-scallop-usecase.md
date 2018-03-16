@@ -10,7 +10,7 @@ Scallop - A Tryggve use case on sharing genetic and medical data
 **The study of the human genome is undeniably an essential part of understanding health and diseases. Conditions such a Down’s syndrome or autism are among the many diseases where much can be revealed from a person’s DNA. Imagine that you had access to genetic and medical data from thousands of patients with various medical backgrounds, but you lacked an adequate way to work with the data across borders – what would be the solution?**
 
 <a href="/assets/images/news/Tryggve_pdfheader_original.png">  
-  <img class="smallpic" src="/assets/images/news/Tryggve_pdfheader_NEW (002).png">
+  <img class="smallpic" src="/assets/images/news/Tryggve_pdfheader_original.png">
 </a>
 
 This was the case for Scallop, now a use case in NeIC’s Tryggve project. The Scallop Consortium was established to create a cooperative framework between research groups, with the aim of exploring what the human genome can tell us about the links between protein levels and illnesses. In June 2016, the consortium joined the Tryggve project, which enabled them to surmount the barriers to sharing of medical data across borders. 
@@ -40,7 +40,9 @@ Scallop is only one of several use cases receiving support from Tryggve that ben
 ### Further information
 
 neic.no/tryggve
+
 neic.no/tryggve/usecase 
+
 https://www.olink.com/scallop/ 
 
 ### About Tryggve
