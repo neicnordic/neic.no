@@ -25,6 +25,9 @@ links:
     url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
   - text: Use cases
     url: usecase
+documents:
+  - text: Tryggve GDPR article (3/2018)
+    url: https://drive.google.com/open?id=11wb7dHyqRoUJSdTWztBoHEvLljG1_8H5 
 groups:
 ---
 Tryggve is the name for the Nordic collaboration for sensitive data funded by NeIC and ELIXIR nodes of participating countries.
