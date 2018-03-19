@@ -1,10 +1,10 @@
 ---
-title: "Scallop - A Tryggve use case on sharing genetic and medical data"
+title: "Scallop - A Tryggve use case on analysing genetic and medical data"
 summary: "Imagine that you had access to genetic and medical data from thousands of patients with various medical backgrounds, but you lacked an adequate way to work with the data across borders. Read about Tryggve helped the Scallop consortium over these challenges."
 photo: "/assets/images/latest-news-1.png"
 ---
 
-Scallop - A Tryggve use case on sharing genetic and medical data
+Scallop - A Tryggve use case on analysing genetic and medical data
 ===============================
 
 **The study of the human genome is undeniably an essential part of understanding health and diseases. Conditions such a Down’s syndrome or autism are among the many diseases where much can be revealed from a person’s DNA. Imagine that you had access to genetic and medical data from thousands of patients with various medical backgrounds, but you lacked an adequate way to work with the data across borders – what would be the solution?**
@@ -39,11 +39,13 @@ Scallop is only one of several use cases receiving support from Tryggve that ben
 
 ### Further information
 
-neic.no/tryggve
+[Tryggve](https://neic.no/tryggve)
 
-neic.no/tryggve/usecase 
+[Tryggve use case](https://neic.no/tryggve/usecase)
 
-https://www.olink.com/scallop/ 
+[The Scallop Consortium](https://www.olink.com/scallop/ )
+
+
 
 ### About Tryggve
 
