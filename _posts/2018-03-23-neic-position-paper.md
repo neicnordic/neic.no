@@ -1,7 +1,8 @@
 ---
 title: "NeIC position paper on Nordic Open Science Collaboration"
 summary: "NeIC has written a position paper on what a Nordic Open Science Cloud could look like, and how NeIC could play a role in this.
-If you ar interested in reading about NeIC's position on EOSC and NOSC, please have a look here." 
+If you ar interested in reading about NeIC's position on EOSC and NOSC, please have a look here."
+photo: "/assets/images/latest-news-3.png"
 ---
 
 NeIC position paper on Nordic Open Science Collaboration
