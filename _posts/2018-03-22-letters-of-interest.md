@@ -143,7 +143,7 @@ To complement the open call for Letters of Interest, this request for informatio
 
 An information response may be submitted in free text format with a recommended maximum length of one page.
 
-Useful information that might be part of the information might NeIC include but is not limited to: 
+Useful information that might be part of the information might include, but is not limited to: 
 
 1. A description of the research community in the Nordic countries and internationally. A brief description of the research needs. What Nordic countries might be involved?  What non-Nordic countries?
 
