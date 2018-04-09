@@ -46,18 +46,19 @@ As part of the 2016-2020 strategy, NeIC is working to be a global role model for
 
 - A Nordic platform for sensitive biomedical research data.
 
-Nordic Tier-1 as one of the regional computing centres of the Worldwide LHC Computing Grid
+- Nordic Tier-1 as one of the regional computing centres of the Worldwide LHC Computing Grid
+
 Details of these projects can be found at https://wiki.neic.no/wiki/Activities and associated wiki pages.  Most of these projects are the result of responses to previous requests for Letters of Interest.
 
 These projects support the NeIC vision by:
 
-Supporting collaboration on e-Infrastructure for researchers in the Nordic region.
+- Supporting collaboration on e-Infrastructure for researchers in the Nordic region.
 
-Providing added value to researchers and national e-infrastructures that aligns with national and Nordic priorities, roadmaps and goals. 
+- Providing added value to researchers and national e-infrastructures that aligns with national and Nordic priorities, roadmaps and goals. 
 
-Contributing to more cost-efficient development and deployment of e-Infrastructure services.
+- Contributing to more cost-efficient development and deployment of e-Infrastructure services.
 
-Supporting the national research communities and e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
+- Supporting the national research communities and e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
 
 In addition to Nordic impacts, many of these projects also have had deep connections to larger international projects in Europe and beyond. By bringing together competencies of Nordic e-Infrastructure providers and research communities, and challenging this pool of highly skilled IT experts with the requirements of Nordic research communities, new innovative services are being developed and deployed. NeIC has aimed at bringing groups together within key areas of common Nordic interest. The development of such services and collaborations has been a primary focus for NeIC.
 
@@ -105,33 +106,33 @@ This is an open invitation to research and research related communities to provi
 
 As part of the 2016-2020 strategy, NeIC is working to be a global role model for cross-border distributed and sustainable e-infrastructure services.  This vision is supported by efforts in pooling competences and sharing resources in the Nordic region and is reflected in the current set of NeIC projects.  Current NeIC projects support the NeIC vision by:
 
-Supporting collaboration on e-Infrastructure for researchers in the Nordic region.
+- Supporting collaboration on e-Infrastructure for researchers in the Nordic region.
 
-Providing added value to researchers and national e-infrastructures that aligns with national and Nordic priorities, roadmaps and goals.
+- Providing added value to researchers and national e-infrastructures that aligns with national and Nordic priorities, roadmaps and goals.
 
-Contributing to more cost-efficient development and deployment of e-Infrastructure services.
+- Contributing to more cost-efficient development and deployment of e-Infrastructure services.
 
-Supporting the national research communities and e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
+- Supporting the national research communities and e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
 
 These projects include:
 
-Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics
+- Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics
 
-Collaborative Infrastructure for Scientific Software development
+- Collaborative Infrastructure for Scientific Software development
 
-Nordic Collaboration on resource sharing
+- Nordic Collaboration on resource sharing
 
-Nordic Collaboration on e-Infrastructures for Earth System Modeling
+- Nordic Collaboration on e-Infrastructures for Earth System Modeling
 
-Technical support for EISCAT_3D on network, computing and storage challenges.
+- Technical support for EISCAT_3D on network, computing and storage challenges.
 
-Nordic cloud collaboration 
+- Nordic cloud collaboration 
 
-Implementing a Nordic virtual laboratory for Natural Language Processing
+- Implementing a Nordic virtual laboratory for Natural Language Processing
 
-A Nordic platform for sensitive biomedical research data.
+- A Nordic platform for sensitive biomedical research data.
 
-Nordic Tier-1 as one of the regional computing centres of the Worldwide LHC Computing Grid
+- Nordic Tier-1 as one of the regional computing centres of the Worldwide LHC Computing Grid
 
 Details of these projects can be found at https://wiki.neic.no/wiki/Activities and associated wiki pages.  Most of these projects are the result of responses to previous requests for Letters of Interest.
 
