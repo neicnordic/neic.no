@@ -8,11 +8,12 @@
 <section class="wys-editer single-activities">
   <div class="container">
     <h1>{{ page.name }}</h1>
+    <div class="tagline">{{ page.tagline }}</div>
     <div class="row">
       <div class="col-md-7">
         <div class="content">
           <div class="project-box">
-            <h2>{{ page.type }}</h2>
+            {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
             <p class="top">
               {% if page.phase %}
                 <b>PHASE:</b> {{ page.phase }}

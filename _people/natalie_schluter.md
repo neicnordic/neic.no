@@ -8,7 +8,7 @@ photo:
 email: nael@itu.dk
 phone:
 on_contract: yes
-has_been_on_contract: yes
+has_been_on_contract:
 groups:
   nlpl:
 ---

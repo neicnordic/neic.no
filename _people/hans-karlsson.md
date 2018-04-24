@@ -2,15 +2,14 @@
 layout: master
 include: person
 name: Hans Karlsson
-home: <a href="http://www.snic.vr.se/">SNIC</a>
+home: <a href="https://www.uu.se/en/">Uppsala University</a>
 country: SE
 photo:
 email: hans.karlsson@kemi.uu.se
 phone:
-on_contract: no
-has_been_on_contract: no
+on_contract: yes
+has_been_on_contract:
 groups:
   board:
-    role: Since 2016-12-01.
+  dellingr-sg:
 ---
-Board member since 2016-12-01.
