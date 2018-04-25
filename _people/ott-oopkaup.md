@@ -5,8 +5,8 @@ name: Ott Eric Oopkaup
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
 country: EE
 photo:
-email: ilja.livenson@ut.ee
-phone: ott.oopkaup@ut.ee
+email: ott.oopkaup@ut.ee
+phone: 
 on_contract: no
 has_been_on_contract:
 groups:
