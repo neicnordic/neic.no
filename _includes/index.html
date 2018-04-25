@@ -39,7 +39,7 @@
     <div class="col-md-12">
       <div class="row">
         <div class="event-wrap">
-          <div class="right-event" style="background-image: url({% include baseurl %}/assets/images/current-event-bg.png);">
+          <div class="right-event" style="background-image: url({% include baseurl %}/assets/images/checkerboard-tile-pattern.jpg);">
           </div>
           <div class="left-event">
 
@@ -52,9 +52,18 @@
                   <div v-if="index < 3">
                     <li>
                       <h4 class="event-title"><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
-                      <p class="event-details" v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></p>
+                      <p class="event-details">
+                        <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+                        <a class="anchorjs-link calendar-link"
+                           :href="event.calendarUrl"
+                           :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+                           data-anchorjs-icon="📅">
+                        </a>
+                      </p>
                       <p class="description" v-html="event.blurb"></p>
-                      <a class="read-more" :href="event.url">READ MORE &raquo;</a>
+                      <div class="read-more-block readless">
+                        <p class="details" v-html="event.details"></p>
+                      </div>
                     </li>
                   </div>
                 </div>
