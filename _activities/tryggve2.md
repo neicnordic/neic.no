@@ -36,7 +36,7 @@ groups:
     description: Stakeholder engagement forum. Requirements gathering, outreach
       and quality assurance.
     frequency: meet twice annually, and as needed per deliverable
-    minutes: https://goo.gl/wOlURx
+    minutes: https://drive.google.com/drive/u/0/folders/1zh-zLP55NjIzzMsxjHTsvPIl7dh_gkak
   tryggve2-sg:
     name: Steering group
     description: The Nordic ELIXIR nodes and NeIC.
