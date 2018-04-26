@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NICEST
 type: Project
-leader: thomas-roblitz
+leader: chandan-basu
 phase: Execution
 start: 2017-01-01
 end: 2019-12-31
@@ -12,8 +12,6 @@ outreach: https://wiki.neic.no/wiki/Earth_system_modeling#Outreach
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161125_NeIC_ESM_work_plan_approved.pdf
-  - text: Collaboration agreement
-    url: N/A
 links:
   - url: https://wiki.neic.no/wiki/Earth_system_modeling
     text: External wiki
@@ -24,7 +22,7 @@ links:
 groups:
   nicest:
     name: Team
-    minutes: https://wiki.neic.no/int/Category:ESM_team_meetings
+    minutes: https://wiki.neic.no/int/Earth_system_modeling#Meeting_minutes
     frequency: Bi-Weekly
   nicest-sg:
     name: Steering group

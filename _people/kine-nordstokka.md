@@ -11,7 +11,11 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Coordinator
+    role: Administrative Area Coordinator
+  nicest-sg:
+    role: Project owner interim, Chair
+  nicest-po:
+    role: Project owner interim
   neic2017-sg:
     role: Ex officio, Project leader
   neic2017-pc:

@@ -4,13 +4,13 @@
   <div class="container">
     <div class="team">
       <div class="team-nav-bar">
-        <div class="left-bar"><a href="/people/" class="back-btn">Back to all</a></div>
+        <div class="left-bar"><a href="{% include baseurl %}/people/" class="back-btn">Back to all</a></div>
         <div class="clearfix"></div>
       </div>
       <div class="contact-person">
         {% if page.photo %}
           <div class="contact-photo">
-            <img src="/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
+            <img src="{% include baseurl %}/{{ page.photo }}" alt="{{ page.name }}" style="width: 100%; max-width: 300px;">
           </div>
         {% endif %}
         <div class="contact-person-data">
@@ -72,7 +72,7 @@
                     {% if activity_group[0] == person_group[0] %}
                       {% unless activity == previous_activity %}
                         {% assign previous_activity = activity %}
-                        <p class="top"><a href="{{ activity.url }}">{{ activity.name }}</a></p>
+                        <p class="top"><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></p>
                       {% endunless %}
                       <p class="no-space">
                         <span>
@@ -95,7 +95,7 @@
                     {% if activity_group[0] == person_group[0] %}
                       {% unless activity == previous_activity %}
                         {% assign previous_activity = activity %}
-                        <p class="top"><a href="{{ activity.url }}">{{ activity.name }}</a></p>
+                        <p class="top"><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></p>
                       {% endunless %}
                       <p class="no-space">
                         <span>

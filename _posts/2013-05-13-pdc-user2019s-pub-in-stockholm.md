@@ -1,6 +1,7 @@
 ---
 title:  PDC User’s Pub in Stockholm
 summary: "The popular PDC User’s Pub event took place on 17 April 2013 at the PDC Center for High Performance Computing at KTH Royal Institute of Technology, Stockholm."
+photo: "/assets/images/latest-news-3.png"
 ---
 
 The popular PDC User’s Pub event took place on 17 April 2013 at the PDC Center for High Performance Computing at KTH Royal Institute of Technology, Stockholm.

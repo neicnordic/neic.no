@@ -1,15 +1,15 @@
 ---
 title: "Studying dark matter"
 summary: "“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter."
-photo: "/assets/images/news/farid-ould-saada.jpg"
+photo: "/assets/images/news/farid2.jpg"
 ---
 
 # Studying dark matter
 
 **“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter.**
 
-<a href="/assets/images/news/farid-ould-saada.jpg">
-<img class="smallpic" src="/assets/images/news/farid-ould-saada.jpg">
+<a href="{% include baseurl %}/assets/images/news/farid-ould-saada.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/farid-ould-saada.jpg">
 </a>
 
 Professor Ould-Sadaa explains that dark matter is a mystery in both particle physics and astrophysics. We know from observations that the universe must contain a type of matter that does not emit or interact with electromagnetic radiation, so it must be different from the ordinary matter that surrounds us.
@@ -24,4 +24,4 @@ The scientists at CERN soon realised that they would need a system for distribut
 
 “It was necessary to have a critical mass of scientists and other experts in order to establish a Tier 1 facility, and none of the Nordic countries had the necessary resources on their own. But we reached the level of critical mass when we decided to collaborate at the Nordic level,” Professor Ould-Sadaa concludes.
 
-Have a look at our article [The smartest storage for the world’s largest data volumes](https://neic.nordforsk.org/2017/04/07/the-smartest-storage-for-the-worlds-largest-data-volumes.html) to read more about the Nordic Data Grid Facility.
+Have a look at our article [The smartest storage for the world’s largest data volumes](../../../../2017/04/07/the-smartest-storage-for-the-worlds-largest-data-volumes) to read more about the Nordic Data Grid Facility.

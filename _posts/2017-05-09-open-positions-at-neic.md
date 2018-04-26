@@ -8,7 +8,7 @@ photo: /assets/images/news/earth-ball.jpg
 
 **NeIC is looking for one or two Project Managers for our Biodiversity Informatics and Earth System Modelling projects that will work to facilitate and intensify collaboration on e-infrastructure in these fields.**
 
-<img class="smallpic" src="/assets/images/news/earth-ball.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/earth-ball.jpg">
 
 NeIC is seeking one or two Project Managers within e-infrastructures for biodiversity informatics and earth system modelling. We encourage both current NeIC staff and new candidates to apply. Both projects have three-year duration and are now entering execution phase.
 

@@ -1,6 +1,7 @@
 ---
 title:  "Letters of interest have now been published" 
 summary: "The letters of Interest received by the deadline on May 15 2014 has now been published. NeIC received a total of 10 Letters of Interest, and these will form valuable input to the development of our new funding plan."
+photo: "/assets/images/latest-news-4.png"
 ---
 
 Letters of interest have now been published

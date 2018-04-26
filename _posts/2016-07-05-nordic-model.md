@@ -1,7 +1,7 @@
 ---
 title:  "Nordic model offers unique set of competencies in large data set analysis" 
 summary: "Although it might be more cost-effective to consolidate six Nordic computing centres into one, the Nordic distributed model also provides a unique set of competencies, new evaluation report concludes"
-photo:  "/assets/images/news/NT1_Costs_2015_Breakdown_2.png"
+photo: "/assets/images/latest-news-1.png"
 ---
 
 Nordic model offers unique set of competencies in large data set analysis
@@ -9,7 +9,7 @@ Nordic model offers unique set of competencies in large data set analysis
 
 **Although it might be more cost-effective to consolidate six Nordic computing centres into one, the Nordic distributed model provides a unique set of competencies. According to Dr Josep Flix, the key man behind a new evaluation of Nordic Tier 1 cooperation, these may prove critical for the worldwide LHC network’s capacity to handle large volumes of data from CERN.**
 
-<a href="/assets/images/news/NT1_Costs_2015_Breakdown_2.png"> <img class="smallpic" src="/assets/images/news/NT1_Costs_2015_Breakdown_2.png"> </a>
+<a href="{% include baseurl %}/assets/images/news/NT1_Costs_2015_Breakdown_2.png"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/NT1_Costs_2015_Breakdown_2.png"> </a>
 
 The Large Hadron Collider (LHC) particle accelerator at the European Organization for Nuclear Research (CERN) produces such vast amounts of data that there is not enough local capacity to analyse it all. Raw data is therefore distributed to supercomputers at 11 different Tier 1 centres. In the Nordic region, CERN data is analysed through joint operation of a Tier 1 centre that makes use of computing power from six different Nordic institutions across Denmark, Finland, Norway and Sweden.
 

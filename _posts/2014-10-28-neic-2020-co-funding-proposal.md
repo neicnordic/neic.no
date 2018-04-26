@@ -1,7 +1,7 @@
 ---
 title:  "NeIC 2020 co-funding proposal" 
 summary: "In 2013, the research funding agencies and NordForsk signed a Memorandum of Understanding (MoU) that provides the framework for 10 more years of e-Infrastructure collaboration under the NeIC umbrella. Furthermore, the funding agencies requested a funding plan for 2016-2020."
-photo:  "/assets/images/news/neic-2020-co-funding-proposal-cover-mini.png"
+photo: "/assets/images/latest-news-5.png"
 ---
 
 NeIC 2020 co-funding proposal
@@ -9,7 +9,7 @@ NeIC 2020 co-funding proposal
 
 **In 2013, the research funding agencies and NordForsk signed a Memorandum of Understanding (MoU) that provides the framework for 10 more years of e-Infrastructure collaboration under the NeIC umbrella. Furthermore, the funding agencies requested a funding plan for 2016-2020.**
 
-<a href="https://wiki.neic.no/w/ext/img_auth.php/8/88/141016-NeIC2020-proposal-complete.pdf"> <img class="smallpic" src="/assets/images/news/neic-2020-co-funding-proposal-cover-mini.png"> </a>
+<a href="https://wiki.neic.no/w/ext/img_auth.php/8/88/141016-NeIC2020-proposal-complete.pdf"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/neic-2020-co-funding-proposal-cover-mini.png"> </a>
 
 This funding plan has been developed in interaction with the five national e-Infrastructure provider organizations and it is in coherence with the work on revising the Nordic eScience Action Plan that has been commissioned by the Nordic Council of Ministers.
 

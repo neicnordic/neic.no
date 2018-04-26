@@ -9,7 +9,7 @@ NeIC BMS meeting the 2 July 2013 for secure storage and computation on sensitive
 
 **Do you work with sensitive data? Your ideas for developing the area are much welcome!**
 
-<a href="/assets/images/news/2july.jpeg"> <img class="smallpic" src="/assets/images/news/2july-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/2july.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/2july-mini.jpeg"> </a>
 
 The Bio- and Medical Sciences (BMS) represent the largest community of researchers in Europe, and have many common needs that are not fully met in the current e-infrastructures. For example, BMS research often needs to handle sensitive data collected from individuals, which has legal aspects with considerable technical ramifications. Access must be secure and highly controlled, but must allow approved reuse of data for the benefit of future research projects. Also, recent breakthroughs in experiment techniques have caused a super-exponential increase in BMS data production rates, increasing the need for specialized systems dedicated to secure storage and computation on this sensitive data.
 

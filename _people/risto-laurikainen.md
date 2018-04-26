@@ -2,13 +2,14 @@
 layout: master
 include: person
 name: Risto Laurikainen
-home: <a href="https://csc.fi">CSC</a>
-country: "FI"
+home: <a href="http://www.csc.fi">CSC</a>
+country: FI
 photo:
 email: risto.laurikainen@csc.fi
 phone:
-on_contract: no
-has_been_on_contract: yes
+on_contract:
+has_been_on_contract: no
 groups:
-  glenna:
+  coderefinery:
+  glenna2:
 ---

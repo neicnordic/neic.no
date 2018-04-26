@@ -1,6 +1,7 @@
 ---
 title:  "NeIC is seeking Nordic WLCG Tier-1 system administrators" 
 summary: "Do you want to be a part of our team? NeIC is seeking two new system administrators to join the virtual NT1 team."
+photo: "/assets/images/latest-news-4.png"
 ---
 
 NeIC is seeking Nordic WLCG Tier-1 system administrators

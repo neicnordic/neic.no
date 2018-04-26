@@ -10,6 +10,9 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  tryggve-rg:
+  tryggve1-rg:
     role: Sequencing infrastructure
+  tryggve2-rg:
+    role: Sequencing infrastructure
+
 ---

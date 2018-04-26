@@ -5,7 +5,7 @@ name: Ralf Döscher
 home: <a href="https://www.smhi.se/en">SMHI</a>
 country: "SE"
 photo:
-email: Ralf.Doscher@smhi.se
+email: ralf.doescher@smhi.se
 phone:
 on_contract: no
 has_been_on_contract: no

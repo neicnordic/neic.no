@@ -10,6 +10,8 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  tryggve-rg:
+  tryggve1-rg:
+    role: Genomics, Cancer research
+  tryggve2-rg:
     role: Genomics, Cancer research
 ---

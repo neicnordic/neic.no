@@ -22,4 +22,5 @@ groups:
     role: Observer, Project leader
   e3ds-po:
     role: Project leader
+  glenna2-rg:
 ---

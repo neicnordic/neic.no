@@ -1,4 +1,4 @@
-<section class="single-pagebanner" style="background-image: url(/assets/images/training-banner.png);">
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/training-banner.png);">
 </section>
 
 <section class="green-box-block">
@@ -6,29 +6,72 @@
     <div class="green-box">
       <h2>Training</h2>
       <p>NeIC has a strategic focus on spreading knowledge, and facilitates cross-border participation in excellent training in e-science and e-infrastructure in the Nordics.</p>
-      <p>This section lists information hubs for training among NeIC partners and stakeholders. Please contact NeIC if you would like to advertize your training activity here, and you believe it is in scope for NeIC.</p>
-      <a href="/training/upcoming/" class="btn white-hover-btn">UPCOMING EVENTS</a>
-      <a href="/training/past/" class="btn white-hover-btn">PREVIOUS EVENTS</a>
+ 	<div class="btn-block">
+		<p>On this page you can find more information when clicking at:<br />
+		      <a href="{% include baseurl %}/training/#neic-training-calendar" class="btn white-hover-btn">NeIC TRAINING CALENDAR</a>
+		      <a href="{% include baseurl %}/training/#mobility-enhancement-cut-off-dates" class="btn white-hover-btn">MOBILITY ENHANCEMENT CUT-OFF DATES</a>
+		      <a href="{% include baseurl %}/training/#nordic-national-training-portals" class="btn white-hover-btn">NORDIC NATIONAL TRAINING PORTALS</a>
+			</p>
+	    </div>	
+	    <p><br /><p>
+	    <div class="btn-block">
+		   <p>Other pages of relevance:<br />
+		      <a href="{% include baseurl %}/ratatosk" class="btn white-hover-btn">RATATOSK TRAINING PROGRAMME</a>
+		      <a href="{% include baseurl %}/training/travel-grant" class="btn white-hover-btn">RATATOSK TRAVEL GRANT</a>
+		      <a href="{% include baseurl %}/training/course-mobility" class="btn white-hover-btn">RATATOSK COURSE MOBILITY</a>
+			   </p>
+	    </div>	
     </div>
   </div>
 </section>
 
 <section class="training">
   <div class="container">
-    <h2>TRAINING PORTALS</h2>
+    <h2>NeIC TRAINING CALENDAR</h2>
+      <p>More info on how to add an event into NeIC's Nordic training calendar at <a href="https://wiki.neic.no/wiki/Training">Training wiki pages</a>. Feel free to contact NeIC if you would like to advertize your training activity here, and you believe it is in scope for NeIC. We love to hear from you, if you have suggestions for training sessions, please email <a href="mailto:ambach@au.dk">Anne-Marie Bach</a> and include "Training Suggestions" on the subject line.</p> <div class="btn-block">		      <div class="btn-block">
+  	<a href="{% include baseurl %}/training/upcoming/" class="btn with-border class="btn black-hover-btn">UPCOMING EVENTS</a>		  	
+        	<a href="{% include baseurl %}/training/past/" class="btn with-border class="btn black-hover-btn">PREVIOUS EVENTS</a>  
+
+    </div>
+	  <p><br /><p>
+  </div>
+
+</section>
+
+
+<section class="training">
+  <div class="container">
+    <div class="content">
+	   {{ content }}
+	<p><br /><p>    
+	    <div class="description">
+      <p>To the Application Processes:</p>
+    </div>
+       <div class="btn-block">
+      <a href="{% include baseurl %}/training/course-mobility" class="btn with-border black-hover-btn">Course Mobility</a>
+	       <a href="{% include baseurl %}/training/travel-grant" class="btn with-border black-hover-btn">Travel Grant</a>
+    </div>
+	     <p><br /><p>
+    </div>
+  </div>
+</section>
+
+
+<section class="training">
+  <div class="container">
+    <h2>NORDIC NATIONAL TRAINING PORTALS</h2>
+	  <p>This section lists information hubs for training among NeIC partners and stakeholders, available for all staff affiliated to a university or a national e-infrastructure provider within the Nordics.
+Feel free to ask - if the course will be conducted in English, in case participants do not speak the local language.</p>
+	  	  <p><br /><p>
     <div class="description">
-      <p>Training portals operated by NeIC partners and stakeholders.</p>
+      <p>Training portals operated by National e-infrastructure providers:</p>
     </div>
     <div class="btn-block">
-      <p><b>National e-infrastructure providers:</b></p>
       <a href="https://vidensportal.deic.dk/kurser" class="btn with-border black-hover-btn">DEIC, DK</a>
       <a href="http://www.csc.fi/web/training" class="btn with-border black-hover-btn">CSC, FI</a>
       <a href="https://www.sigma2.no/content/training" class="btn with-border black-hover-btn">Sigma2, NO</a>
       <a href="http://docs.snic.se/wiki/Training" class="btn with-border black-hover-btn">SNIC, SE</a>
     </div>
-    <div class="btn-block">
-      <p><b>Biobanking:</b></p>
-      <a href="http://booc.biobanks.se" class="btn with-border black-hover-btn">BOOC, BBMRI-SE</a>
-    </div>
+	  <p><br /><p>
   </div>
 </section>

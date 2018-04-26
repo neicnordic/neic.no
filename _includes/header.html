@@ -1,9 +1,14 @@
-<header>
+<header {% if site.github.owner_name != 'neicnordic' %}style="background: #d4892d"{% endif %}>
   <div class="container">
     <div class="col-md-12">
       <div class="row">
         <div class="navbar-header logo">
-          <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" alt="Logo" /></a>
+          <a class="navbar-brand" href="{% include baseurl %}/"><img src="{% include baseurl %}/assets/images/logo.png" alt="Logo" /></a>
+          {% if site.github.owner_name != 'neicnordic' %}
+            <b>This is not the official NeIC website.</b> This site is for testing and development.<br/>
+            Do not expect information on here to be accurate, nor all things to work right.<br/>
+            The official NeIC website is at <a href="https://neic.no">https://neic.no</a>.
+          {% endif %}
         </div>
         <div id="menu">
           <a class="menu right-side collapsed" data-parent="#menu" data-toggle="collapse" href="#mainmenu"><span>Menu</span></a>
@@ -30,12 +35,12 @@
                          aria-labelledby="sub-menu-h{{ forloop.index }}">
                       <ul class="sub-menu-list">
                         {% for i in item.links %}
-                          <li><a href="{{ i.url }}">{{ i.text }}</a></li>
+                          <li><a href="{% include conditional_baseurl url=i.url %}">{{ i.text }}</a></li>
                         {% endfor %}
                       </ul>
                     </div>
                   {% else %}
-                    <a href="{{ item.url }}" class="sub-menu-item no-collapse">
+                    <a href="{% include conditional_baseurl url=item.url %}" class="sub-menu-item no-collapse">
                       {{ item.text }}
                     </a>
                   {% endif %}

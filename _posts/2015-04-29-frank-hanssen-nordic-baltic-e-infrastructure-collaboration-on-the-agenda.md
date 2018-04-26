@@ -1,7 +1,7 @@
 ---
 title:  "Nordic-Baltic e-Infrastructure collaboration on the agenda" 
 summary: "NeIC2015 conference is soon to begin - Frank Hanssen from the Norwegian Institute for Nature Research will talk on collaboration within biodiversity informatics."
-photo:  "/assets/images/news/frank-hanssen-mini.jpeg"
+photo: "/assets/images/latest-news-4.png"
 ---
 
 Nordic-Baltic e-Infrastructure collaboration on the agenda
@@ -9,7 +9,7 @@ Nordic-Baltic e-Infrastructure collaboration on the agenda
 
 **NeIC2015 conference is soon to begin - Frank Hanssen from the Norwegian Institute for Nature Research will talk on collaboration within biodiversity informatics.**
 
-<a href="/assets/images/news/frank-hanssen.jpeg"> <img class="smallpic" src="/assets/images/news/frank-hanssen-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/frank-hanssen.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/frank-hanssen-mini.jpeg"> </a>
 
 The Nordic e-Infrastructure Conference (NeIC) 2015 kicks off on Tuesday, with some 200 participants convening in Espoo, Finland. Frank Hanssen, GIS Coordinator at the [Norwegian Institute for Nature Research (NINA)](http://www.nina.no/english/Home) will be speaking on Nordic-Baltic collaboration within biodiversity informatics on Friday 8 May. We asked him what he and other attendees can expect from the event:
 

@@ -10,6 +10,7 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
+  tryggve1:
+  tryggve2:
   neic2017-pc:
 ---

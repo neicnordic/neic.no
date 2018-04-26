@@ -148,7 +148,7 @@ section.current-events {
 }
 section.current-events .left-event{
     padding: 35px;
-    width: 60%;
+    width: 70%;
 }
 section.current-events .left-event h2{
     margin: 0 0 20px;
@@ -186,12 +186,36 @@ section.current-events .left-event ul.event-list li p.event-details {
     font-size: 14px;
     margin: 0;
 }
+section.current-events .left-event ul.event-list li p.event-details a.calendar-link{
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: 1;
+    font-family: anchorjs-icons;
+    padding-left: 0.375em;
+    color: #fff;
+    vertical-align: text-top;
+}
 section.current-events .left-event ul.event-list li p.description{
     color: #fff;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
     margin-bottom: 0;
+}
+section.current-events .left-event ul.event-list li p.details{
+    color: #e7f2f0;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 1em;
+}
+section.current-events .left-event ul.event-list li p.details a{
+    color: #e7f2f0;
+    font-weight: 500;
 }
 section.current-events .left-event ul.event-list li a.read-more{
     color: #fff;
@@ -199,22 +223,27 @@ section.current-events .left-event ul.event-list li a.read-more{
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
-    margin-top: 30px;
+    margin-top: 10px;
     display: inline-block;
     text-decoration: none;
+}
+section.current-events .left-event a.more-events{
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
 }
 section.current-events .right-event{
     top: 0;
     bottom: 0;
     position: absolute;
     /* left: 0; */
-    width: 40%;
+    width: 21%;
     right: 0;
     height: 100%;
-    background-size: cover;
     display: block;
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    opacity: 0.6;
 }
 section.current-events .event-wrap {background-color: #00948f;}
 section.mission {
@@ -1158,6 +1187,14 @@ section.single-activities h1{
     letter-spacing: 2px;
     font-size: 40px;
 }
+section.single-activities .tagline {
+  margin-bottom: 1ex;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 1px;
+  font-size: 26px;
+}
 section.single-activities .project-box{
     background: #ebf7f6;
     padding: 20px;
@@ -1389,13 +1426,20 @@ section.publications {
     padding: 50px 0;
 }
 section.publications h2{
-    margin: 0 0 35px;
     color: #008c88;
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     font-size: 40px;
+}
+section.publications h3{
+    color: #008c88;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
 }
 section.publications .publications-list-block{
     margin: 0;

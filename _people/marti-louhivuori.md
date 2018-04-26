@@ -1,9 +1,9 @@
 ---
 layout: master
 include: person
-name: Marti Louhivuori
+name: Martti Louhivuori
 home: <a href="https://csc.fi/">CSC</a>
-country: DK
+country: FI
 photo:
 email: martti.louhivuori@csc.fi
 phone:

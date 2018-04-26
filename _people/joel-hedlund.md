@@ -12,11 +12,15 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior advisor
-  tryggve-sg:
-    role: Scientific manager, Secretary
-  tryggve-rg:
-    role: Scientific manager
+    finished: yes
   tryggve-po:
+    role: Project owner
+    finished: yes
+  tryggve1-sg:
+    role: Scientific manager, Secretary
+  tryggve1-rg:
+    role: Scientific manager
+  tryggve1-po:
     role: Project owner
     finished: yes
   tryggve2-sg:
@@ -28,7 +32,7 @@ groups:
   tryggve2:
     role: Scientific manager
   project-analysis:
-    role: Project leader
+    role: Project manager
   project-analysis-rg:
     role: Chair
   project-analysis-po:
@@ -54,4 +58,10 @@ groups:
   poco-wg:
     finished: yes
     role: Training program lead
+  nicest:
+    role: Project manager interim
+  nicest-po:
+    role: Project manager interim
+  nicest-sg:
+    role: Project manager interim, Observer
 ---

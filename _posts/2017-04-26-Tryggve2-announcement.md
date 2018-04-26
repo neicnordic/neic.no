@@ -8,8 +8,8 @@ photo: "/assets/images/news/joel-antti-neic2015-small.jpg"
 
 **At its meeting on 16 March, the NeIC Board agreed to extend the Tryggve collaboration into a new three-year project – Tryggve2. The plan is to launch Tryggve2 on 21 October 2017, directly following the current project period.**
 
-<a href="/assets/images/news/joel-antti-neic2015.jpg">
-<img class="smallpic" src="/assets/images/news/joel-antti-neic2015-small.jpg">
+<a href="{% include baseurl %}/assets/images/news/joel-antti-neic2015.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/joel-antti-neic2015-small.jpg">
 </a>
 Photo: Terje Seierstad
 

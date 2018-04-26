@@ -8,7 +8,7 @@ phase: Execution
 start: 2016-10-01
 end: 2018-09-30
 results: http://coderefinery.org
-outreach:
+outreach: http://coderefinery.org
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/w/ext/img_auth.php/6/6e/150904-Collaborative_Infrastructure_for_Scientific_Software_Collaboration_Agreement.pdf
@@ -29,14 +29,14 @@ links:
     description: Holds website and lesson sources
   - url: http://bit.ly/coderefinery-drive
     text: Working documents
-    description: All NeIC-affiliates are welcome to request access from project lead.
+    description: All NeIC-affiliates are welcome to request access from project lead
   - url: https://wiki.neic.no/int/CodeRefinery
     text: Internal wiki
 groups:
   coderefinery:
     name: Team
     minutes: https://drive.google.com/drive/folders/0B3i0ZRReqpSxWGNLZmN4RmYzNUk
-    frequency: Biweekly
+    frequency: Weekly
   coderefinery-sg:
     name: Steering group
     description: Governance.
@@ -48,6 +48,7 @@ groups:
     minutes: https://wiki.neic.no/int/CodeRefinery
     frequency: Weekly
 ---
+
 The goal of this Nordic e-Infrastructure Collaboration project is to provide
 researchers with infrastructure and training in the necessary tools and
 techniques to create sustainable, modular, reusable, and reproducible software.

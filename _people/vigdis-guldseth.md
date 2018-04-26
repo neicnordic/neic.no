@@ -12,4 +12,5 @@ has_been_on_contract: no
 groups:
   poco-wg:
   neic2015-org:
+  ratatosk-sg:
 ---

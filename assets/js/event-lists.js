@@ -31,7 +31,17 @@ if(document.getElementById("calendar-events-list")) {
             myVue.highlights.push(myVue.events[i])
           }
         }
-        Vue.nextTick(function(){ addAnchorsAndDetailFolding(myVue) });
+        Vue.nextTick(function(){
+          var selector = "#calendar-events-list .read-more-block";
+          $(selector).readmore({
+            speed: 500,
+            collapsedHeight: 0,
+            selector: selector,
+            moreLink: '<a class="read-more" href="#">READ MORE &raquo;</a>',
+            lessLink: '<a class="read-more" href="#">READ LESS &laquo;</a>',
+          });
+          anchors.add();
+        });
       });
     }
   });

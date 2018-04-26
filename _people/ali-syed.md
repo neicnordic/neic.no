@@ -2,15 +2,15 @@
 layout: master
 include: person
 name: Ali Syed
-home: <a href="http://www.cbs.dtu.dk/">CBS</a>
+home: <a href="https://www.computerome.dk/">DTU</a>
 country: DK
 photo: assets/images/people/Ali_Syed.jpg
 email: alisyed@cbs.dtu.dk
-phone: "+45 60 90 46 46"
+phone: "+45 60904646"
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
+  tryggve1:
   tryggve2:
     role: Sub-project leader
   tryggve2-pm:

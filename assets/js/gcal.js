@@ -136,7 +136,7 @@ var GCal = {
     var http_s = /(https?:\/\/\S+?)(\.?([\s\n]|$))/gi;
     var email = /([A-Za-z1-9-._]+@[A-Za-z1-9-._]+\.[A-Za-z1-9]+)/gi;
     return eventDescription
-      .replace(http_s, '<a href="$1">$1</a>$2')
+      .replace(http_s, '<a href="$1" target="_blank">$1</a>$2')
       .replace(email, '<a href="mailto:$1">$1</a>');
   },
 
@@ -154,6 +154,7 @@ var GCal = {
     m = eventDescription.match(/(.*(\n+([\s\S]+))?)/m);
     if (m && m[3]) {
       return m[3].replace(/\n/g, '<br/>\n')
+        .replace(/^ +/gm, function(x){ return new Array(x.length + 1).join('&nbsp;') });
     }
     return ""
   },

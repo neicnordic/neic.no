@@ -9,15 +9,15 @@
             {% for post in site.posts %}
               <div class="single-news-list">
                 {% if post.photo %}
-                  <a href="{{ post.url }}">
-                    <div class="img-block" style="background-image: url({{ post.photo }});"></div>
+                  <a href="{% include baseurl %}{{ post.url }}">
+                    <div class="img-block" style="background-image: url({% include baseurl %}{{ post.photo }});"></div>
                   </a>
                 {% endif %}
                 <div class="news-details">
-                  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                  <h4><a href="{% include baseurl %}{{ post.url }}">{{ post.title }}</a></h4>
                   <h6>{{ post.date | date: "%Y-%m-%d" }}</h6>
                   <p>{{ post.summary }}</p>
-                  <a href="{{ post.url }}" class="btn">read more &raquo;</a>
+                  <a href="{% include baseurl %}{{ post.url }}" class="btn">read more &raquo;</a>
                 </div>
               </div>
             {% endfor %}

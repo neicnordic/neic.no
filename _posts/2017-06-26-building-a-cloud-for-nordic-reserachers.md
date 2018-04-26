@@ -1,18 +1,18 @@
 ---
 title: "Building a cloud for Nordic researchers"
 summary: "Researchers across the Nordic region are starting to enjoy a new “elastic” cloud computing infrastructure from where they can collaborate and share systems and resources. The Glenna project has already supported the development of both a Norwegian and a Danish national cloud service into true Nordic services, and more services are in the pipeline."
-photo: "/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg"
+photo: "/assets/images/news/DanStill.png"
 ---
 # Building a cloud for Nordic researchers
 
 **Researchers across the Nordic region are starting to enjoy a new “elastic” cloud computing infrastructure from where they can collaborate and share systems and resources. The Glenna project has already supported the development of both a Norwegian and a Danish national cloud service into true Nordic services, and more services are in the pipeline.**
 
-<a href="/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg">
-  <img class="smallpic" src="/assets/images/news/NeIC_Dan_Still_WEB_DSC05627_small.jpg">
+<a href="{% include baseurl %}/assets/images/news/NeIC_Dan_Still_WEB_DSC05627.jpg">
+  <img class="smallpic" src="{% include baseurl %}/assets/images/news/NeIC_Dan_Still_WEB_DSC05627_small.jpg">
 </a>
 
 Cloud computing – the delivery of hosted computer resources and data instead of building and maintaining computing infrastructures in-house – has the same advantages for researchers as for the man on the street, and then some. It allows research institutions to reduce or avoid infrastructure costs, and enables them to focus more on their core activities instead of spending time and money on computer infrastructure. Cloud computing also makes it possible to adjust the use of resources in line with changing or fluctuating demands.
-“But cloud computing can have pros and cons,” says Project Manager Dan Still from the CSC – IT Center for Science in Finland. He led the aptly named Glenna project from the start in 2014 to the finish in 2016, and is now preparing for Glenna 2, which will continue and expand the work done in Glenna. The name of the projects ereis taken from an old Icelandic word that can mean “Opening in the clouds,” which is exactly what Still and colleagues have been working on: They are opening cloud computing for specialised services to researchers in the five Nordic countries.
+“But cloud computing can have pros and cons,” says Project Manager Dan Still from the CSC – IT Center for Science in Finland. He led the aptly named Glenna project from the start in 2014 to the finish in 2016, and is now preparing for Glenna 2, which will continue and expand the work done in Glenna. The name of the projects is taken from an old Icelandic word that can mean “Opening in the clouds,” which is exactly what Still and colleagues have been working on: They are opening cloud computing for specialised services to researchers in the five Nordic countries.
 
 ## Using the cloud without knowing it
 
@@ -36,13 +36,11 @@ The Glenna project has already completed the expansion of one Danish and one Nor
 
 These examples illustrate one of the basic ideas behind Glenna: To exchange services that have already been created in one Nordic country. Development of both the DeIC data service and the Lifeportal as national services was costly, so it made good economic sense to expand them into Nordic services for a relatively small additional investment.
 
-In addition, Glenna has supported the meteorological institutes in Finland and Norway in developing a weather forecasting model called Harmonie MUSC into a cloud-based programme.
-
-The Glenna project also succeeded in making the Nordic National clouds elastic, which means that the systems are able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible at each point in time.
-
 “The DeIC data portal and the Lifeportal service are now accessible cross-border, and a nice feature is that Nordic researchers don’t have to apply or register themselves as users. They can access the services if they are registered as students or researchers in one of the Nordic countries,” says Still.
 
 In addition, Glenna has supported the meteorological institutes in Finland and Norway in developing a weather forecasting model called Harmonie MUSC into a cloud-based programme.
+
+The Glenna project also succeeded in making the Nordic National clouds elastic, which means that the systems are able to adapt to workload changes by provisioning and de-provisioning resources in an autonomic manner, such that at each point in time the available resources match the current demand as closely as possible at each point in time.
 
 “The Nordic countries share a high level of trust amongst themselves, and this is a prerequisite for the implementation of Nordic solutions instead of national ones,” Still adds.
 

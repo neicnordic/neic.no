@@ -2,17 +2,18 @@
 {% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
 {% assign leader = site.people | where:"path", leader_path  | first %}
 
-<section class="single-pagebanner" style="background-image: url(/assets/images/sin-act-banner.png);">
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/sin-act-banner.png);">
 </section>
 
 <section class="wys-editer single-activities">
   <div class="container">
     <h1>{{ page.name }}</h1>
+    <div class="tagline">{{ page.tagline }}</div>
     <div class="row">
       <div class="col-md-7">
         <div class="content">
           <div class="project-box">
-            <h2>{{ page.type }}</h2>
+            {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
             <p class="top">
               {% if page.phase %}
                 <b>PHASE:</b> {{ page.phase }}
@@ -28,17 +29,27 @@
             </p>
             <p class="no-space">
               <b>LEADER:</b>
-              <span class="color"><b><a href="{{ leader.url }}">{{ leader.name }}</a></b></span>
+              <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
             </p>
+
+            {% if page.projects %}
+              <p class="top"><b>PROJECTS:</b></p>
+              {% for project in page.projects %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=project.url %}">{{ project.text | default: project.url }}</a></b></span>
+                  {% if project.description %} - {{ project.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
 
             {% unless page.results == "N/A" %}
               <p class="top">
-                <span class="color"><b><a href="{{ page.results | default: "#results" }}">Results</a></b></span>
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.results default="#results" %}">Results</a></b></span>
               </p>
             {% endunless %}
             {% unless page.outreach == "N/A" %}
               <p class="no-space">
-                <span class="color"><b><a href="{{ page.outreach | default: "#outreach" }}">Outreach</a></b></span>
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.outreach default="#outreach" %}">Outreach</a></b></span>
               </p>
             {% endunless %}
 
@@ -46,7 +57,7 @@
               <p class="top"><b>LINKS:</b></p>
               {% for link in page.links %}
                 <p class="no-space">
-                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
                   {% if link.description %} - {{ link.description }}{% endif %}
                 </p>
               {% endfor %}
@@ -56,7 +67,7 @@
               <p class="top"><b>DOCUMENTS</b></p>
               {% for link in page.documents %}
                 <p class="no-space">
-                  <span class="color"><b><a href="{{ link.url }}">{{ link.text | default: link.url }}</a></b></span>
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
                   {% if link.description %} - {{ link.description }}{% endif %}
                 </p>
               {% endfor %}
@@ -140,71 +151,73 @@
         </div>
       </div>
 
-      <div class="col-md-offset-1 col-md-4">
-        <div class="toggle-bar">
-          <h2>PEOPLE</h2>
-          <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
+      {% if page.groups %}
+        <div class="col-md-offset-1 col-md-4">
+          <div class="toggle-bar">
+            <h2>PEOPLE</h2>
+            <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
 
-          {% for group in page.groups %}
-            {% if forloop.index == 1 %}
-              {% assign group_collapsed = '' %}
-              {% assign group_expanded = 'true' %}
-              {% assign group_in = 'in' %}
-            {% else %}
-              {% assign group_collapsed = 'collapsed' %}
-              {% assign group_expanded = 'false' %}
-              {% assign group_in = '' %}
-            {% endif %}
-            <div class="panel panel-default">
-              <div role="tab" id="sidebar-One">
-                <a class="box {{ group_collapsed }}"
-                  role="button"
-                  data-toggle="collapse"
-                  data-parent="#sidebar-accordion"
-                  href="#collapse-sidebar-{{ forloop.index }}"
-                  aria-expanded="{{ group_expanded }}"
-                  aria-controls="collapse-sidebar-{{ forloop.index }}">
-                  {{ group[1].name }}
-                </a>
-              </div>
-              <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
-                <div class="panel-body">
-                  {% if group[1].description %}
-                    <p>{{ group[1].description }}</p><br><br>
-                  {% endif %}
-                  {% if group[1].minutes %}
-                    <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
-                  {% endif %}
-                  {% assign person_on_top = true %}
-                  {% for person in site.people %}
-                    {% for person_group in person.groups %}
-                      {% if person_group[0] == group[0] %}
-                        {% comment %}Liquid templates do not have a logic not operator {% endcomment %}
-                        {% assign display_this = true %}
-                        {% if page.finished %}
-                        {% elsif person_group[1].finished %}
-                          {% assign display_this = false %}
-                        {% endif%}
-                        {% if display_this %}
-                          {% if person_on_top %}
-                            <p class="top">
-                          {% else %}
-                            <p>
+            {% for group in page.groups %}
+              {% if forloop.index == 1 %}
+                {% assign group_collapsed = '' %}
+                {% assign group_expanded = 'true' %}
+                {% assign group_in = 'in' %}
+              {% else %}
+                {% assign group_collapsed = 'collapsed' %}
+                {% assign group_expanded = 'false' %}
+                {% assign group_in = '' %}
+              {% endif %}
+              <div class="panel panel-default">
+                <div role="tab" id="sidebar-One">
+                  <a class="box {{ group_collapsed }}"
+                    role="button"
+                    data-toggle="collapse"
+                    data-parent="#sidebar-accordion"
+                    href="#collapse-sidebar-{{ forloop.index }}"
+                    aria-expanded="{{ group_expanded }}"
+                    aria-controls="collapse-sidebar-{{ forloop.index }}">
+                    {{ group[1].name }}
+                  </a>
+                </div>
+                <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
+                  <div class="panel-body">
+                    {% if group[1].description %}
+                      <p>{{ group[1].description }}</p><br><br>
+                    {% endif %}
+                    {% if group[1].minutes %}
+                      <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
+                    {% endif %}
+                    {% assign person_on_top = true %}
+                    {% for person in site.people %}
+                      {% for person_group in person.groups %}
+                        {% if person_group[0] == group[0] %}
+                          {% comment %}Liquid templates do not have a logic not operator {% endcomment %}
+                          {% assign display_this = true %}
+                          {% if page.finished %}
+                          {% elsif person_group[1].finished %}
+                            {% assign display_this = false %}
+                          {% endif%}
+                          {% if display_this %}
+                            {% if person_on_top %}
+                              <p class="top">
+                            {% else %}
+                              <p>
+                            {% endif %}
+                              <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                            </p>
+                            {% assign person_on_top = false %}
                           {% endif %}
-                            <a href="{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
-                          </p>
-                          {% assign person_on_top = false %}
                         {% endif %}
-                      {% endif %}
+                      {% endfor %}
                     {% endfor %}
-                  {% endfor %}
+                  </div>
                 </div>
               </div>
+            {% endfor %}
             </div>
-          {% endfor %}
           </div>
         </div>
-      </div>
+      {% endif %}
     </div>
   </div>
 </section>

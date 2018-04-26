@@ -1,7 +1,7 @@
 ---
 title:  "Enhancing eInfrastructures for wild animal research" 
 summary: "A Biotelemetry Sensor Data Workshop was held in Uppsala in November 2015 as part of the effort to enhance Nordic collaboration on how to handle data from sensors mounted on wild animals."
-photo:  "/assets/images/news/biotel_ws_group_picture_small.jpg"
+photo: "/assets/images/news/biotel_ws_group_picture_small.jpg"
 ---
 
 Enhancing eInfrastructures for wild animal research
@@ -15,7 +15,7 @@ Research on animal behaviour and physiology under changing environmental conditi
 
 Recent technical advances in animal-based biotelemetry sensors have enabled remote data capture from a steadily increasing number of taxa, species and individual animals, resulting in enormous amounts of data. The fact that researchers in many cases still lack the appropriate tools to efficiently collect, manage and share these datasets is a crucial limitation for efficient use of these data.
 
-<img class="smallpic" src="/assets/images/news/biotel_ws_group_picture_small.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/biotel_ws_group_picture_small.jpg">
 
 "Ecologists are often unaware of the great progress being made in information and data technologies, which could greatly facilitate and enhance their work. I hope that we can come together at a Nordic level to collectively increase our competence with these technologies, and improve our work in general." These words came from Bram van Moorter, Norwegian Institute for Nature Research, and pinpoint why NeIC and the Umeå Center for Wireless Remote Animal Monitoring (UC-WRAM) at the Swedish University of Agricultural Sciences (SLU) hosted a workshop in Uppsala, Sweden on 3-4 November 2015. The workshop brought together scientists and eInfrastructure providers to present the current state in managing biotelemetry sensor data and to identify joint activities for enhancing the eInfrastructures.
 

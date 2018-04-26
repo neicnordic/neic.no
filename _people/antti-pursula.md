@@ -10,13 +10,15 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
-    role: Project leader
-  tryggve-rg:
-    role: Project leader, Chair
   tryggve-po:
     role: Project leader
-  tryggve-sg:
+  tryggve1:
+    role: Project leader
+  tryggve1-rg:
+    role: Project leader, Chair
+  tryggve1-po:
+    role: Project leader
+  tryggve1-sg:
     role: Project leader, Observer
   tryggve2:
     role: Project leader
@@ -28,8 +30,4 @@ groups:
     role: Project leader
   tryggve2-sg:
     role: Project leader, Observer
-  nicest-po:
-    role: Project owner
-  nicest-sg:
-    role: Project owner, Chair
 ---

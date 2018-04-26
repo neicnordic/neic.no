@@ -1,7 +1,7 @@
 ---
 title:  "Engaged discussions at the Nordic accounting workshop 2014 in Uppsala" 
 summary: "Lively discussions on hot topics as energy-, GPU/Accelerator- and Cloud accounting have been held at this year's Nordic accounting workshop."
-photo:  "/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"
+photo: "/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"
 ---
 
 Engaged discussions at the Nordic accounting workshop 2014 in Uppsala
@@ -9,7 +9,7 @@ Engaged discussions at the Nordic accounting workshop 2014 in Uppsala
 
 **Lively discussions on hot topics as energy-, GPU/Accelerator- and Cloud accounting have been held at this year's Nordic accounting workshop.**
 
-<a href="/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"> <img class="smallpic" src="/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/2014-10-16-nordic-accounting-workshop.jpeg"> </a>
 
 The participants unanimously agreed that such small dedicated meetings are very useful in getting the right people to talk to each other.
 

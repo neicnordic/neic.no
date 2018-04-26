@@ -1,7 +1,7 @@
 ---
 title:  "Glenna Project has started: Let’s create a Nordic cloud" 
 summary: "The Glenna project was launched 3 November in Arlanda, Stockholm. Project Manager Dan Still invited a total of 13 participants from the five Nordic countries to attend the kick-off meeting."
-photo:  "/assets/images/news/glenna-kickoff-mini.jpeg"
+photo: "/assets/images/latest-news-6.png"
 ---
 
 Glenna Project has started: Let’s create a Nordic cloud
@@ -9,7 +9,7 @@ Glenna Project has started: Let’s create a Nordic cloud
 
 **The Glenna project was launched 3 November in Arlanda, Stockholm. Project Manager Dan Still invited a total of 13 participants from the five Nordic countries to attend the kick-off meeting.**
 
-<a href="/assets/images/news/glenna-kickoff.jpeg"> <img class="smallpic" src="/assets/images/news/glenna-kickoff-mini.jpeg"> </a>
+<a href="{% include baseurl %}/assets/images/news/glenna-kickoff.jpeg"> <img class="smallpic" src="{% include baseurl %}/assets/images/news/glenna-kickoff-mini.jpeg"> </a>
 
 This November Monday was all about getting to know each other and gaining an overview of the project and its goals. Gudmund Høst gave the welcoming remarks, and Dan introduced the project directive. This was followed by presentations of the cloud activities in each Nordic country, with use cases being provided in the afternoon: Tomas Linden presented Scientific-application-as-a-service; Aleksi Kallio presented Chipster in the cloud; after which Pål Pettersen provided a financial/administrative review.
 

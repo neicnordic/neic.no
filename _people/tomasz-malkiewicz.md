@@ -14,9 +14,11 @@ groups:
     role: Executive manager
   provider-forum:
     role: Secretary
-  tryggve-sg:
-    role: Project owner, Chair
   tryggve-po:
+    role: Project owner
+  tryggve1-sg:
+    role: Project owner, Chair
+  tryggve1-po:
     role: Project owner
   tryggve2-sg:
     role: Project owner, Chair
@@ -41,5 +43,9 @@ groups:
     role: Project owner, Chair
   e3ds-po:
     role: Project owner
+  nicest-sg:
+    role: Project owner, Chair (on leave)
+  nicest-po:
+    role: Project owner (on leave)
   project-analysis-rg:
 ---

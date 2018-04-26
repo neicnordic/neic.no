@@ -7,8 +7,9 @@ country: "DK"
 photo:
 email: tmr170@hum.ku.dk
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
-  nlpl:
+   nlpl:
+      finished: yes
 ---

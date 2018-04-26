@@ -10,5 +10,11 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve:
+  tryggve1:
+  tryggve2:
+    role: Sub-project leader
+  tryggve2-pm:
+    role: Sub-project leader
+  tryggve2-rg:
+    role: Sub-project leader
 ---

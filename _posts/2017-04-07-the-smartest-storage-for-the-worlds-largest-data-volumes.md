@@ -14,8 +14,8 @@ The Large Hadron Collider (LHC) outside Geneva, on the border between Switzerlan
 
 The LHC is not only an extremely advanced and complicated research facility, the multitude of sensors and instruments along the LHC also produce enormous amounts of data. The current production amounts to hundreds of petabytes per year, and production is expected to increase by 10 to 100 times in the near future. That is why CERN needs the Worldwide LHC Computing Grid (WLCG). The WLCG is exactly what the name implies: a global collaboration of more than 170 computing centres in 42 countries linking together national and international grid infrastructures.
 
-<a href="/assets/images/news/mattias-wadenstein.jpg">
-<img class="smallpic" src="/assets/images/news/mattias-wadenstein-small.jpg">
+<a href="{% include baseurl %}/assets/images/news/mattias-wadenstein.jpg">
+<img class="smallpic" src="{% include baseurl %}/assets/images/news/mattias-wadenstein-small.jpg">
 </a>
 
 “The structure of distributed computer centres was chosen because no institution alone would have been capable of receiving, storing and processing the total output of data from CERN,” explains High Performance Computing expert Mattias Wadenstein at NeIC. He is also the manager of the distributed Nordic Tier 1 site in the WLCG.
@@ -30,7 +30,7 @@ One of the Tier 1 centres is located in the Nordic countries, and it functions l
 
 “The Nordic facility is in fact one of the smaller Tier 1 facilities, although it is still a massive undertaking. But the most interesting thing is perhaps that the distributed structure has worked so well that it is now being seen as a model for the future,” Mr Wadenstein explains.
 
-According to a [recent evaluation report](https://neic.nordforsk.org/2016/07/05/nordic-model.html)  by Dr Josep Flix, the Nordic model provides a unique set of competencies and is a successful example which other data and computing centres around the world could learn from. The evaluation report states that the Nordic distributed model may even prove critical for the worldwide LHC network’s future capacity to handle large volumes of data from CERN.
+According to a [recent evaluation report](../../../../2016/07/05/nordic-model) by Dr Josep Flix, the Nordic model provides a unique set of competencies and is a successful example which other data and computing centres around the world could learn from. The evaluation report states that the Nordic distributed model may even prove critical for the worldwide LHC network’s future capacity to handle large volumes of data from CERN.
 
 ## Rising to the challenge
 
@@ -50,4 +50,4 @@ The LHC machine is taken down for upgrading from time to time. The latest upgrad
 
 According to Mr Wadenstein, one of the advantages of the distributed setup is that the system is very scalable. The future will be bringing new challenges because a planned LHC upgrade in 2022 could lead to a factor 100 increase in data volumes to be stored and processed.
 
-Read our article [Studying dark matter](https://neic.nordforsk.org/2017/04/07/studying-dark-matter.html) to read more about the Nordic Data Grid Facility and how it is supporting the study of dark matter.
+Read our article [Studying dark matter](../../../../2017/04/07/studying-dark-matter) to read more about the Nordic Data Grid Facility and how it is supporting the study of dark matter.
