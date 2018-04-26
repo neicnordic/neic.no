@@ -237,6 +237,7 @@ section.current-events .right-event{
     height: 100%;
     display: block;
     background-repeat: repeat-y;
+    opacity: 0.6;
 }
 section.current-events .event-wrap {background-color: #00948f;}
 section.mission {
