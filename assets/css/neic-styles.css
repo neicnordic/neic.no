@@ -227,6 +227,12 @@ section.current-events .left-event ul.event-list li a.read-more{
     display: inline-block;
     text-decoration: none;
 }
+section.current-events .left-event a.more-events{
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
 section.current-events .right-event{
     top: 0;
     bottom: 0;
@@ -1420,13 +1426,20 @@ section.publications {
     padding: 50px 0;
 }
 section.publications h2{
-    margin: 0 0 35px;
     color: #008c88;
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     font-size: 40px;
+}
+section.publications h3{
+    color: #008c88;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
 }
 section.publications .publications-list-block{
     margin: 0;
