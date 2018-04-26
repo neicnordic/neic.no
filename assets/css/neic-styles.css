@@ -232,10 +232,12 @@ section.current-events .right-event{
     bottom: 0;
     position: absolute;
     /* left: 0; */
-    width: 20%;
+    width: 21%;
     right: 0;
     height: 100%;
     display: block;
+    background-repeat: repeat-y;
+    opacity: 0.6;
 }
 section.current-events .event-wrap {background-color: #00948f;}
 section.mission {
