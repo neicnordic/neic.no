@@ -27,8 +27,27 @@ var GCal = {
     )
   },
 
+  /*
+    Google now supports HTML in event descriptions, whether you want it or not,
+    allows pasting of arbitrary format html content (<section>, <span style=...>,
+    <p> etc) and introduces re-parsing errors upon multiple edits (text urls
+    become <a href="theurl"> tags, which then become
+    <a href="google.com/clicksnoop?url=theurl"> etc).
+
+    This deletes everything except visible text, and does minimal effort to
+    preserve line breaks.
+  */
+  sanitizeGoogleEventDescription(description) {
+    var d = description || "";
+    if (d.indexOf('<') >= 0) {
+      d = d.replace(/<br>/g, '\n').replace(/<p>/g, '').replace(/<\/p>/g, '\n\n')
+      d = $("<div>" + d + "</div>").text();
+    }
+    return d;
+  },
+
   eventInfo(event, hashtags, linkPrefs = this.defaultLinkPrefs) {
-    var eventDescriptionHTML = this.linkify(event.description || "");
+    var eventDescriptionHTML = this.linkify(this.sanitizeGoogleEventDescription(event.description));
     return {
       title: this.title(event),
       hashtags: this.hashtags(event),
@@ -48,6 +67,10 @@ var GCal = {
     },
     "neic-training": {
       id: "ouebfn9g5muu6l7vjd9hhf0lp4%40group.calendar.google.com",
+      key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
+    },
+    "neic-holidays": {
+      id: "di1668kvlsi4trgvru4nf97oh0@group.calendar.google.com",
       key: "AIzaSyCgPT9r5VFeFpxFkcPNCR7ae-wAnGE9684",
     },
   },
