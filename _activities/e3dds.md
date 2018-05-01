@@ -17,7 +17,7 @@ documents:
 links:
   - url: https://wiki.neic.no/wiki/EISCAT_3D_Data_Solutions
     text: External wiki
-  - url: https://wiki.neic.no/int/EISCAT_3DDS
+  - url: https://wiki.neic.no/int/E3DDS
     text: Internal wiki
     description: Internal working documents.
 groups:
