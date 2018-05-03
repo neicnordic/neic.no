@@ -10,6 +10,8 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
+  xt:
+    role: Senior Advisor
   poco-wg:
   coderefinery-sg:
   neic2017-prg:
