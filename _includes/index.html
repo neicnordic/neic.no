@@ -51,7 +51,7 @@
                 <div v-for="(event, index) in events">
                   <div v-if="index < 3">
                     <li>
-                      <h4 class="event-title"><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                      <h4 class="event-title"><a :href="event.url" v-text="event.title.toUpperCase()" target="_blank"></a></h4>
                       <p class="event-details">
                         <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
                         <a class="anchorjs-link calendar-link"
