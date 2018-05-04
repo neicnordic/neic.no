@@ -14,8 +14,10 @@ groups:
     role: Administrative Area Coordinator
   nicest-sg:
     role: Project owner interim, Chair
+    finished: yes
   nicest-po:
     role: Project owner interim
+    finished: yes
   neic2017-sg:
     role: Ex officio, Project leader
   neic2017-pc:
