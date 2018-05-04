@@ -8,10 +8,6 @@ photo: "/assets/images/latest-news-3.png"
 How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts?
 ===============================
 
-Authors: Máni Maríus Viðarsson, Thor Wikfeldt, Radovan Bast, Oxana Smirnova, Juha Fagerholm, Christian Søttrup, Matthias Obst, Lene Krøl Andersen, Maja, Bjørn, Lars Viklund
-
-Contributions from: Radek Lonka and Anne Claire Fouilloux 
-
 __This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour to collaboratively write an opinion piece on various subject matters.__
 
 Research groups across a wide range of disciplines rely on software in day-to-day research activities, and much of this software is 
@@ -69,3 +65,7 @@ engaging universities and funding agencies in a discussion on the situation for 
 establishing alternative career pathways for these people in universities. If any lesson can be drawn from other national RSE 
 communities, it is that by organizing and mobilizing a community of research software engineers, much can be accomplished to improve the
 quality of research software, the reproducibility of research, and not least the job satisfaction of the RSEs themselves.
+
+Authors: Máni Maríus Viðarsson, Thor Wikfeldt, Radovan Bast, Oxana Smirnova, Juha Fagerholm, Christian Søttrup, Matthias Obst, Lene Krøl Andersen, Maja, Bjørn, Lars Viklund
+
+Contributions from: Radek Lonka and Anne Claire Fouilloux 
