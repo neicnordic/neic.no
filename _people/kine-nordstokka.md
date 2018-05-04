@@ -13,10 +13,10 @@ groups:
   xt:
     role: Administrative Area Coordinator
   nicest-sg:
-    role: Project owner interim, Chair
+    role: Project owner interim 2018q1, Chair
     finished: yes
   nicest-po:
-    role: Project owner interim
+    role: Project owner interim 2018q1
     finished: yes
   neic2017-sg:
     role: Ex officio, Project leader
