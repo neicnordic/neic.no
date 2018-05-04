@@ -8,8 +8,8 @@ photo: "/assets/images/latest-news-2.png"
 Two new members joining the NeIC Executive Team
 ===============================
 
-**During May this year we will welcome two new members to the NeIC Executive Team, increasing our capacity in the areas of 
-eScience, strategy and funding.**
+__During May this year we will welcome two new members to the NeIC Executive Team, increasing our capacity in the areas of 
+eScience, strategy and funding.__
 
 Our new Executive Manager Lene Krøl Andersen will work to stimulate the use of eScience tools. This includes engagement with research communities, gathering of requirements, exploitation of future opportunities, facilitation of meetings and collaboration spaces. She will also contribute to the establishment of a Nordic arena for open science as well as contributing to implementation of NeIC’s strategy and to future strategy development.
 
