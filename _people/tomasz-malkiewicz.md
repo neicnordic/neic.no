@@ -44,8 +44,8 @@ groups:
   e3ds-po:
     role: Project owner
   nicest-sg:
-    role: Project owner, Chair (on leave)
+    role: Project owner, Chair
   nicest-po:
-    role: Project owner (on leave)
+    role: Project owner
   project-analysis-rg:
 ---
