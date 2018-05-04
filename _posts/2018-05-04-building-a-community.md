@@ -8,7 +8,7 @@ photo: "/assets/images/latest-news-3.png"
 How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts?
 ===============================
 
-**This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour to collaboratively write an opinion piece on various subject matters. **
+__This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour to collaboratively write an opinion piece on various subject matters.__
 
 Research groups across a wide range of disciplines rely on software in day-to-day research activities, and much of this software is 
 developed within the research groups themselves. The required software development is typically performed by PhD students and postdocs who
