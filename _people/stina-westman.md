@@ -12,4 +12,5 @@ has_been_on_contract: no
 groups:
   data-management-wg:
   coderefinery-sg:
+    finished: yes
 ---
