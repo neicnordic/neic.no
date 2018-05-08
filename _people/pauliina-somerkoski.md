@@ -1,16 +1,14 @@
 ---
 layout: master
 include: person
-name: Stina Westman
-home: <a href="https://csc.fi">CSC</a>
+name: Pauliina Somerkoski
+home: <a href="https://csc.fi/">CSC</a>
 country: FI
 photo:
-email: stina.westman@csc.fi
+email: pauliina.somerkoski@csc.fi
 phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  data-management-wg:
   coderefinery-sg:
-    finished: yes
 ---

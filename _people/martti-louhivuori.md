@@ -11,4 +11,5 @@ on_contract: no
 has_been_on_contract: no
 groups:
   coderefinery-sg:
+    finished: yes
 ---
