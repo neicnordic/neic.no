@@ -26,7 +26,7 @@ Below are some of the keywords that came out of our discussion on what defines t
 - The collaboration is tighter than you find in other organisations. You feel like you are actually collaborating - not only doing tasks together. 
 - We are warm and welcoming, and open-minded to new people. When you start at NeIC you instantly feel welcome. 
 
-## How do we keep the NeIC identity alive? 
+### How do we keep the NeIC identity alive? 
 
 The size of the NeIC organisation has grown at a quick pace the last couple of years. Many new members of staff have come onboard, and
 while previously “everyone used to know everyone”, this is no longer the case. Previously, the director had the opportunity to meet with
@@ -43,7 +43,7 @@ of our discussions:
 - Group pictures at AHMs and other project group face-to-face meetings.
 - We should talk more about what NeIC identity is. Not everyone within NeIC has a clear idea of what our identity is. Conversations and discussions could help clarify the NeIC identity. 
 
-## How do we ensure that NeIC culture complements the culture of the host organisation?
+### How do we ensure that NeIC culture complements the culture of the host organisation?
 
 How would we want NeIC people to be seen in their local organisation? They should be seen as hubs for sharing information and practices
 between NeIC and the partner organisation. This is why NeIC staff should not work 100% for NeIC, so that they don’t lose the connection
@@ -54,7 +54,7 @@ national strategies. Therefore a person should be able to do meaningful work bot
 part should profit from each other. Some benefits for the host organisation and its staff are increased competence, wider communication
 networks, experience in working across the Nordics and across different cultures. 
 
-## How is NeIC going to be seen in Europe and internationally?
+### How is NeIC going to be seen in Europe and internationally?
 
 NeIC has got a good opportunity to build its profile internationally due a strong identity. A part of the NeIC identity is to be part of
 the “expert group” in the north. Also, because it is a long-lasting institution, it has more stability and a longer term view than many
