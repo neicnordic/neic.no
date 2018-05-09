@@ -9,11 +9,11 @@ photo: "/assets/images/latest-news-1.png"
 How do you create a NeIC identity?
 ===============================
 
-**This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour 
-tocollaboratively write an opinion piece on various subject matters.**
+*This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour 
+tocollaboratively write an opinion piece on various subject matters.*
 
-To be able to answer the question “How do you create a NeIC identity” it is important to identify what the NeIC identity actually is.
-What does it mean to be a member of NeIC, and how does the NeIC identity either complement or clash with local organisational identities?
+**To be able to answer the question “How do you create a NeIC identity” it is important to identify what the NeIC identity actually is.
+What does it mean to be a member of NeIC, and how does the NeIC identity either complement or clash with local organisational identities?**
 
 Below are some of the keywords that came out of our discussion on what defines the NeIC identity:
 
