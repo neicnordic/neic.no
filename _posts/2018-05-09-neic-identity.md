@@ -64,5 +64,5 @@ With a strong international role, NeIC would lower the barrier for scientists to
 staff would not only be ambassadors for NeIC in their local organisations, but also in other international collaborations. Building and
 promoting NeIC in Europe and beyond should be part of NeICs strategy in the years to come.
 
-*By Anne-Marie Bach, Michaela Barth, Kalle Happonen, Johanna Kaunisvaara, Kine Nordstokkå and Kasper Sort*
 
+*By Anne-Marie Bach, Michaela Barth, Kalle Happonen, Johanna Kaunisvaara, Kine Nordstokkå and Kasper Sort*
