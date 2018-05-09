@@ -9,9 +9,6 @@ photo: "/assets/images/latest-news-1.png"
 How do you create a NeIC identity?
 ===============================
 
-*This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour 
-tocollaboratively write an opinion piece on various subject matters.*
-
 **To be able to answer the question “How do you create a NeIC identity” it is important to identify what the NeIC identity actually is.
 What does it mean to be a member of NeIC, and how does the NeIC identity either complement or clash with local organisational identities?**
 
@@ -64,5 +61,7 @@ With a strong international role, NeIC would lower the barrier for scientists to
 staff would not only be ambassadors for NeIC in their local organisations, but also in other international collaborations. Building and
 promoting NeIC in Europe and beyond should be part of NeICs strategy in the years to come.
 
-
 *By Anne-Marie Bach, Michaela Barth, Kalle Happonen, Johanna Kaunisvaara, Kine Nordstokkå and Kasper Sort*
+
+*This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour 
+tocollaboratively write an opinion piece on various subject matters.*
