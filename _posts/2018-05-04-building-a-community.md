@@ -15,7 +15,7 @@ developed within the research groups themselves. The required software developme
 possess extensive domain expertise, but lack formal training in software development. At the same time, people with technical expertise 
 relevant to scientific software development exist across the Nordic countries. Various approaches have been developed in the different 
 Nordic countries for connecting technical experts with academic communities. Swedish SNIC centres have application experts who can provide
-long-term support to research groups; the CSC centre in Finland has Science Support and HPCC Support groups which support code development
+long-term support to research groups; the CSC centre in Finland has Science Support and HPC Support groups which support code development
 and HPC programming; Norway has a system for advanced user support in time-limited projects where Sigma2 funds personnel at HPC centres for
 some time to collaborate with a research group on a well-defined project.
 
