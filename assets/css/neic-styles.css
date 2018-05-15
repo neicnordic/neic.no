@@ -1420,7 +1420,10 @@ section.single-activities .panel-body p {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
     }
-
+section.single-activities .panel-body p.group-member {
+    padding-left: 11px;
+    text-indent: -11px;
+}
 
 section.publications {
     padding: 50px 0;

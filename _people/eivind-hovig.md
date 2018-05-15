@@ -11,7 +11,7 @@ on_contract: no
 has_been_on_contract: no
 groups:
   tryggve1-rg:
-    role: Genomics, Cancer research
+    role: Genomics, Cancer research.
   tryggve2-rg:
-    role: Genomics, Cancer research
+    role: Genomics, Cancer research, Use case 2-9 Impute.
 ---
