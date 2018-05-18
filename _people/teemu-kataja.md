@@ -11,4 +11,5 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   tryggve1:
+  tryggve2:
 ---
