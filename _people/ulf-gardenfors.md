@@ -7,9 +7,9 @@ country: "SE"
 photo:
 email: ulf.gardenfors@slu.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
-  deepdive-sg:
-  deepdive:
+  deepdive-sg: no
+  deepdive: no
 ---
