@@ -10,5 +10,6 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  deepdive:
+  deepdive: no
+  deepdive-sg: yes
 ---
