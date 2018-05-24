@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Lu Yi
-home: <a href="https://www.ki.se">KI</a>
+home: <a href="https://ki.se/en/people/luyi">KI</a>
 country: SE
 photo:
 email: lu.yi@ki.se
