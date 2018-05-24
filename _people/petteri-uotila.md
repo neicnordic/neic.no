@@ -11,5 +11,5 @@ on_contract: no
 has_been_on_contract: no
 groups:
   nicest-sg:
-    role: from June 2018.
+    role: FMI until November 2017, UoHel from June 2018.
 ---
