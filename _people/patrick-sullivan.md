@@ -5,7 +5,7 @@ name: Patrick Sullivan
 home: <a href="https://www.ki.se">KI</a>
 country: SE
 photo:
-email: patrick_sullivan@med.unc.edu
+email: patrick.sullivan@ki.se
 phone:
 on_contract: no
 has_been_on_contract: no
