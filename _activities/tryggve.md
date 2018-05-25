@@ -29,6 +29,33 @@ documents:
   - text: Tryggve GDPR article (3/2018)
     url: https://drive.google.com/open?id=11wb7dHyqRoUJSdTWztBoHEvLljG1_8H5 
 groups:
+  tryggve2:
+    name: Team
+    minutes: https://goo.gl/ngwJLK
+    frequency: Monthly
+    description: Team plenaries (subteams meet more frequently). NeIC
+      associates get access to minutes on request from project management.
+  tryggve2-rg:
+    name: Reference group
+    description: Stakeholder engagement forum. Requirements gathering, outreach
+      and quality assurance.
+    frequency: meet twice annually, and as needed per deliverable
+    minutes: https://drive.google.com/drive/u/0/folders/1zh-zLP55NjIzzMsxjHTsvPIl7dh_gkak
+  tryggve2-sg:
+    name: Steering group
+    description: The Nordic ELIXIR nodes and NeIC.
+    frequency: Quarterly
+    minutes: https://goo.gl/DsegLq
+  tryggve2-pm:
+    name: Project management
+    description: Management. NeIC associates get access to minutes on request from project management.
+    minutes: https://goo.gl/PUVGl3
+    frequency: Weekly
+  tryggve2-po:
+    name: Project office
+    description: Project ownership issues.
+    minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
+    frequency: Weekly
 ---
 Tryggve is the name for the Nordic collaboration for sensitive data funded by NeIC and ELIXIR nodes of participating countries.
 
