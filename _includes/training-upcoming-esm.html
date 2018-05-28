@@ -6,12 +6,31 @@
     <div class="row">
       <div class="col-md-8">
         <div class="content">
-          <h2>UPCOMING TRAINING EVENTS</h2>
+          <h2>UPCOMING ESM TRAINING</h2>
+          <p>
+            Upcoming training relevant to the Earth System Modeling community.
+            This catalogue was initiated by the <a href="{% include baseurl %}/nicest/">NICEST</a> project.
+            If you know of a course or event suitable for publication here please
+            <a href="mailto:training@neic.no">let us know</a>!
+          </p>
+          <p>
+            You may also want to look for <a href="{% include baseurl %}/training/esm/past/">past ESM training events</a>,
+            or <a href="{% include baseurl %}/training/upcoming">all upcoming training events</a>.
+          </p>
+
+          <h3>Courses</h3>
+          <ul>
+            <li><a href="http://sese.nu/introduction-climate-modeling-2017/">Gunilla Svensson: Introduction to Climate Modeling</a></li>
+            <li><a href="http://www.uio.no/studier/emner/matnat/geofag/GEF4530/">Kirstin Krüger: The General Circulation of the Atmosphere</a></li>
+            <li><a href="http://www.uio.no/studier/emner/matnat/geofag/GEF4400/">Michael Schulz: The Earth System</a></li>
+          </ul>
+
+          <h3>Training Events</h3>
           <div class="publications-list-block">
 
             {% include noscript.html %}
 
-	    <span id="calendar-events-list" data-calendar-name="neic-training">
+	    <span id="calendar-events-list" data-calendar-name="neic-training" data-hashtags="esm">
               <div v-for="event in events">
                 <div class="single-publications-list">
                   <div class="publications-details">
@@ -39,21 +58,9 @@
         training for accurate and up-to-date information on for example admittance,
         costs, etc.
 
-        You may also want to look for
-        <a href="{% include baseurl %}/training/past/">past
-        training events</a>.
-        </p>
-
         <p>
           This list is generated with JavaScript in your browser, so if you cannot see
           any events please check your settings.
-        </p>
-
-        <p>
-          Topical training:
-          <ul>
-            <li><a href="../esm/upcoming/">ESM</a></li>
-          </ul>
         </p>
 
       </div>
