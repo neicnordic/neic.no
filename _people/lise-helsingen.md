@@ -4,9 +4,9 @@ include: person
 name: Lise M. Helsingen
 home: <a href="https://www.uio.no">UiO</a>
 country: "NO"
-photo:
+photo: assets/images/people/lise-helsingen.jpg
 email: l.m.helsingen@medisin.uio.no
-phone:
+phone: "+47 93833173"
 on_contract: no
 has_been_on_contract: no
 groups:
