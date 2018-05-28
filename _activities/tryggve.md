@@ -2,7 +2,7 @@
 layout: master
 include: activity
 name: Tryggve
-type: 
+type:
 tagline: Nordic Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
@@ -27,8 +27,8 @@ links:
     url: usecase
 documents:
   - text: Tryggve GDPR article (3/2018)
-    url: https://drive.google.com/open?id=11wb7dHyqRoUJSdTWztBoHEvLljG1_8H5 
-groups:
+    url: https://drive.google.com/open?id=11wb7dHyqRoUJSdTWztBoHEvLljG1_8H5
+show-groups:
   tryggve2:
     name: Team
     minutes: https://goo.gl/ngwJLK
@@ -71,5 +71,4 @@ Currently active project is [Tryggve2](https://neic.no/tryggve2/), which continu
 
 Tryggve Newsletter is sent monthly on [the Tryggve news mailing list](tryggve-news@neic.no). To subscribe or unsubscribe to the Tryggve newsletter, please go to [this page](https://neic.no/mailman/listinfo/tryggve-news).
 
-Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) for more information! Follow [@NordicTryggve](https://twitter.com/nordictryggve) in Twitter for updates. 
-
+Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) for more information! Follow [@NordicTryggve](https://twitter.com/nordictryggve) in Twitter for updates.
