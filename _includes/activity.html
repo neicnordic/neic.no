@@ -151,13 +151,14 @@
         </div>
       </div>
 
-      {% if page.groups %}
+      {% assign groups = page.groups|default:page.show-groups %}
+      {% if groups %}
         <div class="col-md-offset-1 col-md-4">
           <div class="toggle-bar">
             <h2>PEOPLE</h2>
             <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
 
-            {% for group in page.groups %}
+            {% for group in groups %}
               {% if forloop.index == 1 %}
                 {% assign group_collapsed = '' %}
                 {% assign group_expanded = 'true' %}
