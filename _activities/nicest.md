@@ -46,6 +46,8 @@ Nordic Infrastructure Collaboration on Earth System Tools
 
 ## Results
 
+* [Results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-) - Presentations and reports.
+
 ### Activity A - ESGF data node administration & use
 
 * [Requirements of data publication](https://wiki.neic.no/wiki/File:NICEST_D-A.2.1_report.pdf)
@@ -61,9 +63,6 @@ Nordic Infrastructure Collaboration on Earth System Tools
 
 * (first results due 2018h1)
 
-### Management
+#### Management
 
 * [NICEST Annual Report 2017](https://docs.google.com/document/d/1R3vDjVtd1nd_JlN25X_UBr46I2bZdAnK-A86Kv4TOaQ/edit)
-
-
-
