@@ -10,5 +10,7 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
+  poco-wg:
+  ratatosk-sg:
   neic2015-org:
 ---
