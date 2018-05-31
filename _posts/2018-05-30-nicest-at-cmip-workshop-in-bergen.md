@@ -18,7 +18,7 @@ The workshop participants also provided [feedback](https://drive.google.com/file
 
 Links:
 * [NICEST project](/nicest/)
-* [Report](https://docs.google.com/document/d/1wNB8MsbKcsMY5BQ7sf5pMScIVEuIYg-u0nNkuIDSSuA/edit#)
-* [Feedback](https://drive.google.com/file/d/1uEzguW16QpKJ5aJqHCfnRMX8DtCNo-Xj/view)
-* [Presentations](https://drive.google.com/drive/folders/1eU-UhFsM27w9S6jcxTze_OuXvy1tCao7)
-* [Workshop documents](https://drive.google.com/drive/folders/1DQ00HEfwc0FN3kEOx-UTmL7b8W_ytO_p)
+* [Report](https://docs.google.com/document/d/1wNB8MsbKcsMY5BQ7sf5pMScIVEuIYg-u0nNkuIDSSuA/edit#){:target="_blank"}
+* [Feedback](https://drive.google.com/file/d/1uEzguW16QpKJ5aJqHCfnRMX8DtCNo-Xj/view){:target="_blank"}
+* [Presentations](https://drive.google.com/drive/folders/1eU-UhFsM27w9S6jcxTze_OuXvy1tCao7){:target="_blank"}
+* [Workshop documents](https://drive.google.com/drive/folders/1DQ00HEfwc0FN3kEOx-UTmL7b8W_ytO_p){:target="_blank"}
