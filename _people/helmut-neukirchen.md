@@ -10,6 +10,6 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  poco-wg:
-  ratatosk-sg:
+- poco-wg:
+- ratatosk-sg:
 ---
