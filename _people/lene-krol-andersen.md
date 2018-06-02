@@ -11,8 +11,8 @@ on_contract: no
 has_been_on_contract: no
 groups:
   xt:
-  poco-wg:
+-  poco-wg:
   coderefinery-sg:
   neic2017-prg:
-  ratatosk-sg:
+- ratatosk-sg:
 ---
