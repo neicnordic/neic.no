@@ -1,5 +1,9 @@
 markdown_ext: "md"
 
+# https://help.github.com/articles/redirects-on-github-pages/
+plugins:
+  - jekyll-redirect-from
+
 # https://github.com/jekyll/jekyll/issues/302
 permalink: pretty
 defaults:
