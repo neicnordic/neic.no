@@ -20,6 +20,8 @@ projects:
   - text: Tryggve1
     url: /tryggve1
     description: Past project
+redirect-from:
+  - "/Tryggve/"
 links:
   - text: Newsletters
     url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
