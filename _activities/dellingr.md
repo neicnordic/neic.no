@@ -10,10 +10,8 @@ end:
 results: https://wiki.neic.no/wiki/Dellingr
 outreach:
 documents:
-  - text: Collaboration agreement Phase 1
+  - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
-   - text: Collaboration agreement Phase 2
-    url: https://wiki.neic.no/w/ext/img_auth.php/e/e1/180606_Dellingr_phase2_collaboration_agreement_signed.pdf
 links:
   - url: https://wiki.neic.no/wiki/Dellingr
     text: External wiki
