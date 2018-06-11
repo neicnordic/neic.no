@@ -11,7 +11,7 @@ on_contract: no
 has_been_on_contract: no
 groups:
   board:
-    role: Chair-elect.
+    finished: yes
   nlpl-sg:
 ---
 Board member since 2015-01-01.
