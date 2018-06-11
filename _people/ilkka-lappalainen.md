@@ -14,5 +14,5 @@ groups:
     role: <a href="https://csc.fi">CSC</a>
   tryggve2-rg:
     role: <a href="https://csc.fi">CSC</a>
-
+  data-management-wg:
 ---
