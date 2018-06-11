@@ -22,4 +22,5 @@ groups:
     role: Sub-project leader
     finished: yes
   provider-forum:
+  data-management-wg:
 ---
