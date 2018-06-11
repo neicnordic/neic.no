@@ -14,4 +14,4 @@ groups:
     finished: yes
   nlpl-sg:
 ---
-Board member since 2015-01-01.
+Board member between 2015-01-01 and 2018-06-07.
