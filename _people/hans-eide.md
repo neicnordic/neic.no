@@ -11,6 +11,7 @@ on_contract: no
 has_been_on_contract: no
 groups:
   provider-forum:
+  finished: yes
   neic2017-prg:
   coderefinery-sg:
   neic2015-pc:
