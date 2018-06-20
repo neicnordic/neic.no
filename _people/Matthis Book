@@ -2,7 +2,7 @@
 layout: master 
 include: person 
 name: Matthias Book 
-home: <a href="https://www.hi.is/"> Háskóli Íslands</a> 
+home: <a href="https://www.hi.is/">Háskóli_Íslands</a> 
 country: IS 
 photo: 
 email: book@hi.is 
