@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: Tryggve
 type:
-tagline: Nordic Collaboration for Sensitive Data <img src=/assets/images/news/Tryggve_logo_fingerprint_small.png width="500">
+tagline: Nordic Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
@@ -59,6 +59,7 @@ show-groups:
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
 ---
+<img src=/assets/images/news/Tryggve_logo_fingerprint_small.png width="400">
 Tryggve is the name for the Nordic collaboration for sensitive data funded by NeIC and ELIXIR nodes of participating countries.
 
 Tryggve develops and facilitates access to secure e-infrastructure for sensitive data, suitable for hosting large-scale cross-border biomedical research studies.
