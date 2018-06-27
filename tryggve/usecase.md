@@ -60,13 +60,23 @@ Please find the list the current use cases [here](https://docs.google.com/spread
 ### Review process of Use Cases
 Please find the process description [here](https://docs.google.com/document/d/1gGpUXtdodo2OMP9gGUIvwwM2zOv_zxfFxrwY_sDZQ4Q/edit)
 
-### Links to national systems for sensitive data
-If a research project does not qualify as Tryggve use case, it is also possible to access the individual service providers directly. The links below help to find information on accessing the individual secure systems directly. Note that access to these services may require a service fee.
+### Links to Tryggve partner systems for sensitive data
+Tryggve use cases and other research projects can access the individual service providers directly. The links below help to find information on accessing the individual secure systems directly. Note that access to these services outside Tryggve may require a service fee.
 
-* [Computerome](http://wiki.bio.dtu.dk/computerome/index.php/Computerome_-_Danish_National_Supercomputer_for_Life_Sciences#Access_to_Computerome) (Denmark)
-* [ePouta](https://research.csc.fi/cloud-computing) (Finland)
-* [TSD](http://www.uio.no/english/services/it/research/storage/sensitive-data/index.html) (Norway)
-* [Mosler](https://wiki.bils.se/wiki/Mosler_user_documentation) (Sweden)
+* Computerome (Denmark):
+  [Homepage](https://www.computerome.dk/),
+  [How to access](https://www.computerome.dk/display/CW/Getting+Started+-+new+users)
+* CSC ePouta (Finland):
+  [Homepage](https://research.csc.fi/epouta),
+  [How to access](https://research.csc.fi/epouta)
+* TSD (Norway):
+  [Homepage](http://www.uio.no/english/services/it/research/storage/sensitive-data/index.html),
+  [How to access](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/login/index.html)
+* Mosler (Sweden):
+  [Homepage](https://nbis.se/infrastructure/mosler.html),
+  [How to access](https://nbis.se/infrastructure/moslerdoc/support.html)
+
+In addition, Tryggve is in discussion on collaboration with SNIC on the use of Swedish [Bianca](https://uppmax.uu.se/resources/systems/the-bianca-cluster/) service for sensitive data as part of Tryggve use cases. 
 
 Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) on any questions concerning accessing of the Nordic systems
 for sensitive data, for example if you are unsure whether to submit a use case or access separate systems directly.
