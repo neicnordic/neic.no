@@ -4,7 +4,7 @@ summary: "In 2019, the three-day event will take place in Copenhagen between 14-
 photo: "/assets/images/latest-news-2.png"
 ---
 
-Save the date: The next NeIC conference will be held in Copenhagen on 14-16th May 2019
+The next NeIC conference will be held in Copenhagen, 14-16th May 2019
 ===========================
 
 Three times before, May 2013 in Trondheim, May 2015 in Espoo, and May 2017 in Umeå NeIC has hosted a big bi-annual conference to gather the Nordic e-infrastructure community to come together to share ideas and knowledge, and to discuss and prepare for the future. 
