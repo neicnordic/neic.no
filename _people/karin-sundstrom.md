@@ -13,5 +13,5 @@ groups:
   tryggve1-rg:
     role: <a href="http://www.nordicehealth.se/">NIASC</a>
   tryggve2-rg:
-    role: <a href="http://www.nordicehealth.se/">NIASC</a>, use case 2-2 CRC.
+    role: <a href="http://www.nordicehealth.se/">NIASC</a>, use case 2-2 CRC (on leave).
 ---
