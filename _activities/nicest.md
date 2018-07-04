@@ -51,6 +51,8 @@ Nordic Infrastructure Collaboration on Earth System Tools
 ### Activity A - ESGF data node administration & use
 
 * [Requirements of data publication](https://wiki.neic.no/wiki/File:NICEST_D-A.2.1_report.pdf)
+* [ESGF node admin manual](https://drive.google.com/drive/u/0/folders/16sL-dGE0xxjJ1yM8-bFXrUk7kCSyjOms)
+* [Procedures for a distributed ESGF node operations team](https://docs.google.com/document/d/1wjK5WflAq_Kwb2_FbXT1BDSQHXoHX0V4sNbkiaGN_ts/edit)
 
 ### Activity B - ESM competence building
 
@@ -61,8 +63,8 @@ Nordic Infrastructure Collaboration on Earth System Tools
 
 ### Activity C - ESM data quality control
 
-* (first results due 2018h1)
+* [Report on existing knowledge in data quality control](https://drive.google.com/open?id=1CRgmnktwr5I9OINHyPvYA0FGlbnb4PrT)
 
-#### Management
+### Management
 
 * [NICEST Annual Report 2017](https://docs.google.com/document/d/1R3vDjVtd1nd_JlN25X_UBr46I2bZdAnK-A86Kv4TOaQ/edit)
