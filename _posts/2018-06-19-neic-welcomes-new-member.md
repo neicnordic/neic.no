@@ -1,7 +1,7 @@
 ---
 title: "NeIC welcomes a new member to the board"
 summary: "NeIC is pleased to announce that Hans A. Eide (Sigma2) will be the Norwegian representative on the NeIC board from June 2018."
-photo: "/assets/images/hanseide.png"
+photo: "/assets/images/hanseide.jpg"
 ---
 
 NeIC welcomes a new member to the board
