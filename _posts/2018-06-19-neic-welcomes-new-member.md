@@ -22,3 +22,5 @@ international collaboration, strategy, technology and architecture.
 
 Hans will take over the responsibilities from Gunnar Bøe, Director of Sigma2. NeIC would like to thank Gunnar Bøe for all his efforts as
 chair member of the NeIC board.  
+
+*Photo: Hans A. Eide*
