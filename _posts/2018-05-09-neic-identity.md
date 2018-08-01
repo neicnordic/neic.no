@@ -3,7 +3,7 @@ title: "How do you create a NeIC identity?"
 summary: "To be able to answer the question “How do you create a NeIC identity” it is important to identify what the NeIC identity actually
 is. What does it mean to be a member of NeIC, and how does the NeIC identity either complement or clash with local organisational 
 identities?"
-photo: "/assets/images/latest-news-7.png"
+photo: "/assets/images/latest-news-7-mountains.jpeg"
 ---
 
 How do you create a NeIC identity?
