@@ -136,4 +136,4 @@ Biodiversity informatics is a methodological discipline that helps biodiversity 
 chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitisation of collections, data 
 sharing, data integration, data reliability (fitness for use), data quality, visualisation, analysis and long-term archival.
 
-*Text: Iiiris Tarvonen, NordForsk / Photo of Mattias Obst: the interviewee's own*
+*Text: Iiris Tarvonen, NordForsk / Photo of Mattias Obst: the interviewee's own*
