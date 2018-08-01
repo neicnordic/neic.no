@@ -131,6 +131,7 @@ strategic goals. One long-term goal for the project is to share its expertise ou
 > informatics practitioners in the north,” Obst concludes.
 
 **FACTS**
+
 Biodiversity informatics is a methodological discipline that helps biodiversity research overcome issues related to the whole value 
 chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitisation of collections, data 
 sharing, data integration, data reliability (fitness for use), data quality, visualisation, analysis and long-term archival.
