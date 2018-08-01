@@ -2,7 +2,7 @@
 title: "Two new members joining the NeIC Executive Team"
 summary: "During May this year we will welcome two new members to the NeIC Executive Team, increasing our capacity in the areas of 
 eScience, strategy and funding."
-photo: "/assets/images/latest-news-2.png"
+photo: "/assets/images/latest-news-5.png"
 ---
 
 Two new members joining the NeIC Executive Team
