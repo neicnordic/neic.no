@@ -27,11 +27,10 @@ responsibilities, and for the time being, you had to step aside. But now...
 Your situation has evolved, we hope for the best! You're considering returning, more likely you never quite stopped thinking about it. But
 the way back is a steep climb and we at CERN know that. 
 
-That's why we've developed [an opportunity](https://jobs.smartrecruiters.com/CERN/743999669719198-post-career-break-fellowship-programme?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590) to help you on your way. 
-
-*Applications close 3rd of September*
+That's why we've developed [an opportunity](https://jobs.smartrecruiters.com/CERN/743999669719198-post-career-break-fellowship-programme?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590) to help you on your way. **Applications close 3rd of September**
 
 COMPANY DESCRIPTION 
+
 At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. 
 Using the world's largest and most complex scientific instruments, they study the basic constituents of matter - fundamental particles that
 are made to collide together at close to the speed of light. The process gives physicists clues about how particles interact, and provides
