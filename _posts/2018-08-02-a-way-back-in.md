@@ -29,6 +29,7 @@ the way back is a steep climb and we at CERN know that.
 
 That's why we've developed [an opportunity](https://jobs.smartrecruiters.com/CERN/743999669719198-post-career-break-fellowship-programme?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590) to help you on your way. **Applications close 3rd of September**
 
+--
 
 COMPANY DESCRIPTION 
 
