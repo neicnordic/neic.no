@@ -10,17 +10,17 @@ A way back in: the CERN Post-Career Break Fellowship Programme
 **Since 2014, CERN has offered a professional opportunity for keen scientific or engineering talent with a common experience: a temporary 
 absence from the field. The way we see it:**
 
-*You were taking off...*
+**_You were taking off..._**
 
 You were in the early days of a profession in science or engineering, or perhaps already steeped in and building up expertise. You were in
 and were making it, contributing to your field with passion. But then...
 
-*...you had to take some time...*
+**_...you had to take some time..._**
 
 Perhaps you started a family, perhaps someone in your family needed looking after. Either way, a personal situation called upon you with 
 responsibilities, and for the time being, you had to step aside. But now...
 
-*...your're ready to take a leap again!
+**_...your're ready to take a leap again!_**
 
 Your situation has evolved, we hope for the best! You're considering returning, more likely you never quite stopped thinking about it. But
 the way back is a steep climb and we at CERN know that. 
