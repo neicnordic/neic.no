@@ -7,8 +7,10 @@ photo: "/assets/images/latest-news-11-sun_clouds.jpeg"
 A way back in: the CERN Post-Career Break Fellowship Programme
 ===========================
 
-**Since 2014, CERN has offered a professional opportunity for keen scientific or engineering talent with a common experience: a temporary 
-absence from the field. The way we see it:**
+**Have you taken time out for personal reasons from your career in science or engineering? Would you be interested in returning to a scientific career if you could? Application are now open for the CERN Post-Career Break Fellowship Programme!"**
+
+Since 2014, CERN has offered a professional opportunity for keen scientific or engineering talent with a common experience: a temporary 
+absence from the field. The way we see it:
 
 **_You were taking off..._**
 
