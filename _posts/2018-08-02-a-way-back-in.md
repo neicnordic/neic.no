@@ -15,12 +15,12 @@ absence from the field. The way we see it:**
 You were in the early days of a profession in science or engineering, or perhaps already steeped in and building up expertise. You were in
 and were making it, contributing to your field with passion. But then...
 
-**_...you had to take some time..._**
+**_You had to take some time..._**
 
 Perhaps you started a family, perhaps someone in your family needed looking after. Either way, a personal situation called upon you with 
 responsibilities, and for the time being, you had to step aside. But now...
 
-**_...your're ready to take a leap again!_**
+**_Your're ready to take a leap again!_**
 
 Your situation has evolved, we hope for the best! You're considering returning, more likely you never quite stopped thinking about it. But
 the way back is a steep climb and we at CERN know that. 
