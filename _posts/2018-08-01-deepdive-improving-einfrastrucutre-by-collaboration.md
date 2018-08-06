@@ -1,10 +1,10 @@
 ---
-title: "DeepDive - improving biodiversity e-Ifrastructures by collaboration"
+title: "DeepDive - improving biodiversity e-Infrastructures by collaboration"
 summary: "In 2019, the three-day event will take place in Copenhagen between 14- 16th May. NeIC2019 will be hosted by NeIC and DeiC, and organised in collaboration with CSC, RHnet, SNIC and UNINETT Sigma2."
 photo: "/assets/images/portrait_2015cropMagnify.jpeg"
 ---
 
-DeepDive - improving e-Ifrastructures by collaboration
+DeepDive - improving e-Infrastructures by collaboration
 ===========================
 
 **Research questions within biodiversity research and nature conservation often focus on geographical areas and ecosystems that extend
