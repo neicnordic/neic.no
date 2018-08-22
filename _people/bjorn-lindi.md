@@ -14,5 +14,9 @@ groups:
     role: Project Manager
   coderefinery:
   dellingr:
+  nlpl-sg:
+    role: Project manager
+  nlpl-po:
+    role: Project manager
 past_engagements:
 ---
