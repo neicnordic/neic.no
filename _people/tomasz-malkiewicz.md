@@ -1,14 +1,51 @@
 ---
 layout: master
 include: person
-name: Aaron Smith
-home: <a href="http://www.lingfil.uu.se/">LINGFIL</a>
-country: "SE"
-photo: assets/images/people/Aaron_Smith.jpg
-email: aaron.smith@lingfil.uu.se
+name: Tomasz Malkiewicz
+home: <a href="https://csc.fi">CSC</a>
+country: FI
+photo: assets/images/people/Tomasz_Malkiewicz.jpg
+email: tomasz.malkiewicz@csc.fi
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  nlpl:
+  xt:
+    role: Executive manager
+  provider-forum:
+    role: Secretary
+  tryggve-po:
+    role: Project owner
+  tryggve1-sg:
+    role: Project owner, Chair
+  tryggve1-po:
+    role: Project owner
+  tryggve2-sg:
+    role: Project owner, Chair
+  tryggve2-po:
+    role: Project owner
+  dellingr-sg:
+    role: Chair
+  dellingr-po:
+    role: Project owner
+  dellingr:
+    role: Project manager, Acting
+    finished: yes
+  nlpl-sg:
+    role: Project owner, Chair
+  nlpl-po:
+    role: Project owner
+  deepdive-sg:
+    role: Project owner, Chair
+  deepdive-po:
+    role: Project owner, Chair
+  e3ds-sg:
+    role: Project owner, Chair
+  e3ds-po:
+    role: Project owner
+  nicest-sg:
+    role: Project owner, Chair
+  nicest-po:
+    role: Project owner
+  project-analysis-rg:
 ---
