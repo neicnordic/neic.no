@@ -7,9 +7,9 @@ country: "NO"
 photo:
 email: johan.liakka@nersc.no
 phone:
-finished: yes
 on_contract: no
 has_been_on_contract: yes
 groups:
   nicest: Until April 2018.
+    finished: yes
 ---
