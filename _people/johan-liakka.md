@@ -10,6 +10,7 @@ phone:
 on_contract: no
 has_been_on_contract: yes
 groups:
-  nicest: Until April 2018.
+  nicest: 
+    role: Until April 2018.
     finished: yes
 ---
