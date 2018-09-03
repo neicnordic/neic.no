@@ -1,6 +1,6 @@
 ---
 title: "DeepDive - improving biodiversity e-Infrastructures by collaboration"
-summary: "In 2019, the three-day event will take place in Copenhagen between 14- 16th May. NeIC2019 will be hosted by NeIC and DeiC, and organised in collaboration with CSC, RHnet, SNIC and UNINETT Sigma2."
+summary: "Research questions within biodiversity research and nature conservation often focus on geographical areas and ecosystems that extend across national borders, depending on the temporal or geographical scale of the research hypotheses. But biodiversity and ecosystem e-Infrastructures, on the other hand, are developed individually in each country, which makes access to regional data difficult. The Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics (DeepDive) research project is seeking to find solutions to this challenge and enable access to data across countries by facilitating and intensifying collaboration in the Nordic-Baltic region. The project was started in 2017 with partners from Norway, Denmark, Estonia, Finland, Iceland and Sweden."
 photo: "/assets/images/portrait_2015cropMagnify.jpeg"
 ---
 
