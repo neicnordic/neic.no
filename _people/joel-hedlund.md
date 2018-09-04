@@ -59,9 +59,12 @@ groups:
     finished: yes
     role: Training program lead
   nicest:
-    role: Project manager interim
+    role: Project manager interim (February to September 2018)
+    finished: yes
   nicest-po:
-    role: Project manager interim
+    role: Project manager interim (February to September 2018)
+    finished: yes
   nicest-sg:
-    role: Project manager interim, Observer
+    role: Project manager interim (February to September 2018)
+    finished: yes
 ---
