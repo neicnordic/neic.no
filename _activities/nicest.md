@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NICEST
 type: Project
-leader: joel-hedlund
+leader: chandan-basu
 phase: Execution
 start: 2017-01-01
 end: 2019-12-31
