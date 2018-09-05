@@ -27,6 +27,8 @@ links:
     url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
   - text: Use cases
     url: usecase
+  - text: Internal documents
+    url: https://drive.google.com/drive/folders/0B9tCS2R8WVYFMGJ6N3gwcF9ueGc
 documents:
   - text: Tryggve GDPR article (3/2018)
     url: https://drive.google.com/open?id=11wb7dHyqRoUJSdTWztBoHEvLljG1_8H5
