@@ -28,7 +28,7 @@ links:
   - text: Use cases
     url: usecase
   - text: Internal documents
-    description: NeIC associates get access on request
+    description: NeIC associates get read access on request
     url: https://drive.google.com/drive/folders/0B9tCS2R8WVYFMGJ6N3gwcF9ueGc
 documents:
   - text: Tryggve GDPR article (3/2018)
