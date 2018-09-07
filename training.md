@@ -10,10 +10,10 @@ This is an announcement for  [open call for course mobility proposals](/training
 
 The main target group are presenters (teachers, trainers and instructors) who want to open up their courses to a Nordic audience.
 
-The application process for the tenth round is available from August 20, 2018 to **September 14, 2018**. For the next round, feel free to check out this page occasionally.
+The application process for the eleventh round is available from September 7, 2018 to **October 7, 2018**. For the next round, feel free to check out this page occasionally.
 
 
 ### Travel Grants
-You can now apply for a [travel grant](/training/travel-grant) offered by the NeIC [Ratatosk](/ratatosk) Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries.
+You can apply for a [travel grant](/training/travel-grant) offered by the NeIC [Ratatosk](/ratatosk) Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. **This only applies for trainings taking place in the next fiscal year including workshops taking place in December 2018 and onwards**.
 
-The sixteenth **cut-off** date is set to **August 31**, 2018. The seventeenth cut-off is scheduled for **September 14, 2018**. For the next round, feel free to check out this page occasionally.
+The seventeenth **cut-off** date is set to **October 7**, 2018. For the next round, feel free to check out this page occasionally.
