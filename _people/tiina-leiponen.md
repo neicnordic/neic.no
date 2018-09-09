@@ -6,7 +6,7 @@ home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo: assets/images/people/Tiina Leiponen.jpg
 email: tiina.leiponen@csc.fi
-phone:+358 50 381 9050
+phone: +358 50 381 9050
 on_contract: no
 has_been_on_contract: no
 groups:
