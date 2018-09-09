@@ -4,7 +4,7 @@ include: person
 name: Tiina Leiponen
 home: <a href="https://csc.fi">CSC</a>
 country: FI
-photo:  neic.no/Tiina.jpg
+photo:  
 email: tiina.leiponen@csc.fi
 phone:+358 50 381 9050
 on_contract: no
