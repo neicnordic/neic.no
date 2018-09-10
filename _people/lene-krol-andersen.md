@@ -13,6 +13,7 @@ groups:
   xt:
   poco-wg:
   coderefinery-sg:
+    finished: yes
   neic2017-prg:
   ratatosk-sg:
 ---
