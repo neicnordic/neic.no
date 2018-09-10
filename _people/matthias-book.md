@@ -4,7 +4,7 @@ include: person
 name: Matthias Book 
 home: <a href="https://www.hi.is/">Háskóli_Íslands</a> 
 country: IS 
-photo: neic.no/assets/images/people/matthias-book.jpg    
+photo: assets/images/people/matthias-book.jpg    
 email: book@hi.is 
 phone: +354-525-4603
 on_contract: no 
