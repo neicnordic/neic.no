@@ -13,7 +13,7 @@ Three new members working with Ratatosk SG, PoCo since August 2018
 three-day long event featuring HPC experts and domain scientists from Iceland, the U.S. and Germany. During the workshop, particpants
 discussed topics ranging from project experiences to technology tutorials.**
 
-![Tiina Leiponen](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg)
+![Tiina Leiponen](/assets/images/people/Tiina%20Leiponen.jpg)
 
 ## Tiina Leiponen 
 Tiina joined CSC, Espoo in Finland in 2007 and is currently working as a training manager. Her background is from social sciences and
@@ -23,7 +23,7 @@ dissemination and training. In her free time, Tiina enjoys spending time with he
 moved away from home. She sings, plays badminton and golf and likes going to the gym. Every once in a while, she enjoys good parties with
 friends. Tiina lives in Klaukkala with her husband.
 
-![alt text](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/matthias-book.jpg "Mattias Book")
+![Mattias Book](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/matthias-book.jpg)
 
 ## Matthias Book 
 Dr. Matthias Book is a professor of Software Engineering at the Faculty of Industrial Engineering, Mechanical Engineering and Computer
@@ -33,6 +33,8 @@ the University of Duisburg-Essen's Ruhr Institute for Software Technology (palun
 the Software Engineering and Information Systems Chair at Chemnitz University of Technology (2012/2013). His research focuses on 
 facilitating communication between domain experts and technical stakeholders in complex software projects, such as in the high-performance
 computing domain.
+
+![Birgitte Vedel Thage](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/matthias-book.jpg)
 
 ## Birgitte Vedel Thage
 Birgitte is a Chemical Engineer and PhD in food biotechnology and Enneagram master coach. She comes from a position at Chr. Hansen A / S,
