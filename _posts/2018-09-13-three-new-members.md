@@ -1,7 +1,7 @@
 ---
 title: "Three new members working with Ratatosk SG, PoCo since August 2018"
 summary: "We'd like to present threee new Members working with Ratatosk SG, Poco! Since August 2018 Tiina Leiponen, Mattias Book and Birigtte Vedel Thage have joined the team."
-photo: "/assets/images/people/birgitte-vedel-thage.jpg"
+photo: "/assets/images/people/Tiina%20Leiponen.jpg"
 ---
 
 Three new members working with Ratatosk SG, PoCo since August 2018
