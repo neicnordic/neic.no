@@ -4,7 +4,7 @@ include: person
 name: Birgitte Vedel Thage
 home: <a href="https://DeiC.dk/">DeiC</a>
 country: DK
-photo: assets/images/people/Birgitte-Vedel-Thage.JPG
+photo: assets/images/people/birgitte-vedel-thage.jpg
 email: birgitte.vedel.thage@deic.dk
 phone: +45 9351 1288
 on_contract: no
