@@ -13,9 +13,7 @@ Three new members working with Ratatosk SG, PoCo since August 2018
 three-day long event featuring HPC experts and domain scientists from Iceland, the U.S. and Germany. During the workshop, particpants
 discussed topics ranging from project experiences to technology tutorials.**
 
-![alt text][logo]
-
-[logo]: https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg "Tiina Leiponen"
+![Tiina Leiponen](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg)
 
 ## Tiina Leiponen 
 Tiina joined CSC, Espoo in Finland in 2007 and is currently working as a training manager. Her background is from social sciences and
