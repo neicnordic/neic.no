@@ -13,12 +13,11 @@ Three new members working with Ratatosk SG, PoCo since August 2018
 three-day long event featuring HPC experts and domain scientists from Iceland, the U.S. and Germany. During the workshop, particpants
 discussed topics ranging from project experiences to technology tutorials.**
 
-![alt text](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg "Tiina Leiponen")
+![alt text](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg "Tiina Leiponen") ![alt text](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/matthias-book.jpg "Mattias Book")
 
 Tiina Leiponen 
 Tiina joined CSC, Espoo in Finland in 2007 and is currently working as a training manager. Her background is from social sciences and
-business (MSc in Communication, MBA). She has 25 years of experience from communication and marketing as well as consulting jobs both from ![alt text](https://github.com/neicnordic/neic.no/blob/gh-pages/assets/images/people/Tiina%20Leiponen.jpg "Tiina Leiponen")
-the public and the private sector. She has previously been involved in communication and marketing activities in projects such as PRACE,
+business (MSc in Communication, MBA). She has 25 years of experience from communication and marketing as well as consulting jobs both from the public and the private sector. She has previously been involved in communication and marketing activities in projects such as PRACE,
 NORDUnet and GÉANT. Besides that, she has also experience from international activities such as PRACE 2IP as WP leader for WP3, 
 dissemination and training. In her free time, Tiina enjoys spending time with her hobbies, as all her three kids are full grown and have 
 moved away from home. She sings, plays badminton and golf and likes going to the gym. Every once in a while, she enjoys good parties with
