@@ -7,8 +7,10 @@ country: "SE"
 photo:
 email: kai.lu@liu.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:
+  role: Until August 2018.
+  finished: yes
 ---
