@@ -3,21 +3,19 @@ layout: master
 include: activity
 name: DeepDive
 type: Project
-leader: thomas-roblitz
+leader: matthias-obst
 phase: Execution
 start: 2017-01-01
 end: 2019-12-31
-results: https://wiki.neic.no/wiki/bdi
-outreach: https://wiki.neic.no/wiki/bdi
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161124_Workplan_NeIC_BDI_final.pdf
   - text: Collaboration agreement
     url: https://wiki.neic.no/int/File:20160921_CA_BiodivInf_final2.pdf
 links:
-  - url: https://wiki.neic.no/wiki/bdi
+  - url: https://wiki.neic.no/wiki/Biodiversity
     text: External wiki
-    description: External documentation, manuals and guides.
+    description: External documentation, results, manuals, and guides.
   - url: https://wiki.neic.no/int/bdi
     text: Internal wiki
     description: Internal working documents.
@@ -25,7 +23,7 @@ groups:
   deepdive:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Biodiversity_team_meetings
-    frequency: Bi-Weekly
+    frequency: Monthly
   deepdive-sg:
     name: Steering group
     description: Governance.

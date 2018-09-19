@@ -4,7 +4,7 @@ include: person
 name: Lars Viklund
 home: <a href="http://umu.se">UmU</a>
 country: "SE"
-photo:
+photo: assets/images/people/Lars_Viklund.jpg
 email: lars.viklund@umu.se
 phone:
 on_contract: yes

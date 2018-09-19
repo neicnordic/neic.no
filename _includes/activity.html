@@ -8,11 +8,12 @@
 <section class="wys-editer single-activities">
   <div class="container">
     <h1>{{ page.name }}</h1>
+    <div class="tagline">{{ page.tagline }}</div>
     <div class="row">
       <div class="col-md-7">
         <div class="content">
           <div class="project-box">
-            <h2>{{ page.type }}</h2>
+            {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
             <p class="top">
               {% if page.phase %}
                 <b>PHASE:</b> {{ page.phase }}
@@ -150,13 +151,14 @@
         </div>
       </div>
 
-      {% if page.groups %}
+      {% assign groups = page.groups|default:page.show-groups %}
+      {% if groups %}
         <div class="col-md-offset-1 col-md-4">
           <div class="toggle-bar">
             <h2>PEOPLE</h2>
             <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
 
-            {% for group in page.groups %}
+            {% for group in groups %}
               {% if forloop.index == 1 %}
                 {% assign group_collapsed = '' %}
                 {% assign group_expanded = 'true' %}
@@ -198,9 +200,9 @@
                           {% endif%}
                           {% if display_this %}
                             {% if person_on_top %}
-                              <p class="top">
+                              <p class="top group-member">
                             {% else %}
-                              <p>
+                              <p class="group-member">
                             {% endif %}
                               <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
                             </p>

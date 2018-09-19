@@ -1,0 +1,6 @@
+<h4><a :href="event.url" v-text="event.title.toUpperCase()" target="_blank"></a></h4>
+
+<h6 class="date">
+<span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+<a class="anchorjs-link " :href="event.calendarUrl" :aria-label="'Calendar link for: ' + event.title.toLowerCase()" data-anchorjs-icon="📅" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;" target="_blank"></a>
+</h6>

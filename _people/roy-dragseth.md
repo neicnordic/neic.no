@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Roy Dragseth
 home: <a href="https://uit.no">UiT</a>
-country: "SE"
+country: "NO"
 photo:
 email: Roy.Dragseth@uit.no
 phone:

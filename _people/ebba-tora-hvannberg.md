@@ -11,5 +11,6 @@ on_contract:
 has_been_on_contract: no
 groups:
   dellingr-sg:
+  provider-forum:
   neic2015-prg:
 ---

@@ -15,4 +15,6 @@ groups:
   nicest-sg:
     role: Project manager, Observer
     finished: no
+  nicest-po:
+    role: Project manager
 ---

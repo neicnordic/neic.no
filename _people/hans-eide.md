@@ -11,8 +11,11 @@ on_contract: no
 has_been_on_contract: no
 groups:
   provider-forum:
+    finished: yes
   neic2017-prg:
   coderefinery-sg:
+    finished: yes
   neic2015-pc:
+  board:
   glenna-sg:
 ---
