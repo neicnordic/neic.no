@@ -11,5 +11,6 @@ on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:
-  finished: yes
+    role: Until August 2018.
+    finished: yes
 ---
