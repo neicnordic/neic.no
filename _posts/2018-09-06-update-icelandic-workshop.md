@@ -1,12 +1,12 @@
 ---
-title: "Update from the Icelandic 2nd Workshop"
+title: "Update from the Nordic High Performance Computing & Applications Workshop in Iceland"
 summary: "On 13-15 June 2018, the University of Iceland hosted the 2nd Nordic High Performance Computing & Applications Workshop, a three-day event
 featuring HPC experts and domain scientists from Iceland, the U.S. and Germany, talking about topics ranging from project experiences to 
 technology tutorials."
 photo: "/assets/images/latest-news-12-sunset.jpeg"
 ---
 
-Update from the Icelandic 2nd Workshop
+Update from the Nordic High Performance Computing & Applications Workshop in Iceland
 ===========================
 
 **On the 13-15 of june 2018, the University of Iceland hosted the 2nd Nordic High Performance Computing & Applications Workshop, a 
