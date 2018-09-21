@@ -10,7 +10,7 @@ banner: "/assets/images/sin-act-banner.png"
 Update from Tryggve D-1 Sensitive Data Archiving
 ===========================
 
-_[Dmytro Titov](/people/dmytro-titov), ELIXIR Norway_
+_[Dmytro Titov](../../people/dmytro-titov/), ELIXIR Norway_
 
 2018-09-21
 
