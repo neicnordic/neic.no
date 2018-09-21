@@ -24,9 +24,10 @@ links:
   - text: Internal wiki
     url: https://wiki.neic.no/int/Tryggve2
     description: Internal working documents.
-  - text: Sensitive Data Archiving
-    url: ../tryggve/d1-sda
-    description: Information about Deliverable 1 - Sensitive Data Archiving
+  deliverables:
+    - text: Sensitive Data Archiving
+      url: ../tryggve/d1-sda
+      description: Information about Deliverable 1 - Sensitive Data Archiving
 groups:
   tryggve2:
     name: Team
