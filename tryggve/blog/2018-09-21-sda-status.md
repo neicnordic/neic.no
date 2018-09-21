@@ -10,10 +10,13 @@ banner: "/assets/images/sin-act-banner.png"
 Update from Tryggve D-1 Sensitive Data Archiving
 ===========================
 
+_[Dmytro Titov](/people/dmytro-titov), ELIXIR Norway_
 
+2018-09-21
 
-**LocalEGA is one of the most crucial projects in the Sensitive Data Archiving scope as well as the strong example of productive and successful collaboration of many parties. Plenty of interesting things are happening within the LocalEGA project lately, so let’s get a brief overview of the recent activities, achievements and further plans.**
+**Local EGA is one of the most crucial projects in the Sensitive Data Archiving scope as well as the strong example of productive and successful collaboration of many parties. Plenty of interesting things are happening within the LocalEGA project lately, so let’s get a brief overview of the recent activities, achievements and further plans.**
 
+<a href="/assets/images/lega-dev-f2f.jpg" class="smallpic"><img src="/assets/images/lega-dev-f2f.jpg"></a>
 
 ## Recent accomplishments
 
