@@ -10,7 +10,7 @@ banner: "/assets/images/sin-act-banner.png"
 Update from Tryggve D-1 Sensitive Data Archiving
 ===========================
 
-_[Dmytro Titov](../../../people/dmytro-titov/), ELIXIR Norway_
+####_[Dmytro Titov](../../../people/dmytro-titov/), ELIXIR Norway_
 
 2018-09-21
 
@@ -26,7 +26,8 @@ Deployment of the Data In part is implemented for all major platforms, such as:
 - Docker Swarm: https://github.com/NBISweden/LocalEGA-deploy-swarm
 - Kubernetes/OpenShift: https://github.com/NBISweden/LocalEGA-deploy-k8s
 - Terraform: https://github.com/NBISweden/LocalEGA-deploy-terraform 
-Deployments were tested on real environments in Norway and Finland.
+
+Deployments are being tested on real environments in Norway and Finland.
 
 ### 2. Crypt4GH support
 
@@ -46,7 +47,7 @@ In order to synchronize our efforts with EBI developers we had a meeting at Espo
 Among other things, integration with REMS was discussed during that meeting.
 
 ## Things in progress and upcoming plans
-1. Further integration with CentralEGA: technical efforts related to implementing functionalities of interchanging data between LocalEGA and CentralEGA setups.
-2. Integrating Crypt4GH into Data Out: EBI’s Data Out solution doesn’t support Crypt4GH at the moment, so there’s an active development of including it to that framework. 
-3. Combining Data In and Data Out parts into a single solution: LocalEGA does not exist either as Data In or Data Out separately - LocalEGA is a combination of both, so we are performing rapid steps towards merging both parts in a fully-functioning system.
-4. Addressing local infrastructural specifics: As was mentioned above, local infrastructures impose some restrictions to the deployments and architecture in general, so in order to address those specific aspects we are developing some complimentary solutions.
+1. **Further integration with CentralEGA**: technical efforts related to implementing functionalities of interchanging data between LocalEGA and CentralEGA setups.
+2. **Integrating Crypt4GH into Data Out**: EBI’s Data Out solution doesn’t support Crypt4GH at the moment, so there’s an active development of including it to that framework. 
+3. **Combining Data In and Data Out parts into a single solution**: LocalEGA does not exist either as Data In or Data Out separately - LocalEGA is a combination of both, so we are performing rapid steps towards merging both parts in a fully-functioning system.
+4. **Addressing local infrastructural specifics**: As was mentioned above, local infrastructures impose some restrictions to the deployments and architecture in general, so in order to address those specific aspects we are developing some complimentary solutions.
