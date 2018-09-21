@@ -47,7 +47,7 @@ In order to synchronize our efforts with EBI developers we had a meeting at Espo
 Among other things, integration with [REMS](https://confluence.csc.fi/display/REMS/Home) was discussed during this meeting.
 
 ## Things in progress and upcoming plans
-1. **Further integration with CentralEGA**: technical efforts related to implementing functionalities of interchanging data between Local EGA and Central EGA setups.
+1. **Further integration with Central EGA**: Technical efforts related to implementing functionalities of interchanging data between Local EGA and Central EGA setups.
 2. **Combining Data In and Data Out parts into a single solution**: Local EGA does not exist either as Data In or Data Out separately - Local EGA is a combination of both, so we are performing rapid steps towards merging both parts in a fully-functioning system.
 3. **Addressing local infrastructural specifics**: As was mentioned above, local infrastructures impose some restrictions to the deployments and architecture in general, so in order to address those specific aspects we are developing some complimentary solutions.
 
