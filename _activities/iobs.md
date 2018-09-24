@@ -4,7 +4,7 @@ include: activity
 name: iOBS
 type: Project
 leader: NN
-phase: Execution
+phase: Preparation
 start: 2018-1x-xx
 end: 2020-1x-xx
 results: https://wiki.neic.no/wiki/iOBS
