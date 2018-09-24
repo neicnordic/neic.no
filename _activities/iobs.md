@@ -35,4 +35,4 @@ groups:
     minutes: https://wiki.neic.no/int/Category:iobs_management_meetings
     frequency: Weekly
 ---
-Nordic collaboration on cloud services.
+Improved Observation Usage in Numerical Weather Prediction
