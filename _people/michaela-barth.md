@@ -36,6 +36,8 @@ groups:
     role: Chair
   coderefinery-po:
     role: Project owner
+  iobs-sg:
+    role: Chair
   project-analysis-rg:
   ratatosk-sg:
     role: Chair
