@@ -38,6 +38,8 @@ groups:
     role: Project owner
   iobs-sg:
     role: Chair
+  iobs-po:
+    role: Project owner
   project-analysis-rg:
   ratatosk-sg:
     role: Chair
