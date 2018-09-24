@@ -24,4 +24,6 @@ groups:
     role: Project leader, Observer
   glenna-po:
     role: Project leader
+  iobs-sg:
+    role: CSC
 ---
