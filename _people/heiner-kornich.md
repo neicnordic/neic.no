@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Heiner Körnich
-home: <a href="https://www.smhi.se/forskning/forskningsomraden/meteorologi/heiner-kornich-1.22280">SMHI/a>
+home: <a href="https://www.smhi.se/forskning/forskningsomraden/meteorologi/heiner-kornich-1.22280">SMHI</a>
 country: "SE"
 photo: ../assets/images/people/heiner-kornich.jpg
 email: heiner.kornich@smhi.se
