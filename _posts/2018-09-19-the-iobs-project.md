@@ -1,13 +1,11 @@
 ---
 title: "Improved Observation Usage in Numerical Weather Prediction (NWP): the iOBS Project"
 summary: "As a follow up to the work members of the first Glenna project performed together with experts at FMI, Met.Norway and SMHI to
-cloudify a scaled down numerical weather prediction (NWP) code, we will continue the collaboration with the same partners in a new project
-called iOBS, funded by Nordforsk and managed by NeIC. The consortium will receive funding for two years to the tune of 10 MNOK (including
-50% in kind funding)  and spend an effort equal to approximately 100 person months. "
+cloudify a scaled down numerical weather prediction (NWP) code, we will continue the collaboration with the same partners in a new project called iOBS, funded by Nordforsk and managed by NeIC."
 photo: "/assets/images/latest-news-13-water.jpg"
 ---
 
-Update from the Nordic High Performance Computing & Applications Workshop in Iceland
+Improved Observation Usage in Numerical Weather Prediction (NWP): the iOBS Project
 ===========================
 
 **As a follow up to the work members of the first Glenna project performed together with experts at FMI, Met.Norway and SMHI to cloudify a scaled down numerical weather prediction (NWP) code, we will continue the collaboration with the same partners in a new project called
