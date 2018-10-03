@@ -28,7 +28,7 @@ no-show and in the absence of a cancellation – an administrative fee will be c
 
 Please also take note of the [Nordic Open Science Conference](https://www.vr.se/english/just-now/events/all-events/calendar-events/2018-08-23-nordic-open-science-conference.html), that will be hosted in the same venue on the two following days (15-16 Nov).
 
-Program
+**Program**
 
 10:00 Welcome
 
