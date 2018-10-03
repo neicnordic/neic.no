@@ -10,6 +10,7 @@ FAIR Awareness Day: Towards Automatic Data Re-Use
 ===========================
 
 When: Wednesday 14 Nov 2018, 10:00-16:00 
+
 Where: Room 300, City Conference Center, Folkets Hus, Stockholm, Sweden
 
 FAIR Data is data that is Findable, Accessible, Interoperable and Reusable by computers. This full day seminar provides an introduction to
@@ -31,6 +32,7 @@ Please also take note of the [Nordic Open Science Conference](https://www.vr.se/
 Program
 
 10:00 Welcome
+
 10:15 FAIR Data and the GO FAIR Initiative
 11:30 Lunch
 12:30 Open Science and FAIR Data Stewardship
