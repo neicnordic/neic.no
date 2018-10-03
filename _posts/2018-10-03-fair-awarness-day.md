@@ -22,7 +22,7 @@ this drives FAIR Data Stewardship as a new profession, and is rapidly gaining mo
 The seminars are given by **Albert Mons** and **Erik Schultes** (GO-FAIR) [(GO-FAIR)](https://www.go-fair.org/). It is an introduction to a training course that will provide thefoundation skills for professional data stewards, to be held in conjunction with the NeIC2019 
 conference (14-16 May, 2019).
 
-Note: This seminar is a NeIC sponsored event, registration is free of charge. Lunch and coffee will be provided. If, after registering, 
+Note: This seminar is a NeIC sponsored event, [registration](https://indico.neic.no/event/22/registrations/5/) is free of charge. Lunch and coffee will be provided. If, after registering, 
 you are unable to attend the event, please cancel by contacting the organiser as soon as possible (at the latest by Nov 12). In case of
 no-show and in the absence of a cancellation – an administrative fee will be charged.
 
@@ -45,5 +45,3 @@ Please also take note of the [Nordic Open Science Conference](https://www.vr.se/
 14:45 Break
 
 15:00 Practising FAIR Data Stewardship
-
-Please register [here](https://indico.neic.no/event/22/registrations/5/).
