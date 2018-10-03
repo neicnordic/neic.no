@@ -26,7 +26,7 @@ Note: This seminar is a NeIC sponsored event, [registration](https://indico.neic
 you are unable to attend the event, please cancel by contacting the organiser as soon as possible (at the latest by Nov 12). In case of
 no-show and in the absence of a cancellation – an administrative fee will be charged.
 
-Please also take note of the [Nordic Open Science Conference](https://www.vr.se/english/just-now/events/all-events/calendar-events/2018-08-23-nordic-open-science-conference.html), that will be hosted in the same venue on the two following days (15-16 Nov).
+Please also take note of the [Nordic Open Science Conference](https://www.vr.se/english/just-now/events/all-events/calendar-events/2018-08-23-nordic-open-science-conference.html), that will be hosted in the same venue on the two following days (15-16 Nov). Questions should be directed to Andreas O. Jaunsen at ajaunsen@gmail.com or +47 99 59 88 00.
 
 **Program**
 
