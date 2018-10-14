@@ -13,7 +13,7 @@ This grant under [The NeIC Ratatosk Mobility Enhancement Programme](https://wiki
  
 ### Requirements
 Only courses/modules directly related to current national and Nordic e-infrastructure training needs will be applicable for support. The application form is mandatory and can be found below.
-Technically the specific course or module can be embodied in the [NeIC Training Calendar](https://neic.no/training). If you think the course you are interested in is of Nordic relevance and therefore should be part of the NeIC Training Calendar, please contact [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/). (All courses on the NeIC Training Calendar are available for application).
+Technically the specific course or module must be embodied in the [NeIC Training Calendar](https://neic.no/training). If you think the course you are interested in is of Nordic relevance and therefore should be part of the NeIC Training Calendar, please contact [Anne-Marie Bach](https://neic.no/people/anne-marie-bach/). (All courses on the NeIC Training Calendar are available for application).
  
 ### Deadline
 The application process as described here has cut-off dates once a month, but not outside the holiday periods. The cut-off dates are announced at [NeIC’s training page](/training).            
