@@ -2,8 +2,7 @@
 title: "New report on The State of Open Science in the Nordic Countries"
 summary: "The report on The State of Open Science in the Nordic Countries: Enabling Data Science in the Nordic Region, written by Andreas
 Jaunsen on behalf NeIC, seeks to identify activities that can help to improve the conditions and means for enabling data-driven science in
-the Nordics. In particular, the relevance to EOSC and the greater visions of Open Science have emerged as an appropriate setting for this
-report."
+the Nordics."
 photo: "/assets/images/latest-news-1.png"
 ---
 
