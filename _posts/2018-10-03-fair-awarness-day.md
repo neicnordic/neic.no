@@ -26,7 +26,7 @@ Please also take note of the [Nordic Open Science Conference](https://www.vr.se/
 
 **When:** Wednesday 14 Nov 2018, 10:00-16:00 
 
-**Where:** Room 300, City Conference Center, Folkets Hus, Stockholm, Sweden
+**Where:** Room 453, Norra Latin, Drottninggatan 71b, Stockholm, Sweden
 
 **Program**
 
