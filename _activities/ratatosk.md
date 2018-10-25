@@ -10,10 +10,8 @@ end:
 results: 
   - text: Icelandic HPC Workshops, funded by NeIC
     url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
-    description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-  Infrastructure personnel in the Nordic region.
   - text: Digital Humanities, Phase 1
-     url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities
-     description: Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material.  
+    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities  
 outreach: 
   - text: Nordic training portals
     url: /training
@@ -26,9 +24,6 @@ links:
     description: Training events relevant to NeIC and stakeholders.
   - text: External wiki on Ratatosk
     url: https://wiki.neic.no/wiki/Ratatosk
-    
-  
-    
 groups:
   ratatosk-po:
     name: Project office
