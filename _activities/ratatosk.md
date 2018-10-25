@@ -16,11 +16,10 @@ outreach:
   - text: Nordic training portals
     url: /training
   - text: Workshops, how can NeIC help you
-    url:https://wiki.neic.no/wiki/Workshops#How_can_NeIC_help_you.3F
+    url: https://wiki.neic.no/wiki/Workshops#How_can_NeIC_help_you.3F
 links:
   - text: Upcoming training
     url: /training/upcoming
-    description: Training events relevant to NeIC and stakeholders.
   - text: External wiki on Ratatosk
     url: https://wiki.neic.no/wiki/Ratatosk
 groups:
