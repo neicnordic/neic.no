@@ -7,17 +7,17 @@ leader: anne-marie-bach
 phase: Execution
 start: 2017-04-21
 end:
-results: 
+results: N/A 
+outreach: N/A
+links:
   - text: Icelandic HPC Workshops, funded by NeIC
     url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
   - text: Digital Humanities, Phase 1
-    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities  
-outreach: 
+    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities - text: Nordic training portals
   - text: Nordic training portals
     url: /training
   - text: Workshops, how can NeIC help you
-    url: https://wiki.neic.no/wiki/Workshops#How_can_NeIC_help_you.3F
-links:
+    url: https://wiki.neic.no/wiki/Workshops#How_can_NeIC_help_you.3F- text: Upcoming training
   - text: Upcoming training
     url: /training/upcoming
   - text: External wiki on Ratatosk
