@@ -52,4 +52,3 @@ The Ratatosk Nordic mobility enhancement programme efforts are directed to incre
 
 * The second, the [course mobility](../training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
 
-
