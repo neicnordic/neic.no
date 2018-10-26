@@ -7,21 +7,23 @@ leader: anne-marie-bach
 phase: Execution
 start: 2017-04-21
 end:
-results: -
-outreach: -
+results: N/A
+outreach: N/A
 links:
-  - text: Icelandic HPC Workshops, funded by NeIC
-    url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
-  - text: Digital Humanities, Phase 1
-    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities
   - text: Nordic training portals
     url: /training
-  - text: Workshops, how can NeIC help you
-    url: https://wiki.neic.no/wiki/Workshops#How_can_NeIC_help_you.3F
+    description: Training portals relevant to NeIC and stakeholders.
   - text: Upcoming training
     url: /training/upcoming
+    description: Training events relevant to NeIC and stakeholders.
   - text: External wiki on Ratatosk
     url: https://wiki.neic.no/wiki/Ratatosk
+  - text: Icelandic Workshops
+    url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
+    description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region.
+  - text: Digital Humanities 
+    url: https://wiki.neic.no/wiki/Category:Training_-_Digital_Humanities
+    description: Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material.  
 groups:
   ratatosk-po:
     name: Project office
@@ -51,4 +53,5 @@ The Ratatosk Nordic mobility enhancement programme efforts are directed to incre
 * First is the student mobility part ([travel grants](../training/travel-grant)) enabling trainees to travel to attend Nordic training courses which are not available locally.  
 
 * The second, the [course mobility](../training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
+
 
