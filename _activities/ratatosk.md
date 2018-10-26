@@ -10,7 +10,7 @@ end:
 results: https://wiki.neic.no/wiki/Ratatosk
 outreach: https://wiki.neic.no/wiki/Ratatosk#Outreach
 links:
-  - text: Icelandic Workshops, funded by NeIC
+  - text: Icelandic Workshops (funded by NeIC)
     url: https://wiki.neic.no/wiki/Talk:Training#Training_-_Icelandic_Workshops
     description: Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-infrastructure personnel in the Nordic region.
 - text: Digital Humanities 
