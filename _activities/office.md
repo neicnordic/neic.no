@@ -1,5 +1,4 @@
 ---
-title: Office
 layout: master
 include: activity
 name: NeIC office
