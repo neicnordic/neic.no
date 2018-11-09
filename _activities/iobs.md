@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: iOBS
 type: Project
-leader: Anette-Lauen-Borg
+leader: anette-lauen-borg
 phase: Preparation
 start: 2018-1x-xx
 end: 2020-1x-xx
