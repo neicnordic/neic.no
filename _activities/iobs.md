@@ -10,8 +10,8 @@ end: 2020-1x-xx
 results: https://wiki.neic.no/wiki/iOBS
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
-  - text: Project plan (not yet)
-    url: xx
+  - text: Project directive
+    url: https://wiki.neic.no/wiki/File:ProjectDirectiveiOBS.pdf
 links:
   - url: https://wiki.neic.no/wiki/iOBS
     text: External wiki

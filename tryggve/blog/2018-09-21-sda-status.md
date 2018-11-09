@@ -53,5 +53,5 @@ Among other things, integration with [REMS](https://confluence.csc.fi/display/RE
 
 ---
 
-_**D-1 Sensitive Data Archiving**_ is one of the deliverables in the [NeIC Tryggve2 project](https://nicjar.github.io/neic.no/tryggve/). Feel free to contact [Niclas Jareborg](../../../people/niclas-jareborg/) with any questions concerning the activities regarding Sensitive Data Archiving and Local EGA.
+_**D-1 Sensitive Data Archiving**_ is one of the deliverables in the [NeIC Tryggve project](https://neic.no/tryggve/). Feel free to contact [Niclas Jareborg](../../../people/niclas-jareborg/) with any questions concerning the activities regarding Sensitive Data Archiving and Local EGA.
 

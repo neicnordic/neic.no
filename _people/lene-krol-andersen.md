@@ -16,4 +16,5 @@ groups:
     finished: yes
   neic2017-prg:
   ratatosk-sg:
+    finished: yes
 ---
