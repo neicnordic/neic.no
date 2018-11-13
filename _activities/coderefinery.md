@@ -21,9 +21,6 @@ links:
   - url: https://twitter.com/coderefine
     text: Twitter
     description: Main news channel
-  - url: https://trello.com/b/4jYoWV7h/coderefinery-status
-    text: Trello
-    description: Tracks TODO items
   - url: https://github.com/coderefinery
     text: GitHub
     description: Holds website and lesson sources
