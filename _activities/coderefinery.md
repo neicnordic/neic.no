@@ -6,7 +6,7 @@ type: Project
 leader: radovan-bast
 phase: Execution
 start: 2016-10-01
-end: 2018-09-30
+end: 2021-10-31
 results: http://coderefinery.org
 outreach: http://coderefinery.org
 documents:
