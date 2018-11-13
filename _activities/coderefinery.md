@@ -7,8 +7,8 @@ leader: radovan-bast
 phase: Execution
 start: 2016-10-01
 end: 2021-10-31
-results: http://coderefinery.org
-outreach: http://coderefinery.org
+results: https://coderefinery.org
+outreach: https://coderefinery.org
 external_team_page: https://coderefinery.org/about/#meet-the-team
 documents:
   - text: Project directive (phase 1)
@@ -22,7 +22,7 @@ documents:
   - text: Collaboration agreement (phase 2)
     url: https://wiki.neic.no/w/ext/img_auth.php/4/42/180926Collaboration_Agreement_for_CodeRefinery2_clean.pdf
 links:
-  - url: http://coderefinery.org
+  - url: https://coderefinery.org
     text: Web
     description: Main output
   - url: https://twitter.com/coderefine
