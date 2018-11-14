@@ -9,7 +9,6 @@ start: 2016-10-01
 end: 2021-10-31
 results: https://coderefinery.org
 outreach: https://coderefinery.org
-external_team_page: https://coderefinery.org/about/#meet-the-team
 documents:
   - text: Project directive (phase 1)
     url: https://wiki.neic.no/w/ext/img_auth.php/5/5a/Collaborative_Infrastructure_for_Scientific_Software_Project_directive.doc

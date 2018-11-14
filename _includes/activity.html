@@ -188,37 +188,29 @@
                     {% if group[1].minutes %}
                       <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
                     {% endif %}
-
-                    {% if page.external_team_page and group[1].name == 'Team' %}
-                      <p>
-                        <span class="color"><b><a href="{{ page.external_team_page }}" target="_blank">Team page</a></b></span>
-                      </p>
-                    {% else %}
-                      {% assign person_on_top = true %}
-                      {% for person in site.people %}
-                        {% for person_group in person.groups %}
-                          {% if person_group[0] == group[0] %}
-                            {% comment %}Liquid templates do not have a logic not operator {% endcomment %}
-                            {% assign display_this = true %}
-                            {% if page.finished %}
-                            {% elsif person_group[1].finished %}
-                              {% assign display_this = false %}
-                            {% endif%}
-                            {% if display_this %}
-                              {% if person_on_top %}
-                                <p class="top group-member">
-                              {% else %}
-                                <p class="group-member">
-                              {% endif %}
-                                <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
-                              </p>
-                              {% assign person_on_top = false %}
+                    {% assign person_on_top = true %}
+                    {% for person in site.people %}
+                      {% for person_group in person.groups %}
+                        {% if person_group[0] == group[0] %}
+                          {% comment %}Liquid templates do not have a logic not operator {% endcomment %}
+                          {% assign display_this = true %}
+                          {% if page.finished %}
+                          {% elsif person_group[1].finished %}
+                            {% assign display_this = false %}
+                          {% endif%}
+                          {% if display_this %}
+                            {% if person_on_top %}
+                              <p class="top group-member">
+                            {% else %}
+                              <p class="group-member">
                             {% endif %}
+                              <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                            </p>
+                            {% assign person_on_top = false %}
                           {% endif %}
-                        {% endfor %}
+                        {% endif %}
                       {% endfor %}
-                    {% endif %}
-
+                    {% endfor %}
                   </div>
                 </div>
               </div>
