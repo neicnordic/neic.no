@@ -6,24 +6,28 @@ type: Project
 leader: radovan-bast
 phase: Execution
 start: 2016-10-01
-end: 2018-09-30
-results: http://coderefinery.org
-outreach: http://coderefinery.org
+end: 2021-10-31
+results: https://coderefinery.org
+outreach: https://coderefinery.org
+external_team_page: https://coderefinery.org/about/#meet-the-team
 documents:
-  - text: Collaboration agreement
+  - text: Project directive (phase 1)
+    url: https://wiki.neic.no/w/ext/img_auth.php/5/5a/Collaborative_Infrastructure_for_Scientific_Software_Project_directive.doc
+  - text: Collaboration agreement (phase 1)
     url: https://wiki.neic.no/w/ext/img_auth.php/6/6e/150904-Collaborative_Infrastructure_for_Scientific_Software_Collaboration_Agreement.pdf
-  - text: Project plan
+  - text: Project plan (phase 1)
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d0/CodeRefinery-project-plan-v1.0.pdf
+  - text: Project directive (phase 2)
+    url: https://wiki.neic.no/w/ext/img_auth.php/4/46/Coderefinery-project-directive-phase-2.pdf
+  - text: Collaboration agreement (phase 2)
+    url: https://wiki.neic.no/w/ext/img_auth.php/4/42/180926Collaboration_Agreement_for_CodeRefinery2_clean.pdf
 links:
-  - url: http://coderefinery.org
+  - url: https://coderefinery.org
     text: Web
     description: Main output
   - url: https://twitter.com/coderefine
     text: Twitter
     description: Main news channel
-  - url: https://trello.com/b/4jYoWV7h/coderefinery-status
-    text: Trello
-    description: Tracks TODO items
   - url: https://github.com/coderefinery
     text: GitHub
     description: Holds website and lesson sources
