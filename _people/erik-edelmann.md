@@ -13,4 +13,5 @@ groups:
   nt1:
     role: Alice Operations Contact
   coderefinery:
+    finished: yes
 ---

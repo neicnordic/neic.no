@@ -1,15 +1,15 @@
 ---
 layout: master
 include: person
-name: Stefan Negru
+name: Ville Salmela
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
-email: stefan.negru@csc.fi
+email: ville.salmela@csc.fi
 phone:
 on_contract: yes
-has_been_on_contract: yes
+has_been_on_contract: no
 groups:
-  tryggve2:
-  coderefinery:
+  nt1:
+    role: Tier-1 Operations
 ---
