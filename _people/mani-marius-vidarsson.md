@@ -10,6 +10,7 @@ phone:
 on_contract:
 has_been_on_contract: no
 groups:
-  dellingr glenna2:
+  dellingr:
+  glenna2:
 past_engagements:
 ---
