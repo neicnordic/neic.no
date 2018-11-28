@@ -52,3 +52,4 @@ Using such national resources to establish an internationally leading collaborat
 Leveraging the pooled competency to take responsibility for assessing future hybrid cloud technology and communicate that to the national initiatives.
 
 Supporting use of resources by pooling national cloud application expert support and create a Nordic support channel for cloud and big data. The mandate is to sustain a coordinated training and dissemination effort, creating training material and providing application level support to cloud users in all countries.
+
