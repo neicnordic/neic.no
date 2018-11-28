@@ -7,7 +7,7 @@ country: "IS"
 photo:
 email: hs@hi.is
 phone:
-on_contract:
+on_contract: no
 has_been_on_contract:
 groups:
   glenna2:
