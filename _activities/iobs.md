@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: iOBS
 type: Project
-leader: NN
+leader: anette-lauen-borg
 phase: Preparation
 start: 2018-1x-xx
 end: 2020-1x-xx
@@ -27,12 +27,12 @@ groups:
   iobs-sg:
     name: Steering group
     description: Governance.
-    minutes: https://indico.neic.no/category/9/
+    minutes: https://indico.neic.no/category/12/
     frequency: 3-4 per year
   iobs-po:
     name: Project office
     description: Management.
-    minutes: https://wiki.neic.no/int/Category:iobs_management_meetings
+    minutes: https://indico.neic.no/category/11/
     frequency: Weekly
 ---
 Improved Observation Usage in Numerical Weather Prediction

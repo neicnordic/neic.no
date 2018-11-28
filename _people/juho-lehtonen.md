@@ -1,15 +1,14 @@
 ---
 layout: master
 include: person
-name: Stefan Negru
+name: Juho Lehtonen
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
-email: stefan.negru@csc.fi
+email: juho.lehtonen@csc.fi
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve2:
   coderefinery:
 ---

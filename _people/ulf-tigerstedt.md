@@ -7,7 +7,7 @@ country: FI
 photo: assets/images/people/Ulf_Tigerstedt2.jpg
 email: ulf.tigerstedt@csc.fi
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nt1:

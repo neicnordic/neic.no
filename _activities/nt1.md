@@ -87,6 +87,11 @@ developers and [EGI](http://www.egi.eu/).
 ### NLCG committee
 Nordic LHC Computing Grid ([NLCG](https://wiki.neic.no/int/NLCG)) Committee is a NeIC body that oversees CERN-related activities, such as Nordic Tier1 implementation and interactions with ATLAS, ALICE and CMS experiments at CERN. The NLCG Committee is governed by Terms of Reference approved by the NeIC Board and has agreed to act as a reference group for the Nordic Tier-1 activity within NeIC.
 
+### Collaborations
+ * [Worldwide LHC Computing Grid](http://wlcg.web.cern.ch/)
+ * [dCache software development](https://www.dcache.org)
+ * [ARC software development](https://www.nordugrid.org)
+
 ### Results
  * [Availability / reliability report](http://argo.egi.eu/lavoisier/site_ar?granularity=monthly&report=Critical&site=NDGF-T1&accept=html)
  * [Accounting](https://accounting.egi.eu/egi/site/NDGF-T1/normelap_processors/)

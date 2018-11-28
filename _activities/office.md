@@ -32,3 +32,9 @@ groups:
 
 The people and teams that carry out governance, management and coordination of
 NeIC activities.
+
+FIND US
+
+Our addresss is Stensberggata 25, 0170 Oslo
+
+Find the entrance with NordForsk sign, door 25A, 8th floor. For a map to our building please se [here](https://neic.no/people/)

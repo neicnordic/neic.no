@@ -4,7 +4,8 @@ include: activity
 name: EISCAT_3D support
 type: Project
 leader: john-white
-phase: Execution
+finished: yes
+phase: Finished
 start: 2015-01-15
 end: 2018-01-14
 results: https://wiki.neic.no/wiki/EISCAT_3D_support#Documents
