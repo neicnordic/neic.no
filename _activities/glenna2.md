@@ -43,7 +43,9 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Glenna2_management_meetings
     frequency: Weekly
 ---
-Glenna 2 aims to provide added value to the Nordic national cloud and dataintensive computing initiatives by:
+Glenna2 continues the collaboration of the first Glenna project.
+
+The Glenna2 project aims to provide added value to the Nordic national cloud and dataintensive computing initiatives by:
 
 Supporting national cloud initiatives to sustain affordable IaaS cloud resources through financial support, knowledge exchange and pooling competency on cloud operations.
 
