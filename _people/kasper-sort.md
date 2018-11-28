@@ -7,7 +7,7 @@ country: "DK"
 photo:
 email: kasm@dtu.dk
 phone: +45 35 88 82 33 
-on_contract: yes
+on_contract: no
 groups:
-  glenna2:
+
 ---
