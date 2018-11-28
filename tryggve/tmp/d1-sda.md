@@ -24,12 +24,8 @@ Production quality software that enables secure archiving of sensitive data (M4 
 Pilot production services (as defined above) in at least 3 countries (M6 2020-10)
 
 ### Contacts 
-Niclas Jareborg – lead, niclas.jareborg@nbis.se  
-Juha Törnroos - scrum master, juha.tornroos@csc.fi 
-
-
-
-Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) on any questions concerning the activities regarding Sensitive Data Archiving and Local EGA.
+Niclas Jareborg – lead, [niclas.jareborg@nbis.se](mailto:niclas.jareborg@nbis.se)  
+Juha Törnroos - scrum master, [juha.tornroos@csc.fi](mailto:juha.tornroos@csc.fi) 
 
 More on **[Tryggve](https://neic.no/tryggve/)**
 
