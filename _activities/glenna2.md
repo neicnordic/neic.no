@@ -43,4 +43,12 @@ groups:
     minutes: https://wiki.neic.no/int/Category:Glenna2_management_meetings
     frequency: Weekly
 ---
-Nordic collaboration on cloud services.
+Glenna 2 aims to provide added value to the Nordic national cloud and dataintensive computing initiatives by:
+
+Supporting national cloud initiatives to sustain affordable IaaS cloud resources through financial support, knowledge exchange and pooling competency on cloud operations.
+
+Using such national resources to establish an internationally leading collaboration on data intensive computing in collaboration with user communities.
+
+Leveraging the pooled competency to take responsibility for assessing future hybrid cloud technology and communicate that to the national initiatives.
+
+Supporting use of resources by pooling national cloud application expert support and create a Nordic support channel for cloud and big data. The mandate is to sustain a coordinated training and dissemination effort, creating training material and providing application level support to cloud users in all countries.
