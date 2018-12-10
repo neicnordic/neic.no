@@ -22,6 +22,7 @@ groups:
     role: Chair
   ratatosk-sg:
     role: Observer
+    finished: yes    
   data-management-wg:
     role: Chair
   project-analysis-rg:
