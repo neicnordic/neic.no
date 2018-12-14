@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: Tryggve
 type:
-tagline: Nordic Collaboration for Sensitive Data
+tagline: Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
