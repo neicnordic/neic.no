@@ -29,7 +29,7 @@ In a nutshell, the accepted use cases will receive support from the Tryggve proj
 * Efficient and secure processing environments
 * Tryggve offers environment, researcher brings the data
 * Variety of platforms offering flexibility to handle different use cases
-* Offering includes the following systems: TSD, Mosler, ePouta, Computerome
+* Offering includes the following systems: TSD, CSC ePouta, Computerome, SNIC Bianca
 
 #### Share data with your colleagues
 * Control over the data stays with the user
@@ -76,7 +76,7 @@ Tryggve use cases and other research projects can access the individual service 
   [Homepage](https://nbis.se/infrastructure/mosler.html),
   [How to access](https://nbis.se/infrastructure/moslerdoc/support.html)
 
-In addition, Tryggve is in discussion on collaboration with SNIC on the use of Swedish [Bianca](https://uppmax.uu.se/resources/systems/the-bianca-cluster/) service for sensitive data as part of Tryggve use cases. 
+In addition, Tryggve and Swedish national e-infrastructure SNIC have agreed that the use of Swedish [Bianca](https://uppmax.uu.se/resources/systems/the-bianca-cluster/) service for sensitive data is possible as part of Tryggve use cases. 
 
 Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) on any questions concerning accessing of the Nordic systems
 for sensitive data, for example if you are unsure whether to submit a use case or access separate systems directly.
