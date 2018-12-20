@@ -11,7 +11,7 @@ Private weather observations to be integrated into forecasting
 
 ### Private pressure observations
 
-That is exactly what the Nordic iOBS project is aiming at. A number of Nordic meteorological institutes together with researchers from NeIC, the Nordic e-Infrastructure Cooperation, have set out to assimilate private pressure observations into an operational Numerical Weather Prediction system (NWP). If successful, this would be the first time this kind of integration has been done. The outcome would be even more fine-grained and precise regional and local weather forecasts and warnings for the benefit of operations, businesses, and society.
+That is exactly what the Nordic iOBS project is aiming at. A number of national meteorological institutes together with researchers from NeIC, the Nordic e-Infrastructure Collaboration, have set out to assimilate private pressure observations into an operational Numerical Weather Prediction system (NWP). If successful, this would be the first time this kind of integration has been done. The outcome would be even more fine-grained and precise regional and local weather forecasts and warnings for the benefit of operations, businesses, and society.
 
 The iOBS project builds on previous work done by NeIC together with the Finnish, Swedish, and Norwegian meteorological institutes to combine their highly complex Numerical Weather Prediction model running on supercomputers with a cloud service, accessible to users through dedicated e-infrastructures and R&E network connectivity.
 
