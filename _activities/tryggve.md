@@ -27,6 +27,8 @@ links:
     url: https://drive.google.com/drive/u/0/folders/1lvkw-fDmuZKPArysnN4iUMRBHCi8DIXm
   - text: Use cases
     url: usecase
+  - text: Tryggve overview poster
+    url: https://drive.google.com/file/d/1qZeNHrSJmqUslShkMXUzTLYCFxsLKgAS/view?usp=sharing
   - text: Internal documents
     description: NeIC associates get read access on request
     url: https://drive.google.com/drive/folders/0B9tCS2R8WVYFMGJ6N3gwcF9ueGc
