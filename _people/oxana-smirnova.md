@@ -17,4 +17,5 @@ groups:
   nlcg:
     role: Ex officio, Secretary
   neic2015-pc:
+    role: Member
 ---
