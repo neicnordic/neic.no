@@ -12,4 +12,5 @@ has_been_on_contract: yes
 groups:
   ratatosk-po:
     role: Training manager
+    finished: yes
 ---
