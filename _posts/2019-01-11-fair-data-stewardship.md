@@ -7,7 +7,7 @@ photo: "/assets/images/latest-news-11-sun_clouds.jpeg"
 FAIR data stewardship: Supporting FAIR data interoperability
 ===============================
 
-NeIC is organising the 'FAIR data stewardship: Supporting FAIR data interoperability' workshop in Oslo on the 25- 28th May. This 4-day course is a fully fledged training event which will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application. The course is a continuation of the NeIC sponsored FAIR Awareness day on 14 Nov 2018, however, it can stand completely on its own and everyone with solid data management experience and a genuine interest in the FAIR principles is invited to attend the meeting.
+NeIC is organising the 'FAIR data stewardship: Supporting FAIR data interoperability' workshop in Oslo on the 25-28th March. This 4-day course is a fully fledged training event which will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application. The course is a continuation of the NeIC sponsored FAIR Awareness day on 14 Nov 2018, however, it can stand completely on its own and everyone with solid data management experience and a genuine interest in the FAIR principles is invited to attend the meeting.
 
 The course is taught by Dr. Luiz Bonino and Dr. Mark Wilkinson. The content of the "FAIR Data Stewardship & Management training" can be found [here](http://www.phortosconsultants.com/Fair-management) (please note that only day 2-5 will be taught).
 
