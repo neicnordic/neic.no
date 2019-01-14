@@ -13,6 +13,6 @@ The NeIC conferences are organised biannually bringing together around 230 exper
 
 NeIC2019 is a collaboration between CSC, DeiC, NeIC, RHnet, SNIC, and UNINETT Sigma2.
 
-Please find more information and register for NeIC2019 (here)[https://indico.neic.no/event/18/overview]. Our discounted early bird registration fee is available until 1st March. 
+Please find more information and register for NeIC2019 [here](https://indico.neic.no/event/18/overview). Our discounted early bird registration fee is available until 1st March. 
 
 We hope to see you in Copenhagen in May!
