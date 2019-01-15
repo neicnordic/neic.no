@@ -54,6 +54,10 @@ Use Cases for Tryggve can be proposed online at any time. There are two alternat
 
 Please do not submit any sensitive data in your use case description. Basic use case info will be made public on acceptance, see List of current use cases below.
 
+### Upon acceptance of Use Case Proposal 
+
+Please acknowledge that all use case participants agree to refer to Tryggve in all communication concerning the Tryggve project.
+
 ### List of current use cases
 Please find the list the current use cases [here](https://docs.google.com/spreadsheets/d/10TT_A_ennA_dfL2f9NAyYBcZiMXFp1BHeR-j3Sfb65E/edit#gid=0)
 
