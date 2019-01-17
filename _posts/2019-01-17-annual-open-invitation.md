@@ -1,5 +1,5 @@
 ---
-title: "NeIC announces annual open invitation for e-Infrastructure collaboration"
+title: "NeIC announces annual open invitation for collaboration"
 summary: "Our plan is to invite e-Infrastructure providers, developers, researchers and related communities around the Nordic region to propose collaboration projects within digital infrastructure of joint Nordic interest."
 photo: "/assets/images/latest-news-10-rain.jpeg"
 ---
