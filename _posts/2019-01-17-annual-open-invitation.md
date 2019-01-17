@@ -1,10 +1,10 @@
 ---
-title: "NeIC announces annual open invitation for collaboration"
+title: "NeIC announces annual open invitation for e-Infrastructure collaboration"
 summary: "Our plan is to invite e-Infrastructure providers, developers, researchers and related communities around the Nordic region to propose collaboration projects within digital infrastructure of joint Nordic interest."
 photo: "/assets/images/latest-news-10-rain.jpeg"
 ---
 
-NeIC announces annual open invitation for e-Infrastructure collaboration
+NeIC announces annual open invitation for collaboration
 ===============================
 
 NeIC is planning for an annual open invitation for e-Infrastructure collaboration. Tentative time for the next call is April 2019 with deadline for submission before the summer. 
