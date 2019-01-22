@@ -7,9 +7,10 @@ country: "DK"
 photo:
 email:leod@itu.dk
 phone:
-on_contract: yes
-has_been_on_contract: yes
+on_contract: no
+has_been_on_contract: no
 groups
   nlpl:
   nlpl-sg:
+---
 
