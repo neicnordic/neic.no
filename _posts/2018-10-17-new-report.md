@@ -24,3 +24,5 @@ Nordics. In particular, the relevance to EOSC and the greater visions of Open Sc
 report.
 
 You can access the printer friendly version of this report [here](https://wiki.neic.no/w/ext/img_auth.php/5/55/The_state_of_open_science_in_the_Nordic_countries_Single.pdf). 
+
+DoI: https://doi.org/10.5281/zenodo.2563733
