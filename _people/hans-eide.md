@@ -19,4 +19,5 @@ groups:
   board:
   glenna-sg:
   dellingr-sg:
+    role: Observer  
 ---
