@@ -12,4 +12,5 @@ has_been_on_contract: yes
 groups:
   nt1:
     role: Tier-1 Operations
+    finished: yes
 ---
