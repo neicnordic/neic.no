@@ -4,7 +4,7 @@ summary: "Har du god forståelse for forskning og forskningsinfrastruktur samt e
 photo: "/assets/images/latest-news-7-mountains.jpeg"
 ---
 
-# Rådgiver/Seniorrådgiver hos NeIC
+# Vi søker en rådgiver/seniorrådgiver
 
 **Har du god forståelse for forskning og forskningsinfrastruktur samt et interesse for nordisk samarbeid?**
 
