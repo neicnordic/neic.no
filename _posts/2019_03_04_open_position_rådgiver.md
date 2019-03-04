@@ -1,5 +1,5 @@
 ---
-title: Rådgiver/Seniorrådgiver hos NeIC
+title: Vi søker en rådgiver/seniorrådgiver
 summary: "Har du god forståelse for forskning og forskningsinfrastruktur samt et interesse for nordisk samarbeid?"
 photo: "/assets/images/latest-news-7-mountains.jpeg"
 ---
