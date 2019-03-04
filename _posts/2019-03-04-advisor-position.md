@@ -6,7 +6,7 @@ photo: "/assets/images/latest-news-7-mountains.jpeg"
 
 # We're looking for an Advisor / a Senior Advisor
 
-**The article is in Norwegian only.**
+**This job advertisement is in Norwegian only.**
 
 NordForsk er en organisasjon under Nordisk ministerråd som tilrettelegger for nordisk forskningssamarbeid. Hensikten er å styrke nordisk forskningssamarbeid og tilføre merverdi til det arbeidet som allerede pågår i de nordiske landene; Finland, Danmark, Sverige, Norge og Island, samt de selvstyrte områdene Færøyene, Grønland og Åland. NordForsks sekretariat har ca. 25 ansatte og er lokalisert sentralt i Oslo. For mer informasjon, se www.nordforsk.org. 
 
