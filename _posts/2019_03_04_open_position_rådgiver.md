@@ -15,23 +15,23 @@ Vi søker en rådgiver/seniorrådgiver til koordinering av vår innsats for å f
 Stillingen vil være knyttet til NordForsks enhet Nordic e-Infrastrucutre Collaboration (http://neic.nordforsk.org). NeIC er en distribuert organisasjon som legger til rette for nordisk samarbeid innen digital infrastruktur for forskning. Gjennom våre nasjonale samarbeidspartnere deltar omkring 150 medarbeidere i og utenfor Norden  til utvikling og drift av felles infrastrukturløsninger.
 
 Arbeidsoppgaver:
-•	Tilrettelegging av samarbeid mellom relevante initiativ i Norden og internasjonalt
-•	Omfattende kontakt med relevante interessenter, som forsknings- og ekspertgrupper i Norden og internasjonalt
+* Tilrettelegging av samarbeid mellom relevante initiativ i Norden og internasjonalt
+* Omfattende kontakt med relevante interessenter, som forsknings- og ekspertgrupper i Norden og internasjonalt
 
 Ved tilsetning har kandidaten:
-•	En relevant M.Sc. eller Ph.D.
-•	Erfaring fra e-infrastruktur, herunder datahåndtering og beregningstjenester
-•	Utmerket kunnskap om datahåndtering og datahåndteringsplaner, samt FAIR-prinsippene og implementering av disse.
+* En relevant M.Sc. eller Ph.D.
+* Erfaring fra e-infrastruktur, herunder datahåndtering og beregningstjenester
+* Utmerket kunnskap om datahåndtering og datahåndteringsplaner, samt FAIR-prinsippene og implementering av disse.
 
 I tillegg er der ønskelig at kandidaten har:
-•	Bakgrunn fra forskning og forskningsinfrastruktur.
-•	Kompetanse i prosjektledelse
-•	Evne og interesse for å arbeide i en distribuert internasjonal organisasjon.
+* Bakgrunn fra forskning og forskningsinfrastruktur.
+* Kompetanse i prosjektledelse
+* Evne og interesse for å arbeide i en distribuert internasjonal organisasjon.
 
 Vi tilbyr deg:
-•	en stilling i et kompetent og godt fagmiljø
-•	hyggelige kolleger, et godt internasjonalt arbeidsmiljø og gode velferdstilbud
-•	lønn etter avtale, medlemskap i Statens pensjonskasse
+* en stilling i et kompetent og godt fagmiljø
+* hyggelige kolleger, et godt internasjonalt arbeidsmiljø og gode velferdstilbud
+* lønn etter avtale, medlemskap i Statens pensjonskasse
 
 Arbeidsstedet er Oslo. Noe reising må påregnes.
 
@@ -41,4 +41,4 @@ Søknadsfristen er den 14. mars 2019. Det er ønskelig om kandidaten kan starte 
 
 Nærmere opplysninger om stillingen fås ved henvendelse til NeIC direktør, Gudmund Høst, +47 958 16 846.
 
-* Findable, Accessible, Interoperable, and Reusable. Wilkinson, M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship (2016) Sci. Data, 3:160018 doi: 10.1038/sdata.2016.18.
+*Findable, Accessible, Interoperable, and Reusable. Wilkinson, M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship (2016) Sci. Data, 3:160018 doi: 10.1038/sdata.2016.18.
