@@ -38,8 +38,6 @@ Arbeidsstedet er Oslo. Noe reising må påregnes.
 
 Den ledige stillingen er en åremålstilsetting for tre år med mulighet for forlengelse i inntil totalt 8 år i tråd med Nordisk Ministerråds retningslinjer. Statsansatte har krav på tjenestefri for å arbeide i NordForsk. Medarbeidere som rekrutteres fra et annet land enn Norge, har krav på kompensasjon i forbindelse med flytting utenfor hjemlandet. Vi etterstreber en balanse når det gjelder alder og kjønn. I tillegg skal NordForsk sin stab så langt som mulig gjenspeile den nordiske befolkningen, og ved utvelgelse av kandidater vil NordForsk etterstrebe en balanse mellom de ulike nordiske nasjonalitetene.
 
-Søknadsfristen er den 14. mars 2019. Det er ønskelig om kandidaten kan starte den 1. september 2019.
-Nærmere opplysninger om stillingen fås ved henvendelse til NeIC direktør, Gudmund Høst, +47 958 16 846.
-
+Søknadsfristen er den 14. mars 2019. Det er ønskelig om kandidaten kan starte den 1. september 2019. Nærmere opplysninger om stillingen fås ved henvendelse til NeIC direktør, Gudmund Høst, +47 958 16 846.
 
 *Findable, Accessible, Interoperable, and Reusable. Wilkinson, M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship (2016) Sci. Data, 3:160018 doi: 10.1038/sdata.2016.18.
