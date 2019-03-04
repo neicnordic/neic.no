@@ -38,4 +38,6 @@ Den ledige stillingen er en åremålstilsetting for tre år med mulighet for for
 
 Søknadsfristen er den 14. mars 2019. Det er ønskelig om kandidaten kan starte den 1. september 2019. Arbeidsstedet er Oslo. Noe reising må påregnes. Nærmere opplysninger om stillingen fås ved henvendelse til NeIC direktør, Gudmund Høst, +47 958 16 846.
 
+[Søk her](https://norden.emply.net/recruitment/vacancyApply.aspx?publishingId=e71554e9-be80-4736-8acc-43034b941127)
+
 *Findable, Accessible, Interoperable, and Reusable. Wilkinson, M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship (2016) Sci. Data, 3:160018 doi: 10.1038/sdata.2016.18.
