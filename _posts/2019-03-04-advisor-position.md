@@ -1,10 +1,10 @@
 ---
-title: We're looking for an Advisor / a Senior Advisor
+title: We're looking for an Advisor / Senior Advisor
 summary: "Do you have good understanding of research and research infrastructure as well as interest in Nordic cooperation?"
 photo: "/assets/images/latest-news-7-mountains.jpeg"
 ---
 
-# We're looking for an Advisor / a Senior Advisor
+# We're looking for an Advisor / Senior Advisor
 
 **This job advertisement is in Norwegian only.**
 
