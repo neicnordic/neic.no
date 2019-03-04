@@ -8,7 +8,7 @@ photo: "/assets/images/latest-news-7-mountains.jpeg"
 
 **This job advertisement is in Norwegian only.**
 
-NordForsk er en organisasjon under Nordisk ministerråd som tilrettelegger for nordisk forskningssamarbeid. Hensikten er å styrke nordisk forskningssamarbeid og tilføre merverdi til det arbeidet som allerede pågår i de nordiske landene; Finland, Danmark, Sverige, Norge og Island, samt de selvstyrte områdene Færøyene, Grønland og Åland. NordForsks sekretariat har ca. 25 ansatte og er lokalisert sentralt i Oslo. For mer informasjon, se www.nordforsk.org. 
+NordForsk er en organisasjon under Nordisk ministerråd som tilrettelegger for nordisk forskningssamarbeid. Hensikten er å styrke nordisk forskningssamarbeid og tilføre merverdi til det arbeidet som allerede pågår i de nordiske landene; Finland, Danmark, Sverige, Norge og Island, samt de selvstyrte områdene Færøyene, Grønland og Åland. NordForsks sekretariat har ca. 25 ansatte og er lokalisert sentralt i Oslo. For mer informasjon, se [www.nordforsk.org](www.nordforsk.org). 
 
 Vi søker en rådgiver/seniorrådgiver til koordinering av vår innsats for å fremme utviklingen og opptaket av FAIR* praksis i de nordiske og baltiske landene. Stillingen er relatert til et stort internasjonalt prosjekt som skal bidra til implementering av den europeiske forskningsskyen European Open Science Cloud (EOSC), der den langsiktige målsetningen er et «dataenes Internett» for forskning og innovasjon. Arbeidsoppgavene er allsidige og inkluderer omfattende kontakt med interessenter i Norden og internasjonalt for å tilrettelegge samarbeide mellom relevante initiativ.
 
