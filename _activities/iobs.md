@@ -4,9 +4,9 @@ include: activity
 name: iOBS
 type: Project
 leader: anette-lauen-borg
-phase: Preparation
-start: 2018-1x-xx
-end: 2020-1x-xx
+phase: Execution
+start: 2019-01-01
+end: 2020-12-31
 results: https://wiki.neic.no/wiki/iOBS
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
