@@ -21,4 +21,6 @@ groups:
   tryggve2-rg:
     role: Sub-project leader
     finished: yes
+  provider-forum:
+  data-management-wg:
 ---

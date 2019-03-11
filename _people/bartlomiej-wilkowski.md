@@ -13,6 +13,6 @@ groups:
   tryggve1-rg:
     role: <a href="http://www.ntnu.no/biobanknorge/nordic-biobank-network">NBN</a>
   tryggve2-rg:
-    role: <a href="http://www.biobankdenmark.dk/">Danish National Biobank</a>
+    role: <a href="http://www.biobankdenmark.dk/">Danish National Biobank</a>, use case 2-1 Databank.
 
 ---

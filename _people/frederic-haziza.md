@@ -7,9 +7,10 @@ country: SE
 photo: assets/images/people/frederic-haziza.jpg
 email: frederic.haziza@nbis.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   tryggve1:
   tryggve2:
+    finished: yes
 ---

@@ -14,6 +14,14 @@ ul li {
     font-weight: 300;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
+    font-size: inherit;
+}
+ol li {
+    margin: 0;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    font-size: inherit;
 }
 header {
     background: #0a293b;
@@ -865,12 +873,14 @@ section.wys-editer {
     padding: 50px 0px;
 }
 section.wys-editer h2{
-    margin: 0;
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     font-size: 26px;
+}
+section.wys-editer .project-box h2{
+    margin: 0;
 }
 section.wys-editer h1{
     margin: 0;
@@ -898,14 +908,13 @@ section.wys-editer p{
     letter-spacing: 1px;
     font-size: 12px;
 }
-section.wys-editer ul{
-    -webkit-padding-start: 12px;
-}
 section.wys-editer ul li{
-    list-style-image: url(../images/circle.png);
-    -webkit-padding-start: 15px;
     font-size: 12px;
-    margin-bottom: 5px;
+    line-height: 20px;
+}
+section.wys-editer ol li{
+    font-size: 12px;
+    line-height: 20px;
 }
 section.wys-editer h4{
     margin: 25px 0 10px;
@@ -957,7 +966,7 @@ section.wys-editer .side-bar {
     color: #fff;
 }
 section.wys-editer .side-bar h2{
-    margin-bottom: 5px;
+    margin: 0 0 5px 0;
 }
 section.wys-editer .side-bar ul{
     list-style-type: none;
@@ -1420,7 +1429,10 @@ section.single-activities .panel-body p {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
     }
-
+section.single-activities .panel-body p.group-member {
+    padding-left: 11px;
+    text-indent: -11px;
+}
 
 section.publications {
     padding: 50px 0;

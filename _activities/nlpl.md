@@ -10,7 +10,7 @@ end: 2019-12-31
 results: https://wiki.neic.no/wiki/Nordic_language_processing_laboratory#Public_Documents
 outreach: http://www.nlpl.eu
 outcome-statements:
-  - Our vision is to implement a Nordic virtual laboratory for Natural Language Processing by piloting innovative ways to share HPC and data resources across country borders, by pooling competency in expert support teams and within the user community, and by enabling internationally competitive, data-intensive research and experimentation.
+  - Our vision is to implement a Nordic virtual laboratory for large-scale Natural Language Processing(NLP) (a) by creating new ways to enable data- and compute-intensive NLP research by implementing a common software, data and service stack in multiple Nordic HPC centres, (b) by pooling competency in expert support teams and within the user community, and (c) by enabling internationally competitive, data-intensive research and experimentation.
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161220_NeIC_NLPL_workplan_approved.pdf

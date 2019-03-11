@@ -11,4 +11,6 @@ on_contract:
 has_been_on_contract: no
 groups:
   glenna2-rg:
+  tryggve2-rg:
+    role: Use case 2-5 PhenoMeNal.
 ---

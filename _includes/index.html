@@ -11,10 +11,9 @@
           <h2>About Us</h2>
 	  <p>
             The Nordic e-Infrastructure Collaboration (NeIC) facilitates
-            development and operation of high-quality e-Infrastructure solutions in areas
+            development and operation of high-quality e-infrastructure solutions in areas
             of joint Nordic interest. NeIC is a distributed organisation consisting of
-            technical experts from academic high-performance computing centres across the
-            Nordic countries.
+            technical experts from academic institutions across the Nordic countries.
           </p>
 	  <a href="{% include baseurl %}/about/" class="read-more white-hover-btn">Read More</a>
         </div>
@@ -51,13 +50,14 @@
                 <div v-for="(event, index) in events">
                   <div v-if="index < 3">
                     <li>
-                      <h4 class="event-title"><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                      <h4 class="event-title"><a :href="event.url" v-text="event.title.toUpperCase()" target="_blank"></a></h4>
                       <p class="event-details">
                         <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
                         <a class="anchorjs-link calendar-link"
                            :href="event.calendarUrl"
                            :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
-                           data-anchorjs-icon="📅">
+                           data-anchorjs-icon="📅"
+			   target="_blank">
                         </a>
                       </p>
                       <p class="description" v-html="event.blurb"></p>

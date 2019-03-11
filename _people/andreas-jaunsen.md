@@ -2,13 +2,13 @@
 layout: master
 include: person
 name: Andreas Jaunsen
-home: <a href="http://uninett.no/sigma">Sigma2</a>
+home: <a href=""></a>
 country: "NO"
 photo:
-email: andreas.jaunsen@uninett.no
+email: ajaunsen@gmail.com
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   data-management-wg:
 ---

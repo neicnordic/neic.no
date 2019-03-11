@@ -64,6 +64,6 @@ The budget in connection with travel expenses includes relevant information abou
 ### Submission process
 Please email and submit your application to [ratatosk-application@neic.no](mailto:ratatosk-application@neic.no)
 
-In case of any questions arising concerning this application, please don’t hesitate to contact the NeIC Ratatosk Training Programme Manager ([Anne-Marie Bach](mailto:ambach@au.dk)) directly.
+In case of any questions arising concerning this application, please don’t hesitate to contact [Michaela Barth](mailto:https://neic.no/people/michaela-barth/) directly.
  
 
