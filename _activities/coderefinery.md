@@ -16,6 +16,8 @@ documents:
     url: https://wiki.neic.no/w/ext/img_auth.php/6/6e/150904-Collaborative_Infrastructure_for_Scientific_Software_Collaboration_Agreement.pdf
   - text: Project plan (phase 1)
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d0/CodeRefinery-project-plan-v1.0.pdf
+  - text: Report (phase 1)
+    url: https://wiki.neic.no/w/ext/img_auth.php/b/be/CodeRefinery-phase1-report.pdf
   - text: Project directive (phase 2)
     url: https://wiki.neic.no/w/ext/img_auth.php/4/46/Coderefinery-project-directive-phase-2.pdf
   - text: Collaboration agreement (phase 2)
