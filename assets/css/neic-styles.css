@@ -610,6 +610,7 @@ section.green-box-block .green-box a.btn{
     line-height: 38px;
     font-size: 14px;
     text-transform: uppercase;
+	text-align: center;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
 }
