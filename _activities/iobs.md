@@ -36,3 +36,6 @@ groups:
     frequency: Weekly
 ---
 Improved Observation Usage in Numerical Weather Prediction
+
+### Collaborations
+ * [Cristian Lussana](https://www.met.no)
