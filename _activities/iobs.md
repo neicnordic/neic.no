@@ -37,5 +37,5 @@ groups:
 ---
 Improved Observation Usage in Numerical Weather Prediction
 
-### Collaborations
+## Collaborations
  * [Cristian Lussana](https://www.met.no)
