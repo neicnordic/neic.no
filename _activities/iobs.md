@@ -34,7 +34,12 @@ groups:
     description: Management.
     minutes: https://indico.neic.no/category/11/
     frequency: Weekly
-    
+  iobs-rg:
+     name: Reference group
+     description: Stakeholder engagement forum. 
+     minutes: None yet
+     frequency: 1-3 per year
+     
 ---
 Improved Observation Usage in Numerical Weather Prediction
 
