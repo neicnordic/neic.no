@@ -34,9 +34,11 @@ groups:
     description: Management.
     minutes: https://indico.neic.no/category/11/
     frequency: Weekly
+    
 ---
 Improved Observation Usage in Numerical Weather Prediction
 
 ## Collaborations
  * [Cristian Lussana](https://www.met.no)
  * [MetCoOp](http://metcoop.org/)
+ * [ECMWF](https://www.ecmwf.int/)
