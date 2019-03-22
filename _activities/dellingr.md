@@ -10,8 +10,8 @@ end:
 results: https://wiki.neic.no/wiki/Dellingr
 outreach:
   - url: https://dellingr.neic.no/apply/
-    text: Apply for access to HPC resources 
-    description: A test of Cross-Border Resource sharing service
+    text: Apply for access to HPC resources
+    description:
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
