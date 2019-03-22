@@ -9,6 +9,9 @@ start: 2017-01-10
 end:
 results: https://wiki.neic.no/wiki/Dellingr
 outreach:
+  - url: https://dellingr.neic.no/apply/
+    text: Apply for access to HPC resources 
+    description: A test of Cross-Border Resource sharing service
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
@@ -21,9 +24,6 @@ links:
     description: Internal working documents.
   - url: https://dellingr.neic.no
     text: Dellingr Welcome Page
-    description:
-  - url: https://dellingr.neic.no/apply/
-    text: Apply for access to HPC resources 
     description:
 groups:
   dellingr:
