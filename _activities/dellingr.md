@@ -8,7 +8,8 @@ phase: Execution
 start: 2017-01-10
 end: 2020-01-10
 results: https://wiki.neic.no/wiki/Dellingr
-outreach: https://dellingr.neic.no/apply
+outreach:
+  - url: https://dellingr.neic.no/apply
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
