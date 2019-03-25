@@ -41,13 +41,6 @@ Tryggve use cases and other research projects can access the individual service 
 * TSD (Norway):
   [Homepage](http://www.uio.no/english/services/it/research/storage/sensitive-data/index.html),
   [How to access](https://www.uio.no/english/services/it/research/sensitive-data/use-tsd/login/index.html)
-* Mosler (Sweden):
-  [Homepage](https://nbis.se/infrastructure/mosler.html),
-  [How to access](https://nbis.se/infrastructure/moslerdoc/support.html)
-
-In addition, Tryggve and Swedish national e-infrastructure SNIC have agreed that the use of Swedish [Bianca](https://uppmax.uu.se/resources/systems/the-bianca-cluster/) service for sensitive data is possible as part of Tryggve use cases. 
-
-
-
-
-
+* Bianca (Sweden):
+  [Homepage](https://uppmax.uu.se/resources/systems/the-bianca-cluster/),
+  [How to access](http://www.uppmax.uu.se/support/user-guides/bianca-user-guide/)

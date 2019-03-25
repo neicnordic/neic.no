@@ -40,8 +40,3 @@ Feel free to [contact the Tryggve project](mailto:tryggve@neic.no) on any questi
 for sensitive data, for example if you are unsure whether to submit a use case or access separate systems directly.
 
 More information can be found by accessing the menu on the right hand side of this page.
-
-
-
-
-

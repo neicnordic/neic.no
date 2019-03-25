@@ -40,6 +40,7 @@ show-groups:
 * [2-9 Impute](#2-9-impute)
 * [2-1 Databank](#2-1-databank)
 * [2-5 PhenoMeNal](#2-5-phenomenal)
+* [1-9 Neoepitope pipeline](#1-9-neoepitope-pipeline)
 
 ### Preparation
 
@@ -47,8 +48,8 @@ show-groups:
 
 #### 1-4 NorTwinCam
 
-**Recipient Contact:** Jaakko Kaprio
-**Responsible Person:** Minna Ahokas
+**Recipient contact:** Jaakko Kaprio
+**Responsible person:** Minna Ahokas
 
 Secure centralized processing of distributed sensitive data in Nordic Twin Study of Cancer
 
@@ -56,8 +57,8 @@ Secure centralized processing of distributed sensitive data in Nordic Twin Study
 
 #### 2-2 CRC
 
-**Recipient Contact:** Ulla Rudsander
-**Responsible Person:** Jaakko Leinonen
+**Recipient contact:** Ulla Rudsander
+**Responsible person:** Jaakko Leinonen
 
 Use of secure cloud cross-borders
 
@@ -65,8 +66,8 @@ Use of secure cloud cross-borders
 
 #### 2-7 Consumer Data
 
-**Recipient Contact:** Frederik Trier Møller 
-**Responsible Person:** Ali Syed
+**Recipient contact:** Frederik Trier Møller 
+**Responsible person:** Erland Hochheim
 
 Support to consumer data collection for public health benefit 
 
@@ -78,8 +79,8 @@ Support to consumer data collection for public health benefit
 
 #### 1-1 Schizophrenia
 
-**Recipient Contact:** Patrick Sullivan
-**Responsible Person:** Abdulrahman Azad
+**Recipient contact:** Patrick Sullivan
+**Responsible person:** Abdulrahman Azad
 
 Gene environment interaction for Schizophrenia 
 
@@ -87,8 +88,8 @@ Gene environment interaction for Schizophrenia
 
 #### 1-3 I-SCAN
 
-**Recipient Contact:** Lise Helsingen
-**Responsible Person:** Henric Zazzi
+**Recipient contact:** Lise Helsingen
+**Responsible person:** Henric Zazzi
 
 Scandinavian cancer in Inflammatory Bowel Disease study
 
@@ -96,8 +97,8 @@ Scandinavian cancer in Inflammatory Bowel Disease study
 
 #### 2-9 Impute
 
-**Recipient Contact:** Patrick Sullivan
-**Responsible Person:** Abdulrahman Azad
+**Recipient contact:** Patrick Sullivan
+**Responsible person:** Abdulrahman Azad
 
 A distributed system for imputation against Nordic reference data
 
@@ -105,8 +106,8 @@ A distributed system for imputation against Nordic reference data
 
 #### 2-1 Databank
 
-**Recipient Contact:** Bart Wilkowski
-**Responsible Person:** Ali Syed
+**Recipient contact:** Bart Wilkowski
+**Responsible person:** Erland Hochheim
 
 Danish national data archive for biobanking
 
@@ -114,9 +115,18 @@ Danish national data archive for biobanking
 
 #### 2-5 PhenoMeNal
 
-**Recipient Contact:** Ola Spjuth
-**Responsible Person:** Abdulrahman Azad
+**Recipient contact:** Ola Spjuth
+**Responsible person:** Abdulrahman Azad
 
-Support to clinical metabolomics
+Development of secure virtual environment in proximity to data
+
+---
+
+#### 1-9 Neoepitope pipeline
+
+**Recipient contact:** Monika Sekelja
+**Responsible person:** Henric Zazzi
+
+Secure scalable containers for vaccibody analysis pipeline
 
 ---
