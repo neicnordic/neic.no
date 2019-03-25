@@ -7,7 +7,8 @@ leader: john-white
 phase: Execution
 start: 2017-01-10
 end:
-results: https://wiki.neic.no/wiki/Dellingr
+results:
+  - url:https://wiki.neic.no/wiki/Dellingr
 outreach:
   - url: https://dellingr.neic.no/apply/
     text: Apply for access to HPC resources
