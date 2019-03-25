@@ -21,7 +21,7 @@ documents:
 links:
   - url: https://wiki.neic.no/wiki/Dellingr
     text: External wiki
-    description:
+    description: Public wiki page
   - url: https://wiki.neic.no/int/Dellingr
     text: Internal wiki
     description: Internal working documents.
