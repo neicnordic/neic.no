@@ -12,7 +12,7 @@ results:
     text: Dellingr public wiki page
     description:
 outreach:
-  - url: https://dellingr.neic.no/apply/
+  - url: https://dellingr.neic.no/apply
     text: Apply for access to HPC resources
     description:
 documents:
