@@ -9,6 +9,8 @@ start: 2017-01-10
 end:
 results:
   - url: https://wiki.neic.no/wiki/Dellingr
+    text: Dellingr public wiki page
+    description:
 outreach:
   - url: https://dellingr.neic.no/apply/
     text: Apply for access to HPC resources
