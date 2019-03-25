@@ -8,8 +8,7 @@ phase: Execution
 start: 2017-01-10
 end: 2020-01-10
 results: https://wiki.neic.no/wiki/Dellingr
-outreach:
-  - url: https://dellingr.neic.no/apply
+outreach: https://dellingr.neic.no/apply
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
@@ -23,6 +22,9 @@ links:
   - url: https://dellingr.neic.no
     text: Dellingr Welcome Page
     description:
+  - url: https://dellingr.neic.no/apply
+    text: Apply for Nordic resources
+    description: Second test of Cross-Border resource sharing framework
 groups:
   dellingr:
     name: Team
