@@ -39,12 +39,12 @@ show-groups:
   tryggve2-outreach:
     name: Outreach
     description: By following this link you can read about events and news from Tryggve
-    link: tryggve/outreach
+    absolute_link: https://neic.no/tryggve/outreach/
     linkname: Outreach
   tryggve2-newsletter:
     name: Newsletter
-    description: Tryggve Newsletter is sent monthly on tryggve-news@neic.no. To subscribe or unsubscribe to the Tryggve newsletter, please press the following link
-    absolute_link: https://neic.no/mailman/listinfo/tryggve-news
+    description: Tryggve Newsletter
+    absolute_link: https://neic.no/tryggve/newsletter/
     linkname: Newsletter
   tryggve2-twitter:
     name: Twitter
@@ -78,5 +78,9 @@ show-groups:
     description: Project ownership issues.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
+  tryggve2-mainpage:
+    name: Tryggve main page
+    absolute_link: https://neic.no/tryggve/
+    linkname: Main page
 ---
 
