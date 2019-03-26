@@ -32,17 +32,17 @@ show-groups:
   tryggve2-usecase:
     name: Use cases
     description: Information about current, and completed, use cases and how to apply.
-    link: tryggve/usecase
+    absolute_link: https://neic.no/tryggve/usecase/
     linkname: Use cases
   tryggve2-outreach:
     name: Outreach
     description: By following this link you can read about events and news from Tryggve
-    link: tryggve/outreach
+    absolute_link: https://neic.no/tryggve/outreach/
     linkname: Outreach
   tryggve2-newsletter:
     name: Newsletter
     description: Tryggve Newsletter
-    link: tryggve/newsletter
+    absolute_link: https://neic.no/tryggve/newsletter/
     linkname: Newsletter
   tryggve2-twitter:
     name: Twitter

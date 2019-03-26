@@ -34,7 +34,7 @@ show-groups:
   tryggve2-usecase:
     name: Use cases
     description: Information about current, and completed, use cases and how to apply.
-    link: tryggve/usecase
+    absolute_link: https://neic.no/tryggve/usecase/
     linkname: Use cases
   tryggve2-outreach:
     name: Outreach
