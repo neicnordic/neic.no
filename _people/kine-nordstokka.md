@@ -24,6 +24,4 @@ groups:
     role: Project leader, Observer
   neic2017-org:
     role: Project leader
-      neic2019-org:
-    role: Project leader
 ---
