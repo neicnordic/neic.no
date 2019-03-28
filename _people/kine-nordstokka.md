@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Kine Nordstokkå
+name: Kine Bugge Halvorsen
 home: <a href="https://www.nordforsk.org">NordForsk</a>
 country: "NO"
 photo: assets/images/people/kine-nordstokka.jpg
@@ -23,5 +23,7 @@ groups:
   neic2017-pc:
     role: Project leader, Observer
   neic2017-org:
+    role: Project leader
+      neic2019-org:
     role: Project leader
 ---
