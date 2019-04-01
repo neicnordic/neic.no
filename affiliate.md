@@ -1,4 +1,0 @@
----
-layout: master
-include: baseurl
----
