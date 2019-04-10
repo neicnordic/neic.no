@@ -1,4 +1,4 @@
 ---
 layout: master
-include: activities
+include: affiliate
 ---
