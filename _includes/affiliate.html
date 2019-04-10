@@ -1,10 +1,10 @@
-<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/banner.png);">
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/test_banner.png);">
 </section>
 
 <section class="activities">
       <div class="container">
               <div class="row" style="position: relative">
-              <div class="col-md-7" style="position: static;">
+              	<div class="col-md-7" style="position: static;">
                       <div class="content">
                       <h2>TEST</h2>
 		      <p>
@@ -12,16 +12,7 @@
                       </p>
                       </div>
               </div>
-              <div class="col-md-5">
-
-                      <ul class="linl-list">
-                        {% for activity in site.activities %}
-                          {% if activity.finished %}{% continue %}{% endif %}
-                          <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
-                        {% endfor %}
-                      </ul>
+     
               </div>
-              </div>
-
       </div>
 </section>
