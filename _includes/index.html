@@ -4,7 +4,7 @@
 
 <section class="about" id="about">
   <div class="container">
-    <div class="row" style="position: relative">
+    <div class="row" style="position: static">
 
       <div class="col-md-7" style="position: static;">
         <div class="content">
@@ -14,8 +14,8 @@
             development and operation of high-quality e-infrastructure solutions in areas
             of joint Nordic interest. NeIC is a distributed organisation consisting of
             technical experts from academic institutions across the Nordic countries.
-          </p>
 	  <a href="{% include baseurl %}/about/" class="read-more white-hover-btn">Read More</a>
+		</p>
         </div>
       </div>
 	    
@@ -23,12 +23,13 @@
         <div class="content">
           <h2>Affiliate</h2>
 	  <p>
-           Test test. I would like this section, as well as the one above this, to be on the right side, and the list of activites on the left side. 
-          </p>
+           Test test. I would like this section, as well as the one above this, to be on the right side, and the list of activites on the left side. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 	  <a href="{% include baseurl %}/affiliate/" class="read-more white-hover-btn">Read More</a>
+		</p>
         </div>
       </div>
-      <div class="col-md-5">
+	    
+      <div class="col-md-5" style="position: static;">
         <h2>ACTIVITIES</h2>
         <ul class="linl-list">
           {% for activity in site.activities %}
