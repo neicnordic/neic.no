@@ -44,6 +44,7 @@ groups:
 Improved Observation Usage in Numerical Weather Prediction
 
 ## Collaborations
- * [Cristian Lussana](https://www.met.no)
  * [MetCoOp](http://metcoop.org/)
  * [ECMWF](https://www.ecmwf.int/)
+ * [Christoffer Elo](https://www.met.no)
+ * [Cristian Lussana](https://www.met.no)
