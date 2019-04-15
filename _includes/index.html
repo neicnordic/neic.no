@@ -6,9 +6,9 @@
   <div class="container">
     <div class="row" style="position: relative">
 
-      <div class="col-md-5" margin-left:"2px">
-        <h2>ACTIVITIESS</h2>
-        <ul class="linl-list">
+      <div class="col-md-5">
+        <h2>ACTIVITIES</h2>
+        <ul class="linl-list" margin-left:"2px">
           {% for activity in site.activities %}
             {% unless activity.finished or activity.hide-on-frontpage %}
               <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
