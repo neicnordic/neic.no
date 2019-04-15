@@ -1108,6 +1108,46 @@ section.activities ul.linl-list{
     -webkit-padding-start: 0px;
     list-style-type: none;
 }
+section.affiliate {
+    padding: 50px 0px;
+}
+section.affiliate h2{
+    margin: 0 0 27px;
+    color: #008c88;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+section.affiliate p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+}
+section.affiliate .content {
+}
+section.affiliate .content .read-more {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 30px;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    position: absolute;
+    bottom: 0;
+}
+section.affiliate ul.linl-list{
+    font-family: 'Roboto', sans-serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
 section.training .btn-block .sin-btn-block {}
 section.training .btn-block .sin-btn-block .sin-btn {}
 section.activities ul.linl-list li{}
