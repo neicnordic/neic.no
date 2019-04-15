@@ -1,6 +1,6 @@
 ---
 layout: master
-include: nlpn
+include: affiliate.nlpl
 ---
 
 ## Nordic Language Prosessing Laboratory
