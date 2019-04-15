@@ -1,7 +1,18 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="glider.css">
+</head>
+<body>
+	<script src="glider.js"></script>
+	
 <section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/banner_test.png);">
 </section>
 
 <section class="affiliate">
+	window.addEventListener('load', function(){
+  new Glider(document.querySelector('.glider'), {
+    setting-name: setting-value
+  })
+})
 	<div class=glider.contain>
 	  	<div class="glider">
 			<div>your content here</div>
@@ -30,3 +41,4 @@
               </div>
       </div>
 </section>
+	</body>
