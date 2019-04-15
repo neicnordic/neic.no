@@ -133,6 +133,7 @@ section.about ul.linl-list{
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
     -webkit-padding-start: 0px;
+	-webkit-padding-left: 2px;
     list-style-type: none;
     display: block;
     padding-top: 0px;
