@@ -1149,6 +1149,14 @@ section.affiliate ul.linl-list{
     -webkit-padding-start: 0px;
     list-style-type: none;
 }
+section.training .description{
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    max-width: 800px;
+    margin: 0px auto 0px;
+    font-size: 22px;
+}
 section.training .btn-block .sin-btn-block {}
 section.training .btn-block .sin-btn-block .sin-btn {}
 section.activities ul.linl-list li{}
