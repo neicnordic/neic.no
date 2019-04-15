@@ -120,7 +120,8 @@ section.about .content .read-more {
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    margin-top: 30px;
+    margin-top: 20px;
+	margin-bottom: 10px;
     display: inline-block;
     text-decoration: none;
     border: 2px solid #fff;
