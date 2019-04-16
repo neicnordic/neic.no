@@ -1456,7 +1456,7 @@ section.affiliate .description{
     margin: 0px auto 0px;
     font-size: 22px;
 }
-section.affiliate .description p {margin:0; text-align:relative;}
+section.affiliate .description p {margin:0;}
 section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
 section.affiliate .btn-block{
     text-align: center;
