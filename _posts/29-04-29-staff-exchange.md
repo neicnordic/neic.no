@@ -10,11 +10,9 @@ Staff Exchange – Juha Törnroos
 <p> Juha Törnroos participated in a staff exchange last year and had the opportunity to work in Barcelona for eight months, starting in September 2017 and ending the last day of April 2018. Juha is working in ELIXIR Finland and through the exchange he had the opportunity to collaborate with the Spanish ELIXIR Node. He also works in the NeIC Tryggve project funded by NeIC and the ELIXIR nodes of participating countries. Tryggve develops and facilitates access to secure e-infrastructure for cross-border sensitive biomedical data. 
 He applied for the exchange during spring 2017, and only a few months later he and his family, including wife and three poodles, packed their bags and drove all the way to Barcelona. <br></p>
 
-<a href="{% include baseurl %}/assets/images/news/Juha_1.jpg"><img class="normal" src="{% include baseurl %}/assets/images/news/Juha_1.jpg"></a><br>
+<a href="{% include baseurl %}/assets/images/news/Juha_1.jpg"><img class="normal" src="{% include baseurl %}/assets/images/news/Juha_1.jpg"></a>
+<br>
 *The poodles Tico, Liinu and Ninni enjoyed the walks in the Parc Guinardó although at times it was quite hot for a black poodle.*
-
-<a href="{% include baseurl %}/assets/images/news/Juha_2.jpg"><img class="normal" src="{% include baseurl %}/assets/images/news/Juha_2.jpg"></a><br>
-*Having a coffee break at CRG’s balcony.* <br>
 
 **How did the idea of participating in an ELIXIR staff exchange in Spain come to mind?**
 
@@ -29,6 +27,9 @@ The main goal of the exchange was to strengthen the collaboration between the Fi
 **What was it like to work in another culture, especially from a Nordic point of view?**
 <p> "I had been working with ELIXIR for three years, but I had always looked at things from a Finnish perspective. In Spain, I saw the same things being done, dealt with and discussed, but in a different way. From Tryggve’s point of view, the experience was fruitful for both me and the project itself. The filter that had existed between the organisations had disappeared, and I was able to participate from inside of CRG in the work in a completely new way." <br>   
 "In the beginning, I was very curious and open to all the new things I encountered at work. Then, at some point, I learned that there are quite a lot of differences between the Finnish and Spanish work cultures. In the Nordic countries, in my opinion, the leaders trust on their team members’ expertise and that their team knows what to do. Leaders and managers are more like mentors in that sense.  In Spain the leadership seems stronger and the leaders want to be on top of the matters their team is working on. Both cultures of course have their pros and cons and it’s important to understand the differences." </p>
+
+<a href="{% include baseurl %}/assets/images/news/Juha_2.jpg"><img class="normal" src="{% include baseurl %}/assets/images/news/Juha_2.jpg"></a><br>
+*Having a coffee break at CRG’s balcony.* <br>
 
 **Do you think working on the spot in Spain was easier or more useful in your project than working remotely would have been?**
 <p> "Well, there were pros and cons. Being in the same space as my colleagues made it possible to be more efficient than before. In my opinion, it made my job easier to be able to actually speak with the people on the spot. In order to achieve the goals that had been set, I needed to be there in Barcelona, so in that sense it was of course useful. But while being in Barcelona I had little clue of what was going on in Finland and at CSC even if it would’ve been beneficial to know. I worked mainly at CRG, but I also spent time at Barcelona Supercomputing Center. From time to time it was difficult to be working in three different organisations at the same time." <br></p>
