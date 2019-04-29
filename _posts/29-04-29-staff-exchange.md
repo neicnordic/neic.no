@@ -10,14 +10,6 @@ Staff Exchange – Juha Törnroos
 <p> Juha Törnroos participated in a staff exchange last year and had the opportunity to work in Barcelona for eight months, starting in September 2017 and ending the last day of April 2018. Juha is working in ELIXIR Finland and through the exchange he had the opportunity to collaborate with the Spanish ELIXIR Node. He also works in the NeIC Tryggve project funded by NeIC and the ELIXIR nodes of participating countries. Tryggve develops and facilitates access to secure e-infrastructure for cross-border sensitive biomedical data. 
 He applied for the exchange during spring 2017, and only a few months later he and his family, including wife and three poodles, packed their bags and drove all the way to Barcelona. <br></p>
 
-<kuva>
-
-<i> The poodles Tico, Liinu and Ninni enjoyed the walks in the Parc Guinardó although at times it was quite hot for a black poodle. </i> 
-
-<kuva>
-
-<i> Having a coffee break at CRG’s balcony. </i>
-
 **How did the idea of participating in an ELIXIR staff exchange in Spain come to mind?**
 
 <p> "The Head of ELIXIR Finland and a co-worker of mine, Tommi Nyrönen, told me about the possibility to do a staff exchange. At first, we only talked about Hinxton, where the ELIXIR Hubis located. The idea of the exchange itself was born then, but the idea of Spain was born solely out of personal preferences. Coming from the Nordics, I wasn’t exactly jumping with joy at the thought of rainy Hinxton and wished to go live somewhere warm. Then, among other cities, Tommi finally suggested Barcelona. The Centre for Genomic Regulation, CRG, in Barcelona is a collaboration partner in NeIC Tryggve project Sensitive Data Archiving deliverable, and through the NeIC Tryggve project I was already familiar with some of the people working there. CRG is also a partner institution of ELIXIR Spain, but it was Tryggve that had created the collaboration within which I did the exchange." </p>
