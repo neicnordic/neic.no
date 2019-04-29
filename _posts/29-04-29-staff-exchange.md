@@ -10,10 +10,10 @@ Staff Exchange – Juha Törnroos
 <p> Juha Törnroos participated in a staff exchange last year and had the opportunity to work in Barcelona for eight months, starting in September 2017 and ending the last day of April 2018. Juha is working in ELIXIR Finland and through the exchange he had the opportunity to collaborate with the Spanish ELIXIR Node. He also works in the NeIC Tryggve project funded by NeIC and the ELIXIR nodes of participating countries. Tryggve develops and facilitates access to secure e-infrastructure for cross-border sensitive biomedical data. 
 He applied for the exchange during spring 2017, and only a few months later he and his family, including wife and three poodles, packed their bags and drove all the way to Barcelona. <br></p>
 
-![Image of the dogs](Juha_1.jpg)
+<a href="{% include baseurl %}/assets/images/news/Juha_1.jpg"><img class="smallpic" src="{% include baseurl %}/assets/images/news/Juha_1.jpg"></a>
 *The poodles Tico, Liinu and Ninni enjoyed the walks in the Parc Guinardó although at times it was quite hot for a black poodle.*
 
-![Image on the balcony](Juha_2.jpg)
+<a href="{% include baseurl %}/assets/images/news/Juha_2.jpg"><img class="smallpic" src="{% include baseurl %}/assets/images/news/Juha_2.jpg"></a>
 *Having a coffee break at CRG’s balcony.* <br>
 
 **How did the idea of participating in an ELIXIR staff exchange in Spain come to mind?**
