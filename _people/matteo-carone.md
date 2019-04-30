@@ -7,7 +7,7 @@ country: SE
 photo: 
 email: matteo.carone@farmbio.uu.se.
 phone:
-on_contract:  no
+on_contract: no
 has_been_on_contract: yes
 groups:
 
