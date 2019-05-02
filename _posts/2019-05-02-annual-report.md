@@ -7,7 +7,9 @@ photo: "/assets/images/latest-news-16.jpeg"
 NeIC 2018 annual report 
 ===============================
 
-A lot of exciting new developments took place during 2018, which will help shape the way the Nordic e-Infrastructure Collaboration (NeIC) works in the years to come. NeIC put a lot of effort into developing its new strategy, which will come into effect in 2020. We look forward to implementing our new strategy, which we hope will be well anchored in who we are as an organisation and the people we work with.
+A lot of exciting new developments took place during 2018, which will help shape the way the Nordic e-Infrastructure Collaboration (NeIC) works in the years to come. 
+
+NeIC put a lot of effort into developing its new strategy, which will come into effect in 2020. We look forward to implementing our new strategy, which we hope will be well anchored in who we are as an organisation and the people we work with.
 
 Facilitating strong and well-established collaborations within the Nordic setting is our main emphasis. However, whilst being firmly grounded in the Nordic context, 2018 also provided us with opportunities to broaden our horizon beyond the Nordic region: NeIC developed closer collaborations in the Baltic region. In addition, NeIC was asked to coordinate a Nordic-Baltic proposal worth 6 M€ to a European Commission (EC) call on Support to the European Open Science Cloud (EOSC) Governance. We are delighted to announce that the EOSC-Nordic proposal has been awarded funding from the EC.
 
