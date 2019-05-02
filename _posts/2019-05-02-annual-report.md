@@ -17,4 +17,4 @@ A new project was set up, iOBS, dedicated to improved observation usage in numer
 
 While being very excited about these new developments, most of all we celebrate the everyday, ongoing efforts of all our projects and the work carried out in order to advance the e-infrastructure field in the Nordic region. You can read more about what each of the projects has worked on and achieved in 2018 throughout this report. We hope you will enjoy the read!
 
-You can read the full 2018 annual report [here(https://wiki.neic.no/w/ext/img_auth.php/5/5e/Annual_Report_2018_spreads.pdf).
+You can read the full 2018 annual report [here](https://wiki.neic.no/w/ext/img_auth.php/5/5e/Annual_Report_2018_spreads.pdf).
