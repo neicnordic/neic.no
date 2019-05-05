@@ -141,8 +141,9 @@ section.about ul.linl-list{
 }
 
 section.about ul.linl-list  {
-    max-width: 550px;
+    margin-right: 50px;
 }
+
 section.about ul.linl-list li{}
 section.about ul.linl-list li a{
     display: block;
