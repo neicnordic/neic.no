@@ -1481,6 +1481,7 @@ section.affiliate .btn-block .btn.with-border{
     margin: 0 0.5% 15px;
 }
 section.affiliate .btn-block .btn.with-border:hover{}
+
 section.affiliate ul.linl-list{
     font-family: 'Roboto', sans-serif;
     -webkit-margin-before: 0em;
@@ -1491,6 +1492,11 @@ section.affiliate ul.linl-list{
 section.affiliate ul.linl-list li{}
 section.affiliate ul.linl-list li a:hover {color: #008c88;
     background-image: url(../images/blue-right-arrow.png);}
+section.affiliate-list ul.linl-list li a:hover {color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);}
+section.about ul.linl-list li a:hover {
+    color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);
 }
 section.affiliate ul.linl-list li a{
     display: block;
@@ -1504,6 +1510,61 @@ section.affiliate ul.linl-list li a{
     padding: 0px 0px;
     font-weight: 500;
     transition: 0s all;
+}
+
+section.affiliate-list {
+    margin: 0;
+    padding: 60px 0px;
+}
+section.affiliate-list .left-affiliate{
+    /* background: #0a293b; */
+    padding: 35px 150px 35px 35px;
+    width: 60%;
+}
+section.affiliate-list .affiliate-color
+{
+    background: #0a293b;
+
+}
+section.affiliate-list .left-affiliate h2{
+    margin: 0 0 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+section.affiliate-list .right-affiliate{
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    width: 40%;
+    height: 100%;
+    background-size: cover;
+    display: block;
+    background-position: 50% 50%;
+}
+section.affiliate-list ul.linl-list{
+    font-family: 'Roboto', sans-serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
+section.affiliate-list ul.linl-list li{}
+section.affiliate-list ul.linl-list li a{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    background-image: url(../images/right-arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    padding: 5px 0px;
+    font-weight: 500;
 
 
 
