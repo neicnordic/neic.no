@@ -29,10 +29,14 @@
                       </div>
               </div>
 		      
-	<div class="col-md-offset-1 col-md-3">
-        <p>
-          This page is a work in progress. There could be a NeIC logo here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
+           <div class="col-md-5">
+                      <ul class="linl-list">
+                        {% for activity in site.activities %}
+                          {% if activity.finished %}{% continue %}{% endif %}
+                          <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                        {% endfor %}
+                      </ul>
+              </div>
 		      </div>
 	      </div>
 	      </section>
