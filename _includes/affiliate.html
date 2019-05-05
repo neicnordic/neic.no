@@ -34,10 +34,14 @@
 		      
            <div class="col-md-5">
                       <ul class="linl-list">
-                       {% for activity in site.activities %}
-                                {% unless activity.finished %}{% continue %}{% endunless %}
-                                <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
-                              {% endfor %}
+                     
+			      	<li><a href="{% include baseurl %}/affiliate/affiliate-nlpl/">NLPL</a></li>
+	      			<li><a href="{% include baseurl %}/affiliate/affiliate-nicest/">NICEST</a></li>
+	       			<li><a href="{% include baseurl %}/affiliate/affiliate-deepdive/">Deepdive</a></li>
+	       			<li><a href="{% include baseurl %}/affiliate/affiliate-cognitus/">COGNITUS</a></li>
+	       			<li><a href="{% include baseurl %}/affiliate/affiliate-SGAS/">SGAS</a></li>
+	      			<li><a href="{% include baseurl %}/affiliate/affiliate-B2share/">B2Share Nordic</a></li>
+                             
                       </ul>
               </div>
 		      </div>
