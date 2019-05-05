@@ -139,6 +139,10 @@ section.about ul.linl-list{
     padding-top: 0px;
 
 }
+
+section.about ul.linl-list  {
+    max-width: 550px;
+}
 section.about ul.linl-list li{}
 section.about ul.linl-list li a{
     display: block;
