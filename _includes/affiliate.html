@@ -31,10 +31,10 @@
 		      
            <div class="col-md-5">
                       <ul class="linl-list">
-                        {% for activity in site.activities %}
-                          {% if activity.finished %}{% continue %}{% endif %}
-                          <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
-                        {% endfor %}
+                       {% for activity in site.activities %}
+                                {% unless activity.finished %}{% continue %}{% endunless %}
+                                <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                              {% endfor %}
                       </ul>
               </div>
 		      </div>
