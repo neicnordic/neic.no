@@ -1,6 +1,6 @@
 ---
 layout: master
-include: travel-grant
+include: generic
 ---
 
 ## Nordic Language Prosessing Laboratory (NLPL)
