@@ -1487,6 +1487,33 @@ section.affiliate .btn-block .btn.with-border{
 }
 section.affiliate .btn-block .btn.with-border:hover{}
 
+section.affiliate ul.linl-list{
+    font-family: 'Roboto', sans-serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
+
+section.affiliate ul.linl-list li{}
+section.affiliate ul.linl-list li a:hover {color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);
+}
+
+section.affiliate ul.linl-list li a{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    background-image: url(../images/black-arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    padding: 0px 0px;
+    font-weight: 500;
+    transition: 0s all;
+}
+
 
 
 
