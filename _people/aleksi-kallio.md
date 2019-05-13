@@ -10,5 +10,5 @@ phone:
 on_contract: yes
 has_been_on_contract: no
 groups:
-  glenna2-sg:iobs:
+  glenna2-sg:
 ---
