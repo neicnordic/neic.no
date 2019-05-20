@@ -27,7 +27,7 @@ show-groups:
   tryggve2-poster:
     name: Overview of Tryggve
     description: Tryggve develops secure e-infrastructure for sensitive data suitable for large-scale cross-border biomedical research.
-    absolute_link: https://drive.google.com/file/d/1qZeNHrSJmqUslShkMXUzTLYCFxsLKgAS/view
+    absolute_link: https://drive.google.com/open?id=1qZeNHrSJmqUslShkMXUzTLYCFxsLKgAS
     linkname: Tryggve overview poster
   tryggve2-usecase:
     name: Use cases
