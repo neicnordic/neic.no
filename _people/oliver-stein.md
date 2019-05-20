@@ -10,5 +10,5 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  glenna2:   
+  glenna2: 
 ---
