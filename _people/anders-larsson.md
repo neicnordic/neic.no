@@ -12,4 +12,5 @@ has_been_on_contract: yes
 groups:
   tryggve1:
     finished: yes
+  glenna2:  
 ---
