@@ -1,10 +1,10 @@
 <section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/banner_test.png);">
 </section>
 
-     <section class="affiliate">
+<section class="affiliate">
   <div class="container">
     <div class="content">
-	   {{ sisältö }} 
+	   {{ content }} 
 	    <div class="description">
     </div>
        <div class="btn-block">
@@ -20,29 +20,38 @@
   </div>
 </section>
 
-<section class="affiliate">
+<section class="activities">
       <div class="container">
               <div class="row" style="position: relative">
               <div class="col-md-7" style="position: static;">
                       <div class="content">
-                      <h2>NeIC Affiliate Programme</h2>
+                      <h2NeIC Affiliate Programme</h2>
 		      <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
+                      </div>
               </div>
               <div class="col-md-5">
+
                       <ul class="linl-list">
-                        
-                          <li><a href="{% include baseurl %}/affiliate/affiliate-nlpl/">NLPL</a></li>
-	      			<li><a href="{% include baseurl %}/affiliate/affiliate-nicest/">NICEST</a></li>
-	       			<li><a href="{% include baseurl %}/affiliate/affiliate-deepdive/">Deepdive</a></li>
-	       			<li><a href="{% include baseurl %}/affiliate/affiliate-cognitus/">COGNITUS</a></li>
-	       			<li><a href="{% include baseurl %}/affiliate/affiliate-SGAS/">SGAS</a></li>
-	      			<li><a href="{% include baseurl %}/affiliate/affiliate-B2share/">B2Share Nordic</a></li>
-                        
+                        {% for activity in site.activities %}
+                          {% if activity.finished %}{% continue %}{% endif %}
+                          <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                        {% endfor %}
                       </ul>
               </div>
               </div>
 
+      </div>
+</section>
+                      </ul>
+                      </div>
+                      <div class="right-activities" style="background-image: url(images/past.png);"></div>
+
+                      <div class="clearfix"></div>
+                      </div>
+              </div>
+
+      </div>
       </div>
 </section>
