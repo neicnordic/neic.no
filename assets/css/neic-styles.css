@@ -120,12 +120,12 @@ section.about .content .read-more {
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    margin-top: 30px;
+    margin: 10px 0px;
     display: inline-block;
     text-decoration: none;
     border: 2px solid #fff;
     padding: 6px 20px;
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
 section.about ul.linl-list{
