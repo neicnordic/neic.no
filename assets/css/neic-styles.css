@@ -112,7 +112,7 @@ section.about p{
     line-height: 29px;
 }
 section.about .content {
-    max-width: 650px;
+    max-width: 550px;
 }
 section.about .content .read-more {
     color: #fff;
@@ -120,13 +120,12 @@ section.about .content .read-more {
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    margin-top: 10px;
-	margin-bottom: 50px;
+    margin-top: 30px;
     display: inline-block;
     text-decoration: none;
     border: 2px solid #fff;
     padding: 6px 20px;
-    position: relative;
+    position: absolute;
     bottom: 0;
 }
 section.about ul.linl-list{
@@ -137,13 +136,7 @@ section.about ul.linl-list{
     list-style-type: none;
     display: block;
     padding-top: 0px;
-
 }
-
-section.about ul.linl-list  {
-    margin-right: 50px;
-}
-
 section.about ul.linl-list li{}
 section.about ul.linl-list li a{
     display: block;
@@ -163,7 +156,7 @@ section.current-events {
 }
 section.current-events .left-event{
     padding: 35px;
-    width: 70%;
+    width: 71%;
 }
 section.current-events .left-event h2{
     margin: 0 0 20px;
@@ -1114,6 +1107,8 @@ section.activities ul.linl-list{
     -webkit-padding-start: 0px;
     list-style-type: none;
 }
+section.training .btn-block .sin-btn-block {}
+section.training .btn-block .sin-btn-block .sin-btn {}
 section.activities ul.linl-list li{}
 section.activities ul.linl-list li a:hover {color: #008c88;
     background-image: url(../images/blue-right-arrow.png);}
@@ -1321,6 +1316,11 @@ section.wys-editer a.btn-go{
     padding: 0;
     margin-top:25px;
 }
+
+
+
+
+
 section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h4 a {color:#000;}
 section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h4{
     text-transform: uppercase;
@@ -1359,6 +1359,14 @@ section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .pan
     letter-spacing: 1px;
     padding: 0;
 }
+
+
+
+
+
+
+
+
 
 section.single-activities .toogle-box-big .panel .panel-collapse .panel-body{border-top: 2px solid #a1a1a1;}
 section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body{
@@ -1425,100 +1433,6 @@ section.single-activities .panel-body p.group-member {
     padding-left: 11px;
     text-indent: -11px;
 }
-
-
-
-
-
-
-
-
-
-section.affiliate {
-    padding: 50px 0px;
-}
-section.affiliate h2{
-    margin: 0 0 27px;
-    color: #008c88;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-family: 'Roboto', sans-serif;
-    font-size: 40px;
-    letter-spacing: 2px;
-}
-section.affiliate p{
-    font-family: 'Roboto', sans-serif;
-    font-size: 22px;
-    font-weight: 300;
-}
-section.affiliate .content {
-}
-section.affiliate .description{
-    font-weight: 300;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    max-width: 800px;
-    margin: 0px auto 0px;
-    font-size: 22px;
-}
-section.affiliate .description p {margin:0;}
-section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
-section.affiliate .btn-block{
-    text-align: center;
-    padding: 0;
-    margin: 0 -0.5% 25px;
-}
-section.affiliate .btn-block .btn.with-border{
-    text-transform: uppercase;
-    font-weight: 700;
-    font-family: 'Roboto', sans-serif;
-    font-size: 15px;
-    margin-top: 0px;
-    line-height: 35px;
-    border-radius: 0;
-    text-decoration: none;
-    color: #000;
-    text-align: center;
-    display: inline-block;
-    padding: 0;
-    width: 23%;
-    border: 2px solid #000;
-    margin: 0 0.5% 15px;
-}
-section.affiliate .btn-block .btn.with-border:hover{}
-
-section.affiliate ul.linl-list{
-    font-family: 'Roboto', sans-serif;
-    -webkit-margin-before: 0em;
-    -webkit-margin-after: 0em;
-    -webkit-padding-start: 0px;
-    list-style-type: none;
-}
-
-section.affiliate ul.linl-list li{}
-section.affiliate ul.linl-list li a:hover {color: #008c88;
-    background-image: url(../images/blue-right-arrow.png);
-}
-
-section.affiliate ul.linl-list li a{
-    display: block;
-    font-family: 'Roboto', sans-serif;
-    text-decoration: none;
-    color: #000;
-    font-size: 24px;
-    background-image: url(../images/black-arrow.png);
-    background-repeat: no-repeat;
-    background-position: 100% 50%;
-    padding: 0px 0px;
-    font-weight: 500;
-    transition: 0s all;
-}
-
-
-
-
-
-
 
 section.publications {
     padding: 50px 0;
@@ -1977,4 +1891,9 @@ section.wys-editer .smallpic-left {
   	float: left;
   	margin: 0 1em 0.5em 0;
   	max-width: 200px;
+}
+section.wys-editer .normal {
+  	float: center;
+  	margin: 0 1em 0.5em 0;
+  	max-width: 500px;
 }
