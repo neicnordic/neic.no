@@ -22,7 +22,7 @@ main:
   - url: '/training/'
     text: 'Training'
   - url: '/affiliate/'
-    text: 'Affiliate_test'
+    text: 'Affiliate'
   - url: 'https://wiki.neic.no'
     text: 'Wiki'
   - url: '/api/'
