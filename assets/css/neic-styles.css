@@ -1434,6 +1434,33 @@ section.single-activities .panel-body p.group-member {
     text-indent: -11px;
 }
 
+section.affiliate {}
+
+section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
+section.affiliate .btn-block{
+    text-align: center;
+    padding: 0;
+    margin: 0 -0.5% 25px;
+}
+section.affiliate .btn-block .btn.with-border{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin-top: 0px;
+    line-height: 35px;
+    border-radius: 0;
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+    display: inline-block;
+    padding: 0;
+    width: 23%;
+    border: 2px solid #000;
+    margin: 0 0.5% 15px;
+}
+section.affiliate .btn-block .btn.with-border:hover{}
+
 section.publications {
     padding: 50px 0;
 }
