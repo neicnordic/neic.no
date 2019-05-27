@@ -1440,7 +1440,7 @@ section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
 section.affiliate .btn-block{
     text-align: center;
     padding: 0;
-    margin: 0 -0.5% 25px;
+    margin: 20px 0 20px;
 }
 section.affiliate .btn-block .btn.with-border{
     text-transform: uppercase;
@@ -1498,9 +1498,9 @@ section.affiliate ul.linl-list{
     -webkit-padding-start: 0px;
     list-style-type: none;
 }
-section.training .btn-block .sin-btn-block {}
-section.training .btn-block .sin-btn-block .sin-btn {}
-section.affiliate ul.linl-list li{}
+section.affiliate ul.linl-list li{
+	text-align: left;
+}
 section.affiliate ul.linl-list li a:hover {color: #008c88;
     background-image: url(../images/blue-right-arrow.png);}
 section.affiliate-list ul.linl-list li a:hover {color: #008c88;
