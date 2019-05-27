@@ -1,6 +1,6 @@
 ---
 title: "New course on Machine Learning in biodiversity science established"
-summary: "Juha Törnroos participated in a staff exchange last year and worked in Barcelona for eight months. Juha is working in ELIXIR Finland and collaborated with the Spanish ELIXIR Node. He also works in the NeIC Tryggve project funded by NeIC and the ELIXIR nodes of participating countries."
+summary: "In May 2019, the University of Aarhus organized a workshop on 'Machine Learning for Biologists’, a three-day meeting designed to answer to the fast-growing demand for Machine Learning applications in Ecology and Biodiversity Informatics."
 photo: "/assets/images/latest-news-21.jpeg"
 ---
 
