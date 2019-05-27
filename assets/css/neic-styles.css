@@ -1434,7 +1434,9 @@ section.single-activities .panel-body p.group-member {
     text-indent: -11px;
 }
 
-section.affiliate {}
+section.affiliate {
+	margin-top: 40px;
+}
 
 section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
 section.affiliate .btn-block{
