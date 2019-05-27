@@ -1499,7 +1499,6 @@ section.affiliate ul.linl-list{
     list-style-type: none;
 }
 section.affiliate ul.linl-list li{
-	text-align: left;
 }
 section.affiliate ul.linl-list li a:hover {color: #008c88;
     background-image: url(../images/blue-right-arrow.png);}
