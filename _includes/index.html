@@ -5,18 +5,6 @@
 <section class="about" id="about">
   <div class="container">
     <div class="row" style="position: relative">
-
-      <div class="col-md-5">
-        <h2>ACTIVITIES</h2>
-        <ul class="linl-list">
-          {% for activity in site.activities %}
-            {% unless activity.finished or activity.hide-on-frontpage %}
-              <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
-            {% endunless %}
-          {% endfor %}
-        </ul>
-      </div>
-	    
 	    <div class="col-md-7" style="position: static;">
         <div class="content">
           <h2>About Us</h2>
@@ -42,6 +30,16 @@
 		<a href="{% include baseurl %}/affiliate/" class="read-more white-hover-btn">Read More</a>
         </div>
 	    </div>
+	     <div class="col-md-5">
+        <h2>ACTIVITIES</h2>
+        <ul class="linl-list">
+          {% for activity in site.activities %}
+            {% unless activity.finished or activity.hide-on-frontpage %}
+              <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </section>
