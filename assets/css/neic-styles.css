@@ -113,6 +113,7 @@ section.about p{
 }
 section.about .content {
     max-width: 550px;
+	margin-bottom: 30px;
 }
 section.about .content .read-more {
     color: #fff;
