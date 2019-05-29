@@ -1,6 +1,6 @@
 ---
 layout: master
-include: generic
+include: affiliate-programmes
 ---
 
 ## Nordic Language Prosessing Laboratory (NLPL)
