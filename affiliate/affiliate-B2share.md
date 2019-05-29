@@ -1,6 +1,6 @@
 ---
 layout: master
-include: generic
+include: affiliate-programmes
 ---
 
 ## B2Share Nordic
