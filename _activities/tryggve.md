@@ -3,7 +3,7 @@ layout: master
 include: tryggve-menu
 name: Tryggve
 type:
-tagline: Collaboration for Sensitive Data
+tagline: TRYGGVE - Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
