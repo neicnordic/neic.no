@@ -532,7 +532,12 @@ section.single-pagebanner {
     background-size: cover;
     position: relative;
 }
-
+section.single-pagebanner-narrow {
+    height: 30vh;
+    background-position: 50% 80%;
+    background-size: cover;
+    position: relative;
+}
 section.api-section {
     padding: 50px 0 100px;
 }
