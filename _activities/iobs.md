@@ -12,6 +12,8 @@ outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
   - text: Project directive
     url: https://wiki.neic.no/wiki/File:ProjectDirectiveiOBS.pdf
+  - text: Project plan
+    url: https://wiki.neic.no/wiki/File:IOBS_project_plan.pdf
 links:
   - url: https://wiki.neic.no/wiki/iOBS
     text: External wiki
