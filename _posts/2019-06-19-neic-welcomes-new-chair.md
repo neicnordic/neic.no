@@ -11,7 +11,8 @@ At its Board meeting on the 14th June Steen Pedersen, Director of the Danish e-I
 
 NeIC sat down with Hans Karlsson to talk about NeIC and its role in the Nordic region. 
 
-## Tell us about yourself
+Tell us about yourself
+<br>
 My background is in research, in computational chemical physics. I started working on e-science research education in a graduate research school in scientific computing in Sweden many years ago. After that, I moved on to the local computing center at Uppsala University. Since 2016, I've been the director of the Swedish National Infrastructure for Computing (SNIC).
 <br>
 ## What is your history with NeIC so far? 
