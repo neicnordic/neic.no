@@ -21,16 +21,7 @@ links:
   - url: https://wiki.neic.no/int/NDHL
     text: Internal wiki
     description: Internal working documents.
-groups:
-  ndhl:
-    name: Team
-    minutes:
-    frequency: None yet.
-  ndhl-po:
-    name: Project office
-    description: Management.
-    minutes: https://indico.neic.no/category/11/
-    frequency: Weekly
+
      
 ---
 ## NDHL - Nordic Digital Humanities Laboratory
