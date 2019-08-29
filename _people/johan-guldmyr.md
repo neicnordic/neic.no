@@ -7,8 +7,8 @@ country: "FI"
 photo: assets/images/people/Johan_Guldmyr.jpg
 email: johan.guldmyr@csc.fi
 phone:
-on_contract: no
+on_contract: yes
 has_been_on_contract: no
 groups: 
-
+  glenna2:
 ---

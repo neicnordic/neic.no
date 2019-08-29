@@ -18,4 +18,6 @@ groups:
   neic2015-pc:
   board:
   glenna-sg:
+  dellingr-sg:
+    role: Observer  
 ---

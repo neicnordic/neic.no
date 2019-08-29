@@ -12,7 +12,7 @@
             {% include noscript.html %}
 
             <span class="event-list" id="publications-list" v-cloak>
-              <div v-for="event in publications">
+              <div v-for="event in publications.slice().reverse()">
 
                 <div class="single-publications-list">
                   <div class="publications-details">

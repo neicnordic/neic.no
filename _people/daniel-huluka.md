@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Daiel Huluka
+name: Daniel Huluka
 home: <a href="https://uib.no">UiB</a>
 country: "NO"
 photo:

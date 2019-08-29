@@ -13,4 +13,5 @@ groups:
   tryggve1:
   tryggve2:
   coderefinery:
+    finished: yes
 ---

@@ -15,8 +15,7 @@ part of good practice in Data Stewardship. Moreover, new requirements from natio
 training of competent, professional data stewards and data managers with knowledge of the FAIR principles and their application. In turn,
 this drives FAIR Data Stewardship as a new profession, and is rapidly gaining momentum throughout the Nordic states and Europe. 
 
-The seminars are given by **Albert Mons** and **Erik Schultes** (GO-FAIR) [(GO-FAIR)](https://www.go-fair.org/). It is an introduction to a training course that will provide thefoundation skills for professional data stewards, to be held in conjunction with the NeIC2019 
-conference (14-16 May, 2019).
+The seminars are given by **Albert Mons** and **Erik Schultes** (GO-FAIR) [(GO-FAIR)](https://www.go-fair.org/). It is an introduction to a training course that will provide the foundation skills for professional data stewards, to be held in Oslo 25-28 March, 2019.
 
 Note: This seminar is a NeIC sponsored event, [registration](https://indico.neic.no/event/22/registrations/5/) is free of charge. Lunch and coffee will be provided. If, after registering, 
 you are unable to attend the event, please cancel by contacting the organiser as soon as possible (at the latest by Nov 12). In case of
