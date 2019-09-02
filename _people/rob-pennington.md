@@ -26,6 +26,4 @@ groups:
   data-management-wg:
     role: Chair
   project-analysis-rg:
-  iobs-sg:
-    role: Observer
 ---

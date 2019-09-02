@@ -7,8 +7,9 @@ country: FI
 photo:
 email: tommi.jalkanen@csc.fi
 phone:
-on_contract:
-has_been_on_contract:
+on_contract: no
+has_been_on_contract: yes
 groups:
   tryggve2:
+    finished: yes
 ---

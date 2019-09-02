@@ -156,7 +156,7 @@ section.current-events {
 }
 section.current-events .left-event{
     padding: 35px;
-    width: 70%;
+    width: 71%;
 }
 section.current-events .left-event h2{
     margin: 0 0 20px;
@@ -532,7 +532,12 @@ section.single-pagebanner {
     background-size: cover;
     position: relative;
 }
-
+section.single-pagebanner-narrow {
+    height: 30vh;
+    background-position: 50% 80%;
+    background-size: cover;
+    position: relative;
+}
 section.api-section {
     padding: 50px 0 100px;
 }
@@ -1891,4 +1896,9 @@ section.wys-editer .smallpic-left {
   	float: left;
   	margin: 0 1em 0.5em 0;
   	max-width: 200px;
+}
+section.wys-editer .normal {
+  	float: center;
+  	margin: 0 1em 0.5em 0;
+  	max-width: 500px;
 }
