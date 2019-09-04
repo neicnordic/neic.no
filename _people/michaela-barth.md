@@ -41,12 +41,17 @@ groups:
   iobs-po:
     role: Project owner
   project-analysis-rg:
+  finished: yes
   ratatosk-sg:
     role: Chair
   ratatosk-po:
     role: Activity owner
+  ndhl-po:
+    role: Pre-study owner
   neic2015-sg:
     role: Chair
+    finished: yes
   neic2015-po:
     role: Project owner, Chair
+    finished: yes
 ---
