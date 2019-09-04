@@ -11,4 +11,8 @@ on_contract: no
 has_been_on_contract: no
 groups:
   coderefinery-sg:
+  ndhl:
+    role: Pre-study leader
+  ndhl-po:
+    role: Pre-study leader
 ---
