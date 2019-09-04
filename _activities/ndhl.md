@@ -9,11 +9,13 @@ start: 2019-10-01
 end: 2020-09-30
 results: https://wiki.neic.no/wiki/NDHL
 outreach: https://wiki.neic.no/wiki/NDHL#Outreach
+<!---
 documents:
-!  - text: Project proposal
-!    url: https://wiki.neic.no/wiki/File:x.pdf
-!  - text: Project plan
-!    url: https://wiki.neic.no/wiki/File:x.pdf
+  - text: Project proposal
+    url: https://wiki.neic.no/wiki/File:x.pdf
+  - text: Project plan
+    url: https://wiki.neic.no/wiki/File:x.pdf
+--->
 links:
   - url: https://wiki.neic.no/wiki/NDHL
     text: External wiki
@@ -29,7 +31,6 @@ groups:
   ndhl-po:
     name: Project office
     description: Management.
-!    minutes: https://indico.neic.no/category/11/
     frequency: Weekly
      
 ---
