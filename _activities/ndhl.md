@@ -9,6 +9,7 @@ start: 2019-10-01
 end: 2020-09-30
 results: https://wiki.neic.no/wiki/NDHL
 outreach: https://wiki.neic.no/wiki/NDHL#Outreach
+
 <!---
 documents:
   - text: Project proposal
@@ -16,6 +17,7 @@ documents:
   - text: Project plan
     url: https://wiki.neic.no/wiki/File:x.pdf
 --->
+
 links:
   - url: https://wiki.neic.no/wiki/NDHL
     text: External wiki
