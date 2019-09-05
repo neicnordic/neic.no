@@ -1,11 +1,11 @@
 ---
 layout: master
 include: person
-name: Laura Altin
+name: Hedi Peterson
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
 country: EE
 photo:
-email: laura.altin@ut.ee
+email: hedi.peterson@ut.ee
 phone:
 on_contract: no
 groups:
