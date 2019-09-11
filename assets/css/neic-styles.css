@@ -1145,6 +1145,10 @@ section.activities-list .left-activities{
 section.activities-list .activi-color
 {
     background: #0a293b;
+}
+section.activities-list .services-color
+{
+    background: #0a283a;
 
 }
 section.activities-list .left-activities h2{
