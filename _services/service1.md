@@ -1,9 +1,8 @@
 ---
 layout: master
 include: service
-name: Service1
+name: Service 1
 type: Service
-phase: Active
 results: https://wiki.neic.no/wiki/iOBS
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
