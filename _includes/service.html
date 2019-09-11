@@ -1,0 +1,239 @@
+{% assign this_service = page.path | replace: '_services/', ''  | replace: '.md', '' %}
+{% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
+{% assign leader = site.people | where:"path", leader_path  | first %}
+
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/pub-banner.png);">
+</section>
+
+<section class="wys-editer single-activities">
+  <div class="container">
+    <h1>{{ page.name }}</h1>
+    <div class="tagline">{{ page.tagline }}</div>
+    <div class="row">
+      <div class="col-md-7">
+        <div class="content">
+          <div class="project-box">
+            {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
+            <p class="top">
+              {% if page.phase %}
+                <b>PHASE:</b> {{ page.phase }}
+              {% endif %}
+            </p>
+            <p class="no-space">
+              <b>PERIOD:</b>
+              {% if page.start %}
+                {{ page.start }} &mdash; {{ page.end }}
+              {% else %}
+                TBD
+              {% endif %}
+            </p>
+            <p class="no-space">
+              <b>LEADER:</b>
+              <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
+            </p>
+
+            {% if page.projects %}
+              <p class="top"><b>PROJECTS:</b></p>
+              {% for project in page.projects %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=project.url %}">{{ project.text | default: project.url }}</a></b></span>
+                  {% if project.description %} - {{ project.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+            {% unless page.results == "N/A" %}
+              <p class="top">
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.results default="#results" %}">Results</a></b></span>
+              </p>
+            {% endunless %}
+            {% unless page.outreach == "N/A" %}
+              <p class="no-space">
+                <span class="color"><b><a href="{% include conditional_baseurl url=page.outreach default="#outreach" %}">Outreach</a></b></span>
+              </p>
+            {% endunless %}
+
+            {% if page.links %}
+              <p class="top"><b>LINKS:</b></p>
+              {% for link in page.links %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.documents %}
+              <p class="top"><b>DOCUMENTS</b></p>
+              {% for link in page.documents %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.outcome-statements %}
+              <p class="top"><b>OUTCOME STATEMENTS:</b></p>
+              <p class="no-space">Visions and best-case-scenarios:</p>
+              <ul>
+                {% for statement in page.outcome-statements %}
+                  <li>{{ statement }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+
+          {{ content }}
+
+          {% if page.outreach-tags %}
+            <div class="desktop-box" id="activity-outreach" data-outreach-tags="{{ page.outreach-tags }}">
+
+              {% include noscript.html %}
+
+              <h2>OUTREACH</h2>
+              <div v-for="event in upcoming">
+                <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                <p class="date">
+                  <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+                  <a class="anchorjs-link"
+                     :href="event.calendarUrl"
+                     :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+                     data-anchorjs-icon="📅"
+                     style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;">
+                  </a>
+                </p>
+                <p class="top" v-html="event.blurb"></p>
+                <div class="read-more-block readless">
+                  <p class="top" v-html="event.details"></p>
+                </div>
+              </div>
+
+              <div class="panel-group toogle-box-big" id="editer-accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                  <div role="tab" id="title1">
+                    <a class="btn collapsed"
+                       role="button"
+                       data-toggle="collapse"
+                       data-parent="#editer-accordion"
+                       href="#editer-h1"
+                       aria-expanded="true"
+                       aria-controls="editer-h1">
+                      PAST
+                    </a>
+                  </div>
+                  <div id="editer-h1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="title1">
+                    <div class="panel-body">
+                      <div class="single-publications-list">
+                        <div class="publications-details" v-for="event in past">
+                          <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
+                          <h6>
+                            <span v-html="event.dates.start + (event.dates.end ? ' &ndash; ' + event.dates.end : '')"></span>
+                            <a class="anchorjs-link "
+                               :href="event.calendarUrl"
+                               :aria-label="'Calendar link for: ' + event.title.toLowerCase()"
+                               data-anchorjs-icon="📅"
+                               style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 1em; line-height: 1; font-family: anchorjs-icons; padding-left: 0.375em;">
+                            </a>
+                          </h6>
+                          <p v-html="event.blurb"></p>
+                          <div class="read-more-block readless">
+                            <p v-html="event.details"></p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+
+      {% assign groups = page.groups|default:page.show-groups %}
+      {% if groups %}
+        <div class="col-md-offset-1 col-md-4">
+          <div class="toggle-bar">
+            <h2>PEOPLE</h2>
+            <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
+
+            {% for group in groups %}
+              {% if forloop.index == 1 %}
+                {% assign group_collapsed = '' %}
+                {% assign group_expanded = 'true' %}
+                {% assign group_in = 'in' %}
+              {% else %}
+                {% assign group_collapsed = 'collapsed' %}
+                {% assign group_expanded = 'false' %}
+                {% assign group_in = '' %}
+              {% endif %}
+              <div class="panel panel-default">
+                <div role="tab" id="sidebar-One">
+                  <a class="box {{ group_collapsed }}"
+                    role="button"
+                    data-toggle="collapse"
+                    data-parent="#sidebar-accordion"
+                    href="#collapse-sidebar-{{ forloop.index }}"
+                    aria-expanded="{{ group_expanded }}"
+                    aria-controls="collapse-sidebar-{{ forloop.index }}">
+                    {{ group[1].name }}
+                  </a>
+                </div>
+                <div id="collapse-sidebar-{{ forloop.index }}" class="panel-collapse collapse {{ group_in }}" role="tabpanel" aria-labelledby="sidebar-{{ forloop.index }}">
+                  <div class="panel-body">
+                    {% if group[1].description %}
+                      <p>{{ group[1].description }}</p><br><br>
+                    {% endif %}
+                    {% if group[1].minutes %}
+                      <p><b>Minutes: <span class="color"><b><a href="{{ group[1].minutes }}">{{ group[1].name }} meeting minutes</a></b></span>{% if group[1].frequency %}, {{ group[1].frequency }}{% endif %}</b>.</p>
+                    {% endif %}
+                    {% assign person_on_top = true %}
+                    {% for person in site.people %}
+                      {% for person_group in person.groups %}
+                        {% if person_group[0] == group[0] %}
+                          {% comment %}Liquid templates do not have a logic not operator {% endcomment %}
+                          {% assign display_this = true %}
+                          {% if page.finished %}
+                          {% elsif person_group[1].finished %}
+                            {% assign display_this = false %}
+                          {% endif%}
+                          {% if display_this %}
+                            {% if person_on_top %}
+                              <p class="top group-member">
+                            {% else %}
+                              <p class="group-member">
+                            {% endif %}
+                              <a href="{% include baseurl %}{{ person.url }}" class="hover-blue">{{ person.name }}</a>, {{ person.country }}{% if person_group[1].role %}, {{ person_group[1].role }}{% endif %}
+                            </p>
+                            {% assign person_on_top = false %}
+                          {% endif %}
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+  if ($(window).width() < 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  $(window).resize(function() {
+  if ($(window).width() <= 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  });
+});
+</script>
