@@ -5,7 +5,7 @@ name: Service 2
 type: Service
 
 links:
-  - url: mpass.fi
+  - url: https://twitter.com/home
     text: Test url
     description: This is just a test url.
 ---
