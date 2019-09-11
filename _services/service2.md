@@ -3,6 +3,7 @@ layout: master
 include: service
 name: Service 2
 type: service
+active: active
 results: https://wiki.neic.no/wiki/Glenna
 outreach: https://wiki.neic.no/wiki/Glenna
 documents:
