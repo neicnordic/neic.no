@@ -1,0 +1,56 @@
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/act-banner.png);">
+</section>
+
+<section class="activities">
+      <div class="container">
+              <div class="row" style="position: relative">
+              <div class="col-md-7" style="position: static;">
+                      <div class="content">
+                      <h2>ACTIVITIES</h2>
+		      <p>
+                        Most NeIC activities are within collaborative projects
+                        with Nordic partners. NeIC also likes to build professional networks to join
+                        experts who work on similar challenges in different Nordic organizations. For
+                        example, NeIC does this by running workshops and building virtual social spaces
+                        for distributed teamwork.
+                      </p>
+                      </div>
+              </div>
+              <div class="col-md-5">
+
+                      <ul class="linl-list">
+                        {% for activity in site.activities %}
+                          {% if activity.finished %}{% continue %}{% endif %}
+                          <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                        {% endfor %}
+                      </ul>
+              </div>
+              </div>
+
+      </div>
+</section>
+
+<section class="activities-list">
+      <div class="container">
+      <div class="col-md-12">
+      <div class="row">
+              <div class="activi-color">
+
+                      <div class="left-activities">
+                              <h2>PAST ACTIVITIES</h2>
+                      <ul class="linl-list">
+                              {% for activity in site.activities %}
+                                {% unless activity.finished %}{% continue %}{% endunless %}
+                                <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                              {% endfor %}
+                      </ul>
+                      </div>
+                      <div class="right-activities" style="background-image: url(images/past.png);"></div>
+
+                      <div class="clearfix"></div>
+                      </div>
+              </div>
+
+      </div>
+      </div>
+</section>
