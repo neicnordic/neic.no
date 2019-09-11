@@ -3,6 +3,7 @@ layout: master
 include: service
 name: Service 1
 type: service
+active: active
 results: https://wiki.neic.no/wiki/iOBS
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
