@@ -25,11 +25,11 @@
 
                       <div class="left-activities">
 			      <h2>LIST OF SERVICES</h2>
-			      <ul class="linl-list">
-                        {% for service in site.services %}
-			{% if service.unactive %}{% continue %}{% endif %}
-                          <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
-                        {% endfor %}
+			       <ul class="linl-list">
+                              {% for activity in site.activities %}
+                                {% unless activity.finished %}{% continue %}{% endunless %}
+                                <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
+                              {% endfor %}
                       </ul>
 		      </div>
                       <div class="clearfix"></div>
