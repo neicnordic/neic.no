@@ -2,7 +2,7 @@
 layout: master
 include: service
 name: Service 2
-type: Service
+type: service
 results: https://wiki.neic.no/wiki/Glenna
 outreach: https://wiki.neic.no/wiki/Glenna
 documents:
@@ -17,21 +17,5 @@ links:
   - url: https://wiki.neic.no/int/Glenna
     text: Internal wiki
     description: Internal working documents.
-groups:
-  glenna:
-    name: Team
-    description: Governance.
-    minutes: https://wiki.neic.no/int/Glenna
-    frequency: Weekly
-  glenna-sg:
-    name: Steering group
-    description: Governance.
-    minutes: https://wiki.neic.no/wiki/Glenna
-    frequency: 3-4 per year
-  glenna-po:
-    name: Project office
-    description: Management.
-    minutes: https://wiki.neic.no/int/Glenna
-    frequency: Weekly
 ---
 Lorem ipsum
