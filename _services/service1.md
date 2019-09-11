@@ -2,19 +2,11 @@
 layout: master
 include: service
 name: Service 1
-type: service
-active: active
-results: https://wiki.neic.no/wiki/iOBS
-outreach: https://wiki.neic.no/wiki/IOBS#Outreach
-documents:
-  - text: Project directive
-    url: https://wiki.neic.no/wiki/File:ProjectDirectiveiOBS.pdf
+type: Service
+
 links:
-  - url: https://wiki.neic.no/wiki/iOBS
-    text: External wiki
-    description: External documentation, manuals and guides.
-  - url: https://wiki.neic.no/int/iOBS
-    text: Internal wiki
-    description: Internal working documents.
+  - url: mpass.fi
+    text: Test url
+    description: This is just a test url.
 ---
-Lorem ipsum
+Lorem ipsum if needed
