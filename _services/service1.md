@@ -3,7 +3,7 @@ layout: master
 include: service
 name: Service 1
 type: Service
-finished: not true
+finished: false
 
 links:
   - url: https://twitter.com/home
