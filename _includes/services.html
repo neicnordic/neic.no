@@ -27,7 +27,6 @@
 			      <h2>LIST OF SERVICES</h2>
 			      <ul class="linl-list">
                         {% for service in site.services %}
-                          {% if service.finished %}{% continue %}{% endif %}
                           <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
                         {% endfor %}
                       </ul>
