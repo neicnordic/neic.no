@@ -3,7 +3,6 @@ layout: master
 include: service
 name: Service1
 type: Service
-leader: X
 phase: Active
 results: https://wiki.neic.no/wiki/iOBS
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
@@ -18,9 +17,4 @@ links:
     text: Internal wiki
     description: Internal working documents.
 ---
-Name of the Service
-
-## Collaborations
- * [Cristian Lussana](https://www.met.no)
- * [MetCoOp](http://metcoop.org/)
- * [ECMWF](https://www.ecmwf.int/)
+Lorem ipsum
