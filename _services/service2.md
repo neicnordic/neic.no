@@ -4,10 +4,7 @@ include: service
 name: Service 2
 type: Service
 leader: dan-still
-finished: yes
-phase: Finished
-start: 2014-09-01
-end: 2016-12-31
+phase: Active
 results: https://wiki.neic.no/wiki/Glenna
 outreach: https://wiki.neic.no/wiki/Glenna
 documents:
