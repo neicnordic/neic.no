@@ -1,7 +1,3 @@
-{% assign this_service = page.path | replace: '_services/', ''  | replace: '.md', '' %}
-{% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
-{% assign leader = site.people | where:"path", leader_path  | first %}
-
 <section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/pub-banner.png);">
 </section>
 
@@ -30,18 +26,3 @@
           {{ content }}
 
 </section>
-
-<script type="text/javascript">
-$( document ).ready(function() {
-  if ($(window).width() < 960) {
-    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
-   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
-    }
-  $(window).resize(function() {
-  if ($(window).width() <= 960) {
-    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
-   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
-    }
-  });
-});
-</script>
