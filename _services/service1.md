@@ -1,13 +1,19 @@
 ---
 layout: master
 include: service
-name: Service 1
+name: Example service 1
 type: Service
-finished: false
-
+phase: In progress
+start: 2018-06-18
+end: 2019-01-31
+finished: no
+results:
+outreach:
+documents:
+  - text: Example 
+    url:  
 links:
-  - url: https://twitter.com/home
-    text: Test url
-    description: This is just a test url.
+  - url:   
+    text: Example
 ---
 Additional text if needed
