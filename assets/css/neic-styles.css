@@ -1650,8 +1650,8 @@ section.services-list {
 }
 section.services-list .left-services{
     /* background: 008c88; */
-    padding: 35px 150px 35px 35px;
-    width: 60%;
+    padding: 35px 35px 35px 35px;
+    width: 70%;
 }
 
 section.services-list .services-color
