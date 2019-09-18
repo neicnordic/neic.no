@@ -26,10 +26,9 @@
                       <div class="left-activities">
 			      <h2>LIST OF SERVICES</h2>
 			       <ul class="linl-list">
-                        {% for service in site.services %}
-		       	{% if service.finished %}{% continue %}{% endif %}
-                          <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
-                        {% endfor %}
+                        <li>	<a href="{% include baseurl %}/service1/" class="btn with-border black-hover-btn">Service 1</a>	</li>
+	       <li>	<a href="{% include baseurl %}/service2" class="btn with-border black-hover-btn">Service 2</a>	</li>
+	       <li>	<a href="{% include baseurl %}/services" class="btn with-border black-hover-btn">Etc.</a>	</li>
                       </ul>
 		      </div>
                       <div class="clearfix"></div>
