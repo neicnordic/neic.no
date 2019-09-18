@@ -17,4 +17,6 @@ groups:
   neic2017-prg:
   ratatosk-sg:
     finished: yes
+  eosc-nordic:
+    role: Coordinator
 ---
