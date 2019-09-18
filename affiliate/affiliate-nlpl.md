@@ -13,6 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 ### Links & Documents
 [The NLPL Wiki](http://wiki.nlpl.eu/index.php/Home) <br/>
-[External documents](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory)
+[External documents](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory) <br/>
+[Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf)
                      
 
