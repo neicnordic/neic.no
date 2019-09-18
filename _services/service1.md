@@ -10,4 +10,4 @@ links:
     text: Test url
     description: This is just a test url.
 ---
-Lorem ipsum if needed
+Additional text if needed
