@@ -3,7 +3,6 @@ layout: master
 include: activity
 name: EOSC-Nordic
 type: Project
-leader: gudmund-host
 phase: In progress
 start: 2019-09-01
 end: 2022-08-31
