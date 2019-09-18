@@ -129,21 +129,6 @@ section.about .content .read-more {
     position: relative;
     bottom: 0;
 }
-section.about .content .services {
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-family: 'Roboto', sans-serif;
-    font-size: 15px;
-    margin: 10px 0px;
-    display: inline-block;
-    text-decoration: none;
-    border: 2px solid #fff;
-    padding: 6px 20px;
-    position: relative;
-    bottom: 0;
-	size: 136.09 x 37;
-}
 section.about ul.linl-list{
     font-family: 'Roboto', sans-serif;
     -webkit-margin-before: 0em;
