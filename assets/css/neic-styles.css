@@ -1646,7 +1646,7 @@ section.services ul.linl-list li a{
 
 section.services-list {
     margin: 0;
-    padding: 60px 0px;
+    padding: 0px 0px 60px;
 }
 section.services-list .left-services{
     /* background: #0a293b; */
@@ -1658,7 +1658,7 @@ section.services-list .services-color
 {
     background: #008c88;
 }
-section.services-list .left-activities h2{
+section.services-list .left-services h2{
     margin: 0 0 20px;
     color: #fff;
     text-transform: uppercase;
@@ -1667,7 +1667,7 @@ section.services-list .left-activities h2{
     font-size: 40px;
     letter-spacing: 2px;
 }
-section.services-list .right-activities{
+section.services-list .services{
     top: 0;
     bottom: 0;
     position: absolute;
