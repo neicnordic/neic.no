@@ -1146,10 +1146,7 @@ section.activities-list .activi-color
 {
     background: #0a293b;
 }
-section.activities-list .services-color
-{
-    background: #008c88;
-}
+
 section.activities-list .left-activities h2{
     margin: 0 0 20px;
     color: #fff;
@@ -1581,6 +1578,127 @@ section.affiliate-list ul.linl-list li a{
     padding: 5px 0px;
     font-weight: 500;
 }
+
+section.services {
+    padding: 50px 0px;
+}
+section.services h2{
+    margin: 0 0 27px;
+    color: #008c88;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+section.services p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+}
+section.services .content {
+}
+section.services .content .read-more {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 30px;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    position: absolute;
+    bottom: 0;
+}
+section.services ul.linl-list{
+    font-family: 'Roboto', sans-serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
+section.training .btn-block .sin-btn-block {}
+section.training .btn-block .sin-btn-block .sin-btn {}
+section.services ul.linl-list li{}
+section.services ul.linl-list li a:hover {color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);}
+section.services-list ul.linl-list li a:hover {color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);}
+section.about ul.linl-list li a:hover {
+    color: #008c88;
+    background-image: url(../images/blue-right-arrow.png);
+}
+section.services ul.linl-list li a{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    background-image: url(../images/black-arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    padding: 0px 0px;
+    font-weight: 500;
+    transition: 0s all;
+}
+
+section.services-list {
+    margin: 0;
+    padding: 60px 0px;
+}
+section.services-list .left-services{
+    /* background: #0a293b; */
+    padding: 35px 150px 35px 35px;
+    width: 60%;
+}
+
+section.services-list .services-color
+{
+    background: #008c88;
+}
+section.services-list .left-activities h2{
+    margin: 0 0 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+section.services-list .right-activities{
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    width: 40%;
+    height: 100%;
+    background-size: cover;
+    display: block;
+    background-position: 50% 50%;
+}
+section.services-list ul.linl-list{
+    font-family: 'Roboto', sans-serif;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
+section.services-list ul.linl-list li{}
+section.services-list ul.linl-list li a{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    background-image: url(../images/right-arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    padding: 5px 0px;
+    font-weight: 500;
+}
+
 section.publications {
     padding: 50px 0;
 }
