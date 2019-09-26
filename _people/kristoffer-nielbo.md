@@ -6,7 +6,7 @@ home: <a href="http://knielbo.github.io">Center for Humanities Computing Aarhus<
 country: DK
 photo:
 email: kln@cas.au.dk
-phone:
+phone: +4526832608
 on_contract: no
 has_been_on_contract: no
 groups:
