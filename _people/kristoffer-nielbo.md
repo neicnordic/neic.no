@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Kristoffer Laigaard Nielbo
-home: <a href="http://knielbo.github.io">SDU eScience Center</a>
+home: <a href="http://knielbo.github.io">Center for Humanities Computing Aarhus</a>
 country: DK
 photo:
-email: knielbo@cas.au.dk
+email: kln@cas.au.dk
 phone:
 on_contract: no
 has_been_on_contract: no
