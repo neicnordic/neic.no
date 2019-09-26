@@ -4,7 +4,7 @@ include: person
 name: Kristoffer Laigaard Nielbo
 home: <a href="http://knielbo.github.io">Center for Humanities Computing Aarhus</a>
 country: DK
-photo:
+photo: assets/images/people/kristoffer-nielbo.jpg
 email: kln@cas.au.dk
 phone: +4526832608
 on_contract: no
