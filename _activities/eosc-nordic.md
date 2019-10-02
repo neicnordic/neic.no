@@ -28,29 +28,29 @@ groups:
     name: International Advisory Committee
   partners:
     name: Partners
-    description: NordForsk\
-      DeiC and Computerome (DTU)\
-      CSC\
-      UNINETT SIGMA2\
-      SNIC (University of Uppsala)\
-      ETAIS (University of Tartu)\
-      University of Iceland\
-      University of Vilnius\
-      Riga Technical University\
-      SDU\
-      NORDUnet\
-      SUNET (Vetenskapsrådet)\
-      University of Helsinki\
-      KBFI\
-      University of Tampere, FSD\
-      University of Gothenburg (SND and GGBC)\
-      Norsk senter for forskningsdata (NSD)\
-      Rigsarkivet\
-      Ilmatieteen laitos\
-      University of Eastern Finland (UEF)\
-      Go Fair Foundation\
-      DKRZ\
-      University of Copenhagen\
+    description: NordForsk<br/>
+      DeiC and Computerome (DTU)<br/>
+      CSC<br/>
+      UNINETT SIGMA2<br/>
+      SNIC (University of Uppsala)<br/>
+      ETAIS (University of Tartu)<br/>
+      University of Iceland<br/>
+      University of Vilnius<br/>
+      Riga Technical University<br/>
+      SDU<br/>
+      NORDUnet<br/>
+      SUNET (Vetenskapsrådet)<br/>
+      University of Helsinki<br/>
+      KBFI<br/>
+      University of Tampere, FSD<br/>
+      University of Gothenburg (SND and GGBC)<br/>
+      Norsk senter for forskningsdata (NSD)<br/>
+      Rigsarkivet<br/>
+      Ilmatieteen laitos<br/>
+      University of Eastern Finland (UEF)<br/>
+      Go Fair Foundation<br/>
+      DKRZ<br/>
+      University of Copenhagen<br/>
       Region Hovedstaden (RH)
 ---
 EOSC-Nordic aims to facilitate the coordination of EOSC (European Open Science Cloud) relevant initiatives within the Nordic and Baltic countries and exploit synergies to achieve greater harmonisation at policy and service provisioning across these countries, in compliance with EOSC agreed standards and practices. By doing so, the project seeks to establish the Nordic and Baltic countries as frontrunners in the take-up of the EOSC concept, principles and approach.
