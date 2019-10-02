@@ -42,7 +42,7 @@ groups:
       SUNET (Vetenskapsrådet)<br/>
       University of Helsinki<br/>
       KBFI<br/>
-      University of Tampere, FSD<br/>
+      Finnish Social Science Data Archive FSD (University of Tampere)<br/>
       University of Gothenburg (SND and GGBC)<br/>
       Norsk senter for forskningsdata (NSD)<br/>
       Rigsarkivet<br/>
