@@ -19,6 +19,5 @@ groups:
     finished: yes
   eosc-nordic:
     role: Project Coordinator
-    eosc-nordic:
-    role: WP1 leader
+  wp-leaders:
 ---
