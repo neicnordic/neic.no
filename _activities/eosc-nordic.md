@@ -17,7 +17,7 @@ links:
     text: CSC's website on EOSC-Noridc
 groups:
   eosc-nordic:
-    name: Project group (example)
+    name: People
     minutes: 
 ---
 EOSC-Nordic aims to facilitate the coordination of EOSC (European Open Science Cloud) relevant initiatives within the Nordic and Baltic countries and exploit synergies to achieve greater harmonisation at policy and service provisioning across these countries, in compliance with EOSC agreed standards and practices. By doing so, the project seeks to establish the Nordic and Baltic countries as frontrunners in the take-up of the EOSC concept, principles and approach.
