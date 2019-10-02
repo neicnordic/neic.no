@@ -18,4 +18,5 @@ groups:
   ratatosk-sg:
     finished: yes
   eosc-nordic:
+    role: Project Coordinator
 ---
