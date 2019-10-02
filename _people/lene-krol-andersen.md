@@ -18,5 +18,5 @@ groups:
   ratatosk-sg:
     finished: yes
   eosc-nordic:
- role: leader
+    role: Project leader
 ---
