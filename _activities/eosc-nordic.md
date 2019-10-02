@@ -14,7 +14,7 @@ links:
   - url: https://wiki.neic.no/wiki/EOSC-Nordic
     text: Wiki page
   - url:  https://www.csc.fi/-/eosc-nordic
-    text: CSC's website on EOSC-Noridc
+    text: CSC's website on EOSC-Nordic
 groups:
   eosc-nordic:
     name: Project Office
