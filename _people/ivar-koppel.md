@@ -12,4 +12,5 @@ has_been_on_contract:
 groups:
   dellingr:
   dellingr-sg:
+  xt-board:
 ---
