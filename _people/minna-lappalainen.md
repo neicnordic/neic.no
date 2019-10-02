@@ -6,5 +6,4 @@ home: <a href="https://csc.fi">CSC</a>
 country: FI
 groups:
   wp-leaders:
-    role: WP6
 ---
