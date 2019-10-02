@@ -8,9 +8,11 @@ start: 2019-09-01
 end: 2022-08-31
 finished: no
 leader: lene-krol-andersen
+results: N/A
+outreach: N/A
 links:
-  - url: 
-    text: Project website (unfinished)
+  - url: https://wiki.neic.no/wiki/EOSC-Nordic
+    text: Wiki page
   - url:  https://www.csc.fi/-/eosc-nordic
     text: CSC's website on EOSC-Noridc
 groups:
