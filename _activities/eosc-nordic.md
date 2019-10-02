@@ -15,7 +15,7 @@ links:
     text: Wiki page
   - url:  https://www.csc.fi/-/eosc-nordic
     text: CSC's website on EOSC-Nordic
-groups:
+show-groups:
   eosc-nordic:
     name: Project Office
   wp-leaders:
@@ -27,6 +27,7 @@ groups:
   intl-adv:
     name: International Advisory Committee
   partners:
+    name: Partners
   description: NordForsk 
     DeiC and Computerome (DTU) 
     CSC 
