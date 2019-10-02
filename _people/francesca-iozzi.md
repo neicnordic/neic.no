@@ -23,4 +23,5 @@ groups:
     finished: yes
   provider-forum:
   data-management-wg:
+  wp-leaders:
 ---
