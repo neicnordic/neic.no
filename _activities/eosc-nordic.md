@@ -15,7 +15,7 @@ links:
     text: Wiki page
   - url:  https://www.csc.fi/-/eosc-nordic
     text: CSC's website on EOSC-Nordic
-show-groups:
+groups:
   eosc-nordic:
     name: Project Office
   wp-leaders:
