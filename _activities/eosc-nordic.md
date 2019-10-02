@@ -28,7 +28,7 @@ groups:
     name: International Advisory Committee
   partners:
     name: Partners
-  description: NordForsk 
+    description: NordForsk 
     DeiC and Computerome (DTU) 
     CSC 
     UNINETT SIGMA2 
