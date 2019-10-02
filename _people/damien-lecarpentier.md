@@ -3,9 +3,9 @@ layout: master
 include: person
 name: Damien Lecarpentier
 home: <a href="https://csc.fi">CSC</a>
-country: FI/FR
+country: FI
 email: N/A
-phone:
+phone: N/A
 has_been_on_contract: yes
 groups:
   eosc-nordic:
