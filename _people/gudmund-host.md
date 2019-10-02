@@ -25,6 +25,7 @@ groups:
     role: Project owner
   neic2015-prg:
     role: Chair
+  xt-board:
 ---
 Gudmund Høst is the Director of NeIC, and is employed at
 [NordForsk](https://www.nordforsk.org/) in Oslo.
