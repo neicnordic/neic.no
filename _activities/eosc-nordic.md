@@ -1,6 +1,6 @@
 ---
 layout: master
-include: activity
+include: eosc-nordic-menu
 name: EOSC-Nordic
 type: Project
 phase: In progress
