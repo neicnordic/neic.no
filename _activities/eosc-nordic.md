@@ -11,10 +11,10 @@ leader: lene-krol-andersen
 results: N/A
 outreach: N/A
 links:
+  - url:  http://www.eosc-nordic.eu
+    text: EOSC-Nordic
   - url: https://wiki.neic.no/wiki/EOSC-Nordic
     text: Wiki page
-  - url:  https://www.csc.fi/-/eosc-nordic
-    text: CSC's website on EOSC-Nordic
 groups:
   eosc-nordic:
     name: Project Office
@@ -25,7 +25,7 @@ groups:
   xt-board:
     name: Executive Board
   intl-adv:
-    name: International Advisory Committee
+    name: Advisory Committee
   partners:
     name: Partners
     description: NordForsk<br/>
