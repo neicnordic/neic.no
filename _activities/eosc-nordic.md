@@ -46,7 +46,7 @@ groups:
       University of Gothenburg (SND and GGBC)<br/>
       Norsk senter for forskningsdata (NSD)<br/>
       Rigsarkivet<br/>
-      Ilmatieteen laitos<br/>
+      Finnish Meteorological Institute (FMI)<br/>
       University of Eastern Finland (UEF)<br/>
       Go Fair Foundation<br/>
       DKRZ<br/>
