@@ -20,5 +20,4 @@ groups:
   eosc-nordic:
     role: Project Coordinator
   wp-leaders:
-    role: WP1
 ---
