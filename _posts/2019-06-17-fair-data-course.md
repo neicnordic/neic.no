@@ -11,7 +11,7 @@ NeIC and DM-Forum in Denmark are jointly hosting the second Nordic course "FAIR 
 
 This is a fully fledged 5-day training event which will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application. This course is aimed at librarians or data experts whose work it is to facilitate sharing and re-use of research data. The course will be held by trainers from GO-FAIR and provides a broad introduction to data stewardship. Registration will be limited to max 35 persons and the course is subsidised by NeIC and DM-Forum.
 
-To register follow this link: https://bit.ly/FAIRds-Nordic
+To register follow this link: (https://bit.ly/FAIRds-Nordic)[https://bit.ly/FAIRds-Nordic]
 
 ## Overview
 FAIR Data Stewardship, as a new profession, is rapidly gaining momentum. New requirements from national and international funders are driving the need for training of competent, professional data stewards and data managers with knowledge of the FAIR principles and their application. This course introduces the required knowledge and skills in a broader data stewardship context, including topics like semantic data modeling, metadata modeling, the FAIRification process, publishing FAIR Data Points, and other topics related to managing research project's data requirements. After completion of the course participants will be able to work with domain specialists in making their data FAIR and preserving them for re-use.
