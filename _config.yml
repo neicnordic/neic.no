@@ -35,6 +35,9 @@ collections:
   activities:
     output: true
     permalink: /:path/
+  services:
+     output: true
+     permalink: /:path/
   people:
     output: true
     permalink: /:collection/:path/
