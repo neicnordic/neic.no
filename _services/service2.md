@@ -1,7 +1,7 @@
 ---
 layout: master
 include: service
-name: Example service 2
+name: Service B
 type: Service
 phase: In progress
 finished: no
