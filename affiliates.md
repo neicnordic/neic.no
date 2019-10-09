@@ -1,4 +1,4 @@
 ---
 layout: master
-include: affiliate
+include: affiliates
 ---
