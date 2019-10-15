@@ -15,22 +15,22 @@
           <div class="project-box">
             {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
             <p class="top">
-              {% if page.phase %}
-                <b>PHASE:</b> {{ page.phase }}
+              {% if page.status %}
+                <b>STATUS:</b> {{ page.status }}
               {% endif %}
             </p>
+
             <p class="no-space">
-              <b>PERIOD:</b>
-              {% if page.start %}
-                {{ page.start }} &mdash; {{ page.end }}
-              {% else %}
-                TBD
-              {% endif %}
+              <b>PROVIDED BY:</b>
+              <span class="color"><b>{{ page.service_provider_name }}</b></span>
             </p>
+
+            {% if page.used_by %}
             <p class="no-space">
-              <b>LEADER:</b>
-              <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
+              <b>USED BY:</b>
+              <span class="color"><b>{{ page.used_by }}</b></span>
             </p>
+            {% endif %}
 
             {% if page.projects %}
               <p class="top"><b>PROJECTS:</b></p>
@@ -52,6 +52,17 @@
                 <span class="color"><b><a href="{% include conditional_baseurl url=page.outreach default="#outreach" %}">Outreach</a></b></span>
               </p>
             {% endunless %}
+
+            {% if page.support_email %}
+             <p class="top">
+                <span class="color"><b><a href="mailto:{{ page.support_email }}">E-mail to support</a></b></span>
+             </p>
+            {% endif %}
+            {% if page.user_guide %}
+             <p class="no-space">
+                <span class="color"><b><a href="{{ page.user_guide }}">User guide</a></b></span>
+             </p>
+            {% endif %}
 
             {% if page.links %}
               <p class="top"><b>LINKS:</b></p>

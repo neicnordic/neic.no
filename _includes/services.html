@@ -28,8 +28,8 @@
                       <ul class="linl-list">
                           {% for service in site.services %}
 		      	{% if service.finished %}{% continue %}{% endif %}
-                          <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
-                        {% endfor %}  
+                          <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }} ({{ service.category }})</a></li>
+                        {% endfor %}
                       </ul>
                       </div>
                       <div class="right-services" style="background-image: url(images/past.png);"></div>
