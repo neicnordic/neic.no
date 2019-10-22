@@ -8,7 +8,7 @@ phase: Execution
 start: 2017-01-01
 end: 2020-03-30
 results: https://wiki.neic.no/wiki/Glenna2#Results
-outreach: https://wiki.neic.no/wiki/Glenna2
+outreach: https://wiki.neic.no/wiki/Glenna2#Outreach
 documents:
   - text: Project directive
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d3/16-42-03Glenna2ProjectDirective.pdf
