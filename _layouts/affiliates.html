@@ -3,6 +3,13 @@
     {% include head.html %}
     <body>
         <div class="body">
+            <script>
+		$(document).ready(function(){
+  $('affiliate .carousel').slick({
+    setting-name: setting-value
+  });
+});
+	</script>
             {% include header.html %}
             {% if page.include %}
                 {% include {{ page.include }}.html %}
