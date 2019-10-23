@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        <div class="body">
+            {% include header.html %}
+            {% if page.include %}
+                {% include {{ page.include }}.html %}
+            {% endif %}
+           
+            {% include footer.html %}
+            {% include js.html %}
+        </div>
+    </body>
+</html>
