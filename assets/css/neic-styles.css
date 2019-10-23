@@ -1438,7 +1438,7 @@ section.single-activities .panel-body p.group-member {
 section.affiliate {}
 
 section.affiliate .carousel p{font-size: 22px;font-weight: 800;}
-section.affiliate .carousel{
+section.affiliate .carousel .block{
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
