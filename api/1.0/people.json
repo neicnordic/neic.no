@@ -11,7 +11,6 @@ permalink: "/:path/:basename"
     "url": {{ person.url | jsonify }},
     "home": {{ person.home | jsonify }},
     "country": {{ person.country | jsonify }},
-    "country_code": {{ person.country_code | jsonify }},
     "photo": {{ person.photo | jsonify }},
     "email": {{ person.email | jsonify }},
     "ORCID": {{ person.orcid | jsonify }},
