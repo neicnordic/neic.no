@@ -8,12 +8,12 @@ permalink: "/:path/:basename"
   {
     "name": {{ person.name | jsonify }},
     "groups": {{ person.groups | jsonify }},
-    "url": {{ person.url | jsonify }},
+    "profile": {{ person.profile | jsonify }},
     "home": {{ person.home | jsonify }},
     "country": {{ person.country | jsonify }},
     "photo": {{ person.photo | jsonify }},
     "email": {{ person.email | jsonify }},
-    "ORCID": {{ person.orcid | jsonify }},
+    "persistentID": {{ person.orcid | jsonify }},
     "phone": {{ person.phone | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
