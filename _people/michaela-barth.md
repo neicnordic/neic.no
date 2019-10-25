@@ -4,7 +4,6 @@ include: person
 name: Michaela Barth
 home: <a href="https://www.pdc.kth.se">PDC</a>
 country: SE
-country_code: SE
 photo: assets/images/people/Michaela_Barth.jpg
 email: caela@pdc.kth.se
 url: https://www.kth.se/profile/caela/
