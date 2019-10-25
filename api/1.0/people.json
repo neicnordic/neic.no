@@ -14,7 +14,7 @@ permalink: "/:path/:basename"
     "country_code": {{ person.country_code | jsonify }},
     "photo": {{ person.photo | jsonify }},
     "email": {{ person.email | jsonify }},
-    "ORCID": {{ person.ordic | jsonify }},
+    "ORCID": {{ person.orcid | jsonify }},
     "phone": {{ person.phone | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
