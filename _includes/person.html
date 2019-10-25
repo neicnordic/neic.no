@@ -50,6 +50,18 @@
             <a href="mailto:{{ page.email }}">{{ page.email }}</a>
           </p>
 
+          {% if page.profile %}
+            <p class="profile">
+              {{ page.profile }}
+            </p>
+          {% endif %}
+          
+          {% if page.orcid %}
+            <p class="orcid">
+             {{ page.orcid }}
+            </p>
+          {% endif %}
+          
           {% if page.phone %}
             <p class="phone">
               <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
