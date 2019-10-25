@@ -6,8 +6,8 @@ home: <a href="https://www.pdc.kth.se">PDC</a>
 country: SE
 photo: assets/images/people/Michaela_Barth.jpg
 email: caela@pdc.kth.se
-profile: https://www.kth.se/profile/caela/
-orcid: https://orcid.org/0000-0003-3689-3499
+profile: <a href="https://www.kth.se/profile/caela/">Profile</a>
+orcid: <a href="https://orcid.org/0000-0003-3689-3499">ORCID ID</a>
 phone: "+46 87 90 78 91"
 on_contract: yes
 has_been_on_contract: yes
