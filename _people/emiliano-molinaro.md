@@ -1,10 +1,10 @@
 ---
 layout: master
 include: person
-name: Max R. Eckardt
-home: <a href="https://international.au.dk">Aarhus University</a>
+name: Emiliano Molinaro
+home: <a href="http://sdu.dk">SDU</a>
 country: DK
-email: max@cas.au.dk
+email: molinaro@imada.sdu.dk
 phone:
 on_contract: yes
 has_been_on_contract: no

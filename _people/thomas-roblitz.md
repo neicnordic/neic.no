@@ -40,4 +40,6 @@ groups:
   nlpl-po:
     role: Project manager
     finished: yes
+  glenna2:
+    finished: no
 ---

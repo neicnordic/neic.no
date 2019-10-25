@@ -29,7 +29,8 @@ groups:
   ndhl-po:
     name: Project office
     description: Management.
-    frequency: Weekly
+    minutes: https://wiki.neic.no/int/Category:NDHL_management_meetings
+    frequency: bi-weekly
      
 ---
 ## NDHL - Nordic Digital Humanities Laboratory
