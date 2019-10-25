@@ -50,6 +50,18 @@
             <a href="mailto:{{ page.email }}">{{ page.email }}</a>
           </p>
 
+          {% if page.url %}
+            <p class="url">
+              <a href="URL:{{ page.url }}">{{ page.url }}</a>
+            </p>
+          {% endif %}
+          
+          {% if page.orcid %}
+            <p class="orcid">
+              <a href="Research ID:{{ page.orcid }}">{{ page.orcid }}</a>
+            </p>
+          {% endif %}
+          
           {% if page.phone %}
             <p class="phone">
               <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
