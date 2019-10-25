@@ -8,6 +8,7 @@ permalink: "/:path/:basename"
   {
     "name": {{ person.name | jsonify }},
     "groups": {{ person.groups | jsonify }},
+    "url": {{ person.url | jsonify }},
     "profile": {{ person.profile | jsonify }},
     "home": {{ person.home | jsonify }},
     "country": {{ person.country | jsonify }},
