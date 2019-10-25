@@ -1776,7 +1776,7 @@ section.contact .team .contact-person .contact-person-data .email{
 section.contact .team .contact-person .contact-person-data .orcid{
     margin: 10px 0 5px;
     color: #008c88;
-    font-weight: 700;
+    font-weight: 400;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     padding-left: 30px;
@@ -1788,7 +1788,7 @@ section.contact .team .contact-person .contact-person-data .orcid{
 section.contact .team .contact-person .contact-person-data .profile{
     margin: 10px 0 5px;
     color: #008c88;
-    font-weight: 700;
+    font-weight: 400;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     padding-left: 30px;
