@@ -1778,7 +1778,7 @@ section.contact .team .contact-person .contact-person-data .orcid{
     color: #008c88;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: inherit;
     padding-left: 30px;
     background-image: url(../images/fingerprint.png);
     background-repeat: no-repeat;
@@ -1790,7 +1790,7 @@ section.contact .team .contact-person .contact-person-data .profile{
     color: #008c88;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: inherit;
     padding-left: 30px;
     background-image: url(../images/profile.png);
     background-repeat: no-repeat;
