@@ -1772,6 +1772,19 @@ section.contact .team .contact-person .contact-person-data .email{
     background-repeat: no-repeat;
     background-position: 0% 50%;
 }
+
+section.contact .team .contact-person .contact-person-data .orcid{
+    margin: 10px 0 5px;
+    color: #008c88;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding-left: 30px;
+    background-image: url(../images/fingerprint.png);
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+}
+
 section.contact .team .contact-person .contact-person-data .phone{
     color: #008c88;
     font-weight: 700;
