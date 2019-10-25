@@ -52,13 +52,13 @@
 
           {% if page.profile %}
             <p>
-              Profile: <a href="{{ page.profile }}">{{ page.profile }}</a>
+              <a href="{{ page.profile }}">{{ page.profile }}</a>
             </p>
           {% endif %}
           
           {% if page.orcid %}
             <p class="orcid">
-              <a href=Persistent ID:":{{ page.orcid }}">{{ page.orcid }}</a>
+              <a href=":{{ page.orcid }}">{{ page.orcid }}</a>
             </p>
           {% endif %}
           
