@@ -1317,11 +1317,6 @@ section.wys-editer a.btn-go{
     padding: 0;
     margin-top:25px;
 }
-
-
-
-
-
 section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h4 a {color:#000;}
 section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details h4{
     text-transform: uppercase;
@@ -1360,15 +1355,6 @@ section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .pan
     letter-spacing: 1px;
     padding: 0;
 }
-
-
-
-
-
-
-
-
-
 section.single-activities .toogle-box-big .panel .panel-collapse .panel-body{border-top: 2px solid #a1a1a1;}
 section.single-activities .toogle-box-big .panel .panel-collapse.collapse .panel-body{
     padding: 25px 0px!important;
@@ -1716,7 +1702,50 @@ section.services-list ul.linl-list li a{
     padding: 5px 0px;
     font-weight: 500;
 }
+section.services.search-box{
+position:absolute;
+top:50%;
+left:50%;
+transform:  translate(-50%,-50%);
+background:#2f3640;
+height:40px;
+border-radius:40px;
+padding:10px;
+}
 
+section.services.search-box:hover > .search-txt{
+width:240px;
+padding:0 6px;
+}
+
+section.services.search-box:hover> .search-btn{
+background:white;
+}
+
+section.services.search-btn{
+color:#e84118;
+float:right;
+width:40px;
+height:40px;
+border-radius:50%;
+background:#2f3640;
+display:flex;
+justify-content: center;
+align-items:center;    
+}
+
+section.services.search-txt{
+border:none;
+background:none;
+outline:none;
+float:left;
+padding: 0;
+color:  white;
+font-size:16px;
+transition:0.4s;
+line-height:40px;
+width:0px;
+}
 section.publications {
     padding: 50px 0;
 }
