@@ -22,6 +22,8 @@ documents:
     url: https://wiki.neic.no/w/ext/img_auth.php/4/46/Coderefinery-project-directive-phase-2.pdf
   - text: Collaboration agreement (phase 2)
     url: https://wiki.neic.no/w/ext/img_auth.php/4/42/180926Collaboration_Agreement_for_CodeRefinery2_clean.pdf
+  - text: Project plan (phase 2)
+    url: https://wiki.neic.no/w/ext/img_auth.php/a/a6/CodeRefinery-phase-2-project-plan-v1.0.pdf
 links:
   - url: https://coderefinery.org
     text: Web
