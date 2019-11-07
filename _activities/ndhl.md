@@ -39,9 +39,9 @@ groups:
 
 The Nordic Digital Humanities Laboratory (NDHL) will create convergence in Nordic humanities and arts e-infrastructures through a participant-driven virtual laboratory for compute- and data-intensive research. NDHL's goals are to
 
-1) develop a common data, software and service stack at royal libraries and high performance computing centers across the Nordics;
-2) ensure joint access to restricted and copyrighted cultural heritage data; and
-3) develop a sandbox environment which enables explorations of cultural heritage collections.
+1. develop a common data, software and service stack at royal libraries and high performance computing centers across the Nordics
+2. ensure joint access to restricted and copyrighted cultural heritage data; and
+3. develop a sandbox environment which enables explorations of cultural heritage collections.
 
 While expert users develop and manage the infrastructure, it will be open to all researchers in the Nordics.
 
