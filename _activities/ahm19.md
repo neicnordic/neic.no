@@ -7,7 +7,7 @@ leader: oxana-smirnova
 phase: In progress
 start: 2018-06-18
 end: 2019-01-31
-finished: no
+finished: yes
 results: https://indico.neic.no/event/10/
 outreach: https://indico.neic.no/event/10/
 documents:
