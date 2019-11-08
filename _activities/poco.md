@@ -6,7 +6,7 @@ type: Operations
 leader: michaela-barth
 phase: In operation
 start: 2016-01-01
-end: 2020-12-31
+end: 2019-10-31
 finished: true
 results: https://wiki.neic.no/wiki/Pool_Competencies#Documents
 outreach: N/A
