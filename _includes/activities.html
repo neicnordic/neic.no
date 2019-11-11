@@ -42,7 +42,7 @@
                       <ul class="linl-list">
                               {% for activity in site.activities %}
                                 {% unless activity.finished %}{% continue %}{% endunless %}
-			        {% unless activity.hide-on-frontpage %}{% continue %}{% endunless %}
+
                                 <li><a href="{% include baseurl %}{{ activity.url }}">{{ activity.name }}</a></li>
                               {% endfor %}
                       </ul>
