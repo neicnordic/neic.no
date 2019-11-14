@@ -11,7 +11,7 @@ on_contract:
 has_been_on_contract: no
 groups:
   glenna2-sg:
-    role: Observer for IS
+    role: Observer
   glenna-sg:
     finished: yes    
   glenna:
