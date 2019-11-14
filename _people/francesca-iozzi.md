@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Francesca Iozzi
-home: <a href="https://www.usit.uio.no/">USIT</a>
+home: <a href="https://www.uninett.no/en/sigma">Uninett</a>
 country: "NO"
 photo: assets/images/people/Fransesca_Iozzi.jpg
-email: m.f.iozzi@usit.uio.no
+email: maria.f.iozzi@uninett.no
 phone:
 on_contract: no
 has_been_on_contract: yes
