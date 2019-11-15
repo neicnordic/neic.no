@@ -20,7 +20,7 @@ groups:
     frequency: Bi-weekly
   data-management-wg:
     name: Data management working group
-    description: Not started yet.
+    description: concluded.
 ---
 
 Pool competencies is a focus area under the NeIC 2016-2020 strategy. The pool
