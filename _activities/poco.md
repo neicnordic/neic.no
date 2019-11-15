@@ -24,8 +24,7 @@ groups:
     description: Concluded. Former members:
 ---
 
-Pool competencies is a focus area under the NeIC 2016-2020 strategy. The pool
-competencies working group is working to map out the competencies that are
+Pool competencies was a focus area under the NeIC 2016-2020 strategy. The pool
+competencies working group was working to map out the competencies that are
 present or needed among the Nordic e-infrastructure providers and key
-stakeholders, starting within the area of [training](../training) and currently
-expanding to other areas starting with data management.
+stakeholders, starting within the area of [training](../training) and expanding to data management.
