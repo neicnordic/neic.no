@@ -19,5 +19,6 @@ groups:
   board:
   glenna-sg:
   dellingr-sg:
-    role: Observer  
+    role: Observer
+  xt-board:
 ---

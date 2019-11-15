@@ -8,7 +8,7 @@ leader: antti-pursula
 phase: Execution
 start: 2017-10-21
 end: 2020-10-31
-finished: yes
+finished: no
 results: N/A
 outreach: N/A
 outreach-tag:
