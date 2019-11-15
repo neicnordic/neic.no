@@ -6,7 +6,7 @@ type: Operations
 leader: michaela-barth
 phase: In operation
 start: 2016-01-01
-end: 
+end: 2019-12-31
 finished: true
 results: https://wiki.neic.no/wiki/Pool_Competencies#Documents
 outreach: N/A
@@ -18,9 +18,10 @@ groups:
     name: Pool competencies working group
     minutes: https://wiki.neic.no/int/Category:Pool_competencies_meetings
     frequency: Bi-weekly
+    description: Concluded. Former members:
   data-management-wg:
     name: Data management working group
-    description: concluded.
+    description: Concluded. Former members:
 ---
 
 Pool competencies is a focus area under the NeIC 2016-2020 strategy. The pool
