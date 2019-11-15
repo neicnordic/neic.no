@@ -18,10 +18,10 @@ groups:
     name: Pool competencies working group
     minutes: https://wiki.neic.no/int/Category:Pool_competencies_meetings
     frequency: Bi-weekly
-    description: Concluded. Former members
+    description: Concluded. Former members listed
   data-management-wg:
     name: Data management working group
-    description: Concluded. Former members
+    description: Concluded. Former members listed
 ---
 
 Pool competencies was a focus area under the NeIC 2016-2020 strategy. The pool
