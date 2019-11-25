@@ -2,7 +2,7 @@
 {% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
 {% assign leader = site.people | where:"path", leader_path  | first %}
 
-<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/sin-act-banner.png);">
+<section class="single-pagebanner-narrow" style="background-image: url({% include baseurl %}/assets/images/Nordic_data_centers.jpg);">
 </section>
 
 <section class="wys-editer single-activities">
@@ -83,7 +83,8 @@
       {% if groups %}
         <div class="col-md-offset-1 col-md-4">
           <div class="toggle-bar">
-            <h2>More information...</h2>
+            <img src=/assets/images/news/Tryggve_logo_fingerprint_small.png width="180">
+            <h2>More information</h2>
             <div class="panel-group toogle-box-small" id="sidebar-accordion" role="tablist" aria-multiselectable="true">
 
             {% for group in groups %}

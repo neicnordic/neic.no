@@ -3,7 +3,7 @@ layout: master
 include: tryggve-menu
 name: Tryggve
 type:
-tagline: Collaboration for Sensitive Data
+tagline: TRYGGVE - Collaboration for Sensitive Data
 leader: antti-pursula
 phase: Implementation
 start: 2014-10-21
@@ -26,9 +26,9 @@ documents:
 show-groups:
   tryggve2-poster:
     name: Overview of Tryggve
-    description: A poster giving an overview of Tryggve
-    absolute_link: https://drive.google.com/file/d/1qZeNHrSJmqUslShkMXUzTLYCFxsLKgAS/view
-    linkname: Overview
+    description: Tryggve develops secure e-infrastructure for sensitive data suitable for large-scale cross-border biomedical research.
+    absolute_link: https://drive.google.com/open?id=1qZeNHrSJmqUslShkMXUzTLYCFxsLKgAS
+    linkname: Tryggve overview poster
   tryggve2-usecase:
     name: Use cases
     description: Information about current, and completed, use cases and how to apply.
@@ -51,29 +51,27 @@ show-groups:
     linkname: Twitter
   tryggve2:
     name: Team
-    minutes: https://goo.gl/ngwJLK
-    frequency: Monthly
-    description: Team plenaries (subteams meet more frequently). NeIC
-      associates get access to minutes on request from project management.
+    minutes: 
+    frequency: 
+    description: 
   tryggve2-rg:
     name: Reference group
-    description: Stakeholder engagement forum. Requirements gathering, outreach
-      and quality assurance.
-    frequency: meet twice annually, and as needed per deliverable
+    description: Stakeholder engagement forum.
+    frequency: meet 3-4 times a year.
     minutes: https://drive.google.com/drive/u/0/folders/1zh-zLP55NjIzzMsxjHTsvPIl7dh_gkak
   tryggve2-sg:
     name: Steering group
-    description: The Nordic ELIXIR nodes and NeIC.
-    frequency: Quarterly
+    description: Representatives of NeIC and the Nordic ELIXIR nodes.
+    frequency: 3-4 times a year.
     minutes: https://goo.gl/DsegLq
   tryggve2-pm:
     name: Project management
-    description: Management. NeIC associates get access to minutes on request from project management.
-    minutes: https://goo.gl/PUVGl3
-    frequency: Weekly
+    description: Project management team consisting of project manager and sub-project & deliverable leads.
+    minutes: 
+    frequency: 
   tryggve2-po:
     name: Project office
-    description: Project ownership issues.
+    description: Project owner (NeIC) and project manager.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
   tryggve2-mainpage:

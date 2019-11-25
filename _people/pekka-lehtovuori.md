@@ -12,5 +12,6 @@ has_been_on_contract: no
 groups:
   board:
   neic2017-prg:
+  xt-board:
 ---
 Board chair 2016-2017.

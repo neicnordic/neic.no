@@ -14,6 +14,6 @@ The application process is stalled for now as we have reached the budget. For th
 
 
 ### Travel Grants
-You can apply for a [travel grant](/training/travel-grant) offered by the NeIC [Ratatosk](/ratatosk) Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. **This only applies for trainings taking place in the next fiscal year including workshops taking place in December 2018 and onwards**.
+You can apply for a [travel grant](/training/travel-grant) offered by the NeIC [Ratatosk](/ratatosk) Mobility Enhancement Programme - the grant will provide or supply travel funding for staff and end users (researchers) of the Nordic e-infrastructure community who can benefit from access to training programs offered in other Nordic countries. **The travel grants are currently on hold due to not enough interest from the core target group.**.
 
 For the next round, feel free to check out this page occasionally.

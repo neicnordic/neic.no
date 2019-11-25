@@ -7,10 +7,8 @@ country: "NO"
 photo:
 email: gurvinder.singh@uninett.no
 phone:
-on_contract:
-has_been_on_contract: no
+on_contract: no
+has_been_on_contract: yes
 groups:
-  glenna2:
-    role: Aim2 Leader
   glenna:
 ---
