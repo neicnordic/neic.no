@@ -2,7 +2,7 @@
 layout: master
 include: service
 name: UT Rocket
-service_provider_name: ETAIS
+service_provider_name: University of Tartu
 category: HPC
 type: Service
 status: Active
@@ -13,12 +13,11 @@ results:
 outreach:
 used_by: Aarhus University, CERN test research org
 user_guide: https://hpc.ut.ee/en/slurm/
-documents:
-  - text: Example 
-    url:  
-links:
-  - url:   
-    text: Example
 ---
-<h2>Overview</h2>The High Performance Computing Center is a consortium of UT and its purpose is to maintain and develop the infrastructure for scientific computing. The resources are open for use to any research groups from the university and  other Estonian science- and research institutions are also welcome. 
+<h2>Overview</h2>Rocket cluster is a general purpose HPC cluster under SLURM management. The main part of the Rocket cluster consists of 135 compute nodes, two compute nodes with GPUs and a headnode. In addition to these nodes, there is a large memory machine with 2TB of RAM and two GPFS filesystem servers, which will provide fast storage for the entire cluster. All the machines mentioned above are connected to a fast Infiniband 4X QDR fabric.
 
+## Access policy
+Initial basic access, additional options can be added later case-by-case.
+
+## Privacy policy
+https://share.neic.no/#/policy/privacy/

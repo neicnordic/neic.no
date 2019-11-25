@@ -13,12 +13,11 @@ results:
 outreach:
 used_by: CERN test research org, Department of Marine Systems at Tallinn University of Technology, Science Institute, University of Iceland, The Science Institute University of Iceland, University of Iceland
 user_guide: https://research.csc.fi/taito-user-guide
-documents:
-  - text: Example 
-    url:  
-links:
-  - url:   
-    text: Example
 ---
-<h2>Overview</h2>Taito is a computing cluster hosted by CSC - IT Center for Science, Finland. It is intended for serial jobs and parallel jobs using up to 672 cores. Finland's largest collection of scientific software and databases is available for users of Taito. Taito is physically located at Kajaani. 
+<h2>Overview</h2>Taito is a computing cluster hosted by CSC - IT Center for Science, Finland. It is intended for serial jobs and parallel jobs using up to 672 cores. Finland's largest collection of scientific software and databases is available for users of Taito. Taito is physically located at Kajaani.
 
+## Access policy
+Not available
+
+## Privacy policy
+Not available
