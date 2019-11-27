@@ -2,7 +2,7 @@ main:
   - section: 'About'
     links:
       - url: '/about/'
-        text: 'About NeIC'
+        text: 'NeIC'
       - url: '/people/'
         text: 'People'
       - url: '/about/publications/'
