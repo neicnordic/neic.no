@@ -9,6 +9,8 @@ main:
         text: 'Publications'
       - url: '/about/positions/'
         text: 'Open positions'
+      - url: '/about/collaborate/'
+        text: 'Collaborate'
   - url: '/activities/'
     text: 'Activities'
   - url: '/news/'
