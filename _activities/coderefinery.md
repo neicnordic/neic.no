@@ -49,6 +49,10 @@ groups:
     description: Governance.
     minutes: https://wiki.neic.no/wiki/Category:CodeRefinery_meetings
     frequency: 3-4 per year
+  coderefinery-rg:
+    name: Reference group
+    description: Governance.
+    frequency: on demand (1 per year)
   coderefinery-po:
     name: Project office
     description: Management.
