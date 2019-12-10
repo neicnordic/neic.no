@@ -51,7 +51,7 @@ groups:
     frequency: 3-4 per year
   coderefinery-rg:
     name: Reference group
-    description: Governance.
+    description: Advisory.
     frequency: on demand (1 per year)
   coderefinery-po:
     name: Project office
