@@ -4,6 +4,7 @@ summary: "We invite you to the third Nordic course on "FAIR Data Stewardship”,
 photo: "/assets/images/latest-news-13-water.jpg"
 ---
 
+
 FAIR Data Stewardship course
 ===============================
 
