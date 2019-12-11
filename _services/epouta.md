@@ -14,7 +14,9 @@ outreach:
 used_by: 
 user_guide: https://research.csc.fi/cloud-computing
 ---
-This service provides a infrastructure as a-service for running analysis on sensitive data. The ePouta Virtual Private Cloud service allows customers to provision virtual machines and storage resources directly to their own internal networks. It provides an easy to use admin web interface and a programmable API for managing virtual machines, networks and storage. CSC ePouta meets elevated information security level regulations and is targeted for sensitive data processing
+This service provides a infrastructure as a-service for running analysis on sensitive data. The ePouta Virtual Private Cloud service allows customers to provision virtual machines and storage resources directly to their own internal networks. It provides an easy to use admin web interface and a programmable API for managing virtual machines, networks and storage. CSC ePouta meets elevated information security level regulations and is targeted for sensitive data processing.
+<br>
+Nordic services on ePouta are developed in Tryggve project. Tryggve team also supports cross-border users handling sensitive data on ePouta.
 
 ## Access policy
 https://research.csc.fi/pricing-of-computing-services
