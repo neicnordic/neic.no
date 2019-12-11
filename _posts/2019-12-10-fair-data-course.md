@@ -1,7 +1,7 @@
 ---
 title: FAIR Data Stewardship course
 summary: "We invite you to the third Nordic course on FAIR Data Stewardship, hosted and sponsored by NeIC, SNIC & SND in Sweden. The event takes place in Uppsala at the turn of March and April 2020."
-photo: "/assets/images/latest-news-7-mountains.jpeg"
+photo: "/assets/images/latest-news-9-path.jpeg"
 ---
 
 
