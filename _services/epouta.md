@@ -1,0 +1,23 @@
+---
+layout: master
+include: service
+name: ePouta
+service_provider_name: CSC
+category: IaaS
+type: Service
+status: Active
+support_email: servicedesk@csc.fi
+start: 2019-01-01
+end: 2020-12-31
+results:
+outreach:
+used_by: 
+user_guide: https://research.csc.fi/cloud-computing
+---
+This service provides a infrastructure as a-service for running analysis on sensitive data. The ePouta Virtual Private Cloud service allows customers to provision virtual machines and storage resources directly to their own internal networks. It provides an easy to use admin web interface and a programmable API for managing virtual machines, networks and storage. CSC ePouta meets elevated information security level regulations and is targeted for sensitive data processing
+
+## Access policy
+https://research.csc.fi/pricing-of-computing-services
+
+## Privacy policy
+https://research.csc.fi/pouta-user-policy
