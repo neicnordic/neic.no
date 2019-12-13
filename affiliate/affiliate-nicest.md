@@ -5,8 +5,20 @@ include: affiliate-programmes
 
 ## NICEST
 
+### Highlights
+Insert highlights here
+
 ### Purpose
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
  
-### Header 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Results
+[Results folder)[https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
+ 
+### Links & Documents
+[The NLPL Wiki](https://wiki.neic.no/wiki/NICEST) <br/>
+[Work plan](https://wiki.neic.no/w/ext/img_auth.php/3/37/20161125_NeIC_ESM_work_plan_approved.pdf)
+
+### Project Contact Person
+Chandan Basu
+
+#### Period: 2017-01-01–2019-12-31
