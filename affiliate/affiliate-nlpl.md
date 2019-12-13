@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [External documents](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory) <br/>
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf)
 
-#### Project Contact Person
+### Project Contact Person
 Forname Surname
 
 #### Period: 2017-01-01–2019-12-31
