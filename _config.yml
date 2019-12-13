@@ -39,6 +39,9 @@ collections:
   services:
      output: true
      permalink: /:path/
+  affiliates:
+     output: true
+     permalink: /:path/
   people:
     output: true
     permalink: /:collection/:path/
