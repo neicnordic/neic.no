@@ -22,6 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Project Contact Person
 Forname Surname
 
-#### Period: 2017-01-01 — 2019-12-31
+#### Period: 2017-01-01–2019-12-31
                      
 
