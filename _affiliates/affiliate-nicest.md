@@ -12,7 +12,7 @@ Insert highlights here
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
  
 ### Results
-[Results folder)[https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
+[Results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
  
 ### Links & Documents
 [The NLPL Wiki](https://wiki.neic.no/wiki/NICEST) <br/>
