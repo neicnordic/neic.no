@@ -7,6 +7,7 @@ leader: anne-marie-bach
 phase: Execution
 start: 2017-04-21
 end:
+finished: true
 results: N/A
 outreach: N/A
 links:

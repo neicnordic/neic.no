@@ -1,4 +1,14 @@
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139715371-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-139715371-1');
+  </script>
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,4 +29,6 @@
   <link href="{% include baseurl %}/assets/css/vue-cloaking.css" rel="stylesheet">
   <link href="{% include baseurl %}/assets/css/bootstrap-3.3.7.min.css" rel="stylesheet">
   <link href="{% include baseurl %}/assets/css/responsive.css" rel="stylesheet">
+
+  <link type="application/atom+xml" rel="alternate" href="{{ site.url }}{{ site.baseurl }}/feed/index.xml" title="NeIC web" />
 </head>

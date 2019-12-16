@@ -6,6 +6,8 @@ home: <a href="https://www.pdc.kth.se">PDC</a>
 country: SE
 photo: assets/images/people/Michaela_Barth.jpg
 email: caela@pdc.kth.se
+profile: <a href="https://www.kth.se/profile/caela/">KTH Profile</a>
+orcid: <a href="https://orcid.org/0000-0003-3689-3499">ORCID ID</a>
 phone: "+46 87 90 78 91"
 on_contract: yes
 has_been_on_contract: yes
@@ -36,17 +38,24 @@ groups:
     role: Chair
   coderefinery-po:
     role: Project owner
+  coderefinery-rg:
+    role: Chair
   iobs-sg:
     role: Chair
   iobs-po:
     role: Project owner
   project-analysis-rg:
+  finished: yes
   ratatosk-sg:
     role: Chair
   ratatosk-po:
     role: Activity owner
+  ndhl-po:
+    role: Pre-study owner
   neic2015-sg:
     role: Chair
+    finished: yes
   neic2015-po:
     role: Project owner, Chair
+    finished: yes
 ---

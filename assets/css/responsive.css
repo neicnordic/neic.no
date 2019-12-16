@@ -339,7 +339,7 @@ footer .col-md-6.col-sm-6:first-child {    width: 66%;
     body section.publications .publications-list-block .single-publications-list .publications-details p {margin: 15px 0 0;}
     body section.single-activities h1 {font-size: 30px;}
     body section.single-activities .project-box {padding: 15px;}
-    body section.green-box-block .green-box a.btn {margin-top: 15px;width: 250px;margin: 10px auto;}
+    body section.green-box-block .green-box a.btn {margin-top: 15px;margin: 10px auto;}
     body section.training h2 {font-size: 30px;}
     body section.training .btn-block .btn.with-border {width: auto;min-width: 48%;padding-left: 10px;padding-right: 10px;}
     body section.publications .pre-next-blk .nex-btn {

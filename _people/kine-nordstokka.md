@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Kine Nordstokkå
+name: Kine Bugge Halvorsen
 home: <a href="https://www.nordforsk.org">NordForsk</a>
 country: "NO"
 photo: assets/images/people/kine-nordstokka.jpg

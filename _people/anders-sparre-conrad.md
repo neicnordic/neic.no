@@ -8,8 +8,8 @@ photo:
 email: asc@ku.dk
 phone:
 on_contract:
-has_been_on_contract:
+has_been_on_contract: no
 groups:
-  dellingr:
   data-management-wg:
+    finished: yes
 ---

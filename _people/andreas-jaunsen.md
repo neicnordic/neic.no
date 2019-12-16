@@ -7,8 +7,10 @@ country: "NO"
 photo:
 email: ajaunsen@gmail.com
 phone:
-on_contract: yes
-has_been_on_contract: no
+on_contract: no
+has_been_on_contract: yes
 groups:
   data-management-wg:
+    finished: yes
+  wp-leaders:
 ---

@@ -6,16 +6,16 @@ type: Project
 leader: john-white
 phase: Execution
 start: 2017-01-10
-end:
+end: 2020-01-10
 results: https://wiki.neic.no/wiki/Dellingr
-outreach:
+outreach: https://dellingr.neic.no/apply/
 documents:
   - text: Collaboration agreement
     url: https://wiki.neic.no/wiki/File:170111-Dellingr_Phase_1_Collaboration_Agreement_Signed.pdf
 links:
   - url: https://wiki.neic.no/wiki/Dellingr
     text: External wiki
-    description:
+    description: Public wiki page
   - url: https://wiki.neic.no/int/Dellingr
     text: Internal wiki
     description: Internal working documents.
@@ -23,8 +23,8 @@ links:
     text: Dellingr Welcome Page
     description:
   - url: https://dellingr.neic.no/apply/
-    text: Apply for access to HPC resources 
-    description:
+    text: Apply for Nordic resources
+    description: Second test of Cross-Border resource sharing framework
 groups:
   dellingr:
     name: Team

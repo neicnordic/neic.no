@@ -13,5 +13,6 @@ groups:
   board:
     finished: yes
   nlpl-sg:
+    finished: yes
 ---
 Board member between 2015-01-01 and 2018-06-07.

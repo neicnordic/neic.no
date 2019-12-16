@@ -16,10 +16,14 @@ documents:
     url: https://wiki.neic.no/w/ext/img_auth.php/6/6e/150904-Collaborative_Infrastructure_for_Scientific_Software_Collaboration_Agreement.pdf
   - text: Project plan (phase 1)
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d0/CodeRefinery-project-plan-v1.0.pdf
+  - text: Report (phase 1)
+    url: https://wiki.neic.no/w/ext/img_auth.php/b/be/CodeRefinery-phase1-report.pdf
   - text: Project directive (phase 2)
     url: https://wiki.neic.no/w/ext/img_auth.php/4/46/Coderefinery-project-directive-phase-2.pdf
   - text: Collaboration agreement (phase 2)
     url: https://wiki.neic.no/w/ext/img_auth.php/4/42/180926Collaboration_Agreement_for_CodeRefinery2_clean.pdf
+  - text: Project plan (phase 2)
+    url: https://wiki.neic.no/w/ext/img_auth.php/3/34/CodeRefinery-phase-2-project-plan-v1.1.pdf
 links:
   - url: https://coderefinery.org
     text: Web
@@ -45,6 +49,10 @@ groups:
     description: Governance.
     minutes: https://wiki.neic.no/wiki/Category:CodeRefinery_meetings
     frequency: 3-4 per year
+  coderefinery-rg:
+    name: Reference group
+    description: Advisory.
+    frequency: on demand (1 per year)
   coderefinery-po:
     name: Project office
     description: Management.

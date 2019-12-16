@@ -12,5 +12,6 @@ has_been_on_contract: no
 groups:
   board:
     role: Chair
+  xt-board:
 ---
 Board member since 2012-01-01.

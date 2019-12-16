@@ -7,9 +7,10 @@ country: "NO"
 photo: assets/images/people/Xiaxi_Li.jpg
 email: xiaxi.li@ii.uib.no
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   tryggve1:
   tryggve2:
+    finished: yes
 ---

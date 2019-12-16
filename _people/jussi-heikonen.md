@@ -10,7 +10,7 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
+  dellingr-sg:
   nlcg:
     role: Infrastructure
-  glenna2-sg:
 ---
