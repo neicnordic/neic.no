@@ -4,9 +4,9 @@ include: activity
 name: Ratatosk
 type: Operations
 leader: anne-marie-bach
-phase: Execution
+phase: Finished
 start: 2017-04-21
-end:
+end: 2019
 finished: true
 results: N/A
 outreach: N/A
@@ -37,7 +37,7 @@ groups:
     minutes: https://wiki.neic.no/wiki/Category:Ratatosk_steering_group_meetings
     frequency: 3-4 yearly
 ---
-The Ratatosk mobility enhancement programme is a NeIC training activity with a
+The Ratatosk mobility enhancement programme was a NeIC training activity with a
 yearly budget of 0.5 million NOK.
 
 
