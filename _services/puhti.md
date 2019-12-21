@@ -5,7 +5,7 @@ name: Puhti
 service_provider_name: CSC
 category: HPC
 type: Service
-status: Active
+status: Paused
 support_email: servicedesk@csc.fi
 access_email: None
 start: 2019-01-01
