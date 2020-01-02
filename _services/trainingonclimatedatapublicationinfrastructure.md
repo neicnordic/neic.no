@@ -7,6 +7,7 @@ category: Trainings
 type: Service
 status: Draft
 support_email: Not available
+access_email: None
 start: 2019-01-01
 end: 2020-12-31
 results:
