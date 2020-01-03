@@ -7,16 +7,15 @@
 
 <section class="wys-editer single-activities">
   <div class="container">
-    <h1>{{ page.name }}</h1>
+    <h1>{{ page.name }}
+      {% if page.access_email == 'None' %}
+      <a class="btn with-border black-hover-btn" target="_blank" href="https://share.neic.no/">Get access</a>
+      {% else %}
+      <a class="btn with-border black-hover-btn" href="mailto:{{page.access_email}}">Request access</a>
+      {% endif %}
+      </h1>
     <div class="tagline">{{ page.tagline }}</div>
     <div class="row">
-      <div class="pull-right project-box">
-        {% if page.access_email == 'None' %}
-        <h2><a class="read-more white-hover-btn" target="_blank" href="https://share.neic.no/">Get access</a></h2>
-        {% else %}
-        <h2><a class="read-more white-hover-btn" href="mailto:{{page.access_email}}">Request access</a></h2>
-        {% endif %}
-      </div>
       <div class="col-md-7">
         <div class="content">
 
