@@ -1,4 +1,4 @@
 ---
 layout: master
-include: eosc-rules-of-participation
+include: eosc rules of participation
 ---
