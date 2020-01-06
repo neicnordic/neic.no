@@ -1446,7 +1446,7 @@ section.affiliate .carousel .block{
     border: 2px solid #000;
     margin: 15px;
 }
-	
+
 section.affiliate .btn-block p{font-size: 22px;font-weight: 800;}
 section.affiliate .btn-block{
     text-align: center;
@@ -1669,7 +1669,7 @@ section.services-list .services-color
 {
     background: #008c88;
 }
-section.services-list .left-services h2{
+section.services-list .left-services h2 {
     margin: 0 0 20px;
     color: #fff;
     text-transform: uppercase;
@@ -1678,6 +1678,17 @@ section.services-list .left-services h2{
     font-size: 40px;
     letter-spacing: 2px;
 }
+
+section.services-list .left-services h3 {
+    margin: 20px 0 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
 section.services-list .services{
     top: 0;
     bottom: 0;
@@ -1738,7 +1749,7 @@ border-radius:50%;
 background:#2f3640;
 display:flex;
 justify-content: center;
-align-items:center;    
+align-items:center;
 }
 
 section.services.search-txt{
@@ -1753,6 +1764,18 @@ transition:0.4s;
 line-height:40px;
 width:0px;
 }
+
+#search_service_input {
+  background-image: url('../images/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 20px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
 section.publications {
     padding: 50px 0;
 }
