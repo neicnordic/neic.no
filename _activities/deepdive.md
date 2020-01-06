@@ -5,6 +5,7 @@ name: DeepDive
 type: Project
 leader: matthias-obst
 phase: Finished
+finished: true
 start: 2017-01-01
 end: 2019-12-31
 documents:
