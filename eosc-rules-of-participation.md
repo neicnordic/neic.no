@@ -7,7 +7,7 @@ include: EOSC-rules-of-participation
 
 ### EOSC-hub current criteria
 * It must be an actual service.
-    * It must be a service according to the [IT Service Management definition](#Definition-according-to-FitSM-0-Service). It should be an ongoing activity offered ‘live’ to customers. This may be an IT service, or a human service (e.g. training, consultancy).
+    * It must be a service according to the [IT Service Management definition](#definition-according-to-fitsm-0-service). It should be an ongoing activity offered ‘live’ to customers. This may be an IT service, or a human service (e.g. training, consultancy).
     * It may not be a research product, for instance, a document, a dataset or a piece of software.
 * The Service must be coherent. It must be available and offer value on its own. It may not be only a feature of a larger service.
 * The Service must meet at least one of the following criteria:
