@@ -5,6 +5,7 @@ name: NLPL
 type: Project
 leader: bjorn-lindi
 phase: Finished
+finished: true
 start: 2017-01-01
 end: 2019-12-31
 results: https://wiki.neic.no/wiki/Nordic_language_processing_laboratory#Public_Documents
