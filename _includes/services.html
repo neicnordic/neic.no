@@ -1,0 +1,53 @@
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/services-banner.jpg);">
+</section>
+
+<section class="services">
+      <div class="container">
+          <div class="row" style="position: relative">
+              <div class="col-md-12" style="position: static;">
+                  <div class="content">
+                      <h2>Nordic Infrastructure Services</h2>
+                      <p>A Nordic Infrastructure Service is a service fulfilling the following criteria:<br>
+                          1. Complies with the <a href="{% include baseurl %}/eosc-rules-of-participation/">EOSC Rules of participation</a>;<br>
+                          2. Can be accessed cross-border (in the Nordics at least);<br>
+                          3. Service provider, e.g. National e-infrastructure, agrees to have it listed;<br>
+                          4. Service delivery is either automated or could be automated.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+</section>
+
+<section class="services-list">
+      <div class="container">
+      <div class="col-md-12">
+          <div class="row">
+          <input type="text" id="search_service_input" onkeyup="searchServiceByName()" placeholder="Search for service by name..">
+          </div>
+      <div class="row">
+              <div class="services-color">
+                      <div class="left-services" style="position:static;">
+                          <ul class="linl-list" id="service_list">
+                              {% assign items = site.services | sort: 'category' %}
+                              {% for service in items %}
+                                  {% if forloop.first == true %}
+                                    {% assign current_category = service.category %}
+                                    <h3>{{ current_category }}</h3>
+                                {% else %}
+                                    {% if current_category != service.category %}
+                                        {% assign current_category = service.category %}
+                                        <h3>{{ current_category }}</h3>
+                                    {% endif %}
+                                {% endif %}
+                              {% assign current_category = service.category %}
+                              <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
+                            {% endfor %}
+                          </ul>
+                      </div>
+                      <div class="clearfix"></div>
+                      </div>
+              </div>
+
+      </div>
+      </div>
+</section>
