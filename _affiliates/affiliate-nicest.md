@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## NICEST
 
 ### Highlights
-Insert highlights here
+[Highlights here]
 
 ### Purpose
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
@@ -21,4 +21,4 @@ NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Mod
 ### Project Contact Person
 Chandan Basu
 
-#### Period: 2017-01-01–2019-12-31
+#### Period: from 2017-01-01 to 2019-12-31
