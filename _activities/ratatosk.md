@@ -8,7 +8,9 @@ phase: Finished
 start: 2017-04-21
 end: 2019
 finished: true
-results: N/A
+results:
+  - text: Ratatosk Final Report
+    url: https://wiki.neic.no/wiki/File:191220-Ratatosk-Final_report.pdf
 outreach: N/A
 links:
   - text: Nordic training portals
