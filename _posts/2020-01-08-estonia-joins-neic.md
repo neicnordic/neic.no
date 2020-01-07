@@ -7,7 +7,7 @@ photo: "/assets/images/latest-news-13-water.jpg"
 NeIC welcomes Estonia as new member
 ===============================
 
-<i>As recommended by the NeIC Board, the NordForsk Board has approved a membership application from Estonia to join NeIC alongside Denmark, Finland, Iceland, Norway and Sweden.</i>
+*As recommended by the NeIC Board, the NordForsk Board has approved a membership application from Estonia to join NeIC alongside Denmark, Finland, Iceland, Norway and Sweden.*
 
 We are delighted to welcome Estonia as a member in NeIC. Estonia will now participate on equal footing with the current NeIC members (Denmark, Finland, Iceland, Norway and Sweden) and will have a seat at the NeIC Board. Estonia contributes with expertise in fields that are highly interesting for Nordic cooperation on e-infrastructure, and over the last few years there have been several examples of mutually valuable collaboration between Estonia and NeIC partners. 
 
