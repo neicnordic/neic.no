@@ -8,7 +8,8 @@ phase: Finished
 start: 2017-04-21
 end: 2019
 finished: true
-results:
+results: https://wiki.neic.no/wiki/Ratatosk#Results
+documents:
   - text: Ratatosk Final Report
     url: https://wiki.neic.no/wiki/File:191220-Ratatosk-Final_report.pdf
 outreach: N/A
