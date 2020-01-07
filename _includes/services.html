@@ -42,7 +42,13 @@
                                     {% endif %}
                                 {% endif %}
                               {% assign current_category = service.category %}
-                              <li><a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a></li>
+                              <li>
+                                  <a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a>
+                                  <!-- Thanks to https://www.flaticon.com/packs/rectangular-country-simple-flags -->
+                                  <p>Provided by <a style="font-size: inherit; display:inline; background-image: none;" href="{{ service.service_provider_homepage }}">{{ service.service_provider_name }}</a>
+                                      {% if service.service_provider_country_code %}<img width="18px" src="{% include baseurl %}/assets/images/flags/{{ service.service_provider_country_code }}.svg" />{% endif %}</p>
+                                  <p>{{ service.description }}</p>
+                              </li>
                             {% endfor %}
                           </ul>
                       </div>

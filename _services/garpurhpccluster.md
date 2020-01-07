@@ -2,7 +2,10 @@
 layout: master
 include: service
 name: Garpur HPC cluster
+description: General purpose HPC cluster run by University of Iceland
 service_provider_name: University of Iceland
+service_provider_country_code: IS
+service_provider_homepage: https://ihpc.is
 category: HPC
 type: Service
 status: Draft
