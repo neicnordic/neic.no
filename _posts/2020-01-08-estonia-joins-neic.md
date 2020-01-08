@@ -4,7 +4,7 @@ summary: We are delighted to welcome Estonia as a member in NeIC. Estonia will n
 photo: "/assets/images/latest-news-13-water.jpg"
 ---
 
-NeIC welcomes Estonia as new member
+NeIC welcomes Estonia as a new member
 ===============================
 
 *As recommended by the NeIC Board, the NordForsk Board has approved a membership application from Estonia to join NeIC alongside Denmark, Finland, Iceland, Norway and Sweden.*
