@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf)
 
 #### Project Contact Person
-Forname Surname
+Bjørn Lindi
 
 #### Project period
 From 2017-01-01 to 2019-12-31
