@@ -2,7 +2,10 @@
 layout: master
 include: service
 name: Abacus 2.0
+description: The SDU eScience Center is a single point of reference for eScience and research e-infrastructure at SDU.
 service_provider_name: DeIC
+service_provider_country_code: DK
+service_provider_homepage: http://www.computerome.dtu.dk
 category: HPC
 type: Service
 status: Archived

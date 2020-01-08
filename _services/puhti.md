@@ -2,7 +2,10 @@
 layout: master
 include: service
 name: Puhti
+description: Computing cluster for serial and parallel jobs.
 service_provider_name: CSC
+service_provider_country_code: FI
+service_provider_homepage: http://csc.fi
 category: HPC
 type: Service
 status: Paused
