@@ -12,7 +12,7 @@ include: affiliate-programmes
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
  
 ### Outcome
-All of the project results [Results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
+The project's results can be found in this [results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-).
  
 #### Links & Documents
 [The public NICEST Wiki](https://wiki.neic.no/wiki/NICEST) <br/>
