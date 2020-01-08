@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## NICEST
 
 ### Highlights
-[Highlights here]
+[Insert highlights here]
 
 ### Purpose
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
