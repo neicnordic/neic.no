@@ -18,7 +18,7 @@ All of the project results [Results folder](https://drive.google.com/drive/u/0/f
 [The public NICEST Wiki](https://wiki.neic.no/wiki/NICEST) <br/>
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/3/37/20161125_NeIC_ESM_work_plan_approved.pdf)
 
-### Project Contact Person
+#### Project Contact Person
 Chandan Basu
 
 #### Project period
