@@ -14,4 +14,3 @@ We are delighted to welcome Estonia as a member to NeIC. Estonia will now partic
 In 2017, the Estonian Scientific Computing Infrastructure (ETAIS) and NeIC signed a Memoramdum of Understanding, MoU, to increase their collaboration. In March 2018, the NeIC Board invited Estonia to be an observer to the NeIC Board and recommended ETAIS to move forward with the application to the Estonian Research Council for funding for NeIC membership. Based on the application from ETAIS, NeIC membership was included in the Estonian Research Infrastructure Roadmap as approved by the Estonian Government in February 2019. Over the past couple of years Estonia has gradually increased its engagement with NeIC. ETAIS and Estonian partners currently participate in several NeIC projects. ETAIS is also a major partner in the EC-funded EOSC-Nordic project which is coordinated by NeIC/NordForsk.
 
 NeIC looks forward to continue the collaboration with Estonia in the years to come.
-
