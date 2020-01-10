@@ -15,7 +15,7 @@ NLPL stands for Nordic Language Prosessing Laboratory. The project's vision is t
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
  
 #### Links & Documents
-[The NLPL Wiki](http://wiki.nlpl.eu/index.php/Home) <br/>
+[The public NLPL Wiki](http://wiki.nlpl.eu/index.php/Home) <br/>
 [External documents](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory) <br/>
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf)
 
