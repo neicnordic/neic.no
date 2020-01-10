@@ -14,8 +14,8 @@ This project contributed to the e-infrastructure of Nordic research by developin
 The project provided Nordic research communities with the foundations for a new storage service that enable them to store and share research data with their colleagues, strengthen the weight of the Nordic players within research communities and EUDAT, and foster collaboration, at Nordic level, of national research groups and service providers. The B2Share service aimed to tackle the issue of loss of research data by building a service for long-term data storage with persistent identifiers.
  
 #### Links & Documents
-[The public B2Share wiki](https://wiki.neic.no/wiki/B2Share_Nordic)
-[The B2Share Service](https://b2share.eudat.eu)
+[The B2Share Service](https://b2share.eudat.eu)<br>
+[The public B2Share wiki](https://wiki.neic.no/wiki/B2Share_Nordic)<br>
 [EUDAT](http://eudat.eu)
 
 #### Project Contact Person
