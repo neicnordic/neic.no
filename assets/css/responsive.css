@@ -408,6 +408,23 @@ body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing
     body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details a.btn-go {
     font-size: 13px;
 }
+    body section.affiliates h2  {font-size: 30px;margin-bottom: 24px;}
+    body section.affiliates {padding: 30px 0 0;}
+    body section.affiliates p {font-size: 14px;margin-bottom: 24px;}
+    body section.affiliates ul.linl-list li a {font-size: 18px;background-size: auto 14px;}
+    body section.affiliates-list .left-activities h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.affiliates-list .right-activities {display: none;}
+    body section.affiliates-list {padding: 34px 0;}
+    body section.affiliates-list .left-activities {width: 100%;
+        padding: 15px;}
+    body section.affiliates-list ul.linl-list li a {font-size: 20px;
+     }
+     
+     body section.services h2  {font-size: 30px;margin-bottom: 24px;}
+    body section.services {padding: 30px 0 0;}
+    body section.services p {font-size: 14px;margin-bottom: 24px;
+     }
+     
     body section.publications .publications-list-block .single-publications-list:last-child {margin-bottom:0;padding-bottom: 0;}
 body section.training .description p {font-size:16px;}
 body section.contact .team .team-nav-bar .left-bar .back-btn {
