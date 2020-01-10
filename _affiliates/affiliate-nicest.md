@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## NICEST
 
 ### Recent highlights
-World Climate Coupled Model Intercomparison Project ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) simulation data was made accessible by several Nordic ESGF nodes for use e.g. for policy recommendations by [IPCC](https://www.ipcc.ch). An article on NICEST contributionas published on [NeIC website](https://neic.no/news/2019/11/13/CMIP6/). 
+World Climate Coupled Model Intercomparison Project ([CMIP6](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) simulation data was made accessible by several Nordic ESGF nodes for use e.g. for policy recommendations by [IPCC](https://www.ipcc.ch). An article on NICEST contributios was published on [NeIC website](https://neic.no/news/2019/11/13/CMIP6/). 
 
 ### Purpose
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
