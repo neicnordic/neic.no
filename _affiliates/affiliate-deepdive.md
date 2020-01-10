@@ -5,7 +5,7 @@ include: affiliate-programmes
 
 ## DeepDive
 
-### Highlights
+### Recent highlights
 Finalizing advisory paper ([called Future Science Brief](https://www.bonusportal.org/news/save_the_date!_7th_emb_forum_big_data_in_marine_science_29_april_2020_brussels.4225.news)) to the European Commision. Remaining activities for the last month include training event on 4. Dec (advanced python for biologists), AI workshop on 9-10 Dec in Gothenburg, and EOSC-Nordic activities with PlutoF.
 
 ### Purpose
@@ -19,7 +19,7 @@ DeepDive offers services and training.
 We are currently building [the Koster seafloor observatory](https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory), which is an annotation platform for biodiversity that we'll launch in April 2020. Here, citizens and scientist will annotate imagery of marine biodiversity which is then used to train our AI algorithms. Thereafter we use HPC infrastructure to sieve out key organisms, such as like cold water corals, from the big data legacy available at our research infrastructures. The observatory uses DeepDive/NeIC services. 
 
 #### Links & Documents
-[The DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
+[The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf)
 
 #### Project Contact Person
