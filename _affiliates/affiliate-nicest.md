@@ -5,8 +5,8 @@ include: affiliate-programmes
 
 ## NICEST
 
-### Highlights
-[Insert highlights here]
+### Recent highlights
+NICEST contribution to World Climate Coupled Model Intercomparison Project (CMIP6) published on [NeIC website](https://neic.no/news/2019/11/13/CMIP6/). 
 
 ### Purpose
 NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
