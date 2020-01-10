@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## DeepDive
 
 ### Recent highlights
-Finalizing advisory paper ([called Future Science Brief](https://www.bonusportal.org/news/save_the_date!_7th_emb_forum_big_data_in_marine_science_29_april_2020_brussels.4225.news)) to the European Commision. Remaining activities for the last month include training event on 4. Dec (advanced python for biologists), AI workshop on 9-10 Dec in Gothenburg, and EOSC-Nordic activities with PlutoF.
+Finalizing advisory paper (called [Future Science Brief](https://www.bonusportal.org/news/save_the_date!_7th_emb_forum_big_data_in_marine_science_29_april_2020_brussels.4225.news)) to the European Commision. Remaining activities for the last month include training event on 4. Dec (advanced python for biologists), AI workshop on 9-10 Dec in Gothenburg, and EOSC-Nordic activities with PlutoF.
 
 ### Purpose
 DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics. Many questions within biodiversity research and nature conservation inherently require easy access to, and combination of, spatio-temporal biodiversity and ecosystem data. The data needs are not restricted to individual countries or areas, but spread wider depending on the temporal or geographical scale of the hypotheses.
