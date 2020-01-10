@@ -14,7 +14,7 @@ As the name suggests, it was originally developed in Sweden for the needs of the
 SGAS is broadly in use in the Nordic countries within e.g. the Nordic Tier-1, Sweden (SweGrid, SAMS [SNIC Accounting And Metrics System]), Norway and Finland and preferred over competitive solutions like e.g. DGAS (Distributed Grid Accounting System). Therefore NeIC, SNIC and UNINETT Sigma AS have entered a collaboration agreement to continue to fund the maintenance and development of SGAS.
 
 #### Links & Documents
-[SGAS](https://sgas.github.io)
+[SGAS](https://sgas.github.io)<br>
 [The public SGAS maintenance wiki](https://wiki.neic.no/wiki/SGAS_maintenance_project)
 
 #### Project Contact Person
