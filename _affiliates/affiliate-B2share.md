@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## B2Share Nordic
 
 ### Purpose
-B2Share is a service developed by EUDAT for researchers who want to long-term store and share research data. The service is especially suited for open science where research is taking place in collaborative networks and datasets are publicly published.
+The B2Share Nordic project's aim was to engage Nordic research communities to customize the B2Share file sharing service to best suit the need of Nordic research communities. The B2Share service, developed by [EUDAT](http://eudat.eu), is a cross-disciplinary file sharing service for scientists across Europe who want to long-term store and share research data. The service is especially suited for open science where research is taking place in collaborative networks and datasets are publicly published.
  
 ### Outcome
 This project contributed to the e-infrastructure of Nordic research by developing a cross-boundary service for research dataset and associated metadata storage and sharing. The project engaged with Nordic research communities to discuss their requirements for small research data storage, and co-designs B2share metadata extensions and a premium version that meet the specific needs of the communities.
