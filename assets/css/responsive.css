@@ -55,6 +55,12 @@
     margin-top: 15px;
     margin-bottom: 25px;
     }
+    body section.about .content .services {
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+    }
     body section.wys-editer .side-bar {margin-top: 15px;}
     body section.current-events .left-event {width: 100%;}
     body section.current-events .right-event {display: none;}
