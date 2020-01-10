@@ -423,10 +423,10 @@ body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing
      body section.services h2  {font-size: 30px;margin-bottom: 24px;}
     body section.services {padding: 30px 0 0;}
     body section.services p {font-size: 14px;margin-bottom: 24px;}
-     body section.services-list .#search_service_input {font-size: 13px;}
+     body section.services-list ul.linl-list .left-services {width: 90%;}
      body section.services-list ul.linl-list .left-services h3 {font-size: 25px;}
-     body section.services-list ul.linl-list .left-services {width: 90%;
-    }
+     body section.services-list ul.linl-list li a {font-size: 20px;
+     }
      
     body section.publications .publications-list-block .single-publications-list:last-child {margin-bottom:0;padding-bottom: 0;}
 body section.training .description p {font-size:16px;}
