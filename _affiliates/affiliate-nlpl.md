@@ -4,7 +4,7 @@ include: affiliate-programmes
 ---
 
 ## NLPL
-<img class="normal" align="left" src="{% include baseurl %}/assets/images/NLPL_logo.png"></a>
+<img class="normal" align="right" src="{% include baseurl %}/assets/images/NLPL_logo.png">
 
 ### Recent highlights
 Successfully concluded NLPL pilot cases on the new systems, Saga and Puhti, that have become operational in Norway and Finland, respectively.
