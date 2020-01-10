@@ -130,7 +130,7 @@ section.about .content .read-more {
     bottom: 0;
 }
 section.about .content .services {
-    color: #fff;
+    color: #008c88;
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
@@ -139,7 +139,7 @@ section.about .content .services {
     display: inline-block;
     text-decoration: none;
 	text-align: center;
-    border: 2px solid #fff;
+    border: 2px solid #008c88;
     padding: 6px 20px;
     position: relative;
     bottom: 0;
