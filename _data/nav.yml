@@ -15,8 +15,6 @@ main:
     text: 'Activities'
   - url: '/news/'
     text: 'News'
-  - url: '/services/'
-    text: 'Services'
   - url: '/events/'
     text: 'Events'
   - url: '/training/'
