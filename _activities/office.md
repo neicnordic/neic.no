@@ -35,6 +35,5 @@ NeIC activities.
 
 FIND US
 
-Our addresss is Stensberggata 27, 0170 Oslo
-
-Find the entrance with NordForsk sign, door 25A, 8th floor. For a map to our building please se [here](https://neic.no/people/)
+Our address is Stensberggata 27, 0170 Oslo
+For a map to our building please see [here](https://neic.no/people/)
