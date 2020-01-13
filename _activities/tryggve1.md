@@ -4,7 +4,7 @@ include: activity
 name: Tryggve1
 type: Project
 leader: antti-pursula
-phase: Conclusion
+phase: Finished
 start: 2014-10-21
 end: 2017-10-21
 finished: yes
