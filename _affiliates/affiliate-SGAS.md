@@ -6,7 +6,7 @@ include: affiliate-programmes
 ## SGAS
 
 ### About SGAS
-SGAS stands for Swedish Grid Accounting System. It is a grid accounting system used to keep track of resource usage (compute and storage) on computing grids. Initially rooted within the Swedish Grid project, SweGrid, it is currently used to record resource usage within the national infrastructures coordinated by SNIC and UNINETT Sigma, and for the Nordic participation in the WLCG collaboration. SGAS is also spread within the Baltic countries and Switzerland. SGAS is a complete suite with LUTS as the server part and BART as the LRMS (Local Resource Management System) reporter part. SGAS is included as a technical preview component in the Globus Toolkit 4.
+SGAS stands for Swedish Grid Accounting System. It is a grid accounting system used to keep track of resource usage (compute and storage) on computing grids. Initially rooted within the Swedish Grid project, SweGrid, it is currently used to record resource usage within the national infrastructures coordinated by SNIC and UNINETT Sigma, and for the Nordic participation in the WLCG collaboration. SGAS is also spread within the Baltic countries and Switzerland. SGAS is a complete suite with LUTS as the server part and BART as the LRMS (Local Resource Management System) reporter part.
 
 As the name suggests, it was originally developed in Sweden for the needs of the national Swedish grid initiative SweGrid, but has been maintained by NeIC since October 2013. It is used by the NeIC NT1 project as well as a few national grid initiatives across the Nordic countries.  
  
