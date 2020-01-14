@@ -15,9 +15,23 @@ DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for B
 Biodiversity informatics is a methodological discipline that helps biodiversity research overcome issues related to the whole value chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitization of collections, data sharing, data integration, data reliability (fitness for use), data quality, visualization, analysis and long-term archival. The goal of this collaboration is to explore synergies in e-infrastructure development among the Nordic and Baltic countries, and establish common services based on best practice and technical interoperabilty to support biodiversity and ecosystem research.
  
 ### Affects
-DeepDive offers services and training [what kind of services and training?]
+DeepDive has initiated the a series of Biodiversity Informatics Training Opportunities. These are smaller courses & workshop in Nordic countries, which are co-financed and co-ordinated with national educational initiatives. Online modules of DeepDive courses can be found here:
 
-We are currently building [the Koster seafloor observatory](https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory), which is an annotation platform for biodiversity that we'll launch in April 2020. Here, citizens and scientist will annotate imagery of marine biodiversity which is then used to train our AI algorithms. Thereafter we use HPC infrastructure to sieve out key organisms, such as like cold water corals, from the big data legacy available at our research infrastructures. The observatory uses DeepDive/NeIC services. 
+* Handling spatial data in 
+* Advanced handling of spatial data in R
+* Python for Biologists
+* Advanced Python for Biologists
+* Access biodiversity data through web services
+* Machine learning in applications of biodiversity informatics
+* Collection data management using IrisBG
+* SuperSmartR
+
+Publications:
+
+* [Deep Relations in Nordic and Baltic Biodiversity e-Infrastructures (DeepDive)](https://biss.pensoft.net/article/37343/)
+* [Linked Open Data for Taxonomic Databases: The Nordic/Baltic implementation](https://biss.pensoft.net/article/37332/)
+* [Establishing Taxon Links Between the Nordic/Baltic Countries via Linked Open Data](https://biss.pensoft.net/article/37428/)
+* [Linked Data Tools for Managing Taxonomic Databases](https://biss.pensoft.net/article/37329/)
 
 #### Links & Documents
 [The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
