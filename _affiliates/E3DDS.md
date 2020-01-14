@@ -1,6 +1,7 @@
 ---
 layout: master
 include: affiliate-programmes
+name: EISCAT_3D Data Solutions
 ---
 
 ## EISCAT_3D Data Solutions
