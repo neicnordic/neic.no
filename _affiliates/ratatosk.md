@@ -17,8 +17,8 @@ Ratatosk increases the opportunities for trainees in two ways:
 * The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
  
 ### Outcome
-* Icelandic Workshops - Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region. First workshop held in August 2017.[1]. And invite [2] for the second workshop, held in June 2018, with the following content: [3]
-* Digital Humanities - Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material, a workshop held in August 2017.[4] By June 2018 a final report on phase 1 based on a questionnaire sent out to all Nordic research institutions within Humanities & Arts.
+* Icelandic Workshops - Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region. First workshop held in August 2017, the second one in June 2018.
+* Digital Humanities - Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material, a workshop held in August 2017. By June 2018 a final report on phase 1 based on a questionnaire sent out to all Nordic research institutions within Humanities & Arts.
 * Travel Grants for researchers in the Nordics have been granted on a monthly basis, surveys from each applicant on each event will be a part of the evaluation of this Travel Grant activity.
 * Course Mobility Grants have been approved for 5 workshops to take place in the Nordics on Software Carpentry Trainings, a small (show up) fee will be collected. Surveys on these workshops are included in the Final report.
 
