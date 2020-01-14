@@ -13,8 +13,7 @@ name: Ratatosk
 The Ratatosk mobility enhancement programme was a NeIC training activity with a yearly budget of 0.5 million NOK. The name Ratatosk refers the squirrel acting messenger on the world tree in Nordic mythology and was chosen as a symbol for busy and engaged knowledge exchange.
 
 Ratatosk increases the opportunities for trainees in two ways:<br>
-First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally.<br>
-The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
+First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally. The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
  
 ### Outcome
 **Icelandic Workshops** - Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region. First workshop held in August 2017, the second one in June 2018.<br>
