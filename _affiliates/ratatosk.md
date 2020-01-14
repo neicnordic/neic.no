@@ -30,4 +30,4 @@ Course Mobility Grants have been approved for 5 workshops to take place in the N
 Michaela Barth
 
 #### Period
-From 2017-04-21 to 2019
+From 2017-04-21 to 2019-12-20
