@@ -1,28 +1,33 @@
 ---
 layout: master
 include: affiliate-programmes
-name: Name
+name: Ratatosk
 ---
 
-## NAME
+## Ratatosk
 
 ### Highlights
 [Insert highlights here]
 
 ### Purpose
-DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics. Many questions within biodiversity research and nature conservation inherently require easy access to, and combination of, spatio-temporal biodiversity and ecosystem data. The data needs are not restricted to individual countries or areas, but spread wider depending on the temporal or geographical scale of the hypotheses.
+The Ratatosk mobility enhancement programme was a NeIC training activity with a yearly budget of 0.5 million NOK. The name Ratatosk refers the squirrel acting messenger on the world tree in Nordic mythology and was chosen as a symbol for busy and engaged knowledge exchange.
 
-Biodiversity informatics is a methodological discipline that helps biodiversity research overcome issues related to the whole value chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitization of collections, data sharing, data integration, data reliability (fitness for use), data quality, visualization, analysis and long-term archival. The goal of this collaboration is to explore synergies in e-infrastructure development among the Nordic and Baltic countries, and establish common services based on best practice and technical interoperabilty to support biodiversity and ecosystem research.
+Ratatosk increases the opportunities for trainees in two ways:
+* First is the student mobility part (travel grants) enabling trainees to travel to attend Nordic training courses which are not available locally.
+* The second, the course mobility part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
  
 ### Outcome
-Services, including training, publications
+* Icelandic Workshops - Free cross-national training workshops on high-performance computing and applications, relevant to scientists and e-Infrastructure personnel in the Nordic region. First workshop held in August 2017.[1]. And invite [2] for the second workshop, held in June 2018, with the following content: [3]
+* Digital Humanities - Phase one in this project, activities to stimulate the uptake of research within Digital Humanities by ensuring easy access to well planned and well documented course material, a workshop held in August 2017.[4] By June 2018 a final report on phase 1 based on a questionnaire sent out to all Nordic research institutions within Humanities & Arts.
+* Travel Grants for researchers in the Nordics have been granted on a monthly basis, surveys from each applicant on each event will be a part of the evaluation of this Travel Grant activity.
+* Course Mobility Grants have been approved for 5 workshops to take place in the Nordics on Software Carpentry Trainings, a small (show up) fee will be collected. Surveys on these workshops are included in the Final report.
 
 #### Links & Documents
-[The DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
-[Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf)
+[The public Ratatosk Wiki](https://wiki.neic.no/wiki/Ratatosk) <br/>
+[Final report](https://wiki.neic.no/w/ext/img_auth.php/c/c3/191220-Ratatosk-Final_report.pdf)
 
 #### Project Contact Person
-Firstname Surname
+Michaela Barth
 
 #### Period
-From YYYY-MM-DD to YYYY-MM-DD
+From 2017-04-21 to 2019
