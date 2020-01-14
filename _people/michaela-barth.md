@@ -38,6 +38,8 @@ groups:
     role: Chair
   coderefinery-po:
     role: Project owner
+  coderefinery-rg:
+    role: Chair
   iobs-sg:
     role: Chair
   iobs-po:

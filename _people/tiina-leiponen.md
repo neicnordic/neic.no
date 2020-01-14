@@ -13,4 +13,6 @@ groups:
   poco-wg:
   ratatosk-sg:
   neic2015-org:
+    finished: yes
+  coderefinery-rg:
 ---

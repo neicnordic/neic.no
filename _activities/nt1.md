@@ -48,7 +48,7 @@ groups:
 The Nordic distributed tier-1 facility for the worldwide computing grid serving
 the large hadron collider at CERN.
 
-NDGF Tier1 is one of 11 regional computing centres of the [Worldwide LHC
+NDGF Tier1 is one of 14 regional computing centres of the [Worldwide LHC
 Computing Grid](http://wlcg.web.cern.ch/)  – the huge international
 e-infrastructure built to provide  computing and storage for the
 [CERN](http://home.web.cern.ch/). This Nordic solution is unique in  being

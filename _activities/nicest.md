@@ -4,7 +4,8 @@ include: activity
 name: NICEST
 type: Project
 leader: chandan-basu
-phase: Execution
+phase: Finished
+finished: true
 start: 2017-01-01
 end: 2019-12-31
 results: N/A
