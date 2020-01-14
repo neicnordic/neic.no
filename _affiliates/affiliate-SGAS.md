@@ -19,6 +19,3 @@ SGAS is broadly in use in the Nordic countries within e.g. the Nordic Tier-1, Sw
 
 #### Project Contact Person
 Erik Edelmann
-
-#### Project period
-From ? to ?
