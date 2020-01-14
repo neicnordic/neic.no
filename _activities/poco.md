@@ -4,7 +4,7 @@ include: activity
 name: Pool competencies
 type: Operations
 leader: michaela-barth
-phase: In operation
+phase: Finished
 start: 2016-01-01
 end: 2019-12-31
 finished: true

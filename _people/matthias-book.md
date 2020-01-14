@@ -11,5 +11,6 @@ on_contract: no
 has_been_on_contract: no 
 groups:   
   poco-wg:   
-  ratatosk-sg: 
+  ratatosk-sg:
+  coderefinery-rg:
 ---
