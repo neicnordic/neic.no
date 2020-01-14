@@ -1,9 +1,10 @@
 ---
 layout: master
 include: affiliate-programmes
+name: Glenna2
 ---
 
-## Glenna
+## Glenna2
 
 ### Highlights
 [Highlights here]
