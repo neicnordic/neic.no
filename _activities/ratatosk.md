@@ -49,13 +49,3 @@ yearly budget of 0.5 million NOK.
 The goal of training is to raise competence in staff and end users which leads to more effective and productive work by the Nordic e-infrastructure community. The benefits include more efficient operations and use of resources and an improved capability for the researchers in conducting research.
  
 NeIC's interest in training is focused on e-Science and e-infrastructure skills among scientists and e-infrastructure personnel in the Nordic region, for the purpose of raising the quality of the scientific output.
-
-### Approach
-
-The Ratatosk Nordic mobility enhancement programme efforts are directed to increasing the opportunities for trainees in two ways:
-
-* First is the student mobility part ([travel grants](../training/travel-grant)) enabling trainees to travel to attend Nordic training courses which are not available locally.  
-
-* The second, the [course mobility](../training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
-
-
