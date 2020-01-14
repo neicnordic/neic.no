@@ -1,6 +1,7 @@
 ---
 layout: master
 include: affiliate-programmes
+name: SGAS
 ---
 
 ## SGAS
