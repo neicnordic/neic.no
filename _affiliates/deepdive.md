@@ -15,7 +15,7 @@ DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for B
 Biodiversity informatics is a methodological discipline that helps biodiversity research overcome issues related to the whole value chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitization of collections, data sharing, data integration, data reliability (fitness for use), data quality, visualization, analysis and long-term archival. The goal of this collaboration is to explore synergies in e-infrastructure development among the Nordic and Baltic countries, and establish common services based on best practice and technical interoperabilty to support biodiversity and ecosystem research.
  
 ### Affects
-DeepDive has initiated the a series of Biodiversity Informatics Training Opportunities. These are smaller courses & workshop in Nordic countries, which are co-financed and co-ordinated with national educational initiatives. Online modules of DeepDive courses can be found here:
+DeepDive has initiated the a series of Biodiversity Informatics Training Opportunities. These are smaller courses & workshop in Nordic countries, which are co-financed and co-ordinated with national educational initiatives. Online modules of DeepDive courses can be found below:
 
 * Handling spatial data in 
 * Advanced handling of spatial data in R
