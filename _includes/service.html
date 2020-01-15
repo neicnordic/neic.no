@@ -29,7 +29,9 @@
 
             <p class="no-space">
               <b>PROVIDED BY:</b>
-              <span class="color"><b>{{ page.service_provider_name }}</b></span>
+              <span class="color"><b>{{ page.service_provider_name }}</b>
+               {% if page.service_provider_country_code %}<img width="18px" src="{% include baseurl %}/assets/images/flags/{{ page.service_provider_country_code }}.svg" />{% endif %}
+              </span>
             </p>
 
             {% if page.used_by %}

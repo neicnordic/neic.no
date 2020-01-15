@@ -1,7 +1,7 @@
 ---
 layout: master
 include: service
-name: Training on climate data publication infrastructure
+name: Training on preparation and validation of climate simulation data for publication on ESGF nodes
 description: TBA
 service_provider_name: Nordic Infrastructure Collaboration on Earth System Tools
 service_provider_country_code: 

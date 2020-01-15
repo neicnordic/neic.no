@@ -2,7 +2,10 @@
 layout: master
 include: service
 name: Instructor training
+description: Workshops to learn to organise and teach.
 service_provider_name: CodeRefinery
+service_provider_country_code: NO
+service_provider_homepage: 
 category: Trainings
 type: Service
 status: Paused
