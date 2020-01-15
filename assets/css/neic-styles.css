@@ -1485,7 +1485,7 @@ section.affiliate .btn-block .btn.with-border{
 }
 section.affiliate .btn-block .btn.with-border:hover{}
 section.affiliate {
-margin: 50px 0px;
+padding: 50px 0px;
 }
 section.affiliate h2{
     margin: 0 0 27px;
