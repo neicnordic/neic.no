@@ -19,6 +19,8 @@ main:
     text: 'Events'
   - url: '/training/'
     text: 'Training'
+  - url: '/affiliates/'
+    text: 'Affiliates'
   - url: 'https://nordforsk.us2.list-manage.com/subscribe?u=8ed6dd23b9e3ff6ee0e135d72&id=4fc427a88a'
     text: 'Newsletter'
   - url: 'https://wiki.neic.no'
