@@ -6,9 +6,6 @@ name: Ratatosk
 
 ## Ratatosk
 
-### Highlights
-[Insert highlights here]
-
 ### Purpose
 The Ratatosk mobility enhancement programme was a NeIC training activity with a yearly budget of 0.5 million NOK. The name Ratatosk refers to the squirrel that acts as a messenger on the world tree in Nordic mythology and was chosen as a symbol for busy and engaged knowledge exchange.
 

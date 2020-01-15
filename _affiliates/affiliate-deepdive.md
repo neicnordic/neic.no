@@ -15,18 +15,18 @@ DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for B
 Biodiversity informatics is a methodological discipline that helps biodiversity research overcome issues related to the whole value chain of data from data capture to analyses and data products regarding vocabularies, ontologies, digitization of collections, data sharing, data integration, data reliability (fitness for use), data quality, visualization, analysis and long-term archival. The goal of this collaboration is to explore synergies in e-infrastructure development among the Nordic and Baltic countries, and establish common services based on best practice and technical interoperabilty to support biodiversity and ecosystem research.
  
 ### Affects
-DeepDive has initiated the a series of Biodiversity Informatics Training Opportunities. These are smaller courses & workshop in Nordic countries, which are co-financed and co-ordinated with national educational initiatives. Online modules of DeepDive courses can be found below:
+DeepDive has initiated the a series of Biodiversity Informatics Training Opportunities. These are smaller courses & workshop in Nordic countries, which are co-financed and co-ordinated with national educational initiatives. Online modules of held DeepDive courses can be found below:
 
-* Handling spatial data in 
-* Advanced handling of spatial data in R
-* Python for Biologists
-* Advanced Python for Biologists
-* Access biodiversity data through web services
-* Machine learning in applications of biodiversity informatics
-* Collection data management using IrisBG
-* SuperSmartR
+* [Handling spatial data in](https://github.com/tobiashofmann88/workshops/tree/master/spatial_r_workshop)
+* [Advanced handling of spatial data in R](https://github.com/tobiashofmann88/workshops/tree/master/advanced_spatial_r)
+* [Python for Biologists](https://github.com/tobiashofmann88/workshops/tree/master/python_workshop)
+* [Advanced Python for Biologists](https://github.com/tobiashofmann88/workshops/tree/master/advanced_python)
+* [Access biodiversity data through web services](https://github.com/tobiashofmann88/workshops/tree/master/access_biodiversity_data)
+* [Machine learning in applications of biodiversity informatics](https://github.com/XiaodongD/Machine-Learning-for-Biologists-2019)
+* [Collection data management using IrisBG](https://irisbg.com)
+* [SuperSmartR](https://github.com/naturalis/supersmart/wiki)
 
-Publications:
+Below is a list of DeepDive publications:
 
 * [Deep Relations in Nordic and Baltic Biodiversity e-Infrastructures (DeepDive)](https://biss.pensoft.net/article/37343/)
 * [Linked Open Data for Taxonomic Databases: The Nordic/Baltic implementation](https://biss.pensoft.net/article/37332/)
