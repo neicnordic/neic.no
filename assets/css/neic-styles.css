@@ -1441,8 +1441,6 @@ section.single-activities .panel-body p.group-member {
     text-indent: -11px;
 }
 
-section.affiliate {}
-
 section.affiliate .carousel p{font-size: 22px;font-weight: 800;}
 section.affiliate .carousel .block{
     text-transform: uppercase;
@@ -1486,7 +1484,9 @@ section.affiliate .btn-block .btn.with-border{
     margin: 0 0.5% 15px;
 }
 section.affiliate .btn-block .btn.with-border:hover{}
-section.affiliate {}
+section.affiliate {
+margin: 50px 0px;
+}
 section.affiliate h2{
     margin: 0 0 27px;
     color: #008c88;
@@ -1501,10 +1501,7 @@ section.affiliate p{
     font-size: 22px;
     font-weight: 300;
 }
-section.affiliate .content {
-	margin-bottom: 35px;
-	margin-top: 35px;
-}
+
 section.affiliate .content .read-more {
     color: #fff;
     text-transform: uppercase;
