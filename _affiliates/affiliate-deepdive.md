@@ -32,6 +32,7 @@ Below is a list of DeepDive publications:
 * [Linked Open Data for Taxonomic Databases: The Nordic/Baltic implementation](https://biss.pensoft.net/article/37332/)
 * [Establishing Taxon Links Between the Nordic/Baltic Countries via Linked Open Data](https://biss.pensoft.net/article/37428/)
 * [Linked Data Tools for Managing Taxonomic Databases](https://biss.pensoft.net/article/37329/)
+<br>
 
 #### Links & Documents
 [The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
