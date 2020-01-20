@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Kristoffer Laigaard Nielbo
-home: <a href="http://chcaa.io/#/">CHCAA</a>
+home: <a href="http://chcaa.io/#/">Center for Humanities Computing Aarhus</a>
 country: DK
 photo: assets/images/people/kristoffer-nielbo.jpg
 email: kln@cas.au.dk

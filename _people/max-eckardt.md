@@ -10,4 +10,6 @@ on_contract: yes
 has_been_on_contract: no
 groups:
   coderefinery:
+  ndhl:
+    role: Pre-study member
 ---
