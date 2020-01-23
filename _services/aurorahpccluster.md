@@ -2,7 +2,7 @@
 layout: master
 include: service
 name: Aurora HPC cluster
-description: Aurora is Lunarc's new general purpose HPC cluster
+description: Aurora is Lunarc's general purpose HPC cluster.
 service_provider_name: Lunarc
 service_provider_country_code: SE
 service_provider_homepage: http://www.lunarc.lu.se
