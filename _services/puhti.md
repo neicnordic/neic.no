@@ -21,7 +21,7 @@ user_guide: https://docs.csc.fi/#computing/overview/
 <h2>Overview</h2>Puhti is a computing cluster hosted by CSC - IT Center for Science, Finland. It is intended for serial jobs and parallel jobs using up to 4000 cores. Finland's largest collection of scientific software and databases is available for users of Puhti. Puhti is physically located at Kajaani.
 
 ## Access policy
-The project manager (principal investigator) must be from a higher education institution in Denmark, Estonia, Iceland, Norway or Sweden. Other project members may be from any country or organization.
+The project manager (principal investigator) must be affiliated with Finnish higher education or research institution or come from a higher education institution in Denmark, Estonia, Iceland, Norway or Sweden. Other project members may be from any country or organization.
 
 ## Privacy policy
 https://www.csc.fi/customer-register-privacy-policy

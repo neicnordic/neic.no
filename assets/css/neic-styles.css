@@ -1618,6 +1618,14 @@ section.services p{
     font-size: 22px;
     font-weight: 300;
 }
+section.services-bottom {
+    padding: 0px 0px 20px;
+}
+section.services-bottom p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
 section.services .content {
 }
 section.services .content .read-more {
