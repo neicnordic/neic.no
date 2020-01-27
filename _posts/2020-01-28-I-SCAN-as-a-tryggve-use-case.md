@@ -7,7 +7,7 @@ photo: "/assets/images/latest-news-12-sunset.jpeg"
 The I-SCAN study as a Tryggve use case
 ===============================
 
-<a href="{% include baseurl %}/assets/images/news/I-SCAN_LiseMHelsingen.jpg"><img class="normal" float="right" src="{% include baseurl %}/assets/images/news/I-SCAN_LiseMHelsingen.jpg"></a>
+<img class="normal" float="right" src="{% include baseurl %}/assets/images/news/I-SCAN_LiseMHelsingen.jpg">
 <br>
 *Photo by Anita Aalby, University of Oslo*
 
