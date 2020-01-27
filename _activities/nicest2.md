@@ -38,7 +38,7 @@ groups:
 
 ### Background
 
-NICEST-2 - The second phase of the _Nordic Collaboration on e-Infrastructures for Earth System Modeling_ focused again on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives. It builds on previous efforts within NICEST (a 3-year NeIC project as of 2017-01) and NordicESM (3-year NordForsk funded project from 2014-12).
+NICEST-2 - the second phase of the **_Nordic Collaboration on e-Infrastructures for Earth System Modeling_** focused again on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives. It builds on previous efforts within NICEST (a 3-year NeIC project as of 2017-01) and NordicESM (3-year NordForsk funded project from 2014-12).
 
 
 Concretely some planned activities include:
