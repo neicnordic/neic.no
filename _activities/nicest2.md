@@ -60,6 +60,7 @@ Planned activities include:
 * DMI, DK
 * SMHI, SE
 
+
 ##### Intended synergies with:
 * ESGF
 * EOSC-Nordic
