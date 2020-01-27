@@ -47,7 +47,7 @@ Planned activities include:
 
 
 ### Collaborations
-#### Consortium:
+##### Consortium:
 * NSC, SE
 * UiO, NO
 * FMI, FI
@@ -60,7 +60,7 @@ Planned activities include:
 * DMI, DK
 * SMHI, SE
 
-#### Intended synergies with:
+##### Intended synergies with:
 * ESGF
 * EOSC-Nordic
 * EuroHPC
