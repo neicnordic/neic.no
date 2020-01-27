@@ -50,6 +50,8 @@ groups:
     role: Activity owner
   ndhl-po:
     role: Pre-study owner
+  nicest2-po:
+    role: Project owner
   neic2015-sg:
     role: Chair
     finished: yes
