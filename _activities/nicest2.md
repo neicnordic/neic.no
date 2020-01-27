@@ -35,6 +35,8 @@ groups:
 ---
 ## NICEST-2
 
+NICEST - Nordic Collaboration on e-Infrastructures for Earth System Modeling.
+
 ### Background
 
 Strengthen the Nordic position within climate modeling
