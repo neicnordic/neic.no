@@ -4,7 +4,7 @@ include: activity
 name: NDHL
 type: pre-study
 leader: kristoffer-nielbo
-phase: Preparation
+phase: Active
 start: 2019-10-01
 end: 2020-09-30
 results: https://wiki.neic.no/wiki/NDHL
