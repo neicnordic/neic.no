@@ -9,7 +9,7 @@ The I-SCAN study as a Tryggve use case
 
 <img src="{% include baseurl %}/assets/images/news/I-SCAN_LiseMHelsingen.jpg"
      alt="Lise M. Helsingen"
-     style="float: right;" /><br>
+     style="float: right; margin: 10px; height: 328px; /><br>
 
 I-SCAN is a study exploring the risk of cancer in patients with inflammatory bowel disease. Generally, there has been a belief that patients with IBD have an increased risk of cancer, but studies have shown that for many patients it may not be increased at all. The collaborative project, with the help of Tryggve, takes advantage of the Nordic registries and aims to give updated and valid estimates of cancer risk in IBD. 
 
@@ -38,3 +38,5 @@ Even with support from Tryggve it has proven to be difficult to get access and p
 People in the Nordic countries benefit from the I-SCAN study because it provides the most valid estimates of cancer risk among patients suffering from IBD. This is important information for both patients and clinicians. “In addition to this, we hope to identify risk factors that put subgroups of the IBD patients into higher and lower risk categories. This will help clinicians tailor their advice regarding therapy and surveillance to the individual. In this way they could offer closer follow-up to patients with higher risks, and less unnecessary follow-up of patients with a low risk.”
 
 For Helsingen, it has been a real learning experience to be a part of such a versatile research study. “I am a medical doctor by training, and before starting this project I was new to research. After three years working on the I-SCAN study I have learnt a lot! Also about things I did not foresee, such as data sharing, the art of research collaboration, GDPR and database management.”
+
+*Lise's photo is taken by Anita Aalby, University of Oslo.*
