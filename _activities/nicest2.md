@@ -40,10 +40,10 @@ groups:
 
 NICEST-2 - the second phase of the **Nordic Collaboration on e-Infrastructures for Earth System Modeling** focuses on strengthening the Nordic position within climate modeling by leveraging, reinforcing and complementing ongoing initiatives. It builds on previous efforts within NICEST (a 3-year NeIC project as of 2017-01) and NordicESM (3-year NordForsk funded project from 2014-12).
 
-Concretely planned activities include:
-1. enhance the performance and optimize and homogenize workflows used, so climate models (like EC-EARTH and NorESM) can be run in an efficient way on future computing resources (like EuroHPC).
-2. widen the usage and expertise on evaluating Earth System Models and develop new diagnostic modules for the Nordic region within the ESMValTool
-3. create a roadmap for FAIRification of Nordic climate model data
+Planned activities include:
+1. Enhance the performance and optimize and homogenize workflows used, so climate models (like EC-EARTH and NorESM) can be run in an efficient way on future computing resources (like EuroHPC).
+2. Widen the usage and expertise on evaluating Earth System Models and develop new diagnostic modules for the Nordic region within the ESMValTool
+3. Create a roadmap for FAIRification of Nordic climate model data
 
 
 ### Collaborations
