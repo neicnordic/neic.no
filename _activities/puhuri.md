@@ -37,15 +37,15 @@ groups:
 
 ### Background
 
-..*Seamless access to Lumi world-class supercomputer
-..*Deploying services for resource allocation and 	tracking, and federated group management
+* Seamless access to Lumi world-class supercomputer
+* Deploying services for resource allocation and 	tracking, and federated group management
 
 ### Collaborations
 Consortium:
-..*CSC – IT Center for Science, FI
-..*University of Iceland, IS
-..*Uninett Sigma2, NO
-..*ETAIS, EE
-..*SNIC, SE
-..*DeiC, DK
+* CSC – IT Center for Science, FI
+* University of Iceland, IS
+* Uninett Sigma2, NO
+* ETAIS, EE
+* SNIC, SE
+* DeiC, DK
 
