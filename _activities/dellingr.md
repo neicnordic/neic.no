@@ -5,7 +5,7 @@ name: Dellingr
 type: Project
 leader: john-white
 phase: Finished
-finished: true
+finished: no
 start: 2017-01-10
 end: 2020-03-15
 results: https://wiki.neic.no/wiki/Dellingr
