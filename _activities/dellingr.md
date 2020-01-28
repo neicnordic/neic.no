@@ -4,7 +4,7 @@ include: activity
 name: Dellingr
 type: Project
 leader: john-white
-phase: Finished
+phase: Execution
 finished: no
 start: 2017-01-10
 end: 2020-03-15
