@@ -39,4 +39,4 @@ People in the Nordic countries benefit from the I-SCAN study because it provides
 
 For Helsingen, it has been a real learning experience to be a part of such a versatile research study. “I am a medical doctor by training, and before starting this project I was new to research. After three years working on the I-SCAN study I have learnt a lot! Also about things I did not foresee, such as data sharing, the art of research collaboration, GDPR and database management.”
 
-*Lise's photo is taken by Anita Aalby, University of Oslo.*
+*Helsingen's photo is taken by Anita Aalby, University of Oslo.*
