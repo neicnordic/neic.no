@@ -27,4 +27,5 @@ CodeRefinery instructors get precedence. The rest is given away on a first-comes
 Please contact the regional Carpentries coordinator for the Nordics/Baltics, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get trained as an instructor.
 
 ## Privacy policy
-https://coderefinery.org/privacy-policy/
+Within NeIC: https://coderefinery.org/privacy-policy/
+The Carpentries: https://docs.carpentries.org/topic_folders/policies/privacy.html
