@@ -18,8 +18,10 @@ outreach:
 used_by: 
 user_guide:
 ---
-Instructor training workshops to learn to organise and teach Carpentries and CodeRefinery workshops to spread data literacy, programming skills and best software practices in the Nordics. Our train the trainer program aims at building partnerships with Research Software Engineers and researchers who are willing to lead skills' transfer within their local communities in the Nordics. Within the CodeRefinery instructor training focuses on learning how to teach tools and best practices in research software development.
-Within NeIC's Platinum membership within _The Carpentries_ we also have access to 15 instructor training seats per year. The training course runs over two full days. More details on certification afterwards and a link to the curriculum is found at [The Carpentries](https://carpentries.org/become-instructor/).
+Instructor training workshops to learn to organise and teach Carpentries and CodeRefinery workshops to spread data literacy, programming skills and best software practices in the Nordics. Our train the trainer program aims at building partnerships with Research Software Engineers and researchers who are willing to lead skills' transfer within their local communities in the Nordics.
+Two types of instructor training are offered:
+* Within CodeRefinery the instructor training focuses on learning how to teach tools and best practices in research software development.
+* Within NeIC's Platinum membership within _The Carpentries_ we also have access to 15 instructor training seats per year. The training course runs over two full days. More details on certification afterwards and a link to the curriculum is found at [The Carpentries](https://carpentries.org/become-instructor/).
 
 
 ## Access policy
