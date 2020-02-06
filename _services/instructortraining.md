@@ -2,7 +2,7 @@
 layout: master
 include: service
 name: Instructor training
-description: Instructor training.
+description: 2-days Instructor training.
 service_provider_name: The Carpentries via CodeRefinery
 service_provider_country_code: NO
 service_provider_homepage: 
@@ -22,9 +22,9 @@ Instructor training workshops to learn to organise and teach Carpentries and Cod
 Within NeIC's Platinum membership within _The Carpentries_ we have access to 15 instructor training seats per year. The training course runs over two full days. More details on certification afterwards and a link to the curriculum is found at [The Carpentries](https://carpentries.org/become-instructor/)
 
 ## Access policy
-[CodeRefinery](https://coderefinery.org) instructors get precedence. The rest is given away on a first-comes, first-served basis. Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your academic home institution should be coupled to one of those national e-infrastructure providers.
+[CodeRefinery](https://coderefinery.org) instructors get precedence. The rest is given away on a first-comes, first-served basis. Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your (academic) home institution should be coupled to one of those national e-infrastructure providers.
 
-Please contact the regional Carpentries coordinator for the Nordics/Baltics, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get trained as an instructor through NeIC's membership within the The Carpentries.
+Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get trained as an instructor through NeIC's membership within the The Carpentries.
 
 ## Privacy policy
 * [NeIC CodeRefinery privacy policy](https://coderefinery.org/privacy-policy/)
