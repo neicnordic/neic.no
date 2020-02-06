@@ -7,7 +7,7 @@ country: "NO"
 photo: assets/images/people/Thomas_Roeblitz.jpg
 email: thomas.roblitz@usit.uio.no
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
