@@ -41,5 +41,5 @@ groups:
     role: Project manager
     finished: yes
   glenna2:
-    finished: no
+    finished: yes
 ---
