@@ -24,7 +24,7 @@ NeIC is a Platinum member organzitation within _The Carpentries_, allowing us to
 ## Access policy
 Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your (academic) home institution should be coupled to one of those national e-infrastructure providers.
 
-Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get a local Carpentries workshop through NeIC's membership within The Carpentries.
+Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get a local Carpentries workshop through NeIC's membership within The Carpentries. She will help you to correctly fill out [the request form](https://amy.carpentries.org/forms/request_workshop/) and advice whether you need a self-organized or centrally organized course.
 
 
 
