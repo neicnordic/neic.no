@@ -11,14 +11,14 @@ type: Service
 status: Active
 support_email: support@coderefinery.org
 access_email: None
-start: 2019-01-01
-end: 2020-12-31
+start: 2018-11-01
+end: 2021-10-31
 results:
 outreach:
 used_by: 
-user_guide: https://coderefinery.org/lessons/
+user_guide: 
 ---
-Carpentries workshops focus on creating a motivating and engaging environment for learners with no or little digital skills while our three day workshops are the next step.
+Carpentries workshops focus on creating a motivating and engaging environment for learners with no or little digital skills while our CodeRefinery three day workshops are the next step.
 
 ## Access policy
 https://coderefinery.org/workshops/#requesting-a-workshop
@@ -26,4 +26,4 @@ https://coderefinery.org/workshops/#requesting-a-workshop
 Note that even though CodeRefinery is a Nordic project, we are interested in giving workshops also outside the Nordics and are able to do so provided that funding for travel and accommodation can be covered.
 
 ## Privacy policy
-https://coderefinery.org/privacy-policy/
+* https://coderefinery.org/privacy-policy/
