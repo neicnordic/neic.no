@@ -13,15 +13,6 @@ groups:
   xt:
     role: Area coordinator, until 2017.
     finished: yes
-  deepdive:
-    role: Project Manager
-    finished: yes
-  deepdive-sg:
-    role: Project Manager, Observer
-    finished: yes
-  deepdive-po:
-    role: Project Manager
-    finished: yes
   nicest:
     role: Project manager
     finished: yes
