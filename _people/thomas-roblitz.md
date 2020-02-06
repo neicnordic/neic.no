@@ -14,13 +14,11 @@ groups:
     role: Area coordinator, until 2017.
     finished: yes
   deepdive:
-    role: Project manager
     finished: yes
   deepdive-sg:
-    role: Project manager, Observer
+    role: Observer
     finished: yes
   deepdive-po:
-    role: Project manager
     finished: yes
   nicest:
     role: Project manager
