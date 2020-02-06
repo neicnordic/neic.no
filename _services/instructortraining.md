@@ -25,9 +25,9 @@ Two types of instructor training are offered:
 
 
 ## Access policy
-[CodeRefinery](https://coderefinery.org) instructors and volunteers get precedence. The rest is regulated on a first-comes, first-served basis. Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your (academic) home institution should be coupled to one of those national e-infrastructure providers.
+A person taking instructor training should be able to commit serving as an instructor of at least a couple of Carpentries or CodeRefinery workshops respectively.
 
-A person taking instructor training should be able to commit serving as an instructor of at least a couple of Carpentries workshops.
+[CodeRefinery](https://coderefinery.org) instructors and volunteers get precedence. The rest is regulated on a first-comes, first-served basis. Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your (academic) home institution should be coupled to one of those national e-infrastructure providers.
 
 Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get trained as an instructor through NeIC's membership within the The Carpentries.
 
