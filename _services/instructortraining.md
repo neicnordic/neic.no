@@ -30,5 +30,5 @@ Two types of instructor training are offered:
 Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get trained as an instructor through NeIC's membership within the The Carpentries.
 
 ## Privacy policy
-* [NeIC CodeRefinery privacy policy](https://coderefinery.org/privacy-policy/)
+* [CodeRefinery privacy policy](https://coderefinery.org/privacy-policy/)
 * [The Carpentries privacy policy](https://docs.carpentries.org/topic_folders/policies/privacy.html)
