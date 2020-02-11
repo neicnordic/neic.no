@@ -1,7 +1,7 @@
 ---
 title: "FAIR Data Stewardship course"
 summary: "NeIC and DM-Forum in Denmark are jointly hosting the second Nordic course FAIR Data Stewardship on 18-22 November 2019, this time in Copenhagen."
-photo: "/assets/images/latest-news-22.jpeg"
+photo: "/assets/images/latest-news-22.png"
 ---
 
 FAIR Data Stewardship course
