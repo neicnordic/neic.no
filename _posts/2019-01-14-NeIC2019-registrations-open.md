@@ -1,7 +1,7 @@
 ---
 title: "Registration for NeIC2019 is now open!"
 summary: "NeIC2019 is this year hosted by DeiC and will take place at the Tivoli Hotel & Congress Center in Copenhagen, 14- 16th May."
-photo: "/assets/images/latest-news-13-water.jpg"
+photo: "/assets/images/latest-news-13.png"
 ---
 
 Registration for NeIC2019 is now open!
