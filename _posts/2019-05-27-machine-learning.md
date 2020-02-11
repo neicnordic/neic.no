@@ -1,7 +1,7 @@
 ---
 title: "New course on Machine Learning in biodiversity science established"
 summary: "In May 2019, the University of Aarhus organized a workshop on 'Machine Learning for Biologists’, a three-day meeting designed to answer to the fast-growing demand for Machine Learning applications in Ecology and Biodiversity Informatics."
-photo: "/assets/images/latest-news-21.jpeg"
+photo: "/assets/images/latest-news-25.png"
 ---
 
 New course on Machine Learning in biodiversity science established 
