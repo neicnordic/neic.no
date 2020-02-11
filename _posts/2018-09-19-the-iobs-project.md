@@ -2,7 +2,7 @@
 title: "Improved Observation Usage in Numerical Weather Prediction (NWP): the iOBS Project"
 summary: "As a follow up to the work members of the first Glenna project performed together with experts at FMI, Met.Norway and SMHI to
 cloudify a scaled down numerical weather prediction (NWP) code, we will continue the collaboration with the same partners in a new project called iOBS, funded by Nordforsk and managed by NeIC."
-photo: "/assets/images/latest-news-13-water.jpg"
+photo: "/assets/images/latest-news-13.png"
 ---
 
 Improved Observation Usage in Numerical Weather Prediction (NWP): the iOBS Project
