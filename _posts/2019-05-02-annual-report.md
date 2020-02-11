@@ -1,7 +1,7 @@
 ---
 title: "NeIC 2018 annual report"
 summary: "A lot of exciting new developments took place during 2018, which will help shape the way the Nordic e-Infrastructure Collaboration (NeIC) works in the years to come. You can read more about what took place within NeIC in our 2018 annual report."
-photo: "/assets/images/latest-news-16.jpeg"
+photo: "/assets/images/latest-news-16.png"
 ---
 
 NeIC 2018 annual report 

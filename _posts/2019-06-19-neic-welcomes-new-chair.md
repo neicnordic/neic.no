@@ -1,7 +1,7 @@
 ---
 title: "Hans Karlsson new Chair of the NeIC Board"
 summary: "Hans Karlsson, Director of the Swedish National Infrastructure for Computing (SNIC), will serve a two-year term from the 14th June 2019. Hans Eide from UNINETT Sigma2 was elected Vice-Chair."
-photo: "/assets/images/latest-news-23.jpeg"
+photo: "/assets/images/latest-news-23.png"
 ---
 
 Hans Karlsson new Chair of the NeIC Board

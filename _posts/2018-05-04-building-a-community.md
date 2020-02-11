@@ -2,7 +2,7 @@
 title: "How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts?"
 summary: "This blog post is the result of the speed blogging session during NeIC All Hands Meeting 2018, where participants were given one hour to
 collaboratively write an opinion piece on various subject matters."
-photo: "/assets/images/latest-news-7-mountains.jpeg"
+photo: "/assets/images/latest-news-8.png"
 ---
 
 How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts?

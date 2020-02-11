@@ -3,7 +3,7 @@ title: "FAIR Awareness Day: Towards Automatic Data Re-Use"
 summary: "FAIR Data is data that is Findable, Accessible, Interoperable and Reusable by computers. This full day seminar provides an 
 introduction to what the FAIRification of (research) data entails, how it promotes open science (Open by default, closed as necessary) 
 and why this is part of good practice in Data Stewardship."
-photo: "/assets/images/latest-news-14-field_2.jpeg"
+photo: "/assets/images/latest-news-14.png"
 ---
 
 FAIR Awareness Day: Towards Automatic Data Re-Use

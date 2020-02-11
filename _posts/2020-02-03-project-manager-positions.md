@@ -1,7 +1,7 @@
 ---
 title: Open Project Manager positions in Puhuri & NICEST2
 summary: NeIC is looking for two Project Managers for its two new projects, Puhuri and NICEST2. The projects will start in 2020. Puhuri will work to enable seamless cross-border service access for Nordic scientists. NICEST2 is a continuation of NeIC’s NICEST project. We encourage both current NeIC staff and new candidates to apply.
-photo: "/assets/images/latest-news-7-mountains.jpeg"
+photo: "/assets/images/latest-news-8.png"
 ---
 
 Open Project Manager positions in Puhuri & NICEST2

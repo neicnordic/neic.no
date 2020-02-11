@@ -1,7 +1,7 @@
 ---
 title: NeIC welcomes Estonia as a new member
 summary: We are delighted to welcome Estonia as a member to NeIC. Estonia will now participate on equal footing with the current NeIC members - Denmark, Finland, Iceland, Norway and Sweden - and will have a seat at the NeIC Board.
-photo: "/assets/images/latest-news-13-water.jpg"
+photo: "/assets/images/latest-news-13.png"
 ---
 
 NeIC welcomes Estonia as a new member

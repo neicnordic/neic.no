@@ -1,7 +1,7 @@
 ---
 title: Open Project Manager position in Tryggve2
 summary: "NeIC is looking for a Project Manager for the Tryggve2 project. Tryggve offers a Nordic platform for collaboration on sensitive data by utilizing and connecting existing capabilities and services in the Nordic countries. The project is funded by NeIC and the ELIXIR nodes in Denmark, Finland, Norway and Sweden."
-photo: "/assets/images/latest-news-19.jpeg"
+photo: "/assets/images/latest-news-19.png"
 ---
 
 

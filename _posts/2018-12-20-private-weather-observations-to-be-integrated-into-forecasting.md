@@ -1,7 +1,7 @@
 ---
 title: "Private weather observations to be integrated into forecasting"
 summary: "Why should weather forecasts be based solely on observations coming from “official” weather stations, when there are millions of connected devices out there measuring surface pressure? Observations from the “Internet of things”, such as intelligent cars, phones, buildings and personal weather stations could be added to the mix, to provide even more detailed information on local to hyper-local meteorological phenomena."
-photo: "/assets/images/latest-news-11-sun_clouds.jpeg"
+photo: "/assets/images/latest-news-21.png"
 ---
 
 Private weather observations to be integrated into forecasting
