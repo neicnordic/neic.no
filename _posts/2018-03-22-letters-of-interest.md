@@ -1,7 +1,7 @@
 ---
 title: "NeIC calls for Letters of Interest for Collaboration and Requests for Information"
 summary: "NeIC will be gathering information throughout 2018 about the directions and goals for e-infrastructure in the Nordic region. We are inviting input and suggestions from the Nordic research and e-infrastructure communities in two ways, one for information that will be used by NeIC in the short term (2-3 years) and one for information that will be useful in the longer term (>5 years)."
-photo: "/assets/images/latest-news-6-field.jpeg"
+photo: "/assets/images/latest-news-7.png"
 ---
 
 NeIC calls for Letters of Interest for Collaboration and Requests for Information
