@@ -68,9 +68,9 @@ Supporting:
 * EOSC-Nordic
 * EuroHPC
 * INES
-* IPCC
+* WCRP-CMIP
 * IS-ENES
-
-* NT1
 * iOBS
+* NT1
+* Puhuri
 
