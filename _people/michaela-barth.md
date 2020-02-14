@@ -54,6 +54,8 @@ groups:
     role: Pre-study owner
   nicest2-po:
     role: Project owner
+  nicest2-sg:
+    role: Chair
   neic2015-sg:
     role: Chair
     finished: yes
