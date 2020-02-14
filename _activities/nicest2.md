@@ -7,8 +7,8 @@ leader: N/A
 phase: Preparation
 start: 2020-06-01
 end: 2023-05-31
-results: https://wiki.neic.no/wiki/NICEST
-outreach: https://wiki.neic.no/wiki/NICEST#Outreach
+results: https://wiki.neic.no/wiki/NICEST2#Results
+outreach: https://wiki.neic.no/wiki/NICEST2#Outreach
 [//]: # documents:
 [//]: #   - text: Project proposal
 [//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
