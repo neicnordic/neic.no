@@ -42,12 +42,13 @@ NICEST-2 - the second phase of the **Nordic Collaboration on e-Infrastructures f
 
 Planned activities include:
 1. Enhance the performance and optimize and homogenize workflows used, so climate models (like EC-EARTH and NorESM) can be run in an efficient way on future computing resources (like EuroHPC).
-2. Widen the usage and expertise on evaluating Earth System Models and develop new diagnostic modules for the Nordic region within the ESMValTool
-3. Create a roadmap for FAIRification of Nordic climate model data
+2. Widen the usage and expertise on evaluating Earth System Models and develop new diagnostic modules for the Nordic region within the ESMValTool.
+3. Create a roadmap for FAIRification of Nordic climate model data.
 
 
 ### Collaborations
 ##### Consortium:
+Co-funding:
 * NSC, SE
 * UiO, NO
 * FMI, FI
@@ -55,16 +56,20 @@ Planned activities include:
 * NORCE, NO
 * NERSC, NO
 * CSC, FI
-
+Supporting:
 * INAR, FI
 * DMI, DK
 * SMHI, SE
 
 
-##### Intended synergies with:
+##### Intended synergies or collaborations with:
 * ESGF
 * EOSC-Nordic
 * EuroHPC
 * INES
 * IPCC
 * IS-ENES
+
+* NT1
+* iOBS
+
