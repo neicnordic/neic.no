@@ -15,7 +15,7 @@ outreach: https://wiki.neic.no/wiki/NICEST#Outreach
 [//]: #   - text: Project plan
 [//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
 links:
-  - url: https://wiki.neic.no/wiki/NICEST
+  - url: https://wiki.neic.no/wiki/NICEST2
     text: External wiki
     description: External documentation, manuals and guides.
   - url: https://wiki.neic.no/int/NICEST
@@ -26,6 +26,9 @@ groups:
     name: Team
     minutes:
     frequency: in set-up.
+  nicest2-sg:
+    name: Steering Group
+    frequency: 3-4 per year
   nicest2-po:
     name: Project office
     description: Management.
