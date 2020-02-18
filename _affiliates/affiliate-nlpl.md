@@ -19,7 +19,7 @@ As part of its ‘virtual laboratory’, NLPL prepares and maintains software an
 #### Links & Documents
 [The public NLPL Wiki](http://wiki.nlpl.eu/index.php/Home) <br/>
 [External documents](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory) <br/>
-[Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf)
+[Work plan](https://wiki.neic.no/w/ext/img_auth.php/a/a9/20161220_NeIC_NLPL_workplan_approved.pdf) <br/>
 [Final report](https://wiki.neic.no/w/ext/img_auth.php/f/fb/NLPL-NeIC-Final_report.pdf)
 
 #### Project Contact Person
