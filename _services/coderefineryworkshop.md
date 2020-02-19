@@ -8,7 +8,7 @@ service_provider_country_code: NO
 service_provider_homepage: 
 category: Trainings
 type: Service
-status: Active
+status: Paused
 support_email: support@coderefinery.org
 access_email: None
 start: 2019-01-01
