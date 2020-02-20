@@ -64,6 +64,8 @@ Supporting:
 * INAR, FI
 * DMI, DK
 * SMHI, SE
+* DMS TalTech, EE
+
 
 
 ##### Intended synergies or collaborations with:
