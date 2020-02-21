@@ -49,6 +49,7 @@ Planned activities include:
 3. Create a roadmap for FAIRification of Nordic climate model data.
 
 
+
 ### Collaborations
 ##### Consortium:
 Co-funding:
@@ -64,7 +65,7 @@ Supporting:
 * INAR, FI
 * DMI, DK
 * SMHI, SE
-* DMS TalTech, EE
+* TalTech MSI, EE, EE
 
 
 
