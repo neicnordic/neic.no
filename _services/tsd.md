@@ -2,9 +2,9 @@
 layout: master
 include: service
 name: TSD
-description: The TSD – Service for Sensitive Data, is a platform for collecting, storing, analyzing and sharing sensitive data in compliance with the norwegian privacy regulation.
+description: The TSD – Service for Sensitive Data, is a platform for collecting, storing, analyzing and sharing sensitive data in compliance with the Norwegian privacy regulation.
 service_provider_name: University of Oslo
-service_provider_country_code: NO
+service_provider_country_code: "NO"
 service_provider_homepage: https://uio.no
 category: IaaS
 type: Service

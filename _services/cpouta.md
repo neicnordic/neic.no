@@ -4,7 +4,7 @@ include: service
 name: cPouta
 description: The cPouta Community Cloud service is an IaaS cloud computing service.
 service_provider_name: CSC
-service_provider_country_code: FI
+service_provider_country_code: "FI"
 service_provider_homepage: http://csc.fi
 category: IaaS
 type: Service

@@ -4,7 +4,7 @@ include: service
 name: Accessing biodiversity data through web services
 description: The workshop 'Accessing biodiversity data through web services' focuses on automated ways of retrieving and processing biodiversity data from public databases.
 service_provider_name: Swedish Biodiversity Data Infrastructure
-service_provider_country_code: SE
+service_provider_country_code: "SE"
 service_provider_homepage: https://biodiversitydata.se
 category: Trainings
 type: Service

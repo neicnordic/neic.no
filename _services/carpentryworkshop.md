@@ -4,7 +4,7 @@ include: service
 name: Carpentry workshop
 description: 2-day workshops in the Nordics and Estonia
 service_provider_name: CodeRefinery
-service_provider_country_code: NO
+service_provider_country_code: "NO"
 service_provider_homepage: 
 category: Trainings
 type: Service

@@ -4,7 +4,7 @@ include: service
 name: ePouta
 description: Secure and cost-effective cloud computing for processing sensitive data.
 service_provider_name: CSC
-service_provider_country_code: FI
+service_provider_country_code: "FI"
 service_provider_homepage: http://csc.fi
 category: IaaS
 type: Service
