@@ -4,8 +4,8 @@ include: service
 name: CodeRefinery workshop
 description: 3-day advanced workshops
 service_provider_name: CodeRefinery
-service_provider_country_code: "NO"
-service_provider_homepage: 
+service_provider_country_code: 
+service_provider_homepage: https://coderefinery.org/
 category: Trainings
 type: Service
 status: Paused
