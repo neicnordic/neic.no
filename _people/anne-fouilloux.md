@@ -11,6 +11,9 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   nicest2-sg:
+    role: Secretary
+  nicest2-po:
+    role: Project leader
   nicest:
   coderefinery:
 ---
