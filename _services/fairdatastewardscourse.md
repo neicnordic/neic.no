@@ -4,7 +4,7 @@ include: service
 name: FAIR data stewards course
 description: Training course to provide the basic skills for data stewards to the requirements to enable FAIR data for reuse of research outputs.
 service_provider_name: NeIC
-service_provider_country_code: ""
+service_provider_country_code: 
 service_provider_homepage: 
 category: Trainings
 type: Service
