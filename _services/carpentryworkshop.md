@@ -19,12 +19,12 @@ used_by:
 user_guide: https://coderefinery.org/lessons/
 ---
 Carpentries workshops focus on creating a motivating and engaging environment for learners with no or little digital skills while our regular CodeRefinery three-day workshops are the next step.
-NeIC is a Platinum member organzitation within _The Carpentries_, allowing us to self-organize and unlimited amount of Carpentries workshops with no additional workshop fees as long as the agreement is into effect. We are also entitled to 6 workshops coordinated centrally by The Carpentries per year including with outside instructors as long as instructor travel costs are covered. Any further centrally organized workshops get a 50% reduction in workshop fee.
+NeIC is a Platinum member organzitation within _The Carpentries_, allowing us to requeset for up to 6 workshops coordinated centrally by The Carpentries per membership year free of charge for administration fee of 2500 USD, as long as instructor travel costs are covered. Any further centrally organized workshops get a 50% reduction in workshop fee.
 
 ## Access policy
 Eligable NeIC members to apply are: IT Center for Science Ltd (CSC) in Finland, Computing Services University of Iceland (CSUI), Danish e-Infrastructure Cooperation (DeiC), Estonian Scientific Computing Infrastructure (ETAIS), Swedish National Infrastructure for Computing (SNIC) and UNINETT Sigma2 AS in Norway. Your (academic) home institution should be coupled to one of those national e-infrastructure providers.
 
-Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get a local Carpentries workshop through NeIC's membership within The Carpentries. She will help you to correctly fill out [the request form](https://amy.carpentries.org/forms/request_workshop/) and advice whether you need a self-organized or centrally organized course.
+Please contact the regional Carpentries coordinator for the Nordic and Baltics region, [Naoe Tatara](https://neic.no/people/naoe-tatara/) if you want to get a local Carpentries workshop through NeIC's membership within The Carpentries. She will help you to correctly fill out [the request form](https://amy.carpentries.org/forms/request_workshop/).
 
 
 
