@@ -11,6 +11,7 @@ type: Service
 status: Active
 support_email: support@lunarc.lu.se
 access_email: None
+datacite_doi: 
 start: 2019-01-01
 end: 2020-12-31
 results:

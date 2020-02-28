@@ -2,7 +2,7 @@
 layout: master
 include: service
 name: UT Rocket
-description: General purpose HPC cluster in UT HPCC.  Resources are provided for free under NeIC sponsorship and will not incur actual invoices.
+description: General purpose HPC cluster in UT HPCC.
 service_provider_name: University of Tartu
 service_provider_country_code: "EE"
 service_provider_homepage: http://hpc.ut.ee
@@ -11,6 +11,7 @@ type: Service
 status: Active
 support_email: support@hpc.ut.ee
 access_email: None
+datacite_doi: 10.23673/ph6n-0144
 start: 2019-01-01
 end: 2020-12-31
 results:

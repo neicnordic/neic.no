@@ -11,6 +11,7 @@ type: Service
 status: Active
 support_email: servicedesk@csc.fi
 access_email: tryggve-proposals@neic.no
+datacite_doi: 
 start: 2019-01-01
 end: 2020-12-31
 results:
