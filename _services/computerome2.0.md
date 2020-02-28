@@ -3,7 +3,7 @@ layout: master
 include: service
 name: Computerome 2.0
 description: Access to Computerome is available to everyone interested in Life Sciences
-service_provider_name: DeIC
+service_provider_name: DeiC
 service_provider_country_code: "DK"
 service_provider_homepage: http://www.computerome.dtu.dk
 category: HPC
