@@ -41,6 +41,16 @@
             </p>
             {% endif %}
 
+            {% if page.datacite_doi %}
+            <p class="no-space">
+              <b>CITE AS:</b>
+              <span class="color">
+                <b>doi: <a href="https://doi.org/{{ service.datacite_doi }}">{{ page.datacite_doi }}</a>
+                </b>
+              </span>
+            </p>
+            {% endif %}
+
             {% if page.projects %}
               <p class="top"><b>PROJECTS:</b></p>
               {% for project in page.projects %}
