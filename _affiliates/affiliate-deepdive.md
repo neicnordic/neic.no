@@ -7,13 +7,13 @@ name: DeepDive
 ## DeepDive
 
 ### Recent updates
-During spring 2020 we're finalizing our advisory paper to the European Commision, called ["Big Data in Marine Science"](https://www.marineboard.eu/7th-marine-board-forum)). 
+During spring 2020 we are finalizing our advisory paper to the European Commission, called ["Big Data in Marine Science"](https://www.marineboard.eu/7th-marine-board-forum)), a paper that will highlight many of the DeepDive results.
 
-We will continue our popular training activities in biodiversity informatics during 2020 with course topics such as "Spatial analysis of biodiversity data" (25-27. May 2020), "Python for biologists" (Gothenburg, 28-29. May 2020), and Data processing for phylogenomics & population genomics (28. Sep - 2. Oct 2020). For more information, please check the website of the [Gothenburg Global Biodiversity Center](https://ggbc.gu.se/).
+We will continue our popular training activities in biodiversity informatics during 2020 with courses on "Spatial analysis of biodiversity data" (Gothenburg, 25-27. May 2020), "Python for biologists" (Gothenburg, 28-29. May 2020), and Data processing for phylogenomics & population genomics (Kristineberg, 28. Sep - 2. Oct 2020). For more information, please check the website of the [Gothenburg Global Biodiversity Center](https://ggbc.gu.se/).
 
-Our development of the PlutoF management system for genetic biodiversity data continues as part of the [EOSC-NORDIC](https://www.eosc-nordic.eu/). The system is currently used to manage the data from Genomic observatories in the [EMBRC-ERIC](http://embrc.eu/).
+The development of the PlutoF management system for eco-genomic data continues as part of the [EOSC-NORDIC project](https://www.eosc-nordic.eu/).
 
-Our AI activities continue with the development image processing services for the [Underwater observatory](https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory) in the Koster National Park.
+Our AI activities continue with the development of image processing services for the [Underwater observatory](https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory) in the Koster National Park.
 
 ### About DeepDive
 DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics. Many questions within biodiversity research and nature conservation inherently require easy access to, and combination of, spatio-temporal biodiversity and ecosystem data. The data needs are not restricted to individual countries or areas, but spread wider depending on the temporal or geographical scale of the hypotheses.
