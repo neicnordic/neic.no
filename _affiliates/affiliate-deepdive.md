@@ -6,8 +6,14 @@ name: DeepDive
 
 ## DeepDive
 
-### Recent highlights
-Finalizing advisory paper (called [Future Science Brief](https://www.bonusportal.org/news/save_the_date!_7th_emb_forum_big_data_in_marine_science_29_april_2020_brussels.4225.news)) to the European Commision. Remaining activities for the last month include training event on 4. Dec (advanced python for biologists), AI workshop on 9-10 Dec in Gothenburg, and EOSC-Nordic activities with PlutoF.
+### Recent updates
+During spring 2020 we are finalizing our advisory paper to the European Commission, called ["Big Data in Marine Science"](https://www.marineboard.eu/7th-marine-board-forum)), a paper that will highlight many of the DeepDive results.
+
+We will continue our popular training activities in biodiversity informatics during 2020 with courses on "Spatial analysis of biodiversity data" (Gothenburg, 25-27. May 2020), "Python for biologists" (Gothenburg, 28-29. May 2020), and Data processing for phylogenomics & population genomics (Kristineberg, 28. Sep - 2. Oct 2020). For more information, please check the website of the [Gothenburg Global Biodiversity Center](https://ggbc.gu.se/).
+
+The development of the PlutoF management system for eco-genomic data continues as part of the [EOSC-NORDIC project](https://www.eosc-nordic.eu/).
+
+Our AI activities continue with the development of image processing services for the [Underwater observatory](https://www.zooniverse.org/projects/victorav/the-koster-seafloor-observatory) in the Koster National Park.
 
 ### About DeepDive
 DeepDive is a project for Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics. Many questions within biodiversity research and nature conservation inherently require easy access to, and combination of, spatio-temporal biodiversity and ecosystem data. The data needs are not restricted to individual countries or areas, but spread wider depending on the temporal or geographical scale of the hypotheses.
@@ -32,11 +38,13 @@ Below is a list of DeepDive publications:
 * [Linked Open Data for Taxonomic Databases: The Nordic/Baltic implementation](https://biss.pensoft.net/article/37332/)
 * [Establishing Taxon Links Between the Nordic/Baltic Countries via Linked Open Data](https://biss.pensoft.net/article/37428/)
 * [Linked Data Tools for Managing Taxonomic Databases](https://biss.pensoft.net/article/37329/)
+* more coming in 2020....
 <br>
 
 #### Links & Documents
 [The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
 [Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf)
+[Final project report](https://wiki.neic.no/wiki/File:NeIC_FinalReport_DeepDive_v4.pdf)
 
 #### Project Contact Person
 Matthias Obst
