@@ -1,6 +1,6 @@
 ---
 title: Abdulrahman Azab the new Tryggve Project Manager
-summary: The project manager for Tryggve changes at the start of March 2020, as Abdulrahman Azab from USIT, University of Oslo starts in the role. Azab has been part of the project team since the start of Tryggve1 project, and part of the Tryggve2 project management team from 2017. The outgoing project manager, Antti Pursula, has been nominated to lead international data services at CSC and therefore was not able to dedicate enough time to continue as Tryggve2 project manager.
+summary: The project manager for Tryggve changes at the start of March 2020, as Abdulrahman Azab from USIT, University of Oslo starts in the role. Azab has been part of the project team since the start of Tryggve1 project, and part of the Tryggve2 project management team from 2017. NeIC warmly welcomes Abdulrahman Azab to the new role!
 photo: "/assets/images/latest-news-22.png"
 ---
 
