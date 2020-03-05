@@ -9,7 +9,7 @@ Estonia joined the Nordic e-Infrastructure Collaboration
 
 **On Tuesday 11th February, the agreement for Estonia to join the Nordic e-Infrastructure Collaboration NeIC was signed at the Delta Centre in Tartu. This agreement gives Estonian research infrastructures the possibility to maintain and enhance their competitiveness and do more international cooperation.**
 
-The agreement was signed by Arne Flåøyen, Director for NordForsk and Andres Koppel, the chairman of the board of the Estonian Research Council.
+The agreement was signed by Arne Flåøyen, Director for NordForsk, Gudmund Høst, Director of NeIC, and Andres Koppel, the chairman of the board of the Estonian Research Council.
 
 “The agreement signed today is a remarkable step forward for Estonia as a well-known digital country. It gives our researchers the possibility to contribute with their knowledge to the cooperation between Nordic countries and thus maintain and enhance the competitiveness of our research infrastructures. Estonian Research Council is especially glad that our cooperation with NordForsk has been steadily intensifying over the last year,” said Andres Koppel.
 
