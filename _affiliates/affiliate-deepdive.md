@@ -43,8 +43,8 @@ Below is a list of DeepDive publications:
 
 #### Links & Documents
 [The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
-[Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf)
-[Final project report](https://wiki.neic.no/wiki/File:NeIC_FinalReport_DeepDive_v4.pdf)
+[Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf) <br/>
+[Final project report](https://wiki.neic.no/wiki/File:NeIC_FinalReport_DeepDive_v5.pdf)
 
 #### Project Contact Person
 Matthias Obst
