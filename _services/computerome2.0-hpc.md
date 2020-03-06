@@ -1,7 +1,7 @@
 ---
 layout: master
 include: service
-name: Computerome 2.0
+name: Computerome 2.0 - HPC
 description: Access to Computerome is available to everyone interested in Life Sciences
 service_provider_name: DeiC
 service_provider_country_code: "DK"
@@ -9,7 +9,7 @@ service_provider_homepage: http://www.computerome.dtu.dk
 category: HPC
 type: Service
 status: Active
-support_email: computerome@dtu.dk
+support_email: hpc@bio.dtu.dk
 access_email: None
 datacite_doi: 
 start: 2019-01-01
