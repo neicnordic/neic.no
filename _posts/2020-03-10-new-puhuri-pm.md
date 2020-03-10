@@ -1,6 +1,6 @@
 ---
 title: Jarno Laitinen the new Project Manager for Puhuri
-summary: Jarno Laitinen has been selected as the Project Manager for the Puhuri project. Puhuri will work to enable cross-border service access for Nordic scientists, and the first focus is Nordic access to the LUMI large scale HPC system resources. The 2-year project will begin in June 2020. 
+summary: Jarno Laitinen has been selected as the Project Manager for the Puhuri project. Puhuri will work to enable cross-border service access for Nordic scientists, and the first focus is Nordic access to the LUMI large scale HPC system resources. The 2-year project is expected to be launched in June 2020.
 photo: "/assets/images/latest-news-24.png"
 ---
 
