@@ -12,9 +12,9 @@ has_been_on_contract: yes
 groups:
   tryggve1:
   tryggve2:
-    role: Sub-project leader
+    role: Project leader
   tryggve2-pm:
-    role: Sub-project leader
+    role: Project leader
   tryggve2-rg:
-    role: Sub-project leader
+    role: Project leader
 ---
