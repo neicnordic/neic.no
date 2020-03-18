@@ -10,8 +10,6 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve-po:
-    role: Project leader
   tryggve1:
     role: Project leader
   tryggve1-rg:
@@ -21,13 +19,8 @@ groups:
   tryggve1-sg:
     role: Project leader, Observer
   tryggve2:
-    role: Project leader
   tryggve2-pm:
-    role: Project leader
   tryggve2-rg:
-    role: Project leader
   tryggve2-po:
-    role: Project leader
   tryggve2-sg:
-    role: Project leader, Observer
 ---
