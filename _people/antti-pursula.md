@@ -18,9 +18,4 @@ groups:
     role: Project leader
   tryggve1-sg:
     role: Project leader, Observer
-  tryggve2:
-  tryggve2-pm:
-  tryggve2-rg:
-  tryggve2-po:
-  tryggve2-sg:
 ---
