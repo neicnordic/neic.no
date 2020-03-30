@@ -2,7 +2,7 @@
 title: "The Open Call for Letters of Interest for Collaboration is now closed"
 summary: "NeIC is preparing a new five-year strategic plan for 2020-2025. In relation to this, NeIC gathered information throughout 2018
 about the directions and goals for e-infrastructure in the Nordic region. The deadline was the 15th of May."
-photo: "/assets/images/latest-news-8-myrull.jpeg"
+photo: "/assets/images/latest-news-9.png"
 ---
 
 The Open Call for Letters of Interest for Collaboration is now closed

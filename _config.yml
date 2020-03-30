@@ -3,6 +3,7 @@ markdown_ext: "md"
 # https://help.github.com/articles/redirects-on-github-pages/
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
 
 # https://github.com/jekyll/jekyll/issues/302
 permalink: pretty
@@ -35,6 +36,12 @@ collections:
   activities:
     output: true
     permalink: /:path/
+  services:
+     output: true
+     permalink: /:path/
+  affiliates:
+     output: true
+     permalink: /:path/
   people:
     output: true
     permalink: /:collection/:path/

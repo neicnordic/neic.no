@@ -1,0 +1,73 @@
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/services-banner.jpg);">
+</section>
+
+<section class="services">
+      <div class="container">
+          <div class="row" style="position: relative">
+              <div class="col-md-12" style="position: static;">
+                  <div class="content">
+                      <h2>Nordic e-Infrastructure Services</h2>
+                      <p>A Nordic e-Infrastructure Service is a service fulfilling the following criteria:<br>
+                          1. Complies with the <a href="{% include baseurl %}/services-rules/">EOSC Rules of Participation</a>;<br>
+                          2. Can be accessed cross-border (in the Nordics at least);<br>
+                          3. Service provider, e.g. National e-infrastructure, agrees to have it listed;<br>
+                          4. Service delivery is either automated or could be automated.<br>
+                        <br>
+                        <p>The following list contains the Nordic e-Infrastructure Services separated into three categories: High Performance Computing (HPC), Infrastructure as a Service (IAAS) and Training. You can also search for a specific service using the search field below.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+</section>
+
+<section class="services-list">
+      <div class="container">
+      <div class="col-md-12">
+          <div class="row">
+          <input type="text" id="search_service_input" onkeyup="searchServiceByName()" placeholder="Search for service by name..">
+          </div>
+      <div class="row">
+              <div class="services-color">
+                      <div class="left-services" style="position:static;">
+                          <ul class="linl-list" id="service_list">
+                              {% assign items = site.services | sort: 'category' %}
+                              {% for service in items %}
+                                  {% if forloop.first == true %}
+                                    {% assign current_category = service.category %}
+                                    <h3>{{ current_category }}</h3>
+                                {% else %}
+                                    {% if current_category != service.category %}
+                                        {% assign current_category = service.category %}
+                                        <h3>{{ current_category }}</h3>
+                                    {% endif %}
+                                {% endif %}
+                              {% assign current_category = service.category %}
+                              <li>
+                                  <a href="{% include baseurl %}{{ service.url }}">{{ service.name }}</a>
+                                  <!-- Thanks to https://www.flaticon.com/packs/rectangular-country-simple-flags -->
+                                  <p>Provided by <a style="font-size: inherit; display:inline; background-image: none;" href="{{ service.service_provider_homepage }}">{{ service.service_provider_name }}</a>
+                                      {% if service.service_provider_country_code %}<img width="18px" src="{% include baseurl %}/assets/images/flags/{{ service.service_provider_country_code }}.svg" />{% endif %}
+                                      {% if service.datacite_doi %}/ doi: <a style="font-size: inherit; display:inline; background-image: none;" href="https://doi.org/{{ service.datacite_doi }}">{{ service.datacite_doi }}</a>{% endif %}</p>
+                                  <p>{{ service.description }}</p>
+                              </li>
+                            {% endfor %}
+                          </ul>
+                      </div>
+                      <div class="clearfix"></div>
+            </div>
+              </div>
+
+      </div>
+      </div>
+</section>
+<section class="services-bottom">
+      <div class="container">
+          <div class="row" style="position: relative">
+              <div class="col-md-12" style="position: static;">
+                  <div class="content">
+                      <p>If you have any general questions regarding the Services list please contact neic-helpdesk at neic.no.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+</section>

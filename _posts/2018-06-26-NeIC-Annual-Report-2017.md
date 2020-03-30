@@ -1,7 +1,7 @@
 ---
 title: "NeIC 2017 Annual Report"
 summary: "To share with you all the things we have been up to in 2017 we have created the NeIC 2017 Annual Report. We hope you will enjoy the read!"
-photo: "/assets/images/latest-news-9-path.jpeg"
+photo: "/assets/images/latest-news-10.png"
 ---
 
 NeIC 2017 Annual Report

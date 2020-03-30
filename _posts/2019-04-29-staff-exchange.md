@@ -1,7 +1,7 @@
 ---
 title: "Staff Exchange – Juha Törnroos"
 summary: "Juha Törnroos participated in a staff exchange last year and worked in Barcelona for eight months. Juha is working in ELIXIR Finland and collaborated with the Spanish ELIXIR Node. He also works in the NeIC Tryggve project funded by NeIC and the ELIXIR nodes of participating countries."
-photo: "/assets/images/Juha_Tornroos_news.jpg"
+photo: "/assets/images/news/Juha_Tornroos.jpg"
 ---
 
 Staff Exchange – Juha Törnroos 

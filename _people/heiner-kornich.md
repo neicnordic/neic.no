@@ -12,6 +12,5 @@ has_been_on_contract: no
 groups:
   iobs-sg:
     role: SMHI
-    finished: yes    
 ---
 Head of meteorological research unit

@@ -14,5 +14,5 @@ groups:
     role: Self-service developer
   ahm19-oc:
     role: Hackathon organizer
-
+  wp-leaders:
 ---

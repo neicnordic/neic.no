@@ -41,6 +41,7 @@ show-groups:
 * [2-1 Databank](#2-1-databank)
 * [2-5 PhenoMeNal](#2-5-phenomenal)
 * [1-9 Neoepitope pipeline](#1-9-neoepitope-pipeline)
+* [1-10 NordTreat](#1-10-nordtreat)
 
 ### Preparation
 
@@ -130,3 +131,13 @@ Development of secure virtual environment in proximity to data
 Secure scalable containers for vaccibody analysis pipeline
 
 ---
+
+#### 1-10 NordTreat
+
+**Recipient contact:** Dirk Repsilber
+**Responsible person:** Henric Zazzi
+
+NORDTREAT is a multi-centre, cross-disciplinary collaborative project between academia, hospitals, biomedical companies and patient organisations, and expanding on already established collaboration across the Nordic countries (Sweden, Norway, Iceland, and Denmark).
+
+---
+

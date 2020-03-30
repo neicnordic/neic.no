@@ -11,10 +11,15 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
+    finished: yes
   poco-wg:
+    finished: yes
   coderefinery-sg:
     finished: yes
   neic2017-prg:
   ratatosk-sg:
     finished: yes
+  eosc-nordic:
+    role: Project Coordinator
+  wp-leaders:
 ---
