@@ -4,8 +4,8 @@ include: activity
 name: Dellingr
 type: Project
 leader: john-white
-phase: Execution
-finished: no
+finished: yes
+phase: Finished
 start: 2017-01-10
 end: 2020-03-15
 results: https://wiki.neic.no/wiki/Dellingr
