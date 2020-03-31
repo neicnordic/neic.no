@@ -31,9 +31,13 @@ Also, the Norwegian node of ELIXIR will collaborate with the National Institute 
 At a Nordic scale, NeIC is discussing possible activities in response to the COVID-19 crisis from a Nordic perspective. Some examples of such activities are:
 
 1) Obtaining access to all Nordic sequence data available in gisaid.org (Global Initiative on Sharing All Influenza Data) and developing a resource to undertake evolutionary mapping of all available data. This could be used as a backbone to facilitate further samples to be mapped and analysed in the context of Nordic strains, and to also map Nordic interchanges. 
+
 2) Using open source tools for transparent, reproducible analyses of viral datasets.
+
 3) Ensuring secure cloud infrastructure for sharing and analysing COVID-19 datasets that allows the users to bring and enhance the analyses with their own data and tools. 
-4)Assisting in setting up FAIR data points for the accessibility of content on regional, national or local scale. Patient journal data can be shared using FAIR data points to enable access and analysis of (sensitive) data across multiple sites via local / national FDPs that can be accessed without data leaving the institution or country. 
+
+4) Assisting in setting up FAIR data points for the accessibility of content on regional, national or local scale. Patient journal data can be shared using FAIR data points to enable access and analysis of (sensitive) data across multiple sites via local / national FDPs that can be accessed without data leaving the institution or country. 
+
 5) TSD is today used to collect consents to extract patient journal data for those of the respondents that will be hospitalised due to COVID-19. [The study](https://oslo-universitetssykehus.no/kliniske-studier/risiko-for-a-bli-smittet-av-koronavirus-i-norge) utilizes the TSD digital dynamic consent form, which could be used also in other Nordic countries. This would enable the same very rapid and digital collection of consents and questionnaires within the Nordics, giving larger cohorts and better data. 
 
 These are just a snapshot of the many creative ideas and suggestions that have been proposed to us, where NeIC could take a coordinating role on behalf of the Nordic countries. NeIC is currently looking into ways in which we could help our Nordic partners better in their support for COVID-19 research. Watch this space for further information regarding new NeIC initiatives responding to the COVID-19 crisis in the time to come. 
