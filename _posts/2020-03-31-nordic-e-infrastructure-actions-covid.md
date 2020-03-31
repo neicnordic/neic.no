@@ -29,7 +29,7 @@ The Norwegian national eInfrastructure for research on sensitive data, Tjenester
 
 Also, the Norwegian node of ELIXIR will collaborate with the National Institute of Public Health (NIPH/FHI) and other institutions that are sequencing and analysing SARS-CoV-2 within the Norwegian population, aiming to make data available for the research community.
 
-At a Nordic scale, NeIC is discussing possible activities in response to the COVID-19 crisis from a Nordic perspective. Some examples of such activities are:
+At a **Nordic** scale, NeIC is discussing possible activities in response to the COVID-19 crisis from a Nordic perspective. Some examples of such activities are:
 
 1) Obtaining access to all Nordic sequence data available in gisaid.org (Global Initiative on Sharing All Influenza Data) and developing a resource to undertake evolutionary mapping of all available data. This could be used as a backbone to facilitate further samples to be mapped and analysed in the context of Nordic strains, and to also map Nordic interchanges. 
 
