@@ -12,4 +12,6 @@ has_been_on_contract: no
 groups:
   puhuri:
     role: Project Manager
+  puhuri-pm:
+    role: Project Manager
 ---
