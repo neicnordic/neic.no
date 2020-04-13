@@ -4,6 +4,7 @@ include: activity
 name: Glenna2
 type: Project
 leader: dan-still
+finished: yes
 phase: Finished
 start: 2017-01-01
 end: 2020-03-30
