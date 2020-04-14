@@ -26,6 +26,9 @@ groups:
     name: Team
     minutes:
     frequency: in set-up.
+  puhuri-sg:
+    name: Steering Group
+    frequency: quaterly
   puhuri-po:
     name: Project office
     description: Management.
