@@ -14,4 +14,6 @@ groups:
     role: Project Manager
   puhuri-po:
     role: Project Manager
+  puhuri-sg:
+    role: Secretary, Project Manager
 ---
