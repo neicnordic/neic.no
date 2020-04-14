@@ -49,5 +49,7 @@ groups:
     role: Project owner, Chair
   nicest-po:
     role: Project owner
+  puhuri-sg:
+    role: Project owner, Chair
   project-analysis-rg:
 ---
