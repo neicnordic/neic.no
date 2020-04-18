@@ -81,7 +81,7 @@ Support to consumer data collection for public health benefit
 #### 1-1 Schizophrenia
 
 **Recipient contact:** Patrick Sullivan
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 Gene environment interaction for Schizophrenia 
 
@@ -99,7 +99,7 @@ Scandinavian cancer in Inflammatory Bowel Disease study
 #### 2-9 Impute
 
 **Recipient contact:** Patrick Sullivan
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 A distributed system for imputation against Nordic reference data
 
@@ -117,7 +117,7 @@ Danish national data archive for biobanking
 #### 2-5 PhenoMeNal
 
 **Recipient contact:** Ola Spjuth
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 Development of secure virtual environment in proximity to data
 
