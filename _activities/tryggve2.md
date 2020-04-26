@@ -4,7 +4,7 @@ include: activity
 name: Tryggve2
 type: Project
 hide-on-frontpage: yes
-leader: antti-pursula
+leader: abdulrahman-azab
 phase: Execution
 start: 2017-10-21
 end: 2020-10-31
