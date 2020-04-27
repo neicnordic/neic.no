@@ -76,6 +76,11 @@ show-groups:
     description: Project ownership issues.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
+  tryggve2-links:
+    name: Useful links
+    description: Tryggve useful links
+    absolute_link: https://neic.no/tryggve/links/
+    linkname: links
   tryggve2-mainpage:
     name: Tryggve main page
     absolute_link: https://neic.no/tryggve/
