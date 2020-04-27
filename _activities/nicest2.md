@@ -18,7 +18,7 @@ links:
   - url: https://wiki.neic.no/wiki/NICEST2
     text: External wiki
     description: External documentation, manuals and guides.
-  - url: https://wiki.neic.no/int/NICEST
+  - url: https://wiki.neic.no/int/NICEST2
     text: Internal wiki
     description: Internal working documents.
 groups:
