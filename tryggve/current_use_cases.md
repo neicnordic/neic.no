@@ -42,6 +42,10 @@ show-groups:
 * [2-5 PhenoMeNal](#2-5-phenomenal)
 * [1-9 Neoepitope pipeline](#1-9-neoepitope-pipeline)
 * [1-10 NordTreat](#1-10-nordtreat)
+* [1-11 SARS-CoV-2 Strain Database and analysis](#1-11-sars-cov-2-train-database-and-analysis)
+* [1-12 COVID-19 Secure cloud infrastructure](#1-12-covid-19-secure-cloud-infrastructure)
+* [1-13 VODAN](#1-13-vodan)
+
 
 ### Preparation
 
@@ -141,3 +145,32 @@ NORDTREAT is a multi-centre, cross-disciplinary collaborative project between ac
 
 ---
 
+#### 1-11 SARS-CoV-2 Strain Database and analysis
+
+**Recipient contact:** Eivind Hovig
+**Responsible person:** Abdulrahman Azab
+
+The aim is to propose new compounds for a treatment of COVID-19 patients. For this, we will develop a pipeline that can do a virtual ligand screening against the SARS-CoV-2 main protease Mpro. Moreover, the pipeline can be a proof of concept for a generic drug design pipeline that can be used by other cheminformaticians to fight other diseases. The inputs: 
+* Protein 3D structure of one or more virus proteins (there is a selection of proteins)
+* A library of millions of potential drug candidates (there is a selection of drug libraries)
+
+---
+
+#### 1-12 COVID-19 Secure cloud infrastructure
+
+**Recipient contact:** Frank Møller Aarestrup
+**Responsible person:** Ali Syed
+
+The ongoing COVID-19 outbreak has involved an unprecedented near real-time exchange of information with an exceptional number of individual researchers performing multiple analyses in parallel, using publicly available, as well as their own, data. It has, however, also became clear that there is an unmet demand for services based on the real-time comparison of different epidemiological analyses of the same data, as well a major need for exchange of more person-sensitive information, such as geolocalisation, patient information,  etc., between authorities, researchers and different countries.
+A blueprint for a cloud solution for use in the current COVID-19 outbreak that will be available for future outbreaks regardless of their size, using trusted data and secure standardised tool sets to enhance the analyses with the user's own data and customized methods.
+
+---
+
+#### 1-13 VODAN
+
+**Recipient contact:** Andreas Jaunsen
+**Responsible person:** Abdulrahman Azab
+
+We wish to enable the secure processing of epidemiological nCoV data (and data for any future outbreaks) based on the Personal Health Train concept, in alignment with the proposal of the VODAN project (https://www.go-fair.org/implementation-networks/overview/vodan/). The aim is to optimise the data management and data reuse by securing the data at the source (or other trusted local data hub) and enable "trains" to visit such stations to answer specific queries. The "stations" here would be FAIR Data Points (FDPs) that contain FAIR digital objects of WHO case record forms (CRF) that are accessible both by humans and machines.
+
+---
