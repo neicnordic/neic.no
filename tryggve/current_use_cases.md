@@ -44,8 +44,6 @@ show-groups:
 * [1-10 NordTreat](#1-10-nordtreat)
 * [1-11 SARS-CoV-2 Strain Database and analysis](#1-11-sars-cov-2-train-database-and-analysis)
 * [1-12 COVID-19 Secure cloud infrastructure](#1-12-covid-19-secure-cloud-infrastructure)
-* [1-13 VODAN](#1-13-vodan)
-
 
 ### Preparation
 
@@ -166,11 +164,3 @@ A blueprint for a cloud solution for use in the current COVID-19 outbreak that w
 
 ---
 
-#### 1-13 VODAN
-
-**Recipient contact:** Andreas Jaunsen
-**Responsible person:** Abdulrahman Azab
-
-We wish to enable the secure processing of epidemiological nCoV data (and data for any future outbreaks) based on the Personal Health Train concept, in alignment with the proposal of the VODAN project (https://www.go-fair.org/implementation-networks/overview/vodan/). The aim is to optimise the data management and data reuse by securing the data at the source (or other trusted local data hub) and enable "trains" to visit such stations to answer specific queries. The "stations" here would be FAIR Data Points (FDPs) that contain FAIR digital objects of WHO case record forms (CRF) that are accessible both by humans and machines.
-
----
