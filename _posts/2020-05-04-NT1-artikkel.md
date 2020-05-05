@@ -47,8 +47,7 @@ Furthermore, a third LHC experiment, the CMS, is utilizing the NT-1 infrastructu
 "Now we are exploring nature at subatomic scale, and how we in the future will be applying that knowledge nobody knows. But measuring is the starting point. When you go from exploring new territory to using the knowledge you have gained, you do that by making as precise measurements as possible. And for that we need as much data as possible."
 
 ## Initial scepticism
-A
-s mentioned, the Nordic Tier-1 site is special. It is designed differently compared to the other 12 Tier-1 sites, as it is built as a grid itself with data stored in 6 different locations: Bergen, Oslo, Copenhagen, Espoo, Umeå and Linköping.
+As mentioned, the Nordic Tier-1 site is special. It is designed differently compared to the other 12 Tier-1 sites, as it is built as a grid itself with data stored in 6 different locations: Bergen, Oslo, Copenhagen, Espoo, Umeå and Linköping.
 
 In the beginning, the other countries involved in the Worldwide LHC computing Grid met the Nordic decision to build a site distributed across four countries with scepticism. The grid itself being distributed, why build a distributed Tier1 also? 
 
