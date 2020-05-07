@@ -95,4 +95,4 @@ One of these is a radar system for the study of the Earth’s atmosphere and ion
 
 
 
-*The Nordic WLGC tier-1 facility is by far the longest-running project in the NeIC portfolio. It is set to continue until 2050, which is the entire lifetime of the LHC, plus an additional 15 years of storing the data from the experiments.*
+*The Nordic WLGC tier-1 facility is the longest-running project in the NeIC portfolio. It is set to continue until 2050, which is the entire lifetime of the LHC, plus an additional 15 years of storing the data from the experiments.*
