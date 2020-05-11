@@ -48,10 +48,6 @@ The project has created a checklist of items that are required for conducting cr
 
 #### Data Protection Impact Assessment
 
-According to [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/), when a type of personal processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data, a so called Data Protection Impact Assessment (**DPIA**)
+According to [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/), when a type of personal processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data, a so called Data Protection Impact Assessment (**DPIA**). Large-scale processing of sensitive data such as genetic or other health related data is listed by all Data Protection Authorities as requiring DPIAs.
 
-Large-scale processing of sensitive data such as genetic or other health related data is listed by all Data Protection Authorities as requiring DPIAs.
-
-The French Data Protection Authority has made a DPIA tool (endorsed by several other DPAs) available that can help in performing these impact assessments. 
-
-[PIA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
+The French Data Protection Authority has made a DPIA tool (endorsed by several other DPAs) available that can help in performing these impact assessments. See the [PIA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment) page for more information.
