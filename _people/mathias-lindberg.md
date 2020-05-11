@@ -10,6 +10,7 @@ phone:
 on_contract: yes
 has_been_on_contract: no
 groups:
+  provider-forum:
   glenna2:
     finishes: no
   
