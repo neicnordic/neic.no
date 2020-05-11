@@ -11,4 +11,6 @@ on_contract: no
 has_been_on_contract: no
 groups:
   dellingr-sg:
+  provider-forum:
+    finished: yes
 ---
