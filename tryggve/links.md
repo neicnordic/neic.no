@@ -44,7 +44,7 @@ Ethical, legal and social implications (ELSI) are topics that require close atte
 
 The project has created a checklist of items that are required for conducting cross-border human data research. It is meant to be a tool to help such projects to be aware of the requirements and identify gaps in these areas for the particular research cross-border collaborations.
 
-[ELSI checklist](../files/Tryggve_ELSI_checklist_v1.0_2019-12-17.docx)
+[ELSI checklist](../files/Tryggve_ELSI_checklist_v1.0_2019-12-17.docx) (MS Word file)
 
 #### Data Protection Impact Assessment
 
