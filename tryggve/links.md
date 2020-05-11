@@ -34,11 +34,20 @@ show-groups:
     linkname: Main page
 ---
 
-In this page you can find different links that provide information about Tryggve
-and also links to useful information and tools.
+On this page you can find links to resources produced in the Tryggve project as well as other useful information.
 
-Ethical, social, and legal issues
-[ELSI](https://neic.no/tryggve/files/Tryggve_ELSI_checklist_v1.0_2019-12-17.docx)
+### Ethical, Social, and Legal Implications
 
-Data Protection Impact Assessment
-[DPIA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
+#### ELSI checklist
+
+Ethical, legal and social implications (ELSI) are topics that require close attention when dealing with human data. The Tryggve ELSI activity aims to assess and document requirements associated with cross-border sharing, moving, storing and/or processing of human data for research purposes. 
+
+The project has created a checklist of items that are required for conducting cross-border human data research. It is meant to be a tool to help such projects to be aware of the requirements and identify gaps in these areas for the particular research cross-border collaborations.
+
+* [ELSI checklist](../files/Tryggve_ELSI_checklist_v1.0_2019-12-17.docx) (MS Word file)
+
+#### Data Protection Impact Assessment
+
+According to [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/), when a type of personal processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data, a so called Data Protection Impact Assessment (**DPIA**). Large-scale processing of sensitive data such as genetic or other health related data is listed by all Data Protection Authorities as requiring DPIAs.
+
+The French Data Protection Authority has made a DPIA tool (endorsed by several other DPAs) available that can help in performing these impact assessments. See the [PIA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment) page for more information.
