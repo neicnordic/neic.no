@@ -1,7 +1,7 @@
 ---
 title: "FAIR data stewardship: Supporting FAIR data interoperability"
 summary: "This 4-day course is a fully fledged training event which will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application."
-photo: "/assets/images/latest-news-12-sunset.jpeg"
+photo: "/assets/images/latest-news-12.png"
 ---
 
 FAIR data stewardship: Supporting FAIR data interoperability

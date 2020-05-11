@@ -4,11 +4,14 @@ include: activity
 name: Ratatosk
 type: Operations
 leader: anne-marie-bach
-phase: Execution
+phase: Finished
 start: 2017-04-21
-end:
+end: 2019
 finished: true
-results: N/A
+results: https://wiki.neic.no/wiki/Ratatosk#Results
+documents:
+  - text: Ratatosk Final Report
+    url: https://wiki.neic.no/wiki/File:191220-Ratatosk-Final_report.pdf
 outreach: N/A
 links:
   - text: Nordic training portals
@@ -37,7 +40,7 @@ groups:
     minutes: https://wiki.neic.no/wiki/Category:Ratatosk_steering_group_meetings
     frequency: 3-4 yearly
 ---
-The Ratatosk mobility enhancement programme is a NeIC training activity with a
+The Ratatosk mobility enhancement programme was a NeIC training activity with a
 yearly budget of 0.5 million NOK.
 
 
@@ -46,13 +49,3 @@ yearly budget of 0.5 million NOK.
 The goal of training is to raise competence in staff and end users which leads to more effective and productive work by the Nordic e-infrastructure community. The benefits include more efficient operations and use of resources and an improved capability for the researchers in conducting research.
  
 NeIC's interest in training is focused on e-Science and e-infrastructure skills among scientists and e-infrastructure personnel in the Nordic region, for the purpose of raising the quality of the scientific output.
-
-### Approach
-
-The Ratatosk Nordic mobility enhancement programme efforts are directed to increasing the opportunities for trainees in two ways:
-
-* First is the student mobility part ([travel grants](../training/travel-grant)) enabling trainees to travel to attend Nordic training courses which are not available locally.  
-
-* The second, the [course mobility](../training/course-mobility) part of the programme, is by supporting training courses as movable modules that can bring the training closer to the trainees.
-
-

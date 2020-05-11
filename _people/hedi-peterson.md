@@ -10,4 +10,5 @@ phone:
 on_contract: no
 groups:
   coderefinery-sg:
+    finished: yes
 ---

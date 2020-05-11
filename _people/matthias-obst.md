@@ -10,6 +10,8 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  deepdive:
+    role: Project manager
   deepdive-sg:
     role: Project manager
   deepdive-po:

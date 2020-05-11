@@ -4,7 +4,7 @@ include: activity
 name: NeIC All-hands 2019
 type: Project
 leader: oxana-smirnova
-phase: In progress
+phase: Finished
 start: 2018-06-18
 end: 2019-01-31
 finished: yes

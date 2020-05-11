@@ -51,13 +51,14 @@ groups:
     frequency: 3-4 per year
   coderefinery-rg:
     name: Reference group
+    minutes: https://wiki.neic.no/wiki/CodeRefinery-reference-group-meetings
     description: Advisory.
     frequency: on demand (1 per year)
   coderefinery-po:
     name: Project office
     description: Management.
     minutes: https://wiki.neic.no/int/CodeRefinery
-    frequency: Weekly
+    frequency: bi-Weekly
 ---
 
 The goal of this Nordic e-Infrastructure Collaboration project is to provide

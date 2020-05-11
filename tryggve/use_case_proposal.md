@@ -31,9 +31,8 @@ show-groups:
 
 ## Submit a Use Case Proposal
 
-Use Cases for Tryggve can be proposed online at any time. There are two alternatives for doing this: either provide information on your research case in an online form, or download and complete a .docx template and submit it by email to [tryggve-proposals@neic.no](mailto:tryggve-proposals@neic.no). Please select one of the two options:
-* **[Online form](https://docs.google.com/forms/d/e/1FAIpQLScWMEzgcuhufIH2ZKsrsxCES3lI1v06pBIed5-ZL523i0Ohxg/formResponse)**.
-* **[.docx template](https://drive.google.com/open?id=1Ibr8K9UAMDrHc8ZBzT2PYdivhKlf6yRx)** for download
+Use Cases for Tryggve can be proposed at any time using
+**[.docx template](https://drive.google.com/open?id=1Ibr8K9UAMDrHc8ZBzT2PYdivhKlf6yRx)** as template
 
 Please do not submit any sensitive data in your use case description. Basic use case info will be made public on acceptance, see List of current use cases below.
 

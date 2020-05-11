@@ -4,7 +4,7 @@ include: activity
 name: Tryggve2
 type: Project
 hide-on-frontpage: yes
-leader: antti-pursula
+leader: abdulrahman-azab
 phase: Execution
 start: 2017-10-21
 end: 2020-10-31
@@ -53,5 +53,10 @@ groups:
     description: Project ownership issues.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
+  tryggve2-links:
+    name: Useful links
+    description: Tryggve useful links
+    absolute_link: https://neic.no/tryggve/links/
+    linkname: links
 ---
 Tryggve2 continues the collaboration of the first [Tryggve](../tryggve/) project.

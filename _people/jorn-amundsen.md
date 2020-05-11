@@ -10,4 +10,5 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  puhuri-sg:
 ---

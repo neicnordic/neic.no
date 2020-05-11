@@ -55,6 +55,7 @@
     margin-top: 15px;
     margin-bottom: 25px;
     }
+
     body section.wys-editer .side-bar {margin-top: 15px;}
     body section.current-events .left-event {width: 100%;}
     body section.current-events .right-event {display: none;}
@@ -154,6 +155,12 @@ footer .col-md-6.col-sm-6:first-child {    width: 66%;
     body section.about h2 {margin-top:20px;font-size: 30px;}
     body section.about p {font-size: 20px;
     line-height: 25px;}
+    body section.about .content .services {
+    position: relative;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    }
     body section.about ul.linl-list{margin-top: 0;}
     body section.about ul.linl-list li a {font-size: 20px;padding: 0px;}
     body section.current-events {padding: 30px 0px;}
@@ -408,6 +415,26 @@ body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing
     body section.single-activities .toogle-box-big .panel .panel-collapse.collapsing .panel-body .single-publications-list .publications-details a.btn-go {
     font-size: 13px;
 }
+    body section.affiliate h2  {font-size: 30px;margin-bottom: 24px;}
+    body section.affiliate {padding: 30px 0;}
+    body section.affiliate p {font-size: 14px;margin-bottom: 24px;}
+    body section.affiliate ul.linl-list li a {font-size: 18px;background-size: auto 14px;}
+    body section.affiliate-list .left-activities h2 {font-size: 30px;margin-bottom: 15px;}
+    body section.affiliate-list .right-activities {display: none;}
+    body section.affiliate-list {padding: 34px 0;}
+    body section.affiliate-list .left-activities {width: 100%;
+        padding: 15px;}
+    body section.affiliate-list ul.linl-list li a {font-size: 20px;
+     }
+     
+     body section.services h2  {font-size: 30px;margin-bottom: 24px;}
+    body section.services {padding: 30px 0 0;}
+    body section.services p {font-size: 14px;margin-bottom: 24px;}
+     body section.services-list ul.linl-list .left-services {width: 90%;}
+     body section.services-list ul.linl-list .left-services h3 {font-size: 25px;}
+     body section.services-list ul.linl-list li a {font-size: 20px;
+     }
+     
     body section.publications .publications-list-block .single-publications-list:last-child {margin-bottom:0;padding-bottom: 0;}
 body section.training .description p {font-size:16px;}
 body section.contact .team .team-nav-bar .left-bar .back-btn {

@@ -1,0 +1,118 @@
+{% assign this_service = page.path | replace: '_services/', ''  | replace: '.md', '' %}
+{% assign leader_path = "_people/" | append: page.leader | append: ".md" %}
+{% assign leader = site.people | where:"path", leader_path  | first %}
+
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/services-banner.jpg);">
+</section>
+
+<section class="wys-editer single-activities">
+  <div class="container">
+    <h1>{{ page.name }}
+      {% if page.access_email == 'None' %}
+      <a class="btn with-border black-hover-btn" target="_blank" href="https://share.neic.no/">Get access</a>
+      {% else %}
+      <a class="btn with-border black-hover-btn" href="mailto:{{page.access_email}}">Request access</a>
+      {% endif %}
+      </h1>
+    <div class="tagline">{{ page.tagline }}</div>
+    <div class="row">
+      <div class="col-md-7">
+        <div class="content">
+
+          <div class="project-box">
+            {% if page.type %}<h2>{{ page.type }}</h2>{% endif %}
+            <p class="top">
+              {% if page.status %}
+                <b>STATUS:</b> {{ page.status }}
+              {% endif %}
+            </p>
+
+            <p class="no-space">
+              <b>PROVIDED BY:</b>
+              <span class="color"><b>{{ page.service_provider_name }}</b>
+               {% if page.service_provider_country_code %}<img width="18px" src="{% include baseurl %}/assets/images/flags/{{ page.service_provider_country_code }}.svg" />{% endif %}
+              </span>
+            </p>
+
+            {% if page.used_by %}
+            <p class="no-space">
+              <b>USED BY:</b>
+              <span class="color"><b>{{ page.used_by }}</b></span>
+            </p>
+            {% endif %}
+
+            {% if page.datacite_doi %}
+            <p class="no-space">
+              <b>CITE AS:</b>
+              <span class="color">
+                <b>doi: <a href="https://doi.org/{{ page.datacite_doi }}">{{ page.datacite_doi }}</a>
+                </b>
+              </span>
+            </p>
+            {% endif %}
+
+            {% if page.projects %}
+              <p class="top"><b>PROJECTS:</b></p>
+              {% for project in page.projects %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=project.url %}">{{ project.text | default: project.url }}</a></b></span>
+                  {% if project.description %} - {{ project.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.support_email %}
+             <p class="top">
+                <span class="color"><b><a href="mailto:{{ page.support_email }}">E-mail to support</a></b></span>
+             </p>
+            {% endif %}
+            {% if page.user_guide %}
+             <p class="no-space">
+                <span class="color"><b><a href="{{ page.user_guide }}">User guide</a></b></span>
+             </p>
+            {% endif %}
+
+            {% if page.links %}
+              <p class="top"><b>LINKS:</b></p>
+              {% for link in page.links %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+            {% if page.documents %}
+              <p class="top"><b>DOCUMENTS</b></p>
+              {% for link in page.documents %}
+                <p class="no-space">
+                  <span class="color"><b><a href="{% include conditional_baseurl url=link.url %}">{{ link.text | default: link.url }}</a></b></span>
+                  {% if link.description %} - {{ link.description }}{% endif %}
+                </p>
+              {% endfor %}
+            {% endif %}
+
+          </div>
+
+          {{ content }}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+  if ($(window).width() < 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  $(window).resize(function() {
+  if ($(window).width() <= 960) {
+    $( "section.single-activities .toogle-box-small .panel:first-child a.box" ).addClass( "collapsed" );
+   $( "section.single-activities .toogle-box-small .panel:first-child .panel-collapse" ).removeClass( "in" );
+    }
+  });
+});
+</script>

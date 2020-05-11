@@ -1,7 +1,7 @@
 ---
 title: New Communications Officer position open within NeIC
 summary: "NeIC is seeking a Communications Officer and/or Web Developer to fill one or more 20-40% positions"
-photo: "/assets/images/latest-news-10-rain.jpeg"
+photo: "/assets/images/latest-news-11.png"
 ---
 
 # New Communications Officer position open within NeIC

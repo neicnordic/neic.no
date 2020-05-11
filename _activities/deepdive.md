@@ -4,7 +4,8 @@ include: activity
 name: DeepDive
 type: Project
 leader: matthias-obst
-phase: Execution
+phase: Finished
+finished: true
 start: 2017-01-01
 end: 2019-12-31
 documents:
