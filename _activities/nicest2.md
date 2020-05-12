@@ -54,7 +54,7 @@ Planned activities include:
 ##### Consortium:
 Co-funding:
 * NSC, SE
-* UiO, NO
+* Sigma2 / UiO, NO
 * FMI, FI
 * METNO, NO
 * NORCE, NO
