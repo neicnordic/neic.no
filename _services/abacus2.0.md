@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: support@escience.sdu.dk
 access_email: None
-datacite_doi: 
+datacite_doi: 10.23673/g1t1-7z71
 start: 2019-01-01
 end: 2020-12-31
 results:

@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: support@cloud.snic.se
 access_email: N/A
-datacite_doi: 
+datacite_doi: 10.23673/nzcj-7j67
 start: 2019-01-01
 end: 2020-12-31
 results:

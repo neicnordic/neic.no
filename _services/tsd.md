@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: tsd-drift@usit.uio.no
 access_email: tsd-contact@usit.uio.no
-datacite_doi: 
+datacite_doi: 10.23673/3kck-5259
 start: 2019-01-01
 end: 2020-12-31
 results:
