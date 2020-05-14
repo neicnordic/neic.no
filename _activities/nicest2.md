@@ -56,7 +56,7 @@ Co-funding:
 * NSC, SE
 * Sigma2 / UiO, NO
 * FMI, FI
-* METNO, NO
+* MET Norway, NO
 * NORCE, NO
 * NERSC, NO
 * CSC, FI
