@@ -65,7 +65,7 @@ Supporting:
 * INAR, FI
 * DMI, DK
 * SMHI, SE
-* TalTech MSI, EE, EE
+* TalTech MSI, EE
 
 
 
