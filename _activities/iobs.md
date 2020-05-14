@@ -6,8 +6,8 @@ type: Project
 leader: anette-lauen-borg
 phase: Execution
 start: 2019-01-01
-end: 2020-12-31
-results: https://wiki.neic.no/wiki/iOBS
+end: 2021-06-30
+results: https://wiki.neic.no/wiki/iOBS#Approved_deliverables
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
   - text: Project directive
