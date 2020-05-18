@@ -22,6 +22,9 @@ links:
   - url: https://wiki.neic.no/int/Glenna
     text: Internal wiki
     description: Internal working documents.
+  - url: https://neic.no/glenna2/
+    text: Glenna2
+    description: The follow up project.
 groups:
   glenna:
     name: Team
