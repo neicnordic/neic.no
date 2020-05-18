@@ -29,10 +29,11 @@ groups:
   nicest2-sg:
     name: Steering Group
     frequency: 3-4 per year
+    minutes: https://indico.neic.no/category/21/
   nicest2-po:
     name: Project office
     description: Management.
-[//]: #     minutes: https://wiki.neic.no/int/Category:NICEST2_management_meetings
+    minutes: https://wiki.neic.no/int/Category:NICEST2_management_meetings
     frequency: (bi-)weekly
      
 ---
