@@ -43,13 +43,11 @@ show-groups:
 * [1-9 Neoepitope pipeline](#1-9-neoepitope-pipeline)
 * [1-10 NordTreat](#1-10-nordtreat)
 * [1-11 SARS-CoV-2 Strain Database and analysis](#1-11-sars-cov-2-train-database-and-analysis)
-* [1-12 COVID-19 Secure cloud infrastructure](#1-12-covid-19-secure-cloud-infrastructure)
-
-### Preparation
+* [2-11 COVID-19 Secure cloud infrastructure](#2-11-covid-19-secure-cloud-infrastructure)
 
 ---
 
-#### 1-4 NorTwinCam
+### 1-4 NorTwinCam
 
 **Recipient contact:** Jaakko Kaprio
 **Responsible person:** Minna Ahokas
@@ -58,7 +56,7 @@ Secure centralized processing of distributed sensitive data in Nordic Twin Study
 
 ---
 
-#### 2-2 CRC
+### 2-2 CRC
 
 **Recipient contact:** Ulla Rudsander
 **Responsible person:** Jaakko Leinonen
@@ -67,29 +65,25 @@ Use of secure cloud cross-borders
 
 ---
 
-#### 2-7 Consumer Data
+### 2-7 Consumer Data
 
 **Recipient contact:** Frederik Trier Møller 
-**Responsible person:** Erland Hochheim
+**Responsible person:** Ali Syed
 
 Support to consumer data collection for public health benefit 
 
 ---
 
-### Implementation
-
----
-
-#### 1-1 Schizophrenia
+### 1-1 Schizophrenia
 
 **Recipient contact:** Patrick Sullivan
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 Gene environment interaction for Schizophrenia 
 
 ---
 
-#### 1-3 I-SCAN
+### 1-3 I-SCAN
 
 **Recipient contact:** Lise Helsingen
 **Responsible person:** Henric Zazzi
@@ -98,34 +92,34 @@ Scandinavian cancer in Inflammatory Bowel Disease study
 
 ---
 
-#### 2-9 Impute
+### 2-9 Impute
 
 **Recipient contact:** Patrick Sullivan
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 A distributed system for imputation against Nordic reference data
 
 ---
 
-#### 2-1 Databank
+### 2-1 Databank
 
 **Recipient contact:** Bart Wilkowski
-**Responsible person:** Erland Hochheim
+**Responsible person:** Ali Syed
 
 Danish national data archive for biobanking
 
 ---
 
-#### 2-5 PhenoMeNal
+### 2-5 PhenoMeNal
 
 **Recipient contact:** Ola Spjuth
-**Responsible person:** Abdulrahman Azad
+**Responsible person:** Abdulrahman Azab
 
 Development of secure virtual environment in proximity to data
 
 ---
 
-#### 1-9 Neoepitope pipeline
+### 1-9 Neoepitope pipeline
 
 **Recipient contact:** Monika Sekelja
 **Responsible person:** Henric Zazzi
@@ -134,7 +128,7 @@ Secure scalable containers for vaccibody analysis pipeline
 
 ---
 
-#### 1-10 NordTreat
+### 1-10 NordTreat
 
 **Recipient contact:** Dirk Repsilber
 **Responsible person:** Henric Zazzi
@@ -143,7 +137,7 @@ NORDTREAT is a multi-centre, cross-disciplinary collaborative project between ac
 
 ---
 
-#### 1-11 SARS-CoV-2 Strain Database and analysis
+### 1-11 SARS-CoV-2 Strain Database and analysis
 
 **Recipient contact:** Eivind Hovig
 **Responsible person:** Abdulrahman Azab
@@ -154,7 +148,7 @@ The aim is to propose new compounds for a treatment of COVID-19 patients. For th
 
 ---
 
-#### 1-12 COVID-19 Secure cloud infrastructure
+### 2-11 COVID-19 Secure cloud infrastructure
 
 **Recipient contact:** Frank Møller Aarestrup
 **Responsible person:** Ali Syed
