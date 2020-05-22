@@ -11,13 +11,11 @@ results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
    - text: Collaboration Agreement and Project proposal 
-     url:  
+     url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
    - text: Project plan
-     url: 
-     https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
+     url: https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
    - text: Business Case
-     url: 
-     https://wiki.neic.no/wiki/File:Puhuri_Business_Case.pdf
+     url: https://wiki.neic.no/wiki/File:Puhuri_Business_Case.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
