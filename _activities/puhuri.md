@@ -15,7 +15,7 @@ documents:
    - text: Project plan
      url: https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
    - text: Business Case
-     url: https://wiki.neic.no/wiki/File:Puhuri_Business_Case.pdf
+     url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
