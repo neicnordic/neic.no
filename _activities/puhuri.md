@@ -9,11 +9,15 @@ start: 2020-06-01
 end: 2022-05-31
 results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
-[//]: # documents:
-[//]: #   - text: Project proposal
-[//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
-[//]: #   - text: Project plan
-[//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
+documents:
+   - text: Collaboration Agreement and Project proposal 
+     url:  
+   - text: Project plan
+     url: 
+     https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
+   - text: Business Case
+     url: 
+     https://wiki.neic.no/wiki/File:Puhuri_Business_Case.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
