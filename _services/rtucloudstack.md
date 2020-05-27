@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: janis.kampars@rtu.lv
 access_email: janis.kampars@rtu.lv
-datacite_doi: 
+datacite_doi: 10.23673/g42r-ge02
 start: 2019-01-01
 end: 2020-12-31
 results:

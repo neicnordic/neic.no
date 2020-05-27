@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: servicedesk@csc.fi
 access_email: None
-datacite_doi: 
+datacite_doi: 10.23673/v7m7-0a50
 start: 2019-01-01
 end: 2020-12-31
 results:
