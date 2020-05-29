@@ -36,7 +36,6 @@ groups:
     frequency: quaterly
   puhuri-po:
     name: Project office
-    description: Management.
     minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
     frequency: weekly
      
