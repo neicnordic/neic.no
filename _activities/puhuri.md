@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: Puhuri
 type: Project
-leader: N/A
+leader: https://neic.no/people/jarno-laitinen/
 phase: Preparation
 start: 2020-06-01
 end: 2022-05-31
