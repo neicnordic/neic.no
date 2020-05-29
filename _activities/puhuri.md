@@ -10,6 +10,8 @@ end: 2022-05-31
 results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
+   - text: Project Plan
+     url: https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
    - text: Collaboration Agreement and Project proposal 
      url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
    - text: Terms of Reference of the Reference Group
@@ -26,16 +28,17 @@ links:
 groups:
   puhuri:
     name: Team
-    minutes:
-    frequency: in set-up.
+    minutes: [https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 minutes] (in internal wiki)
+    frequency: every two weeks
   puhuri-sg:
     name: Steering Group
     frequency: quaterly
+    minutes: [https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings SG minutes]
   puhuri-po:
     name: Project office
     description: Management.
-[//]: #     minutes: https://wiki.neic.no/int/Category:NDHL_management_meetings
-    frequency: bi-weekly
+    minutes: [https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 minutes] (in internal wiki)
+    frequency: weekly
      
 ---
 ## Puhuri
