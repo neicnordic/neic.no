@@ -28,7 +28,7 @@ links:
 groups:
   puhuri:
     name: Team
-    minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 (in internal wiki)
+    minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
     frequency: every two weeks
   puhuri-sg:
     name: Steering Group
@@ -37,7 +37,7 @@ groups:
   puhuri-po:
     name: Project office
     description: Management.
-    minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 minutes (in internal wiki)
+    minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
     frequency: weekly
      
 ---
