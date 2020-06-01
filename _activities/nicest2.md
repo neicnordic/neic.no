@@ -21,6 +21,9 @@ links:
   - url: https://wiki.neic.no/int/NICEST2
     text: Internal wiki
     description: Internal working documents.
+  - url: https://nordicesmhub.github.io/nicest2/
+    text: Blog
+    description: Newsletters and regular updates
 groups:
   nicest2:
     name: Team
