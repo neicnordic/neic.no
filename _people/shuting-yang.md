@@ -13,5 +13,5 @@ groups:
   nicest:
       finished: yes
   nicest2-sg:
-    role: Observer, Denmark
+    role: Observer
 ---
