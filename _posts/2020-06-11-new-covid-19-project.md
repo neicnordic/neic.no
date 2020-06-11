@@ -1,10 +1,10 @@
 ---
-title: "New project to research on the use of data related to COVID-19"
+title: "The Pandemic Research Infrastructure (PaRi) project invited to negotiate research funding"
 summary: "Recently, the Nordic e-Infrastructure Collaboration (NeIC) invited a research project, that will focus on the collection and use of data in connection with research in COVID-19 and other pandemics, to negotiate about research funding."
 photo: "/assets/images/latest-news-18.png"
 ---
 
-New project to research on the use of data related to COVID-19
+The Pandemic Research Infrastructure (PaRi) project invited to negotiate research funding
 ===========================
 *Written by Marianne Knudsen*
 
