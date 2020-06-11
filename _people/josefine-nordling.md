@@ -10,10 +10,10 @@ phone: "+358 503812436"
 on_contract: yes
 has_been_on_contract: yes
 groups: 
-  tryggve2:
+  tryggve1:
     role: Outreach lead
-  tryggve2-pm:
+  tryggve1-pm:
     role: Outreach lead
-  tryggve2-rg:
+  tryggve1-rg:
     role: Outreach lead
 ---
