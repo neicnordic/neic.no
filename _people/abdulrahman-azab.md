@@ -17,4 +17,6 @@ groups:
     role: Project leader
   tryggve2-rg:
     role: Project leader
+  tryggve2-sg:
+    role: Project Manager, Secretary
 ---
