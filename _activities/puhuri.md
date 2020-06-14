@@ -44,7 +44,7 @@ groups:
 
 ### Background
 
-* Seamless access to Lumi world-class supercomputer
+* Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A>
 * Deploying services for resource allocation and 	tracking, and federated group management
 
 ### Collaborations
