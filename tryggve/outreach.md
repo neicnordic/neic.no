@@ -89,3 +89,4 @@ show-groups:
     linkname: Main page
 ---
 
+On this page you can find the latest news of the Tryggve project and past events
