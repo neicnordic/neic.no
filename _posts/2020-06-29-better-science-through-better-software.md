@@ -1,7 +1,7 @@
 ---
 title: "Better science through better software"
 summary: "Computers are everywhere, and just like so many other parts of our lives, academia is becoming increasingly digitalized and computer-aided. Scientists rely heavily on computation, and studies show that more than half of all scientists across science domains write their own code, ranging from short scripts to highly advanced and complex protocols."
-photo: "/assets/images/latest-news-18.png"
+photo: "/assets/images/latest-news-19.png"
 ---
 
 Better science through better software
