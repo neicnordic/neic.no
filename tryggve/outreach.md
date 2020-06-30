@@ -90,3 +90,10 @@ show-groups:
 ---
 
 On this page you can find the latest news of the Tryggve project and past events
+
+### Johanna Törnroos wins the best presentation award at Elixir AHM 2020 
+
+Johanna employed an example from the Tryggve2 Project, where NeIC supports the development of sensitive data management tools used, among others, in assessing the risk of heritable and familial cancers. 
+
+
+Read more https://elixir-europe.org/news/johanna-tornroos-wins-best-presentation-award
