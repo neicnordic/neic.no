@@ -93,7 +93,9 @@ On this page you can find the latest news of the Tryggve project and past events
 
 ### Johanna Törnroos wins the best presentation award at Elixir AHM 2020 
 
-Johanna employed an example from the Tryggve2 Project, where NeIC supports the development of sensitive data management tools used, among others, in assessing the risk of heritable and familial cancers. 
+"/assets/images/johanna_tornroos.png" Johanna Törnroos is the winner of the award for the best presentation at the Impact and Innovation Mini-
+Symposium during the All Hands Meeting 2020. 
+She presented ‘Impact through Collaboration’ in the Nordics within The Nordic e-Infrastructure Collaboration (NeIC) — from exchanging knowledge to increasing competencies and research quality. She employed an example from the Tryggve2 Project, where NeIC supports the development of sensitive data management tools used, among others, in assessing the risk of heritable and familial cancers.
 
 More details and a recording of the presentation can be found on [Elixir Europe website](https://elixir-europe.org/news/johanna-tornroos-wins-best-presentation-award).
 
