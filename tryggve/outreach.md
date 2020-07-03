@@ -95,5 +95,5 @@ On this page you can find the latest news of the Tryggve project and past events
 
 Johanna employed an example from the Tryggve2 Project, where NeIC supports the development of sensitive data management tools used, among others, in assessing the risk of heritable and familial cancers. 
 
+More details and a recording of the presentation can be found on [Elixir Europe website](https://elixir-europe.org/news/johanna-tornroos-wins-best-presentation-award).
 
-Read more https://elixir-europe.org/news/johanna-tornroos-wins-best-presentation-award
