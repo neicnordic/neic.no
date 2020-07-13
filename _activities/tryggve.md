@@ -4,7 +4,7 @@ include: tryggve-menu
 name: Tryggve
 type:
 tagline: TRYGGVE - Collaboration for Sensitive Data
-leader: antti-pursula
+leader: abdulrahman-azab
 phase: Implementation
 start: 2014-10-21
 end: 2020-10-21
