@@ -10,7 +10,6 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve1:
   tryggve2:
   tryggve2-pm:
     role: Deliverable leader
