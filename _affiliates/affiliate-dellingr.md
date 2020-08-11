@@ -29,7 +29,7 @@ These pilots were credited in publications and produced a resource sharing frame
  
 ### Results
 
-The Dellingr publications can be found on the [public wiki page](https://wiki.neic.no/wiki/Dellingr)
+The Dellingr publications can be found on the [public wiki page](https://wiki.neic.no/wiki/Dellingr) or on the [Zenodo repository](https://zenodo.org/search?q=dellingr)
 
  
 ### Links & Documents
