@@ -25,7 +25,7 @@ groups:
     frequency: Weekly
   provider-forum:
     name: Provider forum
-    description: Advisory body. Senior technical experts from the Nordic e-infrastructure provider organizations.
+    description: Advisory body. Senior experts from the Nordic e-infrastructure provider organizations.
     minutes: https://wiki.neic.no/wiki/Provider_Forum#Approved_Provider_Forum_meeting_minutes
     frequency: 3-4 per year
 ---

@@ -14,7 +14,9 @@ documents:
   - text: Project directive
     url: https://wiki.neic.no/w/ext/img_auth.php/d/d3/16-42-03Glenna2ProjectDirective.pdf
   - text: Project plan
-    url: https://wiki.neic.no/wiki/File:Glenna2_Project_Plan.pdf 
+    url: https://wiki.neic.no/wiki/File:Glenna2_Project_Plan.pdf
+  - text: Final Report
+    url: https://wiki.neic.no/wiki/File:Glenna2_Final_Report_V1.1.pdf 
 links:
   - url: https://wiki.neic.no/wiki/Glenna2
     text: External wiki

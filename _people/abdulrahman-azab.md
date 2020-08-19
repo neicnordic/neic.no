@@ -12,9 +12,11 @@ has_been_on_contract: yes
 groups:
   tryggve1:
   tryggve2:
-    role: Project leader
+    role: Project Manager
   tryggve2-pm:
-    role: Project leader
+    role: Project Manager
   tryggve2-rg:
-    role: Project leader
+    role: Project Manager
+  tryggve2-sg:
+    role: Project Manager, Secretary
 ---

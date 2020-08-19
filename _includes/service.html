@@ -43,9 +43,10 @@
 
             {% if page.datacite_doi %}
             <p class="no-space">
-              <b>CITE AS:</b>
+              <b>PERSISTENT IDENTIFIER:</b>
               <span class="color">
                 <b>doi: <a href="https://doi.org/{{ page.datacite_doi }}">{{ page.datacite_doi }}</a>
+                  (<a href="https://search.datacite.org/works/{{ page.datacite_doi }}">stats / citing</a>)
                 </b>
               </span>
             </p>

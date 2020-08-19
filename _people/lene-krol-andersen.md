@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Lene Krøl Andersen
-home: <a href="https://deic.dk/">DeIC</a>
+home: <a href="https://deic.dk/">DeiC</a>
 country: DK
 photo: assets/images/people/lene-krol-andersen.jpg
 email:  lene.krol.andersen@deic.dk

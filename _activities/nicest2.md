@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NICEST2
 type: Project
-leader: N/A
+leader: anne-fouilloux
 phase: Preparation
 start: 2020-06-01
 end: 2023-05-31
@@ -21,6 +21,9 @@ links:
   - url: https://wiki.neic.no/int/NICEST2
     text: Internal wiki
     description: Internal working documents.
+  - url: https://nordicesmhub.github.io/nicest2/
+    text: Blog
+    description: Newsletters and regular updates.
 groups:
   nicest2:
     name: Team
@@ -29,10 +32,11 @@ groups:
   nicest2-sg:
     name: Steering Group
     frequency: 3-4 per year
+    minutes: https://indico.neic.no/category/21/
   nicest2-po:
     name: Project office
     description: Management.
-[//]: #     minutes: https://wiki.neic.no/int/Category:NICEST2_management_meetings
+    minutes: https://wiki.neic.no/int/Category:NICEST2_management_meetings
     frequency: (bi-)weekly
      
 ---
@@ -54,9 +58,9 @@ Planned activities include:
 ##### Consortium:
 Co-funding:
 * NSC, SE
-* UiO, NO
+* Sigma2 / UiO, NO
 * FMI, FI
-* METNO, NO
+* MET Norway, NO
 * NORCE, NO
 * NERSC, NO
 * CSC, FI
@@ -65,7 +69,7 @@ Supporting:
 * INAR, FI
 * DMI, DK
 * SMHI, SE
-* TalTech MSI, EE, EE
+* TalTech MSI, EE
 
 
 

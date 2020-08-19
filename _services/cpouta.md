@@ -11,7 +11,7 @@ type: Service
 status: Active
 support_email: servicedesk@csc.fi
 access_email: servicedesk@csc.fi
-datacite_doi: 
+datacite_doi: 10.23673/hjkg-qb46
 start: 2019-01-01
 end: 2020-12-31
 results:
