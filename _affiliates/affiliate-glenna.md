@@ -1,24 +1,25 @@
 ---
 layout: master
 include: affiliate-programmes
-name: Glenna2
+name: Glenna
 ---
 
-## Glenna2
+## Glenna
 
 ### Highlights
 [Highlights here]
 
-NICEST stands for Nordic Collaboration on e-Infrastructures for Earth System Modeling.
+Glenna and Glenna 2 aimed to provide added value to the Nordic national cloud and dataintensive computing initiatives.
  
 ### Results
-[Results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
+[Final Report Glenna2] https://wiki.neic.no/wiki/File:Glenna2_Final_Report_V1.1.pdf
+                  
  
 ### Links & Documents
-[The Glenna Wiki]
-[Other relevant documents]
+[The Glenna 2 Wiki] https://wiki.neic.no/wiki/Glenna2
+
 
 ### Project Contact Person
 Dan Still
 
-#### Period: from ? to 2020-03-31
+#### Period: from 2014-09-01 to 2020-03-31
