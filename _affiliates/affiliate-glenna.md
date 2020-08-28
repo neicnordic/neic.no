@@ -7,7 +7,6 @@ name: Glenna
 ## Glenna
 
 ### Highlights
-[Highlights here]
 
 Glenna and Glenna 2 aimed to provide added value to the Nordic national cloud and dataintensive computing initiatives.
  
