@@ -21,7 +21,7 @@ The E3DDS publications can be found in the [Zenodo repository](https://zenodo.or
 [Final Report](https://wiki.neic.no/wiki/EISCAT_3D_Data_Solutions#Final_Report)
 
 ### Project Contact Person
-Anders Tjulin at eiscat in Sweden <br/>
+Anders Tjulin at EISCAT in Sweden <br/>
 John White at CERN in Switzerland
 
 #### Period: from 2017-09-01 to 2020-04-30
