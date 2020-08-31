@@ -12,7 +12,6 @@ The project will design, simulate and prototype the data flow and computing work
 EISCAT_3D is an environmental research infrastructure on the European ESFRI roadmap. It is proposed as an international research infrastructure using the incoherent scatter technique to study the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space. EISCAT_3D is a multi-static phased array radar system that will be installed at remote locations in the most Northern parts of the Scandinavian peninsula. The system will be operated by and be an integral part of the EISCAT Scientific Association. The e-infrastructure challenges for EISCAT_3D include finding cost-efficient state of the art solutions for on-site computing and establishing network connections between the different sites and with the data archive.
 
 ### Results
-[Results folder](https://drive.google.com/drive/u/0/folders/1Q3u421JjarfTY_8HZumszEki_oEHoAx-)
 
 The E3DDS publications can be found in the [Zenodo repository](https://zenodo.org/search?q=neic e3dds) or the [public wiki page](https://wiki.neic.no/wiki/EISCAT_3D_Data_Solutions)
 
