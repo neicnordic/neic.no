@@ -4,7 +4,7 @@ include: activity
 name: EISCAT_3D Data Solutions
 type: Project
 leader: john-white
-phase: Execution
+phase: Finished
 start: 2018-04-01
 end: 2020-04-01
 results: https://wiki.neic.no/wiki/EISCAT_3D_Data_Solutions#Documents
