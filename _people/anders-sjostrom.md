@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Anders Sjöström 
-home: <a href="http://www.lth.se/">Uppsala University</a>
+home: <a href="http://www.lth.se/">Lund University</a>
 country: SE
 photo:
 email: anders.sjostrom@construction.lth.se
