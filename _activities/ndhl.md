@@ -15,6 +15,9 @@ outreach: https://wiki.neic.no/wiki/NDHL#Outreach
 [//]: #   - text: Project plan
 [//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
 links:
+  - url: https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/
+    text: Web
+    description: Main output
   - url: https://wiki.neic.no/wiki/NDHL
     text: External wiki
     description: External documentation, manuals and guides.
@@ -25,7 +28,7 @@ groups:
   ndhl:
     name: Team
     minutes:
-    frequency: in set-up.
+    frequency: monthly.
   ndhl-po:
     name: Project office
     description: Management.
