@@ -20,7 +20,7 @@ The project provided Nordic research communities with the foundations for a new 
 [EUDAT](http://eudat.eu)
 
 #### Project Contact Person
-Dan Still
+[Dan Still](https://neic.no/people/dan-still/)
 
 #### Project period
 From 2014-01-01 to 2014-10-31
