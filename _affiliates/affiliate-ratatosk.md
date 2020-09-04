@@ -23,7 +23,7 @@ First is the student mobility part (travel grants) enabling trainees to travel t
 [Final report](https://wiki.neic.no/w/ext/img_auth.php/c/c3/191220-Ratatosk-Final_report.pdf)
 
 #### Project Contact Person
-Michaela Barth
+[Michaela Barth](https://neic.no/people/michaela-barth/)
 
 #### Period
 From 2017-04-21 to 2019-12-20
