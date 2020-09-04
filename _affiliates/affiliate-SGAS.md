@@ -19,4 +19,4 @@ SGAS is broadly in use in the Nordic countries within e.g. the Nordic Tier-1, Sw
 [The public SGAS maintenance wiki](https://wiki.neic.no/wiki/SGAS_maintenance_project)
 
 #### Project Contact Person
-Erik Edelmann
+[Erik Edelmann](https://neic.no/people/erik-edelmann/)
