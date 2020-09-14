@@ -76,7 +76,7 @@ The project on handling biomedical sensitive data contributes to the research in
 * Communicating NeIC’s contribution to the UN SDGs and the NCM vision, e.g. in the NeIC Annual Report and in NeIC news articles
 
 ### Ethics
-* Any concerns on ethical matters within a NeIC project are to be raised to the Project Owner and discussed together with all Project Managers or the NeIC Executive Team (XT). * General questions regarding ethical matters are to be raised to XT.
+* Any concerns on ethical matters within a NeIC project are to be raised to the Project Owner and discussed together with all Project Managers or the NeIC Executive Team (XT). General questions regarding ethical matters are to be raised to XT.
 * Relevant NeIC policies and the Core Values are to be reviewed on a regular basis.
 
 ### General
