@@ -14,6 +14,8 @@ outreach-tags: nicest,outreach
 documents:
   - text: Work plan
     url: https://wiki.neic.no/wiki/File:20161125_NeIC_ESM_work_plan_approved.pdf
+  - text: Final report
+    url: https://wiki.neic.no/int/File:NICEST1-NeIC-Final_report.pdf
 links:
   - url: /training/esm/upcoming
     text: ESM training calendar
