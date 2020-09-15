@@ -3,7 +3,7 @@
 </section>
 
 <section class="about" id="about">
-  <div class="container">
+   <div class="container">
     <div class="row" style="position: relative">
       <div class="col-md-7" style="position: static;">
         <div class="content">
@@ -12,22 +12,18 @@
             The Nordic e-Infrastructure Collaboration (NeIC) facilitates development and operation of high-quality
             e-infrastructure solutions in areas of joint Nordic interest.
           </p>
+		<div style="padding:41.89% 0 0 0;position:relative;margin:10px 0;"><iframe src="https://player.vimeo.com/video/435053080?color=00a99d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
           <a href="{% include baseurl %}/about/" class="read-more white-hover-btn">Read More</a>
         </div>
 <div class="content">
 	<h2>Services</h2>
 		<a href="{% include baseurl %}/services/" class="read-more white-hover-btn">Nordic e-Infrastructure Services</a>
         </div>
-        <div class="content">
-          <h2>Affiliates</h2>
-          <p>
-            The NeIC Affiliate programme is meant to enhance the benefits and impacts of NeIC projects after they have been completed.
-          </p>
-          <a href="{% include baseurl %}/affiliates/" class="read-more white-hover-btn">Read More</a>
-        </div>
       </div>
 
       <div class="col-md-5">
+	 	<div class="content">
         <h2>ACTIVITIES</h2>
         <ul class="linl-list">
           {% for activity in site.activities %}
@@ -36,6 +32,14 @@
             {% endunless %}
           {% endfor %}
         </ul>
+	      </div>
+	      <div class="content">
+          <h2>Affiliates</h2>
+          <p>
+            The NeIC Affiliate programme is meant to enhance the benefits and impacts of NeIC projects after they have been completed.
+          </p>
+          <a href="{% include baseurl %}/affiliates/" class="read-more white-hover-btn">Read More</a>
+        </div>
       </div>
     </div>
   </div>
