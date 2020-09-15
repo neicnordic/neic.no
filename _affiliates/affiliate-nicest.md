@@ -17,7 +17,8 @@ The project's results can be found in this [results folder](https://drive.google
  
 #### Links & Documents
 [The public NICEST Wiki](https://wiki.neic.no/wiki/NICEST) <br/>
-[Work plan](https://wiki.neic.no/w/ext/img_auth.php/3/37/20161125_NeIC_ESM_work_plan_approved.pdf)
+[Work plan](https://wiki.neic.no/w/ext/img_auth.php/3/37/20161125_NeIC_ESM_work_plan_approved.pdf) <br/>
+[Final report](https://wiki.neic.no/int/File:NICEST1-NeIC-Final_report.pdf)
 
 #### Project Contact Person
 Chandan Basu
