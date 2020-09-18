@@ -10,6 +10,7 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  nicest2:
   nicest2-sg:
   nicest:
 ---

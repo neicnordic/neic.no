@@ -1,15 +1,14 @@
 ---
 layout: master
 include: person
-name: Yanchun He
-home: <a href="https://www.nersc.no/">NERSC</a>
+name: Jan Griesfeller
+home: <a href="http://met.no/">Norwegian Meteorological Institute</a>
 country: "NO"
 photo:
-email: yanchun.he@nersc.no
+email: jan.griesfeller@met.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
   nicest2:
-  nicest:
 ---
