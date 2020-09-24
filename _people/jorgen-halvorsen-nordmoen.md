@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Jørgen Halvorsen Nordmoen
+name: Jorgen Halvorsen Nordmoen
 home: <a href="https://www.usit.uio.no/">USIT</a>
 country: NO
 photo:
