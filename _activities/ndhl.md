@@ -6,7 +6,7 @@ type: pre-study
 leader: kristoffer-nielbo
 phase: Active
 start: 2019-10-01
-end: 2020-09-30
+end: 2021-12-31
 results: https://wiki.neic.no/wiki/NDHL
 outreach: https://wiki.neic.no/wiki/NDHL#Outreach
 [//]: # documents:
