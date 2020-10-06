@@ -16,7 +16,7 @@ start: 2019-01-01
 end: 2020-12-31
 results:
 outreach:
-used_by: 
+used_by: CSC
 user_guide: https://docs.csc.fi/#cloud/pouta/
 ---
 The cPouta Community Cloud service is an IaaS cloud computing service. It allows its users to access, use and manage virtualized infrastructure using a self-service model. The virtualized infrastructure consists of, but is not necessarily limited to, these resources:

@@ -16,7 +16,7 @@ start: 2019-01-01
 end: 2020-12-31
 results:
 outreach:
-used_by: 
+used_by: NeIC
 user_guide: https://research.csc.fi/cloud-computing
 ---
 This service provides a infrastructure as a-service for running analysis on sensitive data. The ePouta Virtual Private Cloud service allows customers to provision virtual machines and storage resources directly to their own internal networks. It provides an easy to use admin web interface and a programmable API for managing virtual machines, networks and storage. CSC ePouta meets elevated information security level regulations and is targeted for sensitive data processing.

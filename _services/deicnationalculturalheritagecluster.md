@@ -16,7 +16,7 @@ start: 2019-01-01
 end: 2020-12-31
 results:
 outreach:
-used_by: 
+used_by: EDHOC verification
 user_guide: https://kulturarvscluster.kb.dk/for-users/introduction
 ---
 

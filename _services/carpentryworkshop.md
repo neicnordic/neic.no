@@ -16,7 +16,7 @@ start: 2019-01-01
 end: 2020-12-31
 results:
 outreach:
-used_by: 
+used_by: NeIC, Robotics Lab
 user_guide: https://coderefinery.org/lessons/
 ---
 Carpentries workshops focus on creating a motivating and engaging environment for learners with no or little digital skills while our regular CodeRefinery three-day workshops are the next step.
