@@ -10,5 +10,6 @@ phone: +46-732702418
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  nicest2:
   nicest:
 ---

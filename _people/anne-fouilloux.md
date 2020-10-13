@@ -9,7 +9,10 @@ email: a.c.fouilloux@geo.uio.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
+orcid: <a href="https://orcid.org/0000-0002-1784-2920">ORCID ID</a>
 groups:
+  nicest2:
+    role: Project Manager
   nicest2-sg:
     role: Secretary
   nicest2-po:
