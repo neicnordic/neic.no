@@ -18,11 +18,11 @@ The functions and responsibilities of the Nordic Tier-1 activity manager include
 * Building and leading a well functioning and motivated team distributed throughout the Nordics, including responsibility for well working internal communications, participating in the NT1 recruitment process, yearly development dialogues and task and responsibility revisions.
 * Representing the NT1 activity in various contexts:
 
-** Towards collaboration partners: Maintaining an active dialogue with other HPC centres in the Nordics including negotiations, acting as an ex-officio member of the Nordic LHC Grid (NLCG) Committee, updating Collaboration agreements and activity and subproject plans, as well as, providing regular progress reports for the activity and budget follow-up
+-Towards collaboration partners: Maintaining an active dialogue with other HPC centres in the Nordics including negotiations, acting as an ex-officio member of the Nordic LHC Grid (NLCG) Committee, updating Collaboration agreements and activity and subproject plans, as well as, providing regular progress reports for the activity and budget follow-up
 
-** Towards WLCG: Taking part in conversations on how to serve the needs of the LHC experiments in the future of the Worldwide LHC Computing Grid, in close cooperation with the NLCG Committee and CERN Liaison.
+-Towards WLCG: Taking part in conversations on how to serve the needs of the LHC experiments in the future of the Worldwide LHC Computing Grid, in close cooperation with the NLCG Committee and CERN Liaison.
 
-** Towards other communities or collaborations: Engaging with them, gathering requirements, exploiting future opportunities, facilitating meetings and collaboration spaces.
+-Towards other communities or collaborations: Engaging with them, gathering requirements, exploiting future opportunities, facilitating meetings and collaboration spaces.
 * Working towards a continuous improvement of the Tier-1 service offering.
 
 The contract period for this position is four years. The start date for this position is 1st January, 2021. The activity manager is expected to commit 50% of a full time equivalent to the Nordic Tier-1 (NT1). It is expected that the candidate has, or is interested in, employment at a national e-infrastructure organization in a Nordic country (Denmark, Estonia, Finland, Iceland, Norway and Sweden) or one of its collaborating institutions. Staff are contracted to NeIC through a service agreement between the local employer institution and NeIC. 
