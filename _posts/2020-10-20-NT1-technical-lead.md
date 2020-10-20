@@ -1,7 +1,7 @@
 ---
 title: "NeIC is seeking a technical lead for its NT1 activity"
 summary: "NeIC is looking for a technical lead for the distributed Nordic Tier-1 (NT1) site for LHC data storage and computing. The main focus of the NT1 technical lead is to define the technical directions that enable the NT1 to continue to deliver reliable and efficient services marked by excellent user satisfaction. The deadline to apply is 8th November."
-photo: "/assets/images/latest-news-26.png"
+photo: "/assets/images/latest-news-1.png"
 ---
 
 NeIC is seeking a technical lead for its NT1 activity
