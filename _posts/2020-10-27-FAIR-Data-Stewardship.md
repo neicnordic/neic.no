@@ -1,10 +1,10 @@
 ---
-title: "The FAIR Data Stewardship training was kicked off this week"
+title: "The FAIR Data Stewardship training kicked off this week"
 summary: "The course, organised by NeIC, CSC, SNIC and SND, will run over five weeks (equivalent to 5 days) and will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application."
 photo: "/assets/images/latest-news-2.png"
 ---
 
-The FAIR Data Stewardship training was kicked off this week
+The FAIR Data Stewardship training kicked off this week
 ===========================
 
 **The course, organised by NeIC, CSC, SNIC and SND, will run over five weeks (equivalent to 5 days) and will provide the much needed foundational skills for competent data stewards and data managers in the Nordic countries with knowledge of the FAIR principles and their application.**
