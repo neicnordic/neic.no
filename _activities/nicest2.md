@@ -9,11 +9,15 @@ start: 2020-06-01
 end: 2023-05-31
 results: https://wiki.neic.no/wiki/NICEST2#Results
 outreach: https://wiki.neic.no/wiki/NICEST2#Outreach
-[//]: # documents:
-[//]: #   - text: Project proposal
-[//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
-[//]: #   - text: Project plan
-[//]: #     url: https://wiki.neic.no/wiki/File:x.pdf
+documents:
+   - text: Project Plan
+     url: https://wiki.neic.no/w/ext/img_auth.php/9/95/Project-Plan-NICEST2.pdf
+   - text: Submitted Proposal
+     url: https://wiki.neic.no/w/ext/img_auth.php/d/dd/NICEST2-submitted-proposal.pdf
+   - text: Collaboration Agreement
+     url: https://wiki.neic.no/w/ext/img_auth.php/5/53/200505-Collaboration-Agreement-NICEST2.pdf
+   - text: Business Case
+     url: https://wiki.neic.no/w/ext/img_auth.php/7/7d/NICEST2_business_case.pdf
 links:
   - url: https://wiki.neic.no/wiki/NICEST2
     text: External wiki
