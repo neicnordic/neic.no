@@ -4,8 +4,10 @@ summary: "This document reports on the work by NeIC from 2016 through most of 20
 photo: "/assets/images/latest-news-3.png"
 ---
 
-Knowledge Creation through Cross-Border Sharing of eInfrastructure: Report on NeIC’s Implementation of the Nordic e-Science Action Plan 2.0
+Knowledge Creation through Cross-Border Sharing of eInfrastructure
 ===========================
+
+*Report on NeIC’s Implementation of the Nordic e-Science Action Plan 2.0*
 
 **This document reports on the work by NeIC from 2016 through most of 2020 on the Nordic e-Science Action Plan, 2.0, which has ten concrete actions in e-science and e-infrastructure intended to spur “action to maintain and further strengthen the competitiveness of Nordic eScience and education.”**
 
