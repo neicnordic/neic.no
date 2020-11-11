@@ -62,6 +62,6 @@ PaRI will contribute NeIC Strategic objectives, which are aligned with PaRI part
 * National Bioinformatics Infrastructure Sweden (NBIS), SE 
 
 ## Observer partners: 
-* Uninett Sigma2, NO 
+* UNINETT Sigma2, NO 
 * Swedish National Infrastructure for Computing (SNIC), SE
 * CSC-IT Center for Science, FI
