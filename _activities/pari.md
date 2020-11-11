@@ -7,8 +7,8 @@ leader: abdulrahman-azab
 phase: In Progress
 start: 2020-11-01
 end: 2021-10-31
-results: https://wiki.neic.no/wiki/Puhuri
-outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
+results: 
+outreach: 
 documents:
    - text: Project Plan
      url: 
@@ -53,14 +53,15 @@ PaRI will contribute NeIC Strategic objectives, which are aligned with PaRI part
 
 
 ### Collaborations
-Core partners: 
+## Core partners: 
 * University of Oslo (UiO), NO 
 * University of Bergen (UiB), NO 
 * Technical University of Denmark (DTU), DK
 * Estonian Compute Infrastructure (ETAIS), SS
 * German Network for Bioinformatics Infrastructure (de.NBI), DE
 * National Bioinformatics Infrastructure Sweden (NBIS), SE 
-Observer partners: 
+
+## Observer partners: 
 * Uninett Sigma2, NO 
 * Swedish National Infrastructure for Computing (SNIC), SE
 * CSC-IT Center for Science, FI
