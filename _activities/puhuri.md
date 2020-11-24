@@ -19,7 +19,7 @@ documents:
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
    - text: Deliverable 1 on Requirements collection and technical architecture plan.
-     url: https://wiki.neic.no/wiki/File:PUHURI_Deliverable_D1.pdf 
+     url: https://zenodo.org/record/4288776#.X71oUbNS9EY 
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
