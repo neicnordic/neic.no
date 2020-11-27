@@ -31,7 +31,7 @@ groups:
   puhuri:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
-    frequency: every two weeks
+    frequency: every week
   puhuri-sg:
     name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings
@@ -46,8 +46,8 @@ groups:
 
 ### Background
 
-* Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A>
-* Deploying services for resource allocation and 	tracking, and federated group management
+* Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A> and to other Resources used by the NeIC projects.
+* Deploying services for resource allocation and tracking, and federated group management.
 
 ### Collaborations
 Consortium:
