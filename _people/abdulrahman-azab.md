@@ -19,7 +19,7 @@ groups:
     role: Project Manager
   tryggve2-sg:
     role: Project Manager, Secretary
-  pari-team:
+  pari:
     role: Project Manager
   pari-sg:
     role: Project Manager, Secretary
