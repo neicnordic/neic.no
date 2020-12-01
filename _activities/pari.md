@@ -1,7 +1,7 @@
 ---
 layout: master
 include: activity
-name: NeIC PaRI - Nordic Pandemic Research Infrastructure
+name: PaRI - Nordic Pandemic Research Infrastructure
 type: Project
 leader: abdulrahman-azab
 phase: In Progress
