@@ -15,4 +15,5 @@ groups:
     role: Sub-project leader
   tryggve2-pm:
     role: Sub-project leader
+  pari:
 ---
