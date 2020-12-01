@@ -11,13 +11,13 @@ results:
 outreach: 
 documents:
    - text: Project Plan
-     url: 
-   - text: Collaboration Agreement and Project proposal 
-     url: 
+     url: https://docs.google.com/document/d/1vqkxoegYl1QOeVIoM629Tcd82419OIBnkhgYg1SyeYc/edit?usp=sharing
+   - text: Collaboration Agreement 
+     url: https://drive.google.com/file/d/1w8B7mp6jq6e4WS7EtLzjbp5jBOeLQmlO/view?usp=sharing
    - text: Terms of Reference of the Reference Group
      url: 
    - text: Business Case
-     url: 
+     url: https://docs.google.com/document/d/1tqrBTVsJb-PmRFhUpRajfwGVlUEIW2hkZEH_E5RWYNQ/edit?usp=sharing
 links:
   - url: 
     text: External wiki
