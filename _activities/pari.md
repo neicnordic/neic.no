@@ -28,11 +28,11 @@ links:
 groups:
   pari:
     name: Team
-    minutes: 
-    frequency: every two weeks
+    minutes: https://drive.google.com/drive/folders/1OUvPLhzUQaCSzHE4GZJ4F0pLxk2ioC6w?usp=sharing
+    frequency: Bi-weekly
   pari-sg:
     name: Steering Group
-    minutes: 
+    minutes: https://drive.google.com/drive/folders/1Bx1Tq39FpZ-bWKr_Zu3bHemKGTjOgW-q?usp=sharing
     frequency: quaterly
   pari-po:
     name: Project office
