@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Gard Thomassen
-home: <a href="https://sigma2.no">Sigma2</a>
+home: <a href="https://www.usit.uio.no/">USIT</a>
 country: "NO"
 photo:
 email: g.o.s.thomassen@usit.uio.no
@@ -14,5 +14,6 @@ groups:
     role: <a href="https://sigma2.no">Sigma2</a>
   tryggve2-rg:
     role: <a href="https://sigma2.no">Sigma2</a>
+  pari-sg:
 
 ---
