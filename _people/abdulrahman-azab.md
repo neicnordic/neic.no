@@ -25,4 +25,6 @@ groups:
     role: Project Manager, Secretary
   pari-rg:
     role: Project Manager
+  pari-po:
+    role: Project Manager
 ---
