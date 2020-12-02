@@ -13,4 +13,5 @@ groups:
   tryggve1-sg:
   tryggve2-sg:
   neic2017-prg:
+  pari-sg:
 ---
