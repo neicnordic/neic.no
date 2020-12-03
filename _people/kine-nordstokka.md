@@ -11,7 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Administrative Area Coordinator
+    role: Administrative Area Coordinator (on leave)
   nicest-sg:
     role: Project owner interim 2018q1, Chair
     finished: yes
