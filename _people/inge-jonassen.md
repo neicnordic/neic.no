@@ -12,4 +12,5 @@ has_been_on_contract: no
 groups:
   tryggve1-sg:
   tryggve2-sg:
+  pari-sg:
 ---

@@ -1,18 +1,14 @@
 ---
 layout: master
 include: person
-name: Kim Brugger
+name: Kjell Petersen
 home: <a href="https://www.cbu.uib.no/">CBU</a>
 country: "NO"
 photo: 
-email: kim.brugger@uib.no
+email: kjell.petersen@cbu.uib.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve2:
-  tryggve2-pm:
-    role: Deliverable leader
   pari:
 ---
-

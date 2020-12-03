@@ -32,7 +32,7 @@ show-groups:
 
 ## Current use cases
 
-* [1-4 NorTwinCam](#1-4-nortwincam)
+* [1-4 NorTwinCan](#1-4-nortwincam)
 * [1-1 Schizophrenia](#1-1-schizophrenia)
 * [2-9 Impute](#2-9-impute)
 * [2-12 TryggveInGalaxy](#2-12-tryggveingalaxy)
@@ -42,7 +42,7 @@ show-groups:
 
 ---
 
-### 1-4 NorTwinCam
+### 1-4 NorTwinCan
 
 **Recipient contact:** Jaakko Kaprio
 **Responsible person:** Minna Ahokas

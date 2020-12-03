@@ -18,6 +18,8 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
+   - text: Deliverable 1 on Requirements collection and technical architecture plan.
+     url: https://zenodo.org/record/4288776#.X71oUbNS9EY 
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
@@ -29,7 +31,7 @@ groups:
   puhuri:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
-    frequency: every two weeks
+    frequency: every week
   puhuri-sg:
     name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings
@@ -44,8 +46,8 @@ groups:
 
 ### Background
 
-* Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A>
-* Deploying services for resource allocation and 	tracking, and federated group management
+* Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A> and to other Resources used by the NeIC projects.
+* Deploying services for resource allocation and tracking, and federated group management.
 
 ### Collaborations
 Consortium:

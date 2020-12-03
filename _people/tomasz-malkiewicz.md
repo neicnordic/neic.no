@@ -52,4 +52,9 @@ groups:
   puhuri-sg:
     role: Project owner, Chair
   project-analysis-rg:
+  pari-sg:
+    role: Project owner, Chair
+  pari-po:
+    role: Project owner
+  
 ---

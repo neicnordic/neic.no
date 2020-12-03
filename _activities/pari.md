@@ -1,7 +1,7 @@
 ---
 layout: master
 include: activity
-name: NeIC PaRI - Nordic Pandemic Research Infrastructure
+name: PaRI 
 type: Project
 leader: abdulrahman-azab
 phase: In Progress
@@ -11,13 +11,13 @@ results:
 outreach: 
 documents:
    - text: Project Plan
-     url: 
-   - text: Collaboration Agreement and Project proposal 
-     url: 
+     url: https://docs.google.com/document/d/1vqkxoegYl1QOeVIoM629Tcd82419OIBnkhgYg1SyeYc/edit?usp=sharing
+   - text: Collaboration Agreement 
+     url: https://drive.google.com/file/d/1w8B7mp6jq6e4WS7EtLzjbp5jBOeLQmlO/view?usp=sharing
    - text: Terms of Reference of the Reference Group
      url: 
    - text: Business Case
-     url: 
+     url: https://docs.google.com/document/d/1tqrBTVsJb-PmRFhUpRajfwGVlUEIW2hkZEH_E5RWYNQ/edit?usp=sharing
 links:
   - url: 
     text: External wiki
@@ -28,11 +28,11 @@ links:
 groups:
   pari:
     name: Team
-    minutes: 
-    frequency: every two weeks
+    minutes: https://drive.google.com/drive/folders/1OUvPLhzUQaCSzHE4GZJ4F0pLxk2ioC6w?usp=sharing
+    frequency: Bi-weekly
   pari-sg:
     name: Steering Group
-    minutes: 
+    minutes: https://drive.google.com/drive/folders/1Bx1Tq39FpZ-bWKr_Zu3bHemKGTjOgW-q?usp=sharing
     frequency: quaterly
   pari-po:
     name: Project office
@@ -40,7 +40,7 @@ groups:
     frequency: weekly
      
 ---
-## NeIC PaRI
+## PaRI - Nordic Pandemic Research Infrastructure
 
 ### Background
 
