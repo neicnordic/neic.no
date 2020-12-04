@@ -4,7 +4,7 @@ include: person
 name: Ott Eric Oopkaup
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
 country: EE
-photo:
+photo: assets/images/people/Ott-Oopkaup.jpg
 email: ott.oopkaup@ut.ee
 phone: 
 on_contract: no
