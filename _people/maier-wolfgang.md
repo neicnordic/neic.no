@@ -1,8 +1,8 @@
 ---
 layout: master
 include: person
-name: Maier Wolfgang
-home: <a href="http://www.informatik.uni-freiburg.de/">IIF</a>
+name: Wolfgang Maier
+home: <a href="http://www.bioinf.uni-freiburg.de/">Bioinformatics group, University of Freiburg</a>
 country: "DE"
 photo: 
 email: maierw@informatik.uni-freiburg.de
