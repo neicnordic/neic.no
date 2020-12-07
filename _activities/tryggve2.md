@@ -5,10 +5,10 @@ name: Tryggve2
 type: Project
 hide-on-frontpage: yes
 leader: abdulrahman-azab
-phase: Execution
+phase: Finished
 start: 2017-10-21
 end: 2020-10-31
-finished: no
+finished: yes
 results: N/A
 outreach: N/A
 outreach-tag:
