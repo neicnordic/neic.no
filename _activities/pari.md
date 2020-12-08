@@ -17,7 +17,7 @@ documents:
    - text: Terms of Reference of the Reference Group
      url: 
    - text: Business Case
-     url: https://docs.google.com/document/d/1tqrBTVsJb-PmRFhUpRajfwGVlUEIW2hkZEH_E5RWYNQ/edit?usp=sharing
+     url: https://drive.google.com/file/d/14zjWG5qH_1f5z59BPrW-NOCRlj-nNVhG/view?usp=sharing
 links:
   - url: 
     text: External wiki
