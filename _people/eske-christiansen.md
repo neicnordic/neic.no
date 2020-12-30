@@ -11,5 +11,4 @@ on_contract: yes
 has_been_on_contract:
 groups:
   puhuri-sg:
-  puhuri:
 ---
