@@ -1,6 +1,6 @@
 ---
 layout: master
-include: activity
+include: tryggve-menu
 name: PaRI 
 type: Project
 leader: abdulrahman-azab
