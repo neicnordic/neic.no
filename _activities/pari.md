@@ -57,7 +57,7 @@ PaRI will contribute NeIC Strategic objectives, which are aligned with PaRI part
 * University of Oslo (UiO), NO 
 * University of Bergen (UiB), NO 
 * Technical University of Denmark (DTU), DK
-* Estonian Compute Infrastructure (ETAIS), SS
+* Estonian Compute Infrastructure (ETAIS), EE
 * German Network for Bioinformatics Infrastructure (de.NBI), DE
 * National Bioinformatics Infrastructure Sweden (NBIS), SE 
 
