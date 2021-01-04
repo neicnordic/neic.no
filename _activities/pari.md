@@ -49,7 +49,7 @@ PaRI will contribute NeIC Strategic objectives, which are aligned with PaRI part
 * Beneficial collaborations are the principal way that NeIC brings together the needs, interests and resources to create e-infrastructure to support research excellence in the Nordic region. PaRI is implementing those among Nordic and Estonian National Providers and possibly among other European countries. 
 * Nordic Influence is the effect that NeIC has in improving and advancing e-infrastructure for researchers and for society. PaRI aims to enable easy and seamless access to datasets for researchers and possibly non-academic users.
 * Motivated People are essential in the collaborations and to bring the results into the research domains and society. PaRI is a collaboration of six countries being also the NeIC members (Finland collaborates as an observer) and Germany. PaRI is not tied to COVID-19, but will work on preparing the grounds and expertise for future pandemics. At the core of PaRI is also its consortium’s expertise.  
-*Effective processes bind NeIC into an organization that is able to realize the benefits and influences that come from the collaborations - PaRI aims at contributing to  improvement of the processes at partners organizations, e.g., dialogue between the researchers and national providers. 
+* Effective processes bind NeIC into an organization that is able to realize the benefits and influences that come from the collaborations - PaRI aims at contributing to  improvement of the processes at partners organizations, e.g., dialogue between the researchers and national providers. 
 
 
 ### Collaborations
