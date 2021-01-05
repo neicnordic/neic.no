@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Rene Jacobsen
+name: René Løwe Jacobsen
 home: <a href="https://www.deic.dk/">DeiC</a>
 country: DK
 photo:
