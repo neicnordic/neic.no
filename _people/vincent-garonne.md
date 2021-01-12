@@ -13,4 +13,11 @@ groups:
   nicest2:
   nt1:
     role: Storage Software Developer
+    role: manager
+  nt1-po:
+    role: NT1 manager
+  nt1-sg:
+    role: Ex officio, NT1 manager
+  nlcg:
+    role: Ex officio, NT1 manager
 ---
