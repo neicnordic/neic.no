@@ -16,9 +16,9 @@ groups:
   nt1-po:
     role: Technical lead
   nt1-sg:
-    role: Ex officio, technical lead
+    role: Ex officio, Technical lead
   nlcg:
-    role: Ex officio, technical lead
+    role: Ex officio, Technical lead
   nt1:
     role: Technical lead
   neic2017-org:
