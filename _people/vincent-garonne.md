@@ -12,8 +12,8 @@ has_been_on_contract: yes
 groups:
   nicest2:
   nt1:
+    role: NT1 manager
     role: Storage Software Developer
-    role: manager
   nt1-po:
     role: NT1 manager
   nt1-sg:
