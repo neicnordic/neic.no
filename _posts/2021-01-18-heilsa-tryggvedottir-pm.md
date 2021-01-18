@@ -18,4 +18,4 @@ Anna Hagwall from [NBIS, the National Bioinformatics Infrastructure Sweden](http
 
 >*“For me, it is essential that the projects I engage in create value for humankind. In recent years, I also discovered the importance of that the project itself is run in a transparent, sustainable and inclusive manner so that the project members enjoy their participation. Taking on the project management role for Heilsa Tryggvedottir, my hopes and expectations are to build on the achievements from previous NeIC Tryggve projects and reach a production-ready cross-border infrastructure to soon be used for biomedical research, and that all project members feel proud of having contributed with expertise and creativity to this important milestone for human health in the Nordics.”*
 
-Anna will start in her new role as the Heilsa Project Manager on January 25th. We happily welcome Anna to join the NeIC community! 
+Anna will start in her new role as the Heilsa project manager on January 25th. We happily welcome Anna to join the NeIC community! 
