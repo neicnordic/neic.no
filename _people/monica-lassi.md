@@ -10,5 +10,4 @@ phone:
 on_contract:
 has_been_on_contract:
 groups:
-  puhuri:
 ---
