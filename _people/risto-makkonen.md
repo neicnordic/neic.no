@@ -7,6 +7,7 @@ country: "FI"
 photo:
 email: risto.makkonen@fmi.fi
 phone:
+orcid: <a href="https://orcid.org/0000-0002-8961-3393">ORCID ID</a>
 on_contract: no
 has_been_on_contract: no
 groups:
