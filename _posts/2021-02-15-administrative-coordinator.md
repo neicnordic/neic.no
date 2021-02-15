@@ -20,7 +20,7 @@ The Administrative coordinator is a part of NeIC’s distributed Executive team 
 - arranging meetings and conferences,
 - keeping the NeIC website up to date,
 - implementing the NeIC strategy and
-- general advisory work and taking care of current issues
+- general advisory work and taking care of current issues.
 
 We are looking for someone who has good command of both written and spoken English and a lot of initiative. You are already familiar with digital tools, distributed forms of collaboration and working remotely. You have higher education (minimum MSc level or equivalent) from a relevant field and at least five years of relevant work experience. We also appreciate
 - experience from research funding institutions, public administration, research institutions or similar organisations,
