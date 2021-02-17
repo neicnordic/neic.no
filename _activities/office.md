@@ -6,12 +6,12 @@ type: Operations
 leader: gudmund-host
 start: 2012-01-01
 results: N/A
-outreach: /events
+outreach: N/A
 documents:
-  - text: Strategy 2016-2020
-    url: https://wiki.neic.no/wiki/NeIC_Strategy_2016-2020
+  - text: Strategy 2020-2025
+    url: https://wiki.neic.no/wiki/NeIC_Community_Wiki#Strategy
   - text: Policies
-    url: https://wiki.neic.no/wiki/Welcome_to_NeIC
+    url: https://wiki.neic.no/wiki/Category:Policy
 groups:
   board:
     name: Board
@@ -30,10 +30,9 @@ groups:
     frequency: 3-4 per year
 ---
 
-The people and teams that carry out governance, management and coordination of
-NeIC activities.
+The people and teams that carry out governance, management and coordination of NeIC activities.
 
 FIND US
 
-Our address is Stensberggata 27, 0170 Oslo
+Our address is Stensberggata 27, 0170 Oslo.  
 For a map to our building please see [here](https://neic.no/people/)
