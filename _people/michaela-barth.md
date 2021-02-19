@@ -20,41 +20,50 @@ groups:
     role: Coordination
   nt1-po:
     role: Activity owner
+    finished: yes
   nt1-sg:
     role: Chair
+    finished: yes
   nlcg:
     role: Ex officio, Activity owner
+    finished: yes
   glenna2-sg:
     role: Chair
   glenna2-po:
     role: Project owner
-  glenna-sg:
-    role: Chair
   glenna2-rg:
+    role: Chair
+  glenna-sg:
     role: Chair
   glenna-po:
     role: Project owner
   coderefinery-sg:
     role: Chair
+    finished: yes
   coderefinery-po:
     role: Project owner
+    finished: yes
   coderefinery-rg:
     role: Chair
+    finished: yes
   iobs-sg:
     role: Chair
   iobs-po:
     role: Project owner
   project-analysis-rg:
-  finished: yes
+    finished: yes
   ratatosk-sg:
     role: Chair
   ratatosk-po:
     role: Activity owner
   ndhl-po:
     role: Pre-study owner
+    finished: yes
   nicest2-po:
     role: Project owner
   nicest2-sg:
+    role: Chair
+  nicest2-rg:
     role: Chair
   neic2015-sg:
     role: Chair
