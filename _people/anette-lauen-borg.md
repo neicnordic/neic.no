@@ -14,6 +14,8 @@ groups:
     role: Project leader
   iobs-sg:
     role: Project leader, Observer
+  iobs-rg:
+    role: Project leader, Secretary
   iobs-po:
     role: Project leader
 ---
