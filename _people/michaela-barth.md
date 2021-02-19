@@ -48,10 +48,13 @@ groups:
     finished: yes
   iobs-sg:
     role: Chair
+    finished: yes
   iobs-rg:
     role: Chair
+    finished: yes
   iobs-po:
     role: Project owner
+    finished: yes
   project-analysis-rg:
     finished: yes
   ratatosk-sg:
