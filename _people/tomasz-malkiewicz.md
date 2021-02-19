@@ -45,7 +45,7 @@ groups:
     role: Ex officio, Activity owner
   iobs-sg:
     role: Chair
-  iobs-sg:
+  iobs-rg:
     role: Chair
   iobs-po:
     role: Project owner
