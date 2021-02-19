@@ -37,6 +37,10 @@ groups:
     name: Steering Group
     frequency: 3-4 per year
     minutes: https://indico.neic.no/category/21/
+  nicest2-rg:
+    name: Reference Group
+    frequency: 1-2 per year
+    minutes: https://indico.neic.no/category/21/
   nicest2-po:
     name: Project office
     description: Management.
