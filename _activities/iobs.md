@@ -39,7 +39,7 @@ groups:
   iobs-rg:
     name: Reference group
     description: Stakeholder engagement forum. 
-    minutes:
+    minutes: https://indico.neic.no/category/12/
     frequency: 1-3 per year
      
 ---
