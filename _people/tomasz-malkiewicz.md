@@ -33,9 +33,21 @@ groups:
   dellingr:
     role: Project manager, Acting
     finished: yes
-  nlpl-sg:
+    nlpl-sg:
     role: Project owner, Chair
   nlpl-po:
+    role: Project owner
+  nt1-po:
+    role: Activity owner
+  nt1-sg:
+    role: Chair
+  nlcg:
+    role: Ex officio, Activity owner
+  iobs-sg:
+    role: Chair
+  iobs-sg:
+    role: Chair
+  iobs-po:
     role: Project owner
   deepdive-sg:
     role: Project owner, Chair
