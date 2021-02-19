@@ -48,6 +48,8 @@ groups:
     finished: yes
   iobs-sg:
     role: Chair
+  iobs-rg:
+    role: Chair
   iobs-po:
     role: Project owner
   project-analysis-rg:
