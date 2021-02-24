@@ -66,10 +66,13 @@ groups:
     finished: yes
   nicest2-po:
     role: Project owner
+    finished: yes
   nicest2-sg:
     role: Chair
+    finished: yes
   nicest2-rg:
     role: Chair
+    finished: yes
   neic2015-sg:
     role: Chair
     finished: yes
