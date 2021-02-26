@@ -14,6 +14,7 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Executive manager
+    finished: yes
   poco-wg:
     role: Coordination
   data-management-wg:
