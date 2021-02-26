@@ -9,7 +9,7 @@ email: caela@pdc.kth.se
 profile: <a href="https://www.kth.se/profile/caela/">KTH Profile</a>
 orcid: <a href="https://orcid.org/0000-0003-3689-3499">ORCID ID</a>
 phone: "+46 87 90 78 91"
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
