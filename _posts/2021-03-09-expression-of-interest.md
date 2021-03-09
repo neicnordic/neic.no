@@ -25,7 +25,7 @@ A farsighted 10-year Memorandum of Understanding (MoU) on Nordic e-infrastructur
 
 On February 13th, an expression of interest was sent to NordForsk, copying in all the national funding agencies to clarify our long-term goals and the framework for the funding we are seeking. 
 
-Our expression of interest can be found [here](https://wiki.neic.no/w/ext/img_auth.php/5/5a/NeIC_Expression_of_Interest.pdf).
+Our expression of interest can be read [here](https://wiki.neic.no/w/ext/img_auth.php/5/5a/NeIC_Expression_of_Interest.pdf).
 
 --------------------------------------
 
