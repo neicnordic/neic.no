@@ -11,5 +11,6 @@ on_contract: yes
 has_been_on_contract:
 groups:
   board:
+    role: Chair
   xt-board:
 ---
