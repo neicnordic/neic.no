@@ -6,7 +6,7 @@ home: <a href="http://www.lth.se/">Lund University</a>
 country: SE
 photo:
 email: monica.lassi@lunarc.lu.se
-phone:
+phone: "+46 706471091"
 on_contract: yes
 has_been_on_contract:
 groups:
