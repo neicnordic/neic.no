@@ -2,9 +2,9 @@
 layout: master
 include: person
 name: Monica Lassi
-home: <a href="http://www.lth.se/">Lund University</a>
+home: <a href="http://www.lu.se/">Lund University</a>
 country: SE
-photo:
+photo: assets/images/people/MonicaLassi.gif
 email: monica.lassi@lunarc.lu.se
 phone: "+46 706471091"
 on_contract: yes
