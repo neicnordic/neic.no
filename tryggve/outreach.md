@@ -9,7 +9,7 @@ phase: Implementation
 start: 2014-10-21
 end: 2020-10-21
 results: N/A
-outreach: https://drive.google.com/drive/u/0/folders/1gQZQ5_mJ2nRYY1mBQtRCo2EisxyrtrYN
+outreach: N/A
 outreach-tags: tryggve, outreach
 outcome-statements:
 documents:
@@ -41,6 +41,11 @@ show-groups:
     description: By following this link you can read about events and news from Tryggve
     absolute_link: https://neic.no/tryggve/outreach/
     linkname: Outreach
+  tryggve2-deliverables:
+    name: Published deliverables
+    description: By following this link you can access the project published deliverables and final report
+    absolute_link: https://drive.google.com/drive/u/0/folders/1gQZQ5_mJ2nRYY1mBQtRCo2EisxyrtrYN
+    linkname: Published Deliverables
   tryggve2-newsletter:
     name: Newsletter
     description: Tryggve Newsletter
