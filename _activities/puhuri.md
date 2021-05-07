@@ -18,8 +18,10 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
-   - text: Deliverable 1 on Requirements collection and technical architecture plan.
+   - text: Deliverable 1: Requirements collection and technical architecture plan.
      url: https://zenodo.org/record/4288776#.X71oUbNS9EY 
+   - text: Deliverable 2: Implementation of Puhuri core functionalities 
+     url: https://zenodo.org/record/4727686#.YJS2caFRVhF 
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
