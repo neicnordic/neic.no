@@ -5,12 +5,12 @@ name: Heilsa Tryggvedottir
 type: Project
 leader: anna-hagwall
 phase: In progress
-start: 2021-06-08
-end: 2024-06-07
+start: 2021-06-15
+end: 2024-06-14
 results:
 outreach:
 documents:
-  - text: Project plan
+  - text: Project plan will be added later.
     url: 
 links:
 
