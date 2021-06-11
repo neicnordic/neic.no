@@ -12,5 +12,9 @@ has_been_on_contract: yes
 orcid: <a href="https://orcid.org/0000-0002-1784-2920">ORCID ID</a>
 groups:
   heilsa:
-    role: Project Manager
+    role: Project manager
+  heilsa-sg:
+    role: Project leader
+  heilsa-po:
+    role: Project leader
 ---
