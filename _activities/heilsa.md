@@ -7,6 +7,8 @@ leader: anna-hagwall
 phase: In progress
 start: 2021-06-15
 end: 2024-06-14
+results: N/A
+outreach: N/A
 
 documents:
   - text: Project plan
