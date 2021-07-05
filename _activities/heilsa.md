@@ -22,12 +22,14 @@ groups:
     name: Team
   heilsa-sg:
     name: Steering group
+    description: Governance.
     minutes: https://drive.google.com/drive/folders/1P79RhtD9tmGHOZ8dEFffI5Y2tmnDQAgm?usp=sharing
     frequency: quarterly
   heilsa-po:
     name: Project office
+    description: Management.
 ---
-## Heilsa Tryggvedottier - Nordic collaboration on sharing sensitive human data
+## Heilsa Tryggvedottir - Nordic collaboration on sharing sensitive human data
 
 Heilsa Tryggvedottir is the name of the Nordic collaboration on sensitive data funded by NeIC and the partner nodes.
 

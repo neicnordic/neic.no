@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Jukka-Pekka Keskinen
-home: <a href="http://www.physics.helsinki.fi/english/">UoHel</a>
+home: <a href="http://www.physics.helsinki.fi/english/">University of Helsinki</a>
 country: "FI"
 photo:
 email: jukka-pekka.keskinen@helsinki.fi

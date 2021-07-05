@@ -16,4 +16,5 @@ groups:
   tryggve2-pm:
     role: Sub-project leader
   pari:
+  heilsa:
 ---

@@ -1,17 +1,14 @@
 ---
 layout: master
 include: person
-name: Anna Hagwall
+name: Dimitris Bampalikis
 home: <a href="https://nbis.se">NBIS</a>
 country: "SE"
-photo:
+photo: 
 email: 
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
   heilsa:
-    role: Project manager
-  heilsa-po:
-    role: Project leader
 ---
