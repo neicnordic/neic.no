@@ -14,23 +14,17 @@
 			      <br> More information on the Affiliate Programme: neic-affiliate at neic.no.
                       </p>
                       </div>
-              </div>
-              <div class="col-md-5">
-
-                      <ul class="linl-list">
-			<li>	<a href="{% include baseurl %}/affiliate-B2share/" class="btn with-border">B2Share Nordic</a>	</li>
- 			<li>	<a href="{% include baseurl %}/affiliate-deepdive/" class="btn with-border">DeepDive</a>	</li>
- 			<li>	<a href="{% include baseurl %}/affiliate-dellingr/" class="btn with-border">Dellingr</a>	</li>
- 			<li>	<a href="{% include baseurl %}/affiliate-E3DDS/" class="btn with-border">E3DDS</a>	</li>
-			<li>	<a href="{% include baseurl %}/affiliate-glenna/" class="btn with-border">Glenna</a>	</li>
-      			<li>	<a href="{% include baseurl %}/affiliate-nicest/" class="btn with-border">NICEST</a>	</li>
-			<li>	<a href="{% include baseurl %}/affiliate-nlpl/" class="btn with-border">NLPL</a>	</li>
-			<li>	<a href="{% include baseurl %}/affiliate-ratatosk/" class="btn with-border">Ratatosk</a>	</li>
-	       		<li>	<a href="{% include baseurl %}/affiliate-SGAS/" class="btn with-border">SGAS</a>	</li>
-                    
-                      </ul>
-              </div>
-              </div>
-
-      </div>
+        </div>
+        <div>
+        <div class="col-md-5">
+                <ul class="linl-list">
+                  {% for affiliate in site.affiliates %}
+                    {% if affiliate.finished %}{% continue %}{% endif %}
+                    {% if affiliate.hide-on-frontpage %}{% continue %}{% endif %}
+                    <li><a href="{% include baseurl %}{{ affiliate.url }}">{{ affiliate.name }}</a></li>
+                  {% endfor %}
+                </ul>
+        </div>
+        </div>
+</div>
 </section>

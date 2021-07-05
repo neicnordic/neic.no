@@ -1,7 +1,40 @@
 ---
 layout: master
-include: affiliate-programmes
+include: affiliate
 name: Dellingr
+type: Affiliate project
+leader: john-white
+start: 2017-01-10
+end: 2020-03-15
+results: https://wiki.neic.no/wiki/Dellingr
+outreach: https://dellingr.neic.no/apply/
+documents:
+  - text: Project Plan
+    url: https://wiki.neic.no/wiki/Dellingr#Project_Plan
+  - text: Final report
+    url: https://wiki.neic.no/wiki/Dellingr#DO10_Final_Report
+links:
+  - url: https://wiki.neic.no/wiki/Dellingr
+    text: External wiki
+    description: Public wiki page.
+  - url: https://wiki.neic.no/int/Dellingr
+    text: Internal wiki
+    description: Internal working documents.
+  - url: https://dellingr.neic.no
+    text: Dellingr.neic.no
+    description: Dellingr Welcome Page.
+  - url: https://zenodo.org/search?q=dellingr
+    text: Zenodo
+    description: Dellingr publications on Zenodo.
+groups:
+  dellingr:
+    name: Team
+  dellingr-sg:
+    name: Steering group
+    description: Governance.
+  dellingr-po:
+    name: Project office
+    description: Management.
 ---
 
 ## About Dellingr
@@ -26,18 +59,4 @@ between the national providers.
 
 The Dellingr project ran two successful resource sharing pilots.
 These pilots were credited in publications and produced a resource sharing framework.
- 
-### Results
 
-The Dellingr publications can be found on the [public wiki page](https://wiki.neic.no/wiki/Dellingr) or on the [Zenodo repository](https://zenodo.org/search?q=dellingr)
-
- 
-### Links & Documents
-[The public Dellingr Wiki](https://wiki.neic.no/wiki/Dellingr) <br/>
-[Project Plan](https://wiki.neic.no/wiki/Dellingr#Project_Plan) <br/>
-[Final Report](https://wiki.neic.no/wiki/Dellingr#DO10_Final_Report)
-
-### Project Contact Person
-John White
-
-#### Period: from 2017-01-10 to 2020-03-31
