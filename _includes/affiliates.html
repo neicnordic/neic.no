@@ -1,8 +1,6 @@
 <section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/affiliates-banner.jpg);">
 </section>
 
-
-
 <section class="affiliate">
       <div class="container">
               <div class="row" style="position: relative">
@@ -14,17 +12,17 @@
 			      <br> More information on the Affiliate Programme: neic-affiliate at neic.no.
                       </p>
                       </div>
+                </div>
+                <div class="col-md-5">
+
+                        <ul class="linl-list">
+                        {% for affiliate in site.affiliates %}
+                          {% if affiliate.finished %}{% continue %}{% endif %}
+                          {% if affiliate.hide-on-frontpage %}{% continue %}{% endif %}
+                          <li><a href="{% include baseurl %}{{ affiliate.url }}">{{ affiliate.name }}</a></li>
+                        {% endfor %}
+                        </ul>
+                </div>
+                </div>
         </div>
-        <div>
-        <div class="col-md-5">
-                <ul class="linl-list">
-                  {% for affiliate in site.affiliates %}
-                    {% if affiliate.finished %}{% continue %}{% endif %}
-                    {% if affiliate.hide-on-frontpage %}{% continue %}{% endif %}
-                    <li><a href="{% include baseurl %}{{ affiliate.url }}">{{ affiliate.name }}</a></li>
-                  {% endfor %}
-                </ul>
-        </div>
-        </div>
-</div>
 </section>
