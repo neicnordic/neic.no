@@ -6,7 +6,6 @@ home: <a href="http://www.lu.se/">Lund University</a>
 country: SE
 photo: assets/images/people/Monica_Lassi.jpg
 email: monica.lassi@lunarc.lu.se
-phone: "+46 706471091"
 on_contract: no
 has_been_on_contract: yes
 groups:
