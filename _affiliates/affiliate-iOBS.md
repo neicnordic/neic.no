@@ -13,8 +13,8 @@ documents:
     url: https://wiki.neic.no/wiki/File:ProjectDirectiveiOBS.pdf
   - text: Project plan
     url: https://wiki.neic.no/wiki/File:IOBS_project_plan.pdf
-  - text: Final report (TBA)
-    url: N/A
+  - text: Final report
+    url: https://wiki.neic.no/wiki/File:Final_report_iOBS_20210811.pdf
 links:
   - url: https://wiki.neic.no/wiki/iOBS
     text: External wiki
@@ -37,6 +37,9 @@ groups:
      
 ---
 ## About iOBS - Improved Observation Usage in Numerical Weather Prediction
+
+Currently the iOBS project is in the NeIC extended affiliate programme. [More information here.](https://neic.no/news/2021/06/24/extended-affiliate-programme/
+)
 
 ### Background
 
