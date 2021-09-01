@@ -11,5 +11,5 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Administrative Area Coordinator (substitute)
+    role: Communications Advisor
 ---
