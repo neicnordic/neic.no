@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Steen Linden
-home:
+home: <a href="https://www.dtu.dk/">DTU</a>
 country: "DK"
 photo: 
 email: 
