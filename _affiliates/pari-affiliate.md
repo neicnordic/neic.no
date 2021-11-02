@@ -1,7 +1,7 @@
 ---
 layout: master
 include: affiliate
-name: PaRI 
+name: PaRI Affiliate
 type: Affiliate project
 leader: wolmar-nyberg
 start: 2021-11-01
