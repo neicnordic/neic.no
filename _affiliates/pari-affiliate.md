@@ -1,7 +1,7 @@
 ---
 layout: master
 include: affiliate
-name: PaRI Affiliate
+name: PaRI
 type: Affiliate project
 leader: wolmar-nyberg
 start: 2021-11-01
@@ -25,15 +25,11 @@ links:
     text: Internal wiki
     description: Internal working documents.
 groups:
-  pari:
+  pari-aff:
     name: Team
     minutes: https://drive.google.com/drive/folders/1OUvPLhzUQaCSzHE4GZJ4F0pLxk2ioC6w?usp=sharing
     frequency: Bi-weekly
-  pari-sg:
-    name: Steering Group
-    minutes: https://drive.google.com/drive/folders/1Bx1Tq39FpZ-bWKr_Zu3bHemKGTjOgW-q?usp=sharing
-    frequency: quaterly
-  pari-po:
+  pari-aff-po:
     name: Project office
     minutes: https://wiki.neic.no/int/Category:PaRI management meetings 2020 
     frequency: weekly
