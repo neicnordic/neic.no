@@ -29,5 +29,7 @@ groups:
     role: Project Manager
   pari-po:
     role: Project Manager
+  pari-aff-po:
+    role: Project Owner
   heilsa:
 ---
