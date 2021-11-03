@@ -4,7 +4,7 @@ include: person
 name: Vilma Häkkinen
 home: <a href="https://neic.no">NeIC</a>
 country: "FI"
-photo: 
+photo: assets/images/people/vilma-hakkinen.jpeg
 email: vilma.hakkinen@nordforsk.org
 phone: "+35850 430 1532"
 on_contract: yes

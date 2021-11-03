@@ -4,7 +4,7 @@ include: person
 name: Anna Hagwall
 home: <a href="https://nbis.se">NBIS</a>
 country: "SE"
-photo:
+photo: assets/images/people/anna-hagwall.JPG
 email: 
 phone:
 on_contract: yes

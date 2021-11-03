@@ -4,7 +4,7 @@ include: person
 name: Anja Wiesbrock
 home: <a href="https://www.nordforsk.org">NordForsk</a>
 country: "NO"
-photo: 
+photo: assets/images/people/anja-wiesbrock.png
 email: anja.wiesbrock@nordforsk.org
 phone: 
 on_contract: yes
