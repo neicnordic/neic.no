@@ -4,12 +4,14 @@ include: person
 name: Abdulrahman Azab
 home: <a href="https://www.usit.uio.no/">USIT</a>
 country: "NO"
-photo: assets/images/people/Abdulrahman_Azab2.jpg
+photo: assets/images/people/Abdulrahman_Azab3.jpeg
 email: azab@uio.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  xt:
+    role: Senior Advisor
   tryggve1:
   tryggve2:
     role: Project Manager
