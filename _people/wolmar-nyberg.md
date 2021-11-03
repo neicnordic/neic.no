@@ -12,8 +12,8 @@ has_been_on_contract: yes
 groups:
   pari:
   pari-aff:
-    role: Project Manager
+    role: Coordinator
   pari-aff-po:
-    role: Project Manager
+    role: Coordinator
   heilsa:
 ---
