@@ -13,6 +13,8 @@ outreach: N/A
 documents:
   - text: Project plan
     url: https://drive.google.com/file/d/1GEzZVUNuoXhQEMZH23ZKAGcp968hRr41/view?usp=sharing
+  - text: Collaboration agreement
+    url: https://drive.google.com/file/d/15ImMVv0Fflp4rn0E_VekgB5VRbMRH6m6/view?usp=sharing
 links:
   - text: Internal wiki
     url: https://wiki.neic.no/int/Heilsa_Tryggvedottir
