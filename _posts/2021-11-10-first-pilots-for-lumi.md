@@ -16,7 +16,7 @@ The LUMI (Large Unified Modern Infrastructure; ‘lumi’ also stands for snow i
 The LUMI supercomputer is one of the seven pre-exascale supercomputers being built around Europe by the European High-Performance Computing Joint Undertaking (EuroHPC JU). LUMI is hosted by a consortium consisting of 10 European countries: Belgium, Czech Republic, Denmark, Estonia, Finland, Iceland, Norway, Poland, Sweden and Switzerland.
 
 <img class="normal" src="{% include baseurl %}/assets/images/news/lumi-supercomputer.png" margin="0px 5px">
-<br> *Photo: Mikko Vasara*
+<br> *Photo: Marko Vasara*
 
 ### Stress tests to ensure scalability and stability
 
