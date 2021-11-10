@@ -7,7 +7,7 @@ country: "NO"
 photo:
 email: ingo.bethke@uni.no
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:

@@ -7,7 +7,7 @@ country: "DK"
 photo: 
 email: gaco@dtu.dk
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   pari:

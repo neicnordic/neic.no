@@ -7,7 +7,7 @@ country: "DE"
 photo: 
 email: maierw@informatik.uni-freiburg.de
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   pari:

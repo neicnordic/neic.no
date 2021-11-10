@@ -7,7 +7,7 @@ country: "DE"
 photo: assets/images/people/Bjoern_Gruening.jpg
 email: bjoern.gruening@gmail.com
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   pari:

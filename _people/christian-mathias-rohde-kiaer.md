@@ -7,7 +7,7 @@ country: "DK"
 photo:
 email: cmrk@dmi.dk
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:

@@ -7,7 +7,7 @@ country: "SE"
 photo: assets/images/people/Klaus_Wyser.jpg
 email: klaus.wyser@smhi.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:
