@@ -11,7 +11,7 @@ First projects begun piloting the LUMI supercomputer in October 2021. LUMI, loca
 
 ### What is LUMI?
 
-The LUMI (Large Unified Modern Infrastructure; ‘lumi’ also stands for snow in Finnish) is a supercomputer located in CSC - IT Center for Science’s data center in Kajaani, Finland. After the second installation phase in Spring 2022, it will be one of the fastest computer systems in the world. The computing power of LUMI will be over 550 petaflops, which is equivalent to the combined performance of 1.5 million of the latest laptop computers. LUMI will be one of the world’s best known scientific instruments for the lifespan of 2021–2026. (Source: [LUMI website](https://www.lumi-supercomputer.eu/about-lumi/))
+LUMI (Large Unified Modern Infrastructure; ‘lumi’ also stands for snow in Finnish) is a supercomputer located in CSC - IT Center for Science’s data center in Kajaani, Finland. After the second installation phase in Spring 2022, it will be one of the fastest computer systems in the world. The computing power of LUMI will be over 550 petaflops, which is equivalent to the combined performance of 1.5 million of the latest laptop computers. LUMI will be one of the world’s best known scientific instruments for the lifespan of 2021–2026. (Source: [LUMI website](https://www.lumi-supercomputer.eu/about-lumi/))
 
 The LUMI supercomputer is one of the seven pre-exascale supercomputers being built around Europe by the European High-Performance Computing Joint Undertaking (EuroHPC JU). LUMI is hosted by a consortium consisting of 10 European countries: Belgium, Czech Republic, Denmark, Estonia, Finland, Iceland, Norway, Poland, Sweden and Switzerland.
 
