@@ -4,7 +4,7 @@ include: person
 name: Björn Grüning
 home: <a href="http://www.bioinf.uni-freiburg.de/">Bioinformatics group, University of Freiburg</a>
 country: "DE"
-photo: assets/images/people/Bjoern-Gruening.jpg
+photo: assets/images/people/Bjoern_Gruening.jpg
 email: bjoern.gruening@gmail.com
 phone:
 on_contract: yes

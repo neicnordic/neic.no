@@ -58,6 +58,8 @@
         researchers, application experts, and e-scientists,
         working at NordForsk, university IT-centers, and national
         e-infrastructure centers in the Nordics.
+      
+        <a class="contact-details-block-btn green-hover-btn" href="{% include baseurl %}/about/organisation/">Organisational chart</a>
       </p>
       <h6>FIND US</h6>
       <p>Find the entrance with NordForsk sign, 5<sup>th</sup> floor.</p>
@@ -117,7 +119,7 @@
                             {% assign previous_country = person.country %}
 
                               {% assign num_countries = num_countries | plus: 1 %}
-                              {% if num_countries == 6 %}  <!-- we need to break the column, hardcoded to put 3 countries "left* -->
+                              {% if num_countries == 4 %}  <!-- we need to break the column, hardcoded to put 3 countries "left* -->
                   </div>
                 </div>
               </div>
