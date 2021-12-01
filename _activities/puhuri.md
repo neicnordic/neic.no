@@ -22,6 +22,8 @@ documents:
      url: https://zenodo.org/record/4288776#.X71oUbNS9EY 
    - text: Deliverable 2 on Implementation of Puhuri core functionalities 
      url: https://zenodo.org/record/4727686#.YJS2caFRVhF 
+   - text: Deliverable 3 on LUMI integration to Puhuri
+     url: https://zenodo.org/record/5747047#.Yadx7LqxVhE  
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
@@ -33,7 +35,7 @@ groups:
   puhuri:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
-    frequency: every week
+    frequency: weekly
   puhuri-sg:
     name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings
