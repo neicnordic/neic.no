@@ -1,0 +1,17 @@
+---
+title: Manager wanted for new project on quantum computing
+summary: NeIC is looking for a Project Manager for the new NordIQuEst project. The three-year project is expected to start in March 2022, and we hope the successful candidate will be able to start as soon as possible. Deadline for applications is 17 December.
+photo: /assets/images/latest-news-52.png
+---
+
+A Manager wanted for the new NeIC project on quantum computing
+===========================
+NeIC is looking for a Project Manager for its new project, Nordic-Estonian Quantum Computing Quest (NordIQuEst). The project is expected to start in March 2022, and the contract period for this position is for the three years of actual project execution plus 1-2 months at the start and end of the project. We hope the successful candidate will be able to start as soon as possible, ideally in January 2022.
+
+The Project Manager will lead the NordIQuEst project according to general principles of PPS project management. In addition, the person chosen for this position is expected to have extensive experience of leading large projects on quantum computing at EU and national levels. Ideally, the person is  well connected to EU flagship and Nordic programs as well as activities involving both quantum and high-performance computing. The Project Manager should demonstrate deep insight into the entire NordIQuEst project, and the ability to promote efficient collaboration in order to make the project highly successful.
+
+In the coming years, quantum computing is expected to have a huge impact on practically all areas of research that can utilise computational modelling. Quantum computers introduce a more efficient solution to tackle some of the most pressing societal challenges of our time. The NordIQuEst project will work to introduce a Nordic quantum computing ecosystem by establishing a quantum computing platform customised to the needs of the Nordic region, with access to several Nordic quantum computers and quantum computer simulators. The collaboration on establishing a quantum computing infrastructure is for the Nordic region to be able to take the quantum leap and to renew the Nordic-Estonian research and development sector. You can read more about the NordIQuEst project [here](https://neic.no/news/2021/10/01/2021-open-call-results/).
+
+The Project Manager is expected to commit 50% of a full-time equivalent to the NordIQuEst project. The service wll be fully funded by NeIC. It is anticipated that candidates are employed at a national e-infrastructure organisation in one of the NeIC countries, or a collaborating institution. For candidates that are qualified but not employed at one of the above mentioned organisations, NeIC offers to negotiate an employment relation. Staff are normally sub-contracted to NeIC through a service agreement between the national employer institution and NeIC, with the aim of enhancing Nordic collaboration. 
+
+If you think you would be the right fit for this position, please read [the announcement for this position](https://wiki.neic.no/w/ext/img_auth.php/9/99/211100-NordiQuEst_Project_Manager_position_announcement.pdf). To apply, send your application letter and CV to openpositions@neic.no by 17 December 2021. If you have any questions about the project or NeIC in general, please don’t hesitate to contact Project Owner Rob Pennington or NeIC Director Gudmund Høst.
