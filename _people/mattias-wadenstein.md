@@ -14,13 +14,13 @@ groups:
     role: NT1 coordinator, Until 2017-03-31
     finished: yes
   nt1-po:
-    role: Technical lead
+    role: Project Manager
   nt1-sg:
-    role: Ex officio, Technical lead
+    role: Ex officio, Project Manager
   nlcg:
-    role: Ex officio, Technical lead
+    role: Ex officio, Project Manager
   nt1:
-    role: Technical lead
+    role: Project Manager
   neic2017-org:
     role: Local coordinator
   project-analysis-rg:
