@@ -68,5 +68,6 @@ groups:
     role: Project owner, Chair
   pari-po:
     role: Project owner
-  
+  neic2022-pc:
+    role: Chair
 ---

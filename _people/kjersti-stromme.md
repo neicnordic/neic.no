@@ -1,19 +1,14 @@
 ---
 layout: master
 include: person
-name: Vigdis Guldseth
+name: Kjersti Strømme
 home: <a href="https://uninett.no/sigma/">Sigma2</a>
 country: "NO"
 photo:
-email: vigdis.guldseth@uninett.no
+email: kjersti.stromme@uninett.no
 phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  poco-wg:
-  neic2015-org:
-    finished: yes
-  ratatosk-sg:
-  coderefinery-rg:
   neic2022-oc:
 ---

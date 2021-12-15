@@ -31,5 +31,6 @@ groups:
     role: Project Manager
   pari-aff-po:
     role: Project Owner
-  heilsa:
+  neic2022-oc:
+    role: Chair
 ---

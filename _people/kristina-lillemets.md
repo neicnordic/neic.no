@@ -1,17 +1,14 @@
 ---
 layout: master
 include: person
-name: Ahti Saar
+name: Kristina Lillemets
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
 country: EE
 photo:
-email: ahti.saar@ut.ee
+email:
 phone:
-on_contract: yes
-has_been_on_contract:
+on_contract: no
+has_been_on_contract: no
 groups:
-  dellingr:
-  puhuri-sg:
-  puhuri:
-  neic2022-oc:
+  neic2022-pc:
 ---

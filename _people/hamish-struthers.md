@@ -14,4 +14,5 @@ groups:
   nicest2:
   nicest2-sg:
   nicest-sg:
+  neic2022-oc:
 ---
