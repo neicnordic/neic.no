@@ -1,10 +1,10 @@
 ---
 layout: master
 include: person
-name: Jens Begtrup
+name: Bodil Aurstad
 home: <a href="https://www.nordforsk.org/">NordForsk</a>
 country: "NO"
-on_contract: no
+on_contract: yes
 has_been_on_contract: yes
 groups:
   eosc-nordic:
