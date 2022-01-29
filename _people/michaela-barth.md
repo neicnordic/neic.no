@@ -38,15 +38,6 @@ groups:
     role: Chair
   glenna-po:
     role: Project owner
-  coderefinery-sg:
-    role: Chair
-    finished: yes
-  coderefinery-po:
-    role: Project owner
-    finished: yes
-  coderefinery-rg:
-    role: Chair
-    finished: yes
   iobs-sg:
     role: Chair
     finished: yes
