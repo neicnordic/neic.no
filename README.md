@@ -33,6 +33,21 @@ This way we do not have to worry about hosting, backup, and uptime. Also we
 allow anybody to submit changes and corrections without the need of giving
 these persons write or edit permissions.
 
+We have moved to GitHub/Jekyll early 2017. Before this move, the web hosting was
+done by a separate entity and we had to ask them for every change and it
+introduced delays and slowed done larger reorganization of pages. Back then,
+there was a large demand in moving the pages to a public hosting solution where
+anybody can propose changes and where accepting changes becomes nearly trivial.
+
+When we chose the web hosting solution, we imagined that all NeIC staff is
+somehow familiar with open source tools and web hosting (this assumption was
+not correct) and that all NeIC staff would participate in maintaining the
+website (also this was not correct in hind-sight).
+
+Now, couple of year later, we should have preferred an even simpler solution
+where one can submit and preview changes without knowledge of Git, GitHub,
+JavaScript, CSS, or HTML.
+
 
 ## Recommendations for editing pages
 
