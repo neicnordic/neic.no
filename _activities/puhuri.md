@@ -46,6 +46,8 @@ groups:
     name: Reference Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
     frequency: quaterly
+    text: Reference Group members 
+    url: https://wiki.neic.no/wiki/Puhuri#Reference_Group
   puhuri-po:
     name: Project office
     minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
