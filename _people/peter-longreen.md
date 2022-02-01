@@ -5,7 +5,7 @@ name: Peter Løngreen
 home: <a href="http://www.cbs.dtu.dk/">CBS</a>
 country: DK
 photo:
-email: peterl@cbs.dtu.dk
+email: peterl@dtu.dk
 phone:
 on_contract: no
 has_been_on_contract: no
