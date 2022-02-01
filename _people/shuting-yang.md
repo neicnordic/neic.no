@@ -5,7 +5,7 @@ name: Shuting Yang
 home: <a href="http://www.dmi.dk/en/vejr/">DMI</a>
 country: "DK"
 photo:
-email: shuting@dmi.dk
+email: sy@dmi.dk
 phone:
 on_contract: no
 has_been_on_contract: yes
