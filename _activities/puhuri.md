@@ -40,6 +40,11 @@ groups:
     name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings
     frequency: quaterly
+  puhuri-rg:
+    name: Reference Group
+    frequency: 4 times per year
+    participants: https://wiki.neic.no/wiki/Puhuri#Reference_Group
+    minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
   puhuri-po:
     name: Project office
     minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
