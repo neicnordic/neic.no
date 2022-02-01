@@ -37,12 +37,6 @@ groups:
     role: Project owner, Chair
   nlpl-po:
     role: Project owner
-  nt1-po:
-    role: Activity owner
-  nt1-sg:
-    role: Chair
-  nlcg:
-    role: Ex officio, Activity owner
   iobs-sg:
     role: Chair
   iobs-rg:
