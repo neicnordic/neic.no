@@ -16,6 +16,8 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
    - text: Terms of Reference of the Reference Group
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
+   - text: Reference Group members: 
+     url: https://wiki.neic.no/wiki/Puhuri#Reference_Group
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
    - text: Deliverable 1 on Requirements collection and technical architecture plan.
@@ -42,9 +44,8 @@ groups:
     frequency: quaterly
   puhuri-rg:
     name: Reference Group
-    frequency: 4 times per year
-    participants: https://wiki.neic.no/wiki/Puhuri#Reference_Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
+    frequency: 4 times per year
   puhuri-po:
     name: Project office
     minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
