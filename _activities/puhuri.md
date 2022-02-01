@@ -16,7 +16,7 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
    - text: Terms of Reference of the Reference Group
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
-   - text: Reference Group members: 
+   - text: Reference Group members 
      url: https://wiki.neic.no/wiki/Puhuri#Reference_Group
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
