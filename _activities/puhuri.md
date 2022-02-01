@@ -45,7 +45,7 @@ groups:
   puhuri-rg:
     name: Reference Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
-    frequency: 4 times per year
+    frequency: quaterly
   puhuri-po:
     name: Project office
     minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
