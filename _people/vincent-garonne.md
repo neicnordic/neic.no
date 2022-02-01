@@ -7,10 +7,11 @@ country: "NO"
 photo:
 email: vincent.garonne@usit.uio.no
 phone: 
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest2:
+    role: Ex staff member
   nt1:
     role: NT1 manager
     role: Storage Software Developer
