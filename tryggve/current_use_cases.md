@@ -30,7 +30,7 @@ show-groups:
 ---
 
 
-## Current use cases
+## Current use cases (Concluded by the end of the project)
 
 * [1-4 NorTwinCan](#1-4-nortwincam)
 * [1-1 Schizophrenia](#1-1-schizophrenia)
@@ -113,6 +113,7 @@ Although this project will not see an ending within Tryggve2, this use case will
 
 **Recipient contact:** Frank Møller Aarestrup
 **Responsible person:** Ali Syed
+**(This use case has been muted du to the lack of input from the recipient)**
 
 This use case focuses on creating a blueprint for a cloud solution for use in the current COVID-19 outbreak and will be available for future outbreaks regardless of their size, using trusted data and secure standardised tool sets to enhance the analyses with the user's own data and customized methods.
 Currently, there are demands for services based on the real-time comparison of different epidemiological analyses of the same data, as well a major need for exchange of more person-sensitive information, such as geolocalisation, patient information,  etc., between authorities, researchers and different countries. The ideal solution will allow integration of patient-specific and population-wide levels of epidemiological data and combine it with sequencing and later serological information. 
