@@ -5,7 +5,7 @@ name: Inge Jonassen
 home: <a href="http://www.uib.no/">UiB</a>
 country: "NO"
 photo:
-email: inge@ii.uib.no
+email: inge.jonassen@uib.no
 phone:
 on_contract: no
 has_been_on_contract: no
