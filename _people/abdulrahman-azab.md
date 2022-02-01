@@ -31,9 +31,9 @@ groups:
     role: Project Manager
   pari-aff-po:
     role: Project Owner
-  nt1-sg
+  nt1-sg:
     role: Chair
-  nt1
+  nt1:
     role: Project Owner
   nlcg:
     role: Ex officio, Project Owner
