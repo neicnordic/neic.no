@@ -79,6 +79,21 @@ folder. Examples:
 - ... you get the idea.
 
 
+### How to add/edit/modify persons
+
+All people/staff are under `_people/`. I recommend to copy an existing person file which is either
+in the same project or has a similar set of group properties, rename the file,
+and adapt it.
+
+- [Example file](https://raw.githubusercontent.com/neicnordic/neic.no/gh-pages/_people/radovan-bast.md)
+- Adapt name, homepage, country, photo, email, phone.
+- Under `groups:` are all the groups this person is in and in which role. Based on this information, group pages are populated with people.
+
+For the record and for future restructuring of the website, I (RB) would like to recommend that I think now, few years
+after we introduced the structure, that it is too complex. I would prefer a solution where all content are simple Markdown pages
+and where content is not generated from a YAML data structure, like it is done now.
+
+
 ### Media
 
 - News pictures should be ideally be 762x507 px in size.
