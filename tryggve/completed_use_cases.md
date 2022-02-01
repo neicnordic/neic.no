@@ -83,6 +83,7 @@ More information about this use case can be found at https://www.med.uio.no/hels
 
 **Recipient contact:** Ola Spjuth
 **Responsible person:** Abdulrahman Azab
+**(This use case has been muted due to lack of input from the recipient)** 
 
 This is an infrastructure use case focusing on developing a virtual research environment in secure clouds in close proximity to the data. The idea is that sensitive data cannot be moved due to technical and legal issues, but can still exist at multiple separate sites.
 PhenoMeNal's VRE (Virtual Research Environment) has been developed to be deployed in secure clouds in close vicinity to these data and thereby certifies that the same analysis method is used for related data located at different sites.
