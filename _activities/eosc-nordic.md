@@ -16,43 +16,26 @@ links:
   - url: https://wiki.neic.no/wiki/EOSC-Nordic
     text: Wiki page
 groups:
-  eosc-nordic:
+  eosc-nordic2:
     name: Project Office
-  wp-leaders:
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Project_Office_.28PO.29">Project Office</a>
+  eosc-pmb:
+    name: Project Management Board
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Project_Management_Board_.28PMB.29">Project Management Board (PMB)</a>
+  eosc-wp-leaders:
     name: WP Leaders
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#WP_leaders">Work Package Leaders</a>
   intl-liaison:
     name: International Liaison
-  xt-board:
+  eosc-xt-board:
     name: Executive Board
     description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Executive_board">Executive board members</a>
-  intl-adv:
+  eosc-intl-adv:
     name: Advisory Committee
-  partners:
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#International_Advisory_Committee">International Advisory committee</a>
+  eosc-partners:
     name: Partners
-    description: NordForsk<br/>
-      DeiC and Computerome (DTU)<br/>
-      CSC<br/>
-      UNINETT SIGMA2<br/>
-      SNIC (University of Uppsala)<br/>
-      ETAIS (University of Tartu)<br/>
-      University of Iceland<br/>
-      University of Vilnius<br/>
-      Riga Technical University<br/>
-      SDU<br/>
-      NORDUnet<br/>
-      SUNET (Vetenskapsrådet)<br/>
-      University of Helsinki<br/>
-      KBFI<br/>
-      FSD (University of Tampere)<br/>
-      University of Gothenburg (SND and GGBC)<br/>
-      Norsk senter for forskningsdata (NSD)<br/>
-      Rigsarkivet<br/>
-      Finnish Meteorological Institute (FMI)<br/>
-      University of Eastern Finland (UEF)<br/>
-      Go Fair Foundation<br/>
-      DKRZ<br/>
-      University of Copenhagen<br/>
-      Region Hovedstaden (RH)
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Partners">Project partners</a> 
 ---
 EOSC-Nordic aims to facilitate the coordination of EOSC (European Open Science Cloud) relevant initiatives within the Nordic and Baltic countries and exploit synergies to achieve greater harmonisation at policy and service provisioning across these countries, in compliance with EOSC agreed standards and practices. By doing so, the project seeks to establish the Nordic and Baltic countries as frontrunners in the take-up of the EOSC concept, principles and approach.
 
