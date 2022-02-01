@@ -39,4 +39,6 @@ groups:
     role: Ex officio, Project Owner
   neic2022-oc:
     role: Chair
+  eosc-nordic:
+    role: Project Owner
 ---
