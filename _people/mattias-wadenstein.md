@@ -14,13 +14,13 @@ groups:
     role: NT1 coordinator, Until 2017-03-31
     finished: yes
   nt1-po:
-    role: Project Manager
+    role: Activity Manager
   nt1-sg:
-    role: Ex officio, Project Manager
+    role: Ex officio, Activity Manager
   nlcg:
-    role: Ex officio, Project Manager
+    role: Ex officio, Activity Manager
   nt1:
-    role: Project Manager
+    role: Activity Manager
   neic2017-org:
     role: Local coordinator
   project-analysis-rg:
