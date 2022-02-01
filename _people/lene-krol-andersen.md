@@ -22,4 +22,5 @@ groups:
   eosc-nordic:
     role: Project Coordinator
   wp-leaders:
+  neic2022-oc:
 ---

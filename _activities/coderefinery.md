@@ -10,20 +10,8 @@ end: 2021-10-31
 results: https://coderefinery.org
 outreach: https://coderefinery.org
 documents:
-  - text: Project directive (phase 1)
-    url: https://wiki.neic.no/w/ext/img_auth.php/5/5a/Collaborative_Infrastructure_for_Scientific_Software_Project_directive.doc
-  - text: Collaboration agreement (phase 1)
-    url: https://wiki.neic.no/w/ext/img_auth.php/6/6e/150904-Collaborative_Infrastructure_for_Scientific_Software_Collaboration_Agreement.pdf
-  - text: Project plan (phase 1)
-    url: https://wiki.neic.no/w/ext/img_auth.php/d/d0/CodeRefinery-project-plan-v1.0.pdf
-  - text: Report (phase 1)
-    url: https://wiki.neic.no/w/ext/img_auth.php/b/be/CodeRefinery-phase1-report.pdf
-  - text: Project directive (phase 2)
-    url: https://wiki.neic.no/w/ext/img_auth.php/4/46/Coderefinery-project-directive-phase-2.pdf
-  - text: Collaboration agreement (phase 2)
-    url: https://wiki.neic.no/w/ext/img_auth.php/4/42/180926Collaboration_Agreement_for_CodeRefinery2_clean.pdf
-  - text: Project plan (phase 2)
-    url: https://wiki.neic.no/w/ext/img_auth.php/3/34/CodeRefinery-phase-2-project-plan-v1.1.pdf
+  - text: Project directives, project plans, and project reports
+    url: https://coderefinery.org/about/reports/#project-reports
 links:
   - url: https://coderefinery.org
     text: Web

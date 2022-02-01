@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: Nordic WLCG tier-1 facility
 type: Operations
-leader: vincent-garonne
+leader: mattias-wadenstein
 phase: In operation
 start: 2006-01-01
 end: 2050-12-31

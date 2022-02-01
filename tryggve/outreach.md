@@ -41,6 +41,11 @@ show-groups:
     description: By following this link you can read about events and news from Tryggve
     absolute_link: https://neic.no/tryggve/outreach/
     linkname: Outreach
+  tryggve2-deliverables:
+    name: Published deliverables
+    description: By following this link you can access the project published deliverables and final report
+    absolute_link: https://drive.google.com/drive/u/0/folders/1gQZQ5_mJ2nRYY1mBQtRCo2EisxyrtrYN
+    linkname: Published Deliverables
   tryggve2-newsletter:
     name: Newsletter
     description: Tryggve Newsletter
@@ -90,6 +95,39 @@ show-groups:
 ---
 
 On this page you can find the latest news of the Tryggve project and past events
+
+### Tryggve project outcomes and Final report
+
+The main results of the project can be summarised to be establishing a Nordic offering of services for sensitive
+data in biomedical research, and establishing a Nordic network of experts capable of jointly developing secure
+IT services.
+The Nordic offering is most visible as the continuous open call for Nordic use cases that the project were able
+to advertise. The expert network is a significant outcome as it is not a given that enough trust can be built
+across organisations and countries to be able to share expertise and discuss topics of IT security
+implementations. Concrete outcomes from the project include the following:
+* D1: Finland, Norway and Sweden have successfully deployed and established federated EGA Nordic
+nodes along with creating the possibilities of deploying the SDA solution as a standalone.
+
+4
+* D2/D3: Established procedures for data and workflow mobility across the Nordic countries. The use of
+container technologies have matured, and the establishment of common practices have made them
+an invaluable tool in several of the D4 use cases. New technological solutions were developed
+including SAPEIN that in the future will make it possible to exchange information between secure
+clouds.
+* D4: Within the use case program, a total of 24 use cases were supported. Four of these use cases
+were concluded successfully solving technical issues associated with a scientific aim. Additionally, two
+infrastructure use cases were concluded as well. Seven use cases did not reach conclusion, but
+resources have been secured for their continued development.
+* D5: Inventory of the federated authentication landscape and specifically helped make REMS compliant
+with the GA4GH passport standard thereby making it feasible for use in a federated authorization
+framework (i.e. Elixir AAI).
+In summary, one can state that most of the objectives of the project were achieved and that significant advance
+has been made towards offering sensitive data services in Nordic scale. Further proof of the success of the
+project is that the project partners were willing to continue the collaboration and even agreed to increase
+investment in it. As a result, two follow up projects has been initiated:
+* NeIC PaRI project has started November 2020, directly following the Tryggve2 project.
+* Heilsa “Tryggvedottir” project has been approved and is expected to start January of 2021
+* Details on the project results are listed in the [project final report](https://drive.google.com/file/d/1WE7iB_PdXcSKcbUhQZLl2nnmR3bvxy2y/view?usp=sharing)
 
 ### Johanna Törnroos wins the best presentation award at Elixir AHM 2020 
 

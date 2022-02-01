@@ -14,4 +14,5 @@ groups:
   puhuri-sg:
   provider-forum:
   neic2015-prg:
+  neic2022-pc:
 ---

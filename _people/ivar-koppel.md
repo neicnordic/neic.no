@@ -13,5 +13,6 @@ groups:
   board:
   dellingr:
   dellingr-sg:
+  heilsa-sg:
   xt-board:
 ---

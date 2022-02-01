@@ -7,11 +7,12 @@ country: "NO"
 photo: assets/images/people/kine-nordstokka.jpg
 email: kine.nordstokka@nordforsk.org
 phone: "+47 908 10 670"
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
     role: Administrative Area Coordinator (on leave)
+    finished: yes
   nicest-sg:
     role: Project owner interim 2018q1, Chair
     finished: yes

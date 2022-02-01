@@ -1,10 +1,37 @@
 ---
 layout: master
-include: affiliate-programmes
+include: affiliate
 name: DeepDive
+type: Affiliate project
+leader: matthias-obst
+start: 2017-01-01
+end: 2019-12-31
+results: N/A
+outreach: N/A
+documents:
+  - text: Work plan
+    url: https://wiki.neic.no/wiki/File:20161124_Workplan_NeIC_BDI_final.pdf
+  - text: Collaboration agreement
+    url: https://wiki.neic.no/int/File:20160921_CA_BiodivInf_final2.pdf
+  - text: Final report
+    url: https://wiki.neic.no/wiki/File:NeIC_FinalReport_DeepDive_v5.pdf
+links:
+  - url: https://wiki.neic.no/wiki/Biodiversity
+    text: External wiki
+    description: External documentation, results, manuals, and guides.
+  - url: https://wiki.neic.no/int/bdi
+    text: Internal wiki
+    description: Internal working documents.
+groups:
+  deepdive:
+    name: Team
+  deepdive-sg:
+    name: Steering group
+    description: Governance.
+  deepdive-po:
+    name: Project office
+    description: Management.
 ---
-
-## DeepDive
 
 ### Recent updates
 During spring 2020 we are finalizing our advisory paper to the European Commission, called ["Big Data in Marine Science"](https://www.marineboard.eu/7th-marine-board-forum)), a paper that will highlight many of the DeepDive results.
@@ -40,14 +67,3 @@ Below is a list of DeepDive publications:
 * [Linked Data Tools for Managing Taxonomic Databases](https://biss.pensoft.net/article/37329/)
 * more coming in 2020....
 <br>
-
-#### Links & Documents
-[The public DeepDive Wiki](https://wiki.neic.no/wiki/Biodiversity) <br/>
-[Work plan](https://wiki.neic.no/w/ext/img_auth.php/f/f5/20161124_Workplan_NeIC_BDI_final.pdf) <br/>
-[Final project report](https://wiki.neic.no/wiki/File:NeIC_FinalReport_DeepDive_v5.pdf)
-
-#### Project Contact Person
-Matthias Obst
-
-#### Period
-From 2017-01-01 to 2019-12-31

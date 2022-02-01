@@ -7,8 +7,8 @@ country: FI
 photo: 
 email: aleksi.kallio@csc.fi
 phone:
-on_contract: yes
-has_been_on_contract: no
+on_contract: no
+has_been_on_contract: yes
 groups:
   glenna2-sg:
   iobs:

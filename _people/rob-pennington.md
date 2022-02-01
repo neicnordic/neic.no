@@ -26,4 +26,8 @@ groups:
   data-management-wg:
     role: Chair
   project-analysis-rg:
+  heilsa-sg:
+    role: Project owner
+  heilsa-po:
+    role: Project owner
 ---

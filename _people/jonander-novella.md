@@ -7,7 +7,7 @@ country: SE
 photo: 
 email: jon.novella@nbis.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   tryggve2:

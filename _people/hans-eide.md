@@ -17,6 +17,7 @@ groups:
     finished: yes
   neic2015-pc:
   board:
+   role: Chair
   glenna-sg:
   dellingr-sg:
     role: Observer

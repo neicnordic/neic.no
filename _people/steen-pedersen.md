@@ -10,8 +10,6 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  board:
-    role: Chair
   xt-board:
 ---
-Board member since 2012-01-01.
+Board member from 2012-01-01 to 2020-12-31.

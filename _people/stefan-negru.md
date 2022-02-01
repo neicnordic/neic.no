@@ -12,4 +12,5 @@ has_been_on_contract: yes
 groups:
   tryggve2:
   coderefinery:
+  heilsa:
 ---

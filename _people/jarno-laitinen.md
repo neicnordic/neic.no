@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jarno Laitinen
 home: <a href="https://www.csc.fi/">CSC</a>
-country: "FI"
+country: FI
 photo: assets/images/people/jarno-laitinen.JPG
 email: jarno.laitinen@csc.fi
 phone:
@@ -16,4 +16,5 @@ groups:
     role: Project Manager
   puhuri-sg:
     role: Secretary, Project Manager
+  neic2022-oc:
 ---

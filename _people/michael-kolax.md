@@ -7,9 +7,8 @@ country: "SE"
 photo:
 email: michael.kolax@smhi.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nicest:
-    role: on leave
 ---

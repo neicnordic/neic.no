@@ -9,11 +9,12 @@ email: caela@pdc.kth.se
 profile: <a href="https://www.kth.se/profile/caela/">KTH Profile</a>
 orcid: <a href="https://orcid.org/0000-0003-3689-3499">ORCID ID</a>
 phone: "+46 87 90 78 91"
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
     role: Executive manager
+    finished: yes
   poco-wg:
     role: Coordination
   data-management-wg:
@@ -66,10 +67,13 @@ groups:
     finished: yes
   nicest2-po:
     role: Project owner
+    finished: yes
   nicest2-sg:
     role: Chair
+    finished: yes
   nicest2-rg:
     role: Chair
+    finished: yes
   neic2015-sg:
     role: Chair
     finished: yes

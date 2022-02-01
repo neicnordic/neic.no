@@ -7,8 +7,8 @@ country: "SE"
 photo:
 email: klaus.zimmerman@smhi.se
 phone:
-on_contract: yes
-has_been_on_contract: no
+on_contract: no
+has_been_on_contract: yes
 groups:
   nicest:
 ---

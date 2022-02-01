@@ -12,4 +12,6 @@ has_been_on_contract: yes
 groups:
   pari:
   pari-sg:
+  heilsa:
+  neic2022-pc:
 ---

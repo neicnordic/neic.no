@@ -10,5 +10,7 @@ phone:
 on_contract: no
 has_been_on_contract: no
 groups:
+  board:
   provider-forum:
 ---
+Board member since 2021-01-01.

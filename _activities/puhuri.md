@@ -11,7 +11,7 @@ results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
    - text: Project Plan
-     url: https://wiki.neic.no/w/ext/img_auth.php/8/84/Puhuri_Project_Plan.pdf
+     url: https://wiki.neic.no/w/ext/img_auth.php/a/a2/Puhuri_Project_Plan_v2.4.pdf
    - text: Collaboration Agreement and Project proposal 
      url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
    - text: Terms of Reference of the Reference Group
@@ -20,6 +20,10 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
    - text: Deliverable 1 on Requirements collection and technical architecture plan.
      url: https://zenodo.org/record/4288776#.X71oUbNS9EY 
+   - text: Deliverable 2 on Implementation of Puhuri core functionalities 
+     url: https://zenodo.org/record/4727686#.YJS2caFRVhF 
+   - text: Deliverable 3 on LUMI integration to Puhuri
+     url: https://zenodo.org/record/5747047#.Yadx7LqxVhE  
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
@@ -31,7 +35,7 @@ groups:
   puhuri:
     name: Team
     minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
-    frequency: every week
+    frequency: weekly
   puhuri-sg:
     name: Steering Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings

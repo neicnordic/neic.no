@@ -7,7 +7,8 @@ country: "SE"
 photo: assets/images/people/chandan-basu.jpg
 email: cbasu@nsc.liu.se
 phone: "+46 736 569357"
-on_contract: yes
+on_contract: no
+has_been_on_contract: yes
 groups:
   nicest:
     role: Project manager

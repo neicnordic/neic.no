@@ -7,8 +7,8 @@ country: "NO"
 photo:
 email: sabry.razick@usit.uio.no
 phone: "+4793870788"
-on_contract:
-has_been_on_contract: no
+on_contract: yes
+has_been_on_contract: yes
 groups:
   coderefinery:
 ---

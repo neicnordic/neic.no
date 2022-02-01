@@ -14,4 +14,5 @@ groups:
   tryggve2-sg:
   neic2017-prg:
   pari-sg:
+  heilsa-sg:
 ---
