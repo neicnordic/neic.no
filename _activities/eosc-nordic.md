@@ -24,6 +24,7 @@ groups:
     name: International Liaison
   xt-board:
     name: Executive Board
+    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Executive_board">Executive board members</a>
   intl-adv:
     name: Advisory Committee
   partners:
