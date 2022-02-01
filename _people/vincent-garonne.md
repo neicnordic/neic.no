@@ -13,12 +13,5 @@ groups:
   nicest2:
     role: Ex staff member
   nt1:
-    role: NT1 manager
-    role: Storage Software Developer
-  nt1-po:
-    role: NT1 manager
-  nt1-sg:
-    role: Ex officio, NT1 manager
-  nlcg:
-    role: Ex officio, NT1 manager
+    role: Ex staff member
 ---
