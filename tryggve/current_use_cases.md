@@ -78,6 +78,7 @@ This is an infrastructure use case centered on the development of a Nordic Imput
 
 ### 2-12 TryggveInGalaxy
 
+**Recipient contact:** Eivind Hovig
 **Responsible person:** Abdulrahman Azab
 
 This project aims to make many of the regular bioinformatics analyses that are provided online today in Galaxy instances for non-sensitive data, available also for researchers with sensitive data. In practice, this means deploying Galaxy in a convenient way inside Nordic infrastructures for sensitive data. The project initiative stems from Elixir Norway for sensitive data project(s) joining Nordic collaborators on associations between disease and genetics (including bi-sulphite sequencing data), and will start the implementation phase for TSD. 
