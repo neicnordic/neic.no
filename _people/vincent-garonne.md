@@ -12,6 +12,4 @@ has_been_on_contract: yes
 groups:
   nicest2:
     role: Ex staff member
-  nt1:
-    role: Ex staff member
 ---
