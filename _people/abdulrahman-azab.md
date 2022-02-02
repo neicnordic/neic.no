@@ -34,9 +34,9 @@ groups:
   nt1-sg:
     role: Chair
   nt1:
-    role: Project Owner
+    role: Activity Owner
   nlcg:
-    role: Ex officio, Project Owner
+    role: Ex officio, Activity Owner
   neic2022-oc:
     role: Chair
   eosc-nordic:
