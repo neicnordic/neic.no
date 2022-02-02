@@ -1,17 +1,15 @@
 ---
 layout: master
 include: person
-name: Stina Westman
-home: <a href="https://csc.fi">CSC</a>
-country: FI
+name: Csaba Anderlik
+home: <a href="https://www.uib.no/personer/Csaba.Anderlik">UiB</a>
+country: "NO"
 photo:
-email: stina.westman@csc.fi
+email: csaba.anderlik@uib.no
 phone:
 on_contract: no
 has_been_on_contract: no
 groups:
-  data-management-wg:
-    finished: yes
   coderefinery-sg:
     finished: yes
 ---

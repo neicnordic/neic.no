@@ -9,5 +9,7 @@ email: hedi.peterson@ut.ee
 phone:
 on_contract: yes
 groups:
+  coderefinery-sg:
+    finished: yes
   heilsa:
 ---

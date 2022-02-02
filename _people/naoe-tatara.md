@@ -1,16 +1,14 @@
 ---
 layout: master
 include: person
-name: Stefan Negru
-home: <a href="https://csc.fi">CSC</a>
-country: FI
+name: Naoe Tatara
+home: <a href="https://www.usit.uio.no/">USIT</a>
+country: "NO"
 photo:
-email: stefan.negru@csc.fi
+email: naoe.tatara@ub.uio.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
-  tryggve2:
   coderefinery:
-  heilsa:
 ---

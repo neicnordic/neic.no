@@ -14,5 +14,6 @@ groups:
   neic2015-org:
     finished: yes
   ratatosk-sg:
+  coderefinery-rg:
   neic2022-oc:
 ---
