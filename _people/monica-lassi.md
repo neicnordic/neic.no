@@ -12,6 +12,15 @@ groups:
   xt:
     role: Executive manager
     finished: yes
+  coderefinery-sg:
+    role: Chair
+    finished: yes
+  coderefinery-po:
+    role: Project owner
+    finished: yes
+  coderefinery-rg:
+    role: Chair
+    finished: yes
   ndhl-po:
     role: Pre-study owner
     finished: yes
@@ -24,4 +33,5 @@ groups:
   nicest2-rg:
     role: Chair
     finished: yes
+
 ---

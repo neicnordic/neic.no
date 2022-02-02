@@ -1,16 +1,15 @@
 ---
 layout: master
 include: person
-name: Stefan Negru
+name: João M. da Silva
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
-email: stefan.negru@csc.fi
+email: joao.silva@csc.fi
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
-  tryggve2:
   coderefinery:
-  heilsa:
+    finished: yes
 ---
