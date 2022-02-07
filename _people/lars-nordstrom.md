@@ -1,13 +1,13 @@
 ---
 layout: master
 include: person
-name: Hans Karlsson
+name: Lars Nordström
 home: <a href="https://www.uu.se/en/">Uppsala University</a>
 country: SE
 photo:
-email: Hans.Karlsson@it.uu.se
+email: lars.nordstrom@physics.uu.se
 phone:
-on_contract: no
+on_contract: yes
 has_been_on_contract:
 groups:
   board:
