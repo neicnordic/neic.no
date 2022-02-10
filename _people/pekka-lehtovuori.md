@@ -5,7 +5,7 @@ name: Pekka Lehtovuori
 home: <a href="https://csc.fi">CSC</a>
 country: FI
 photo:
-email: pekka-lehtovuori@csc.fi
+email: pekka.lehtovuori@csc.fi
 phone:
 on_contract: no
 has_been_on_contract: no

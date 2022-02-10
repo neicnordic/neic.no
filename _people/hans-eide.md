@@ -5,7 +5,7 @@ name: Hans A. Eide
 home: <a href="https://www.sigma2.no/">Sigma2</a>
 country: "NO"
 photo:
-email: hans.eide@uninett.no
+email: hans.eide@usigma2.no
 phone:
 on_contract: no
 has_been_on_contract: no
