@@ -19,15 +19,18 @@ documents:
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/7/7d/NICEST2_business_case.pdf
 links:
+  - url: https://nordicesmhub.github.io/nicest2/NICEST2InfoBoard.html
+    text: InfoBoard
+    description: Highlights, news and outcomes (regular updates)
+  - url: https://nordicesmhub.github.io/nicest2/
+    text: Blog
+    description: Newsletters and regular updates.
   - url: https://wiki.neic.no/wiki/NICEST2
     text: External wiki
     description: External documentation, manuals and guides.
   - url: https://wiki.neic.no/int/NICEST2
     text: Internal wiki
     description: Internal working documents.
-  - url: https://nordicesmhub.github.io/nicest2/
-    text: Blog
-    description: Newsletters and regular updates.
 groups:
   nicest2:
     name: Team
