@@ -1,8 +1,7 @@
 ---
 title: OPEN PROJECT MANAGER POSITION IN PUHURI 2
-summary: NeIC is seeking a Project Manager for its Puhuri 2 project, which is expected to start in June 2022. 
-Deadline for applications is March 15th, 2022.
-photo: "/assets/images/latest-news-9.png"
+summary: NeIC is seeking a Project Manager for its Puhuri 2 project, which is expected to start in June 2022. Deadline for applications is March 15th, 2022.
+photo: /assets/images/latest-news-9.png
 ---
 
 # Open position: Project Manager
