@@ -53,7 +53,7 @@ Computing Grid](http://wlcg.web.cern.ch/)  – the huge international
 e-infrastructure built to provide  computing and storage for the
 [CERN](http://home.web.cern.ch/). This Nordic solution is unique in  being
 distributed across four countries: Denmark, Finland, Norway and  Sweden. All
-resources: [All WLCG resources](http://wlcg-rebus.cern.ch/apps/pledges/resources/).
+resources: [All WLCG resources](http://wlcg-rebus.cern.ch/core/pledge/list/).
 
 ### Supported research
 
