@@ -1,6 +1,6 @@
 ---
 title: Register for the NeIC 2022 Conference
-summary: The NeIC 2022 conference will be held in Oslo from 30 May to 1 June 2022. The conference will be a celebration of Nordic collaboration and knowledge-sharing within e-infrastructure, bringing together experts, researchers and policy makers from all parts of the region. Registration closes on 6 March.
+summary: The NeIC 2022 conference will be held in Oslo from 30 May to 1 June 2022. The conference will be a celebration of Nordic collaboration and knowledge-sharing within e-infrastructure, bringing together experts, researchers and policy makers from all parts of the region. Registration closes on 28 March.
 photo: /assets/images/neic2022_head.jpeg
 ---
 
@@ -13,7 +13,7 @@ The NeIC 2022 conference title is **Nordic Models for Open Science Collaboration
 
 In addition to celebrating the 10-year old NeIC, the conference is place to connect in 3D after a long era of video conferences and online-only meetings. This year, Norway holds the chairmanship of the Nordic Council of Ministers, which has had an impact on the conference programme. By offering programme sessions that are interesting to both decision-makers and researchers, we hope to create an opportunity to bring the success stories of Nordic e-infrastructure collaboration to the attention of the political level. The conference provides an excellent opportunity for us to raise awareness of how we are contributing to building a more green, competitive and socially sustainable Nordic Region.
 
-Visit the [official conference page](https://indico.neic.no/event/204/) and make sure to register before 6 March. We look forward to seeing you at Soria Moria Hotel and Conference Center in Oslo!
+Visit the [official conference page](https://indico.neic.no/event/204/) and make sure to register before 28 March. We look forward to seeing you at Soria Moria Hotel and Conference Center in Oslo!
 
 <p align="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/neic2022.png">
