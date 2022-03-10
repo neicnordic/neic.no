@@ -12,5 +12,4 @@ has_been_on_contract: no
 groups:
   poco-wg:
   ratatosk-sg:
-  coderefinery-rg:
 ---

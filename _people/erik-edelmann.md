@@ -12,7 +12,5 @@ has_been_on_contract: yes
 groups:
   nt1:
     role: Alice Operations Contact
-  coderefinery:
-    finished: yes
   puhuri:
 ---
