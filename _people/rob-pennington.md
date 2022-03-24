@@ -12,6 +12,10 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Special advisor
+  nordiquest-po:
+    role: Project owner
+  nordiquest-sg:
+    role: Project owner
   dellingr-sg:
     role: Advisor
   dellingr:
