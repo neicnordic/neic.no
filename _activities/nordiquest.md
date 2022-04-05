@@ -4,7 +4,7 @@ include: activity
 name: NordIQuEst
 type: Project
 leader: goran-wendin
-phase: In preparation
+phase: In progress
 start: 2022-04-01
 end: 2025-03-31
 results: N/A
