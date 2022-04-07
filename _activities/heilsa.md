@@ -18,6 +18,8 @@ documents:
 links:
   - text: Internal wiki
     url: https://wiki.neic.no/int/Heilsa_Tryggvedottir
+  - text: Preceding project Tryggve
+    url: https://neic.no/tryggve/  
 
 groups:
   heilsa:
