@@ -14,8 +14,6 @@ groups:
     finished: yes
   poco-wg:
     finished: yes
-  coderefinery-sg:
-    finished: yes
   neic2017-prg:
   ratatosk-sg:
     finished: yes

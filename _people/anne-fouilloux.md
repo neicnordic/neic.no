@@ -18,5 +18,4 @@ groups:
   nicest2-po:
     role: Project leader
   nicest:
-  coderefinery:
 ---
