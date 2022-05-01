@@ -26,6 +26,8 @@ documents:
      url: https://zenodo.org/record/4727686#.YJS2caFRVhF 
    - text: Deliverable 3 on LUMI integration to Puhuri
      url: https://zenodo.org/record/5747047#.Yadx7LqxVhE  
+   - text: Deliverable 4 on Accounting and Reporting
+     url: https://zenodo.org/record/6361321#.Ym4ydtNByUk
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
