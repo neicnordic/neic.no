@@ -173,27 +173,9 @@
           <h2>Publications</h2>
           <ul class="pub-list">
 
-            {% include noscript.html %}
-
-            <span class="event-list" id="publications-list">
-              <div v-for="(event, index) in publications">
-
-                <!-- show only first three publications -->
-                <div v-if="index < 3">
-                  <li>
-                    <h4 class="pub-title"><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
-                    <p class="pub-details" v-html="event.dates.start"></p>
-                    <p class="description" v-html="event.blurb"></p>
-                    <a class="read-more" :href="event.url">GO TO ARTICLE &raquo;</a>
-                  </li>
-                </div>
-
-              </div>
-            </span>
-
           </ul>
           <div class="btn-block">
-            <a href="{% include baseurl %}/about/publications/" class="btn with-border white-hover-btn">SEE ALL</a>
+            <a href="{% include baseurl %}/about/publications/" class="btn with-border white-hover-btn">SEE MOST RECENT</a>
             <a href="https://wiki.neic.no" class="btn with-border white-hover-btn">GO TO WIKI</a>
           </div>
         </div>

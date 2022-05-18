@@ -4,48 +4,30 @@
 <section class="publications">
   <div class="container">
     <div class="row">
+
       <div class="col-md-8">
         <div class="content">
           <h2> Publications </h2>
           <div class="publications-list-block">
+          
+            <h3>Annual reports</h3>
+           <p><a href="https://wiki.neic.no/w/ext/img_auth.php/9/9a/Annual_Report_2021_spreads.pdf">2021 Annual report </a><br>
+            <a href="https://wiki.neic.no/w/ext/img_auth.php/c/c4/NeIC_annual_report_2020_spreads.pdf">2020 Annual report </a><br>
+            <a href="https://wiki.neic.no/w/ext/img_auth.php/b/ba/NeIC_annual_report_2019_spreads_%282%29.pdf">2019 Annual report </a><br>
+            <a href="https://wiki.neic.no/w/ext/img_auth.php/5/5e/Annual_Report_2018_spreads.pdf">2018 Annual report </a><br>
+            <a href="https://wiki.neic.no/w/ext/img_auth.php/3/34/NeIC_Annual_Report_2017_3_spreads.pdf">2017 Annual report </a><br>
+          </p>
 
-            {% include noscript.html %}
-
-            <span class="event-list" id="publications-list" v-cloak>
-              <div v-for="event in publications.slice().reverse()">
-
-                <div class="single-publications-list">
-                  <div class="publications-details">
-                    <h4><a :href="event.url" v-text="event.title.toUpperCase()"></a></h4>
-                    <span class="v-cloak--hidden">
-                      <h6>{[ event.dates.start ]}</h6>
-                    </span>
-                    <p class="top" v-html="event.blurb"></p>
-                    <div class="read-more-block readless">
-                      <p class="top" v-html="event.details"></p>
-                    </div>
-                    <a :href="event.url" class="btn">GO TO ARTICLE &raquo;</a>
-                  </div>
-                </div>
-
-              </div>
-            </span>
-
+            <h3>Other publications and reports</h3>
+            <p>December 2021: <a href="https://doi.org/10.5281/zenodo.5795648">Nordic FAIR Collaboration Opportunities</a><br>
+              January 2021: <a href="https://wiki.neic.no/w/ext/img_auth.php/0/04/Nordic_Added_Value_for_NeIC_collaborations.pdf">Nordic Added Value for NeIC Collaborations</a> <br> 
+              November 2020: <a href="https://wiki.neic.no/w/ext/img_auth.php/b/b5/Edited_e-Science_Action_Plan_evaluation.pdf">Knowledge Creation through Cross-Border Sharing of eInfrastructure: Report on NeIC’s Implementation of the Nordic e-Science Action Plan 2.0 </a><br>
+              October 2018: <a href="https://doi.org/10.5281/zenodo.2563733">The State of Open Science in the Nordic Countries: Enabling Data Science in the Nordic Region </a><br>
+             </p>
           </div>
         </div>
       </div>
-      <div class="col-md-offset-1 col-md-3">
-        <p>
-          This list is generated with JavaScript in your browser, so if you cannot see
-          any events please check your settings.
-        </p>
 
-        <p>
-          This list will only show a limited number of recent publications (a few
-          hundred). To see older events than this please use another means of accessing
-          the calendar, as described on the <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar wiki page</a>.
-        </p>
-      </div>
     </div>
   </div>
 </section>
