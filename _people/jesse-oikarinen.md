@@ -4,7 +4,7 @@ include: person
 name: Jesse Oikarinen
 home: <a href="https://csc.fi">CSC</a>
 country: FI
-photo: 
+photo: assets/images/people/jesse-oikarinen.jpeg
 email: jesse.oikarinen@csc.fi
 phone:
 on_contract: yes
