@@ -1,13 +1,13 @@
 ---
 title: Impact of Nordic e-Infrastructure Collaboration
-summary: NeIC has produced and published a report that demonstrates our benefit and impact on the Nordic Region. The report is called ‘Impact of Nordic e-Infrastructure Collaboration’, and it can now be read online. Physical copies will be available at the NeIC 2022 Conference. 
+summary: NeIC has produced and published a report that demonstrates our benefits to and impact on the Nordic Region. The report is called ‘Impact of Nordic e-Infrastructure Collaboration’, and it can now be read online. Physical copies will be available at the NeIC 2022 Conference. 
 photo: /assets/images/latest-news-77.png
 ---
 
 Impact of Nordic e-Infrastructure Collaboration
 ===========================
 
-NeIC has produced and published a report that demonstrates our benefit and impact on the Nordic Region. The report is called ‘**Impact of Nordic e-Infrastructure Collaboration**’.
+NeIC has produced and published a report that demonstrates our benefits to and impact on the Nordic Region. The report is called ‘**Impact of Nordic e-Infrastructure Collaboration**’.
 
 This report is one outcome of the impact study conducted by **Johanna Törnroos** from CSC, a former Senior advisor at NeIC. Törnroos’ work focused on creating an impact framework for NeIC, identifying the impacts on several levels and analysing them and how they are created in order to strengthen NeIC. One of the many sources of data behind the report is a stakeholder survey that was conducted in 2020. Statistics related to funding, partners and project staff during the 10-year journey of NeIC are also presented.
 
