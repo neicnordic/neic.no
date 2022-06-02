@@ -14,6 +14,8 @@ groups:
     role: Executive manager
   provider-forum:
     role: Secretary
+  puhuri2-po:
+    role: Project owner
   puhuri-po:
     role: Project owner
   tryggve-po:

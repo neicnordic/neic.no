@@ -10,6 +10,12 @@ phone:
 on_contract:
 has_been_on_contract:
 groups:
+  puhuri2:
+    role: Project manager
+  puhuri2-sg:
+    role: Project manager
+  puhuri2-po:
+    role: Project manager
   dellingr:
   puhuri:
 ---

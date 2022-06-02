@@ -4,7 +4,8 @@ include: activity
 name: Puhuri
 type: Project
 leader: jarno-laitinen
-phase: In Progress
+phase: Finished
+finished: true
 start: 2020-06-01
 end: 2022-05-31
 results: https://wiki.neic.no/wiki/Puhuri

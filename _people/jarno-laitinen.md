@@ -10,11 +10,12 @@ phone:
 on_contract: yes
 has_been_on_contract: no
 groups:
+  puhuri2: 
   puhuri:
-    role: Project Manager
+    role: Project manager
   puhuri-po:
-    role: Project Manager
+    role: Project manager
   puhuri-sg:
-    role: Secretary, Project Manager
+    role: Secretary, Project manager
   neic2022-oc:
 ---
