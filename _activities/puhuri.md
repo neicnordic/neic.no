@@ -3,11 +3,11 @@ layout: master
 include: activity
 name: Puhuri
 type: Project
-leader: jarno-laitinen
-phase: Finished
-finished: true
+leader: anders-sjostrom
+phase: In progress
 start: 2020-06-01
-end: 2022-05-31
+end: 2025-05-31
+finished: no
 results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
@@ -62,6 +62,8 @@ groups:
 
 * Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A> and to other Resources used by the NeIC projects.
 * Deploying services for resource allocation and tracking, and federated group management.
+
+The goals of Puhuri's second phase are to ensure sustainability of the Puhuri authentication and authorisation infrastructure (AAI) and increase adoption of the services developed during phase 1 of the project. The project will also aim to improve functionalities of the Puhuri system.
 
 ### Collaborations
 Consortium:

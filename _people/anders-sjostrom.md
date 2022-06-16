@@ -7,15 +7,14 @@ country: SE
 photo:
 email: anders.sjostrom@lunarc.lu.se
 phone:
-on_contract:
+on_contract: yes
 has_been_on_contract:
 groups:
-  puhuri2:
+  puhuri:
     role: Project manager
-  puhuri2-sg:
+  puhuri-sg:
     role: Project manager
-  puhuri2-po:
+  puhuri-po:
     role: Project manager
   dellingr:
-  puhuri:
 ---
