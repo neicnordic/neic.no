@@ -1,7 +1,7 @@
 ---
 title: The EISCAT_3D Data Solutions project has ended
 summary: NeIC’s EISCAT_3D Data Solutions (E3DDS) project has come to its end. The project started in 2018, and during its lifespan a lot has been achieved. This article allows us to look back at what’s been done and outline E3DDS’s significance to and in the Nordics.
-photo: "/assets/images/latest-news-14.png"
+photo: "/assets/images/latest-news-14.jpeg"
 ---
 
 The EISCAT_3D Data Solutions project has ended
