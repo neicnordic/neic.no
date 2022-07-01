@@ -1,0 +1,16 @@
+---
+title: We are seeking a Project Manager for NordIQuEst
+summary: The three-year project started in April 2022. The project manager is expected to commit 50% of a full-time equivalent until April-May 2025. The manager should demonstrate deep insight into the entire NordIQuEst project, and the ability to promote efficient collaboration in order to make the project highly successful.
+photo: /assets/images/latest-news-41.png
+---
+
+We are seeking a project manager for the NordIQuEst project
+===========================
+
+We are looking for a project manager for the NordIQuEst project. The project started in April 2022 and runs until the end of March 2025. The contract period for this position is through March 2025 for the actual project execution, plus 1-2 months at the end of the project. We hope the successful candidate can start as soon as possible, preferably already in August 2022. 
+
+The NordIQuEst project will be managed by a dedicated project manager, with the key responsibilities as set out by NeIC. The project manager should demonstrate deep insight into the entire NordIQuEst project, and the ability to promote efficient collaboration in order to make NordIQuEst a highly successful project. In addition to commanding the general principles of project management, the manager should have experience or interest in being involved in large projects on quantum computing (QC) at the EU and national levels. Ideally, the project manager should be well connected to EU flagship and Nordic programs and activities involving both quantum and high-performance computing. The project manager is to lead the distributed development team to the successful completion of the NordIQuEst project. This includes a range of tasks, from leadership, task prioritisation, and stakeholder engagement, but also classical project follow-up. 
+
+The project manager is expected to commit 50% of a full-time equivalent to the NordIQuEst project. It is anticipated that candidates are employed at a national e-infrastructure organisation in one of the NeIC countries, or a collaborating institution. For candidates that are qualified but not employed at one of the above mentioned organisations, NeIC offers to negotiate an employment relation. Personnel are normally sub-contracted to NeIC through a service agreement between the national employer institution and NeIC, with the aim of enhancing Nordic collaboration. We encourage both current NeIC staff and new candidates to apply.
+
+Before applying, please read [the full announcement for this position](https://wiki.neic.no/w/ext/img_auth.php/9/90/220700-NordIQuEst-project-manager-position-announcement.pdf). You can apply by **sending your application letter and CV to [openpositions@neic.no](mailto:openpositions@neic.no) by 22 July 2022**. Please note that the applications will be read and the position might be filled before the deadline. If you have any questions about the project or NeIC in general, please don’t hesitate to contact the NordIQuEst project owner Rob Pennington. 
