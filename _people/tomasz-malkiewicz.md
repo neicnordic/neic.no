@@ -43,6 +43,10 @@ groups:
     role: Chair
   iobs-po:
     role: Project owner
+  coderefinery-sg:
+    role: Chair
+  coderefinery-po:
+    role: Project owner
   deepdive-sg:
     role: Project owner, Chair
   deepdive-po:

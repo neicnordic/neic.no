@@ -15,7 +15,16 @@ documents:
 links:
   - url: https://coderefinery.org
     text: Web
-    description: Main output
+    description: Our project website
+  - url: https://coderefinery.github.io/manuals/
+    text: Manuals
+    description: Our operation manuals
+  - url: https://coderefinery.org/organization/who-we-are/
+    text: Project team
+    description: Who we are
+  - url: https://coderefinery.org/calendars/
+    text: Event and workshop calendars
+    description: Here you can subscribe to various calendars
   - url: https://twitter.com/coderefine
     text: Twitter
     description: Main news channel
@@ -24,6 +33,17 @@ links:
     description: Holds website and lesson sources
   - url: https://wiki.neic.no/int/CodeRefinery
     text: Internal wiki
+groups:
+  coderefinery-sg:
+    name: Steering group
+    description: Governance.
+    minutes: https://wiki.neic.no/wiki/Category:CodeRefinery_meetings
+    frequency: 3-4 per year
+  coderefinery-po:
+    name: Project office
+    description: Management.
+    minutes: https://wiki.neic.no/int/CodeRefinery
+    frequency: bi-Weekly
 ---
 
 CodeRefinery acts as a hub for FAIR (Findable, Accessible, Interoperable, and

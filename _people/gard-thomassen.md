@@ -15,5 +15,5 @@ groups:
   tryggve2-rg:
     role: <a href="https://sigma2.no">Sigma2</a>
   pari-sg:
-
+  coderefinery-sg:
 ---
