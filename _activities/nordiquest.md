@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NordIQuEst
 type: Project
-leader: goran-wendin
+leader: alberto-lanzanova
 phase: In progress
 start: 2022-04-01
 end: 2025-03-31
@@ -32,14 +32,12 @@ groups:
 ---
 ## Nordic-Estonian Quantum Computing e-Infrastructure Quest - NordIQuEst
 
-Information to be added.
-
 ### Project partners
 
 * CHALMERS University of Technology, SE
 * CSC - IT Center for Science, FI
 * DTU Technical University of Denmark, DK
 * SINTEF, NO
-* SRL, NO
+* Simula Research Laboratory, NO
 * University of Tartu, EE
 * VTT Technical Research Centre of Finland, FI
