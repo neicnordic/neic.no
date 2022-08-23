@@ -7,7 +7,7 @@ photo: /assets/images/latest-news-13.png
 Wanted: project manager for NICEST2
 ===========================
 
-We are looking for a project manager for NICEST2, the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling. The project started in June 2020 and will run until 31 May 2023. It focuses on strengthening the Nordic position within climate modelling by leveraging, reinforcing and complementing ongoing initiatives. It builds on previous efforts within NICEST (a 3-year NeIC project as of 2017-01) and NordicESM (3-year NordForsk funded project from 2014-12).
+We are looking for a project manager for [NICEST2](https://neic.no/nicest2/), the second phase of the Nordic Collaboration on e-Infrastructures for Earth System Modeling. The project started in June 2020 and will run until 31 May 2023. It focuses on strengthening the Nordic position within climate modelling by leveraging, reinforcing and complementing ongoing initiatives. It builds on previous efforts within NICEST (a 3-year NeIC project as of 2017-01) and NordicESM (3-year NordForsk funded project from 2014-12).
 
 The project manager reports to the NeIC project owner and leads a distributed team of professionals. The project manager is also a part of NeIC's project managers' and project owners' forum, where we share experiences, knowledge and best practices to improve our work. The project manager is expected to commit 50% of a full-time equivalent to the project starting in October 2022. The job requires some travelling. 
 
