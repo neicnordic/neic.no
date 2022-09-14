@@ -13,5 +13,4 @@ groups:
   tryggve1-sg:
   tryggve2-sg:
   pari-sg:
-  heilsa-sg:
 ---

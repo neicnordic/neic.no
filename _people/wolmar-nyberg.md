@@ -15,5 +15,4 @@ groups:
     role: Coordinator
   pari-aff-po:
     role: Coordinator
-  heilsa:
 ---
