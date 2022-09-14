@@ -7,8 +7,8 @@ country: "NO"
 photo: 
 email: arash.azamifard@uib.no 
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
-  heilsa:
+  /heilsa:
 ---
