@@ -5,7 +5,7 @@ name: EOSC-Nordic
 type: Project
 phase: In progress
 start: 2019-09-01
-end: 2022-08-31
+end: 2022-11-30
 finished: no
 leader: lene-krol-andersen
 results: N/A
