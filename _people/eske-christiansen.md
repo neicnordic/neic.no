@@ -8,7 +8,8 @@ photo:
 email: eske.christiansen@deic.dk
 phone:
 on_contract: yes
-has_been_on_contract:
+has_been_on_contract: yes
 groups:
+  puhuri:
   puhuri-sg:
 ---
