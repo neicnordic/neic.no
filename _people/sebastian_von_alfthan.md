@@ -8,8 +8,9 @@ photo:
 email: sebastian.von.alfthan@csc.fi
 phone:
 on_contract: no
-has_been_on_contract: no
-groups:
+has_been_on_contract: yes
+groups: 
+  puhuri-sg:
   nlcg:
     role: Infrastructure
 ---
