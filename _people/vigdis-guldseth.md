@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Vigdis Guldseth
-home: <a href="https://uninett.no/sigma/">Sigma2</a>
+home: <a href="https://www.sigma2.no">Sigma2</a>
 country: "NO"
 photo:
-email: vigdis.guldseth@uninett.no
+email: vigdis.guldseth@sigma2.no
 phone:
 on_contract: no
 has_been_on_contract: no

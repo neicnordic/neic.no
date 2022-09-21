@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Francesca Iozzi
-home: <a href="https://www.uninett.no/en/sigma">Uninett</a>
+home: <a href="https://www.sigma2.no">Sigma2</a>
 country: "NO"
 photo: assets/images/people/Fransesca_Iozzi.jpg
-email: maria.f.iozzi@uninett.no
+email: maria.f.iozzi@sigma2.no
 phone:
 on_contract: no
 has_been_on_contract: yes
