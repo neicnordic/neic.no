@@ -11,11 +11,11 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   nordiquest:
-    role: Project manager (from 1 September 2022)
+    role: Project manager
   nordiquest-po:
-    role: Project manager (from 1 September 2022)
+    role: Project manager
   nordiquest-sg:
-    role: Project manager (from 1 September 2022)
+    role: Project manager
   nordiquest-rg:
-    role: Project manager (from 1 September 2022)
+    role: Project manager
 ---
