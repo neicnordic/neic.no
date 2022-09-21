@@ -7,7 +7,7 @@ country: "NO"
 photo: 
 email: erlendur.helgason@medisin.uio.no
 phone: "+47 22 84 53 15"
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:

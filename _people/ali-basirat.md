@@ -7,7 +7,7 @@ country: "SE"
 photo:
 email: ali.basirat@lingfil.uu.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nlpl:

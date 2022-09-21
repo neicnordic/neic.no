@@ -7,8 +7,8 @@ country: "IS"
 photo:
 email: ebba@hi.is
 phone:
-on_contract:
-has_been_on_contract: no
+on_contract: yes
+has_been_on_contract: yes
 groups:
   dellingr-sg:
   puhuri-sg:

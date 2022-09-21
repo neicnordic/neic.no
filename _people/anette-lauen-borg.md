@@ -7,7 +7,7 @@ country: "NO"
 photo: assets/images/people/Anette-Lauen-Borg.jpg
 email: anettelb@met.no
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   iobs:

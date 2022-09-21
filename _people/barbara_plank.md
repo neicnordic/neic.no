@@ -7,8 +7,8 @@ country: "DK"
 photo:
 email: bplank@gmail.com
 phone:
-on_contract: yes
-has_been_on_contract:
+on_contract: no
+has_been_on_contract: yes
 groups:
   nlpl:
 ---

@@ -7,7 +7,7 @@ country: DK
 photo: assets/images/people/Ali_Syed.jpg
 email: alisyed@cbs.dtu.dk
 phone: "+45 60904646"
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   tryggve1:

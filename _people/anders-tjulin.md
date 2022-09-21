@@ -8,7 +8,7 @@ photo:
 email: anders.tjulin@eiscat.se
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   e3ds:
 ---

@@ -8,7 +8,7 @@ photo:
 email: chris.thomas@csc.fi
 phone:
 on_contract:
-has_been_on_contract:
+has_been_on_contract: yes
 groups:
   tryggve2:
 ---

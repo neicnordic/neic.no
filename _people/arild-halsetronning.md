@@ -8,7 +8,7 @@ photo:
 email:
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   board:
     role: Until 2014-12-31.

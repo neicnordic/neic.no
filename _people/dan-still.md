@@ -10,6 +10,8 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  ewpe: 
+    role: Pre-study leader
   glenna2:
     role: Project leader
   glenna2-po:

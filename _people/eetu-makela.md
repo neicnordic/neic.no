@@ -8,7 +8,7 @@ photo: assets/images/people/eetu-makela.jpg
 email: eetu.makela@helsinki.fi
 phone: +358 (0)50 3070509
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   ndhl:
     role: Pre-study member

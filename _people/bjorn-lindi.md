@@ -7,8 +7,8 @@ country: "NO"
 photo: assets/images/people/Bjorn_Lindi.jpg
 email: bjorn.lindi@ntnu.no
 phone:
-on_contract:
-has_been_on_contract: no
+on_contract: no
+has_been_on_contract: yes
 groups:
   nlpl:
     role: Project Manager

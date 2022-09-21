@@ -7,10 +7,9 @@ country: SE
 photo:
 email: anders.larsson@bils.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   tryggve1:
-    finished: yes
   glenna2:   
 ---

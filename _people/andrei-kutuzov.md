@@ -7,7 +7,7 @@ country: "NO"
 photo: assets/images/people/Andrei_Kutuzov.jpg
 email: andreku@ifi.uio.no
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nlpl:

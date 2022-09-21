@@ -8,7 +8,7 @@ photo:
 email: anders.telenius@nrm.se
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
-  deepdive: yes
+  deepdive:
 ---

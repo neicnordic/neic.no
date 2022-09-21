@@ -8,7 +8,7 @@ photo:
 email: ann-charlotte.sonnhammer@it.uu.se
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   tryggve1-rg:
     role: <a href="http://www.snic.vr.se/">SNIC</a>

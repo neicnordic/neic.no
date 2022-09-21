@@ -8,7 +8,7 @@ photo:
 email: bpn@icm.uu.se
 phone:
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   tryggve1-sg:
   tryggve2-sg:

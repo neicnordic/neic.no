@@ -7,8 +7,8 @@ country: "NO"
 photo:
 email: daniel.huluka@uib.no
 phone:
-on_contract:
-has_been_on_contract:
+on_contract: no
+has_been_on_contract: yes
 groups:
   glenna:
 ---

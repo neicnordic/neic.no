@@ -8,7 +8,7 @@ photo: assets/images/people/birgitte-vedel-thage.jpg
 email: birgitte.vedel.thage@deic.dk
 phone: +45 9351 1288
 on_contract: no
-has_been_on_contract: no
+has_been_on_contract: yes
 groups:
   poco-wg:
   ratatosk-sg:
