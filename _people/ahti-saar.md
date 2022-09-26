@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Ahti Saar
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
-country: EE
+country: "EE"
 photo:
 email: ahti.saar@ut.ee
 phone:
@@ -14,4 +14,6 @@ groups:
   puhuri-sg:
   puhuri:
   neic2022-oc:
+  nordiquest:
+  nordiquest-sg:
 ---

@@ -7,8 +7,8 @@ leader: alberto-lanzanova
 phase: In progress
 start: 2022-04-01
 end: 2025-03-31
-results: N/A
-outreach: N/A
+results: https://nordiquest.net
+outreach: https://nordiquest.net
 documents:
 links:
 groups:
@@ -22,6 +22,7 @@ groups:
     frequency: 
   nordiquest-rg:
     name: Reference Group
+    text: To be named.
     minutes: 
     frequency: 
   nordiquest-po:
@@ -31,6 +32,12 @@ groups:
      
 ---
 ## Nordic-Estonian Quantum Computing e-Infrastructure Quest - NordIQuEst
+
+### Background
+Quantum computing is expected to impact all areas of research that could utilise computational modelling. Quantum computers need tailor-made algorithms and software. Quantum programming requires taking advantage of quantum physical phenomena that are absent in classical computing, like superposition and entanglement. It also requires fundamental rethinking on several other levels. 
+
+### Objectives
+NordIQuEst aims to provide a quantum computing platform customised to the needs of the Nordic region. The infrastructure will be tightly coupled with the pre- exascale LUMI supercomputer. NordIQuEst will thus strengthen the existing Nordic HPC infrastructure by adding a quantum computing environment. Users will enjoy a versatile, yet unified environment consisting of several Nordic quantum computers and quantum computer simulators. This increases the overall value of the ecosystem, by enabling prompt uptake of high-end quantum computing technologies in a wide range of research communities 
 
 ### Project partners
 

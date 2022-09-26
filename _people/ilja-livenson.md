@@ -16,4 +16,5 @@ groups:
   ahm19-oc:
     role: Hackathon organizer
   wp-leaders:
+  nordiquest:
 ---
