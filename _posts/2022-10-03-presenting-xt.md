@@ -49,7 +49,7 @@ Azab is a member of NeIC's project management office and works as project owner 
 Azab's background is in electronics, automatic control systems, high-performance computing, grid computing, cloud computing, and cyber security. His work with NeIC has been a great chance for him to gain a lot of technical, management, collaboration, and communication skills in addition to building a strong network of exports and scientists. He says he really enjoys working with the wonderful and committed team of experts in NeIC. 
 
 #### Jesse Oikarinen, Senior advisor
-Oikarinen joined NeIC in May 2022 as Senior advisor supporting the Executive team in investigating different collaboration opportunities to expand the Nordic e-infrastructure collaboration in new directions. He has a background in Social Sciences and a Master’s Degree in International Relations from the University of Tampere. He has worked in different positions at CSC since 2017.
+Oikarinen joined NeIC in May 2022 as Senior advisor supporting the executive team in investigating different collaboration opportunities to expand the Nordic e-infrastructure collaboration in new directions. He has a background in Social Sciences and a Master’s Degree in International Relations from the University of Tampere. He has worked in different positions at CSC since 2017.
 
 He points out that working in NeIC offers a great opportunity to utilise existing knowledge related to RDI (Research, Development and Innovation) funding and projects to support NeIC in its ambitions regarding new collaborations. It also enables further development of collaboration between NeIC and CSC. 
 
