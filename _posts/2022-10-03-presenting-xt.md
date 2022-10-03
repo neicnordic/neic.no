@@ -13,7 +13,9 @@ While NeIC’s office is technically speaking located within NordForsk’s headq
 
 NeIC's executive team consists of seven specialists coming from Norway, Finland and the US. The team meets on a weekly basis and discusses current issues, activities in NeIC's project portfolio, the strategy and ways to implement it, and upcoming opportunities. 
 
-<img class="normal" src="{% include baseurl %}/assets/images/news/220927-executiveteam.jpeg" height="380" class="center" margin="0px 5px">
+<img class="normal" src="{% include baseurl %}/assets/images/news/220927-executiveteam.jpeg" height="380" class="center" margin="0px 5px"></p>
+
+*Photo: Mikael Kanerva, CSC - IT Center for Science*
 
 #### Gudmund Høst, Director
 Gudmund Høst took the position as NeIC Director in 2012. He previously worked as a special advisor on research infrastructure for the Research Council of Norway and has a M.Sc. in applied mathematics and PhD in statistics. 
