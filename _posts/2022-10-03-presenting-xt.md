@@ -13,12 +13,12 @@ While NeIC’s office is technically speaking located within NordForsk’s headq
 
 NeIC's executive team consists of seven specialists coming from Norway, Finland and the US. The team meets on a weekly basis and discusses current issues, activities in NeIC's project portfolio, the strategy and ways to implement it, and upcoming opportunities. 
 
-<img class="normal" src="{% include baseurl %}/assets/images/news/220927-executiveteam.jpeg" height="380" class="center" margin="0px 5px"></p>
+<img class="normal" src="{% include baseurl %}/assets/images/news/220927-executiveteam.jpeg" height="380" class="center" margin="0px 5px">
 
 *Photo: Mikael Kanerva, CSC - IT Center for Science*
 
 #### Gudmund Høst, Director
-Gudmund Høst took the position as NeIC Director in 2012. He previously worked as a special advisor on research infrastructure for the Research Council of Norway and has a M.Sc. in applied mathematics and PhD in statistics. 
+Gudmund Høst took the position as NeIC's director in 2012. He previously worked as a special advisor on research infrastructure for the Research Council of Norway and has a M.Sc. in applied mathematics and PhD in statistics. 
 
 – Working with engaged and talented people across the Nordic-Baltic region is a wonderful experience. The community is continuously growing and deepening, always eager to tackle new opportunities of common interest, Høst says.
 
@@ -49,7 +49,7 @@ Azab is a member of NeIC's project management office and works as project owner 
 Azab's background is in electronics, automatic control systems, high-performance computing, grid computing, cloud computing, and cyber security. His work with NeIC has been a great chance for him to gain a lot of technical, management, collaboration, and communication skills in addition to building a strong network of exports and scientists. He says he really enjoys working with the wonderful and committed team of experts in NeIC. 
 
 #### Jesse Oikarinen, Senior advisor
-Oikarinen joined NeIC in May 2022 as Senior advisor supporting the executive team in investigating different collaboration opportunities to expand the Nordic e-infrastructure collaboration in new directions. He has a background in Social Sciences and a Master’s Degree in International Relations from the University of Tampere. He has worked in different positions at CSC since 2017.
+Oikarinen joined NeIC in May 2022 as senior advisor supporting the executive team in investigating different collaboration opportunities to expand the Nordic e-infrastructure collaboration in new directions. He has a background in Social Sciences and a Master’s Degree in International Relations from the University of Tampere. He has worked in different positions at CSC since 2017.
 
 He points out that working in NeIC offers a great opportunity to utilise existing knowledge related to RDI (Research, Development and Innovation) funding and projects to support NeIC in its ambitions regarding new collaborations. It also enables further development of collaboration between NeIC and CSC. 
 
@@ -57,8 +57,8 @@ He points out that working in NeIC offers a great opportunity to utilise existin
 
 #### Vilma Häkkinen, Communications advisor
 
-Since 2019, NeIC has had a Communications advisor whose primary job is to support the administration, project office and activities in increasing awareness of NeIC and its impact. The Communications advisor is in charge of the production of NeIC’s annual reports, news articles, social media posts and many events and presentations. The Communications advisor also oversees parts of NeIC’s strategic implementation, such as activities related to strategic communication and building the work culture. 
+Since 2019, NeIC has had a communications advisor whose primary job is to support the administration, project office and activities in increasing awareness of NeIC and its impact. The communications advisor is in charge of the production of NeIC’s annual reports, news articles, social media posts and many events and presentations. The communications advisor also oversees parts of NeIC’s strategic implementation, such as activities related to strategic communication and building the work culture. 
 
 Vilma Häkkinen studied Finnish language at the University of Tampere in Finland and specialised in organisational communication. She started working first at CSC’s and then, during her exchange period in Oslo, NeIC’s communications before getting her MA in 2020. For her, working with topics related to e-infrastructure is very interesting and most of all educational, and she highly appreciates the culture of openness and transparency that NeIC nurtures. 
 
-– Working in NeIC has taught me so much about things I don't think I would have otherwise encountered. In addition, this job has always felt like I'm doing something meaningful and contributing to a greater, common good, Häkkinen says.
+– Working in NeIC has taught me so much about things I don't think I would have otherwise even encountered. In addition, this job has always felt like I'm doing something meaningful and contributing to a greater, common good, Häkkinen says.
