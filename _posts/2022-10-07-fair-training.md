@@ -12,7 +12,7 @@ After a long break in arranging FAIR training events, NeIC offers a chance to pa
 A significant part in FAIR relates to supporting the ability of artificial agents to interpret discovered information and act accordingly. This is achieved using semantic techniques such as ontologies, Linked Data and Semantic Web, that are also addressed in the course. During the course, participants will conduct some exercises to practice the acquired knowledge.
 
 **What:** A 3-day course on FAIR data stewardship with introductory sessions and some practical applications.  
-**Who:** The course is offered for anyone interested by NeIC through a partnership with Datability.
+**Who:** The course is offered for anyone interested by NeIC through a partnership with Datability.  
 **When:** 8-10 November 2022.  
 **Where:** Oslo, Norway; precise location will be confirmed soon.    
 **How much:** 5200 NOK for regular registrants.
