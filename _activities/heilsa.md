@@ -41,7 +41,7 @@ Access to sensitive human data, such as genomics and phenomics combined data, is
 
 In the Heilsa project, the focus is on building federated services that are interoperable and enable cross-border sensitive data analysis. As a result, a researcher with the appropriate authorizations would be able to combine data from two or more datasets in different Nordic locations. This will be based on the sensitive data archives and the available national compute services, as well as ELIXIR infrastructure services, like ELIXIR AAI.
 
-The scope includes for example sensitive data archives, country-specific synthetic data, and imputation service.
+The scope includes for example sensitive data archives, synthetic data, and imputation service.
 
 Partners: ELIXIR nodes in Norway, Denmark, Sweden, Finland, and ETAIS in Estonia. 
 Observer: ELIXIR node in Iceland. 
