@@ -7,10 +7,13 @@ leader: alberto-lanzanova
 phase: In progress
 start: 2022-04-01
 end: 2025-03-31
-results: https://nordiquest.net
-outreach: https://nordiquest.net
+results: N/A
+outreach: N/A
 documents:
 links:
+  - url: https://nordiquest.net
+    text: Web
+    description: The project website
 groups:
   nordiquest:
     name: Team
