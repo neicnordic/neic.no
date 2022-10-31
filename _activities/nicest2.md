@@ -95,3 +95,5 @@ Supporting:
 * NT1
 * Puhuri
 * RELIANCE
+* EuroScienceGateway
+* EGI-ACE

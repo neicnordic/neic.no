@@ -1,11 +1,11 @@
 ---
 layout: master
 include: person
-name: Anne Claire Fouilloux
-home: <a href="http://www.mn.uio.no/geo/english/">UIO, GEO</a>
+name: Anne Fouilloux
+home: <a href="https://www.simula.no">Simula Research Laboratory</a>
 country: "NO"
 photo:
-email: a.c.fouilloux@geo.uio.no
+email: annef@simula.no
 phone:
 on_contract: yes
 has_been_on_contract: yes
