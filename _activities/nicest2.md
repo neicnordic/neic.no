@@ -97,3 +97,5 @@ Supporting:
 * RELIANCE
 * EuroScienceGateway
 * EGI-ACE
+* C-SCALE
+* Pangeo
