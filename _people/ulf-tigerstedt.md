@@ -13,5 +13,5 @@ groups:
   nt1:
     role: Tier-1 Operations
     finished: yes
-    nordiquest:
+  nordiquest:
 ---
