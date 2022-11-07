@@ -2,10 +2,10 @@
 layout: master
 include: person
 name: Jean Iaquinta
-home: <a href="http://www.mn.uio.no/geo/english/">UIO, GEO</a>
+home: <a href="https://www.usit.uio.no/">USIT</a>
 country: "NO"
 photo:
-email: jean.iaquinta@geo.uio.no
+email: jean.iaquinta@usit.uio.no
 phone:
 on_contract: yes
 has_been_on_contract: no
