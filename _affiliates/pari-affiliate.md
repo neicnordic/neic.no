@@ -6,9 +6,9 @@ type: Affiliate project
 leader: wolmar-nyberg
 start: 2021-11-01
 end: 2022-10-31
-results: 
-outreach: 
-documents:
+results: N/A
+outreach: N/A
+documents: 
    - text: Project Plan
      url: https://docs.google.com/document/d/1vqkxoegYl1QOeVIoM629Tcd82419OIBnkhgYg1SyeYc/edit?usp=sharing
    - text: Collaboration Agreement 

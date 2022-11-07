@@ -8,8 +8,8 @@ phase: Finished
 finished: true
 start: 2020-11-01
 end: 2021-10-31
-results: 
-outreach: 
+results: N/A
+outreach: N/A
 documents:
    - text: Project Plan
      url: https://docs.google.com/document/d/1vqkxoegYl1QOeVIoM629Tcd82419OIBnkhgYg1SyeYc/edit?usp=sharing
