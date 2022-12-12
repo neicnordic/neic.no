@@ -28,10 +28,12 @@
               {% endif %}
             </p>
             <p class="no-space">
-              <b>LEADER:</b>
-              <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
-            </p>
-
+              {% if page.leader %}
+                   <b>LEADER:</b>
+                   <span class="color"><b><a href="{% include baseurl %}{{ leader.url }}">{{ leader.name }}</a></b></span>
+              {% endif %}
+            </p> 
+              
             {% if page.projects %}
               <p class="top"><b>PROJECTS:</b></p>
               {% for project in page.projects %}

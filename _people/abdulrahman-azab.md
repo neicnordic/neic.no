@@ -12,6 +12,8 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior Advisor
+  nenec-coordinators:
+    role: Technical Coordinator
   tryggve1:
   tryggve2:
     role: Project Manager

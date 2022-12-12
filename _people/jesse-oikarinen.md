@@ -12,4 +12,6 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior Advisor
+  nenec-coordinators:
+    role: Administrative Coordinator
 ---
