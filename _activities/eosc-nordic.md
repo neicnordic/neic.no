@@ -3,10 +3,10 @@ layout: master
 include: eosc-nordic-menu
 name: EOSC-Nordic
 type: Project
-phase: In progress
+phase: Finished
+finished: yes
 start: 2019-09-01
 end: 2022-11-30
-finished: no
 leader: lene-krol-andersen
 results: N/A
 outreach: N/A
