@@ -7,8 +7,9 @@ country: "SE"
 photo:
 email: axean@chalmers.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nordiquest:
+    finished: yes
 ---
