@@ -2,8 +2,8 @@
 layout: master
 include: person
 name: Ülar Allas
-home: 
-country: "EE"
+home: <a href="https://www.ut.ee/en">University of Tartu</a>
+country: EE
 photo: 
 email: 
 phone:
