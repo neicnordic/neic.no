@@ -15,12 +15,10 @@ groups:
     name: Team
     minutes: 
     frequency: 
-    description: The team is being formed.
   nmd-sg:
     name: Steering Group 
     minutes: 
     frequency: 
-    description: The Steering group is being formed.
   nmd-po:
     name: Project office
     minutes:
