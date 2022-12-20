@@ -29,4 +29,4 @@ groups:
 ---
 ## Nordic Microdata Database
 
-Information will be added during November.
+Information will be added during December. 
