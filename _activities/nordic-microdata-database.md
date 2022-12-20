@@ -29,4 +29,6 @@ groups:
 ---
 ## Nordic Microdata Database
 
-Information will be added during December. 
+The goal of the Nordic Microdata Database project is to create a one-stop service to Nordic corporate microdata, which will lead to an improved research landscape and information for policy makers. The project aims at increasing the quantity of high-quality research into policy-relevant questions in economics and finance. 
+
+The project is funded by the Nordic Council of Ministers.
