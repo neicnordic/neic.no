@@ -14,6 +14,9 @@ groups:
     role: Executive manager
   provider-forum:
     role: Secretary
+    finished: yes
+  nmd-sg:
+    role: Project owner, Chair
   nmd-po: 
     role: Project owner
   puhuri-sg:

@@ -10,6 +10,10 @@ phone:
 on_contract: yes
 has_been_on_contract: yes
 groups:
+  nmd:
+    role: Project manager
+  nmd-sg: 
+    role: Project manager, Secretary
   nmd-po: 
     role: Project manager
 ---
