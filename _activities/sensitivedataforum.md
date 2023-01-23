@@ -9,6 +9,10 @@ results: N/A
 outreach: N/A
 documents:
 groups:
+links:
+  - url: https://neic.no/mailman/listinfo/sensitive-data
+    text: Mailing list
+    description: Subscribe to the mailing list to join the community
 ---
 
 ## Nordic-Baltic Sensitive Data Forum
