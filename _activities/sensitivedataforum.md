@@ -10,3 +10,10 @@ outreach: N/A
 documents:
 groups:
 ---
+
+## Nordic-Baltic Sensitive Data Forum
+
+
+### Background
+
+Nordic-Baltic Sensitive Data Forum brings together researchers, service providers, security experts, service developers/administrators, data protection experts, lawyers, policymakers, and activity funders in one community to learn from each other, plan for competence-building (e.g. training events and workshops), and collaboration activities (including Nordic/EU-funded projects).
