@@ -1,7 +1,7 @@
 ---
 layout: master
 include: activity
-name: NeIC Expert Network for Nordic and EU Collaboration 
+name: Expert Network for Nordic and EU Collaboration 
 type: NeIC Forum
 leader: 
 start: 2022-10-01
@@ -12,3 +12,6 @@ groups:
   nenec-coordinators:
     name: Coordinators
 ---
+# Expert Network for Nordic and EU Collaboration (NENEC)
+
+The network acts as agile group of experts investigating and discussing interesting EU call opportunities, joint interests and possible collaboration bearing in mind the NeIC strategy, Nordic Added Value and interests of the national providers. The network strengthens NeIC’s ability to gather information on upcoming calls and prepare as early as possible rather than join in at the late stage as lesser or disjoint partner or an observer. The diverse and complementary competencies of the network members allows building a vast view on the possibilities and interests.
