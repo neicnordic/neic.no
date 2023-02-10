@@ -69,8 +69,8 @@ The goals of Puhuri's second phase are to ensure sustainability of the Puhuri au
 Consortium:
 * CSC – IT Center for Science, FI
 * University of Iceland, IS
-* Uninett Sigma2, NO
+* Sigma2, NO
 * ETAIS, EE
-* SNIC, SE
+* NAISS, SE
 * DeiC, DK
 
