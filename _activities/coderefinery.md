@@ -7,8 +7,8 @@ leader: radovan-bast
 phase: Execution
 start: 2016-10-01
 end: 2025-02-28
-results: https://coderefinery.org
-outreach: https://coderefinery.org
+results: https://coderefinery.org/about/reports/
+outreach: https://coderefinery.org/blog/
 documents:
   - text: Project directives, project plans, and project reports
     url: https://coderefinery.org/about/reports/#project-reports
@@ -16,11 +16,14 @@ links:
   - url: https://coderefinery.org
     text: Web
     description: Our project website
+  - url: https://coderefinery.org/workshops/upcoming/
+    text: Workshops
+    description: Upcoming workshops and events
   - url: https://coderefinery.github.io/manuals/
     text: Manuals
     description: Our operation manuals
-  - url: https://coderefinery.org/organization/who-we-are/
-    text: Project team
+  - url: https://coderefinery.org/about/contributors/
+    text: CodeRefinery contributors
     description: Who we are
   - url: https://coderefinery.org/calendars/
     text: Event and workshop calendars
