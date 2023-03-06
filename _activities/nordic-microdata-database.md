@@ -17,7 +17,7 @@ documents:
   description: External documentation
   -url: https://wiki.neic.no/int/NMD
   text: Internal wiki
-  description: Internal documenation
+  description: Internal documention
 groups:
   nmd:
     name: Team
