@@ -10,6 +10,14 @@ end: 2024-11-30
 results: N/A
 outreach: N/A
 documents:
+
+  links:
+  -url: https://wiki.neic.no/wiki/NMD
+  text: External wiki
+  description: External documentation
+  -url: https://wiki.neic.no/int/NMD
+  text: Internal wiki
+  description: Internal documention
 groups:
   nmd:
     name: Team
