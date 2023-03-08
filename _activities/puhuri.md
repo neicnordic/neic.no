@@ -29,6 +29,8 @@ documents:
      url: https://zenodo.org/record/5747047#.Yadx7LqxVhE  
    - text: Deliverable 4 on Accounting and Reporting
      url: https://zenodo.org/record/6361321#.Ym4ydtNByUk
+   - text: D.A1.1 Current state report in December 2022
+     url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf 
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
