@@ -10,6 +10,8 @@ end: 2024-11-30
 results: N/A
 outreach: N/A
 documents:
+   - text: Advisory Board - Terms of Reference
+     url: https://wiki.neic.no/w/ext/img_auth.php/a/a2/Puhuri_Project_Plan_v2.4.pdf
 links:
   - url: https://wiki.neic.no/wiki/NMD
     text: External wiki
