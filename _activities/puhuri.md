@@ -12,9 +12,9 @@ results: https://wiki.neic.no/wiki/Puhuri
 outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
    - text: Project Plan
-     url: https://wiki.neic.no/w/ext/img_auth.php/a/a2/Puhuri_Project_Plan_v2.4.pdf
+     url: https://wiki.neic.no/w/ext/img_auth.php/c/ce/Puhuri_2_Project_Plan_20220603.pdf 
    - text: Collaboration Agreement and Project proposal 
-     url: https://wiki.neic.no/w/ext/img_auth.php/7/7e/Puhuri_Collaboration_Agreement.pdf 
+     url: https://wiki.neic.no/w/ext/img_auth.php/b/b7/Puhuri2-Collaboration-Agreement-3.pdf 
    - text: Terms of Reference of the Reference Group
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
    - text: Reference Group members 
