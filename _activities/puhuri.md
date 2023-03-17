@@ -31,6 +31,8 @@ documents:
      url: https://zenodo.org/record/6361321#.Ym4ydtNByUk
    - text: D.A1.1 Current state report in December 2022
      url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf 
+   - text: Puhuri Whitepaper, March 2023
+     url: https://wiki.neic.no/w/ext/img_auth.php/d/d0/Puhuri_Whitepaper_20230317.pdf  
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
