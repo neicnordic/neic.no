@@ -40,6 +40,12 @@ links:
   - url: https://wiki.neic.no/int/Puhuri
     text: Internal wiki
     description: Internal working documents.
+  - url: https://puhuri.neic.no
+    text: Puhuri documentation
+    description: Technical documentation for using Puhuri
+  - url: https://puhuri.io
+    text: Puhuri landing
+    description: Landing page for the Puhuri service
 groups:
   puhuri:
     name: Team
