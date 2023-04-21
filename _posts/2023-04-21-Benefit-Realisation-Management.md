@@ -7,7 +7,7 @@ photo: /assets/images/latest-news-89.png
 How NeIC projects’ benefits are realised
 ===========================
 
-NeIC is not a funding agency, it isn’t an organisation that produces and operates services neither. Instead, NeIC uses money granted by NordForsk and Nordic funding agencies to host, facilitate and coordinate projects that aim to improve Nordic e-infrastructure and thus benefit researchers and research communities. When consortia apply in a NeIC call, they apply for both the funding and the framework to steer and manage the project. The project manager is appointed and paid for by NeIC, and they are supported by a project owner whose responsibility is to make sure that the framework is implemented in the most efficient way. The framework for steering projects that we rely on and apply is called Practical Project Steering, [PPS](https://www.tietoevry.com/en/create/pps/).
+NeIC is not a funding agency, it isn’t an organisation that produces and operates services neither. Instead, NeIC uses money granted by NordForsk and Nordic funding agencies to host, facilitate and coordinate projects that aim to improve Nordic e-infrastructure and thus benefit researchers and research communities. When consortia apply in a NeIC call, they apply for both the funding and the framework to steer and manage the project. The project manager is appointed and paid for by NeIC, and they are supported by a project owner whose responsibility is to make sure that the framework is implemented in the most efficient way. The framework for steering projects that we rely on and apply is called **Practical Project Steering**, [PPS](https://www.tietoevry.com/en/create/pps/).
 
 ### Defining the benefits helps to measure and realise them
 
@@ -23,14 +23,14 @@ The most recent training on benefit realisation management was in December 2022,
 
 Benefit realisation management requires planning and people appointed to both steer and monitor the business changes and to steer the benefit realisation. The project orderer, in our case NeIC on behalf of all the project partners, is responsible for this. However, in order to be successful, it requires commitment and engagement also from key stakeholders, especially the partner organisations in the project. While it is the project steering group that mostly decides the content of the business case, managing and realising the benefits is coordinated by NeIC’s Project Management Office (PMO).
 
-- Tracking benefits during the projects’ execution period is instrumental for its successful completion and assuring sustainability of the delivered results. Identifying the recipients of the project outcomes is the crucial ingredient of the benefit realisation plan, explains Executive Manager Tomasz Malkiewicz. 
+– Tracking benefits during the projects’ execution period is instrumental for its successful completion and assuring sustainability of the delivered results. Identifying the recipients of the project outcomes is the crucial ingredient of the benefit realisation plan, explains Executive Manager Tomasz Malkiewicz. 
 
 Below is an illustration of the NeIC project lifecycle model.
 photo: /assets/images/latest-news-89.png
 
-After a NeIC project has ended it enters the Affiliate programme (see illustration). The NeIC Affiliate Programme enhances the benefits and impacts of NeIC projects after they have been completed. All concluded NeIC projects and activities are eligible to participate, advertise their highlights on the Affiliate website and apply annually for NeIC financial support for the benefit realisation.
+After a NeIC project has ended it enters the **Affiliate programme** (see illustration). The NeIC Affiliate Programme enhances the benefits and impacts of NeIC projects after they have been completed. All concluded NeIC projects and activities are eligible to participate, advertise their highlights on the Affiliate website and apply annually for NeIC financial support for the benefit realisation.
  
-In addition, selected projects receive upon their completion funding for a one year Results-Transfer Period facilitated by NeIC. Results-Transfer Period starts immediately after the completion of the project.
+In addition, selected projects receive upon their completion funding for a **one year Results-Transfer Period** facilitated by NeIC. Results-Transfer Period starts immediately after the completion of the project.
 
 ### Examples from the field: iOBS and DeepDive
 
@@ -40,4 +40,4 @@ At the end of the project, the project results were ready to be introduced and t
 
 DeepDive is another example of a NeIC project that has continued its activities after the project period ended. The project was managed by NeIC from January 2017 to December 2019, after which it became a NeIC Affiliate. The project’s goal was to explore synergies in e-infrastructure development among the Nordic and Baltic countries and support biodiversity and ecosystem research by establishing common services based on best practice and technical interoperability. 
 
-- Some benefits are immediate and visible during the project’s lifetime, while other impacts take many years to emerge, says Matthias Obst, the DeepDive project manager. NeIC has developed some valuable instruments to track long-term impacts and and understand how to support them. Here instruments such as  benefit realisation calls, all hands meetings, and the affiliate program are very helpful, concludes Obst.
+– Some benefits are immediate and visible during the project’s lifetime, while other impacts take many years to emerge, says Matthias Obst, the DeepDive project manager. NeIC has developed some valuable instruments to track long-term impacts and and understand how to support them. Here instruments such as  benefit realisation calls, all hands meetings, and the affiliate program are very helpful, concludes Obst.
