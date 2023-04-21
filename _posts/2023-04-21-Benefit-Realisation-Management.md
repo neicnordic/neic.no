@@ -26,7 +26,7 @@ Benefit realisation management requires planning and people appointed to both st
 – Tracking benefits during the projects’ execution period is instrumental for its successful completion and assuring sustainability of the delivered results. Identifying the recipients of the project outcomes is the crucial ingredient of the benefit realisation plan, explains Executive Manager Tomasz Malkiewicz. 
 
 Below is an illustration of the NeIC project lifecycle model.
-photo: /assets/images/latest-news-89.png
+<img class="normal" src="{% include baseurl %}/assets/images/latest-news-89.png" class="center">
 
 After a NeIC project has ended it enters the **Affiliate programme** (see illustration). The NeIC Affiliate Programme enhances the benefits and impacts of NeIC projects after they have been completed. All concluded NeIC projects and activities are eligible to participate, advertise their highlights on the Affiliate website and apply annually for NeIC financial support for the benefit realisation.
  
