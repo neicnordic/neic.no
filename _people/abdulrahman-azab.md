@@ -12,6 +12,10 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior Advisor
+  sdf-coordinators:
+    role: Technical Coordinator
+  fdf-coordinators:
+    role: Community Coordinator
   nenec-coordinators:
     role: Technical Coordinator
   tryggve1:
