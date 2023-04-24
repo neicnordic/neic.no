@@ -3,12 +3,16 @@ layout: master
 include: activity
 name: FAIR Data Forum
 type: NeIC Forum
-leader: abdulrahman-azab
+leader: 
 start: 2023-01-01
 results: N/A
 outreach: N/A
 documents:
 groups:
+  fdf-coordinators:
+    name: Coordinators
+  fdf-members:
+    name: Members
 links:
   - url: https://neic.no/mailman/listinfo/fair
     text: Mailing list
