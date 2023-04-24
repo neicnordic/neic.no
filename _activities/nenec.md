@@ -11,6 +11,8 @@ documents:
 groups:
   nenec-coordinators:
     name: Coordinators
+  nenec-members:
+    name: Members
 ---
 # Expert Network for Nordic and EU Collaboration (NENEC)
 
