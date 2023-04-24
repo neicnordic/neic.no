@@ -3,12 +3,16 @@ layout: master
 include: activity
 name: Sensitive Data Forum
 type: NeIC Forum
-leader: abdulrahman-azab
+leader: 
 start: 2022-12-01
 results: N/A
 outreach: N/A
 documents:
 groups:
+  sdf-coordinators:
+    name: Coordinators
+  sdf-members:
+    name: Members
 links:
   - url: https://neic.no/mailman/listinfo/sensitive-data
     text: Mailing list
