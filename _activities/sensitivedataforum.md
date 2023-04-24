@@ -25,3 +25,7 @@ links:
 ### Background
 
 Nordic-Baltic Sensitive Data Forum brings together researchers, service providers, security experts, service developers/administrators, data protection experts, lawyers, policymakers, and activity funders in one community to learn from each other, plan for competence-building (e.g. training events and workshops), and collaboration activities (including Nordic/EU-funded projects).
+
+### Upcoming events of interest
+
+* [DICE - Datathon on Sensitive Data (Register by Monday 15 May 2023)](https://www.dice-eosc.eu/index.php/news-events/events/dice-datathon-sensitive-data)
