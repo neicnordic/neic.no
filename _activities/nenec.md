@@ -13,6 +13,10 @@ groups:
     name: Coordinators
   nenec-members:
     name: Members
+links:
+  - url: https://neic.no/mailman/listinfo/nenec
+    text: Mailing list
+    description: Subscription to this forum and mailing list is by invitation only
 ---
 # Expert Network for Nordic and EU Collaboration (NENEC)
 
