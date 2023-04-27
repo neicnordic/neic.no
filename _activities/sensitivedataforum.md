@@ -13,8 +13,6 @@ groups:
     name: Coordinators
   sdf-providers:
     name: National Provider Representatives
-  sdf-members:
-    name: Members
 links:
   - url: https://neic.no/mailman/listinfo/sensitive-data
     text: Mailing list
