@@ -13,8 +13,6 @@ groups:
     name: Coordinators
   fdf-providers:
     name: National Provider Representatives
-  fdf-members:
-    name: Members
 links:
   - url: https://neic.no/mailman/listinfo/fair
     text: Mailing list
