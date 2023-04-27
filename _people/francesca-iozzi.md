@@ -23,6 +23,10 @@ groups:
     role: Sub-project leader
     finished: yes
   provider-forum:
+  fdf-providers:
+    role: Representing Sigma2 AS
+  sdf-providers:
+    role: Representing Sigma2 AS  
   data-management-wg:
   wp-leaders:
 ---
