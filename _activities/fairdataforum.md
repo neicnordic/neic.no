@@ -11,6 +11,8 @@ documents:
 groups:
   fdf-coordinators:
     name: Coordinators
+  fdf-providers:
+    name: National Provider Representatives
   fdf-members:
     name: Members
 links:
