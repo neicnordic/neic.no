@@ -11,6 +11,8 @@ documents:
 groups:
   sdf-coordinators:
     name: Coordinators
+  sdf-providers:
+    name: National Provider Representatives
   sdf-members:
     name: Members
 links:
