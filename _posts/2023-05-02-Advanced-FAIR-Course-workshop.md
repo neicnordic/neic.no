@@ -28,7 +28,7 @@ The workshop will provide participants with a methodology for planning and execu
 
 * **Dates:** 6-9 June, 2023
 * **Location:** Department of Informatics (IFI), University of Oslo, Norway
-* **Registration and full program details are here:**
-https://www.deltager.no/event/nordic_fair_data_stewardship_workshop_2023
+* **Registration and full program details are** [**here**](https://www.deltager.no/event/nordic_fair_data_stewardship_workshop_2023
+)
 
 * _Early bird registration is by **May 15th** or until the early bird seats are filled_
