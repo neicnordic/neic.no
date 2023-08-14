@@ -39,4 +39,4 @@ The advanced course is a unique opportunity to learn from the best. It is inte
 * **Registration and full program details are** [**here**](https://www.deltager.no/event/nordic_fair_data_stewardship_workshop_2023
 )
 * There is an option for online registration
-* _You may register now and will only be required to pay for your participation in **the second half of September** (by which time the event will be confirmed or canceled, depending on the number of registrations)._
+* _You may register now and will only be required to pay for your participation in **the second half of September** (by which time the event will be confirmed or canceled, depending on the number of registrations)._
