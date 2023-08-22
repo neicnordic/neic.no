@@ -13,14 +13,6 @@ links:
     text: EOSC-Nordic
   - url: https://wiki.neic.no/wiki/EOSC-Nordic
     text: Wiki page
-groups:
-  eosc-pmb:
-    name: EOSC-Nordic Project Management Board
-    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Project_Management_Board_.28PMB.29">Project Management Board (PMB)</a>
-  <a href="https://wiki.neic.no/wiki/EOSC-Nordic#International_Advisory_Committee">International Advisory committee</a>
-  eosc-partners:
-    name: EOSC-Nordic Partners
-    description: <a href="https://wiki.neic.no/wiki/EOSC-Nordic#Partners">Project partners</a> 
 ---
 EOSC-Nordic  Transferral of the Results aims at Realising Business Benefits and Changes for the uptake of the EOSC in the Nordic Baltic region (EOSC-Nordic project) 
 
