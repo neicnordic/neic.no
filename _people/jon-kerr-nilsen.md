@@ -15,4 +15,5 @@ groups:
   nt1:
     role: Developer, ARC Release Manager
     finished: yes   
+  coderefinery-sg:
 ---
