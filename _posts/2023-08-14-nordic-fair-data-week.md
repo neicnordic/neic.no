@@ -1,7 +1,7 @@
 ---
 title: Nordic FAIR Data Stewardship Week - Oslo, 13-17 November 2023
 summary: NeIC has successfully organised multiple FAIR Data Stewardship courses. To continue this success, NeIC is organizing the first advanced course and workshop on FAIRification, FAIR Ontologies, and data modeling. 
-photo: assets/images/added-value.png
+photo: /assets/images/added-value.png
 
 ---
 

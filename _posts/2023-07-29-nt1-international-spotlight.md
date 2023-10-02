@@ -1,7 +1,7 @@
 ---
 title: NT1 activities in the international spotlight
 summary: Activities of the Nordic WLCG Tier-1 facility continues attracting international attention, and spring this year saw a number of international events with our participation. 
-photo: assets/images/JENA-ws-2023.jpg
+photo: /assets/images/JENA-ws-2023.jpg
 
 ---
 
