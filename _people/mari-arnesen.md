@@ -7,9 +7,10 @@ country: "NO"
 photo: assets/images/people/mari-arnesen.jpeg
 email: mari.arnesen@nordforsk.org
 phone: 
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
     role: Administrative Coordinator
+    finished: yes
 ---

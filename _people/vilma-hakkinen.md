@@ -11,7 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Communications Advisor (parental leave from 2023-02-01)
+    role: Communications Advisor
   neic2022-pc:
     role: Secretary
   neic2022-oc:
