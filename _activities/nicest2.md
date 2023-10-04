@@ -4,7 +4,8 @@ include: activity
 name: NICEST2
 type: Project
 leader: anne-fouilloux
-phase: In progress
+phase: Finished
+finished: true
 start: 2020-06-01
 end: 2023-05-31
 results: https://wiki.neic.no/wiki/NICEST2#Results
