@@ -1,7 +1,7 @@
 ---
 title: How NeIC projects’ benefits are realised
 summary: Benefit realisation is described as “the work that is carried out in order to ensure that the expected benefit is really achieved after the project deliveries have taken place”. Benefit realisation management provides a way to measure how projects add true value to the society and research, and it is something NeIC does from the very start to even beyond the end of a project.
-photo: /assets/images/latest-news-89.png
+photo: /assets/images/benefit-realisation-management.png
 ---
 
 How NeIC projects’ benefits are realised
@@ -26,7 +26,7 @@ Benefit realisation management requires planning and people appointed to both st
 – Tracking benefits during the projects’ execution period is instrumental for its successful completion and assuring sustainability of the delivered results. Identifying the recipients of the project outcomes is the crucial ingredient of the benefit realisation plan, explains Executive Manager Tomasz Malkiewicz. 
 
 Below is an illustration of the NeIC project lifecycle model.
-<img class="normal" src="{% include baseurl %}/assets/images/latest-news-89.png" class="center">
+<img class="normal" src="{% include baseurl %}/assets/images/benefit-realisation-management.png" class="center">
 
 After a NeIC project has ended it enters the **Affiliate programme** (see illustration). The NeIC Affiliate Programme enhances the benefits and impacts of NeIC projects after they have been completed. All concluded NeIC projects and activities are eligible to participate, advertise their highlights on the Affiliate website and apply annually for NeIC financial support for the benefit realisation.
  
