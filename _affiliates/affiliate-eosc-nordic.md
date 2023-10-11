@@ -2,7 +2,7 @@
 layout: master
 include: eosc-nordic-menu
 name: EOSC-Nordic
-type: Affiliate project
+type: Affiliate project, one-year results-transfer period
 start: 2023-02-01
 end: 2023-12-31
 leader: lene-krol-andersen
@@ -14,7 +14,7 @@ links:
   - url: https://wiki.neic.no/wiki/EOSC-Nordic
     text: Wiki page
 ---
-EOSC-Nordic  Transferral of the Results aims at Realising Business Benefits and Changes for the uptake of the EOSC in the Nordic Baltic region (EOSC-Nordic project) 
+The one-year Results-transfer period for EOSC-Nordic aims at Realising Business Benefits and Changes for the uptake of the EOSC in the Nordic Baltic region (EOSC-Nordic project) 
 
 ## Content of the collaboration 
 

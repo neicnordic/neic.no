@@ -2,10 +2,10 @@
 layout: master
 include: affiliate
 name: iOBS
-type: Affiliate project
+type: Affiliate project, one-year results-transfer period
 leader: anette-lauen-borg
-start: 2019-01-01
-end: 2021-06-30
+start: 2021-07-01
+end: 2022-06-30
 results: https://wiki.neic.no/wiki/iOBS#Approved_deliverables
 outreach: https://wiki.neic.no/wiki/IOBS#Outreach
 documents:
@@ -22,19 +22,6 @@ links:
   - url: https://wiki.neic.no/int/iOBS
     text: Internal wiki
     description: Internal working documents.
-groups:
-  iobs:
-    name: Team
-  iobs-sg:
-    name: Steering group
-    description: Governance.
-  iobs-po:
-    name: Project office
-    description: Management.
-  iobs-rg:
-    name: Reference group
-    description: Stakeholder engagement forum. 
-     
 ---
 ## About iOBS - Improved Observation Usage in Numerical Weather Prediction
 
