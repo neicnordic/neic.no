@@ -15,7 +15,6 @@ groups:
   neic2017-prg:
   neic2015-pc:
   board:
-   role: Chair
   glenna-sg:
   dellingr-sg:
     role: Observer
