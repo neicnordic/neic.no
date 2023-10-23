@@ -1,0 +1,28 @@
+---
+title: Behind every successful NeIC project is a well-defined framework 
+summary: NeIC is an international collaboration with the aim of developing best-in-class e-infrastructure services. To make sure what we do in practice aligns with our mission, we use Tietoevry’s PPS model as a framework for our activities.
+photo: /assets/images/latest-news-10.png
+---
+
+Behind every successful NeIC project is a well-defined framework 
+===========================
+
+NeIC is an international collaboration between six countries and tens of organisations with the aim of developing best-in-class e-infrastructure services. For a collaboration like NeIC to succeed in this mission and enhance the e-infrastructure collaboration in the Nordics, projects are a useful tool. The ideas for NeIC’s development projects do not come from its funders or stakeholders but from the people actually working in the field, seeing how their everyday work could benefit from new kinds of services and workflows. Even though the projects only last for a defined time period, the collaboration that encourages, nurtures and realises the ideas before and after the actual project period does not have an ending date.
+
+How do we know that the projects’ objectives resonate with our goals, or that they are realistic in the first place? By using the same, well-functioning and proven framework to run them.
+
+### Nine years of PPS
+
+Since 2014, NeIC has used Tietoevry’s [Practical Project Steering](https://www.tietoevry.com/en/create/pps/pps-model/pps-project-steering/) (PPS) model and vocabulary in most of its activities. The framework was originally chosen because it derives from and is highly similar to project models used in many Nordic tech sector companies and thus it could already be recognised by project partners. In addition, NeIC saw that introducing and training the NeIC personnel in the PPS framework would be valuable both to partner organisations and to the individuals. Getting to know the model either by attending the courses or conducting the project work under the guidance of their trained colleagues (learning by doing) has proven to work well and create a common understanding of how the projects are run throughout the organisation. The available translations of the PPS vocabulary to most Nordic native languages that are available on-the-fly was considered a plus. 
+
+Each person working at NeIC is offered a possibility to attend a three-day PPS training with TietoEvry, to understand the framework, its vocabulary and goals as well as the benefits and tools available for the projects. Since adopting the PPS framework, NeIC has offered several other PPS-related trainings to deepen the understanding and support the development of project management skills. According to Tietoevry, NeIC is a frontrunner amongst their customers in terms of implementing and constantly developing the PPS model within the organisation.
+
+– NeIC implemented the PPS model throughout the project portfolio. It is a backbone of NeIC operations and a key to delivering a successful project. With its simplicity and little bureaucracy involved, it fits well into the Nordic way of working, says **Tomasz Malkiewicz**, Executive manager in charge of NeIC’s project portfolio. 
+
+### Practical project steering in practice
+
+When implementing changes through projects, the participating partners need to agree on what they want to achieve during the project time period, within the given financial constraints. The project preparation needs to be given ample time to ensure that the project is able to reach its goals. In NeIC, project ideas have traditionally been proposed in call submissions. This means that when a proposal for a development project is submitted to NeIC, in most cases the project idea is already supported by a consortium ready to start working on it. 
+
+After this, the project partners need to carefully plan how to spend their time and funds to meet the agreed goals. They also need to make sure that the project is led in the right way. When a project proposal is accepted and granted funding at NeIC, NeIC in the role of a project owner helps the partners to form a steering group and select a project manager. A project plan is to be accepted by the steering group before entering the execution phase. During the execution phase, the steering group, project manager and project owner meet regularly to monitor the progress and ensure that the work done in the project leads to expected benefits. The PPS framework supports and guides the steering groups by pointing out decisions to be made and documents to be approved throughout the project lifecycle; before starting the project, during the execution phase and after the project has ended. The NeIC project lifecycle model, [as presented in a news article earlier this year](https://neic.no/news/2023/04/21/Benefit-Realisation-Management/), contains the phases of the project and its outcomes as they are described and arranged in the PPS framework.
+
+– During the nine years, NeIC in collaboration with Tietoevry has tailored the PPS model to its need and utilised it fairly much to the maximum, for the benefit of our project partners. In the process, we contributed to developing the model itself further. This has been recognised by Tietoevry and led into the strategic partnership with NeIC. Through the partnership, NeIC can actively participate in the PPS development and learn about the new trends in project management and benefit realisation first-hand, Malkiewicz concludes.
