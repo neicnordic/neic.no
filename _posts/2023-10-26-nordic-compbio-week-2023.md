@@ -17,4 +17,4 @@ We hope to see you next month!
 
 <img class="normal" src="{% include baseurl %}/assets/images/news/NCB-Conference.png" class="center">
 
-*The Nordic Computational Biology (NCB) pre-study aims to gather and attract Nordic researchers of all academic levels and backgrounds within the field of computational biology. The goal is to become a space for collaboration and professional development. This will be achieved through knowledge-exchange initiatives and events and by providing latest information on ongoing computational research and infrastructures in the Nordic region.*
+*The [Nordic Computational Biology (NCB)](https://www.nordic-compbio.org) pre-study aims to gather and attract Nordic researchers of all academic levels and backgrounds within the field of computational biology. The goal is to become a space for collaboration and professional development. This will be achieved through knowledge-exchange initiatives and events and by providing latest information on ongoing computational research and infrastructures in the Nordic region.*
