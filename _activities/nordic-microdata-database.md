@@ -4,14 +4,18 @@ include: activity
 name: Nordic Microdata Database
 type: Project
 leader: antti-valkonen
-phase: In preparation
+phase: In progress
 start: 2022-12-01
 end: 2024-11-30
 results: N/A
 outreach: N/A
 documents:
-   - text: Advisory Board - Terms of Reference
-     url: https://wiki.neic.no/w/ext/img_auth.php/a/a2/Puhuri_Project_Plan_v2.4.pdf
+   - text: Project plan
+     url: https://wiki.neic.no/w/ext/img_auth.php/f/f0/Nordic_Microdata_Database_%28NMD%29_Project_Plan.pdf
+   - text: Consortium Agreement
+     url: https://wiki.neic.no/w/ext/img_auth.php/b/be/Nordic-Microdata-Database-Consortium-Agreement.pdf
+   - text: Business Case
+     url: https://wiki.neic.no/w/ext/img_auth.php/d/dc/Nordic_Microdata_Database_-_Business_Case.pdf
 links:
   - url: https://wiki.neic.no/wiki/NMD
     text: External wiki
