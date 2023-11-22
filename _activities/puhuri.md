@@ -30,7 +30,9 @@ documents:
    - text: Deliverable 4 on Accounting and Reporting
      url: https://zenodo.org/record/6361321#.Ym4ydtNByUk
    - text: D.A1.1 Current state report in December 2022
-     url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf 
+     url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf
+   - text: D.A2.1. Current state report in April 2023
+     url: https://wiki.neic.no/w/ext/img_auth.php/0/0c/DA2.1.pdf   
    - text: Puhuri Whitepaper, October 2023
      url: https://wiki.neic.no/w/ext/img_auth.php/8/80/Puhuri_Whitepaper.pdf
 links:
