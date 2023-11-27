@@ -12,4 +12,6 @@ has_been_on_contract: yes
 groups:
   tryggve1:
   tryggve2:
+  sdf-providers:
+    role: CSC-IT representative
 ---
