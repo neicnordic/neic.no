@@ -7,10 +7,9 @@ country: SE
 photo:
 email: lars.nordstrom@physics.uu.se
 phone:
-on_contract: yes
-has_been_on_contract:
+on_contract: no
+has_been_on_contract: no
 groups:
-  board:
   xt-board:
   coderefinery-sg:
 ---
