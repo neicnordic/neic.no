@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: CodeRefinery
 type: Project
-leader: radovan-bast
+leader: radovan-bastt
 phase: Execution
 start: 2016-10-01
 end: 2025-02-28
