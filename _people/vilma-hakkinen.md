@@ -7,7 +7,7 @@ country: FI
 photo: assets/images/people/vilma-hakkinen.jpeg
 email: vihakkinen@gmail.com
 phone: +35850 430 1532
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
