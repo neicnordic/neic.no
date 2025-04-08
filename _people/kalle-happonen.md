@@ -11,7 +11,9 @@ on_contract: no
 has_been_on_contract: yes
 groups:
   glenna:
+    finished: yes
   puhuri-sg:
     finished: yes
   nicest2-rg:
+    finished: yes
 ---
