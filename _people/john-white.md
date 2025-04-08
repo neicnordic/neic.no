@@ -13,15 +13,22 @@ orcid: <a href="https://orcid.org/0000-0001-5614-0895">ORCID ID</a>
 groups:
   dellingr:
     role: Project leader
+    finished: yes
   dellingr-sg:
     role: Observer, Project leader
+    finished: yes
   dellingr-po:
     role: Project leader
+    finished: yes
   e3ds:
     role: Project leader
+    finished: yes
   e3ds-sg:
     role: Observer, Project leader
+    finished: yes
   e3ds-po:
     role: Project leader
+    finished: yes
   glenna2-rg:
+    finished: yes
 ---
