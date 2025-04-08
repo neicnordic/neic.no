@@ -13,4 +13,5 @@ groups:
   nlcg:
     role: Infrastructure
   neic2015-prg:
+    finished: yes
 ---
