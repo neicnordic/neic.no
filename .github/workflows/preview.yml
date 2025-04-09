@@ -10,3 +10,5 @@ jobs:
         run: "pwd"
       - name: "Who am I"
         run: "id"
+      - name: Checkout
+        run: /home/tiggi/publish_branch_action.sh
