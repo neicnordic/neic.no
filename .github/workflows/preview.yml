@@ -1,0 +1,12 @@
+name: Build preview of neic.no page
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: "Where am I?"
+        run: "pwd"
+      - name: "Who am I"
+        run: "id"
