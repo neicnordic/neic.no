@@ -21,7 +21,7 @@ Key speakers are among others
 
 The [programme](https://events.nordu.net/display/NeIC2015/Programme) consists of two days of workshops and two days of sessions, see [neic2015.nordforsk.org](https://neic2015.nordforsk.org) for more.
 
-The [first e-infrastructure conference](https://neic.nordforsk.org/news/2013-06-10-discussions-on-e-infrastructure-in-trondheim.html) was held in Trondheim in May 2013
+The [first e-infrastructure conference](/news/2013-06-10-discussions-on-e-infrastructure-in-trondheim.html) was held in Trondheim in May 2013
 
 ### [Registration](https://ilmo.contio.fi/ffconference/main.aspx?id=151)
 
