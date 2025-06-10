@@ -19,4 +19,3 @@ The position has a term of three years and is advertised for an initial commitme
 
 Questions about the position may be directed to Joel Hedlund, NeIC BMS coordinator, tel. +46 734607126, email: <joel@nsc.liu.se>. Applications including CV should be submitted to <neic@nordforsk.org> within 1 December 2013. Applications for Project leader should include a support letter from the candidate’s home institution and preferably also from a national research- or e-infrastructure organization.
 
-[You find the announcement here](http://neic.nordforsk.org/open-position-sensitive-data)

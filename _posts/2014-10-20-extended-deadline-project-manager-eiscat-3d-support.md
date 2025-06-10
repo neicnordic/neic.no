@@ -19,7 +19,7 @@ The e-infrastructure challenges for EISCAT_3D include finding cost-efficient sta
 
 NeIC is now seeking a project manager/e-infrastructure specialist who can support the EISCAT_3D project in dealing with those e-infrastructure challenges. The ideal candidate is a self-motivated technical expert with good communication, collaboration and management skills who likes to travel. Expertise in areas like process architecture, real-time distributed computing architecture, synchronization, distributed computing and control would be a definite advantage. He/She will report to the new NeIC ENV area coordinator and is expected to have 50% of his/her time committed to lead the "Supporting EISCAT_3D" project.
 
-The position has a term of three years. Applications including CV should be submitted to <neic@nordforsk.org> within the extended deadline ***November 20th***. Questions about the position may be directed to [Gudmund Høst](mailto:gudmund.host@nordforsk.org), phone +47 95816846.
+The position has a term of three years. Applications including CV should be submitted to <neic@nordforsk.org> within the extended deadline ***November 20th 2014***. Questions about the position may be directed to [Gudmund Høst](mailto:gudmund.host@nordforsk.org), phone +47 95816846.
 
 [Full announcement text](/assets/images/news/2014-10-14-Open-position-announcement-NeIC_Support_EISCAT_3D_Project_lead_4.pdf "wikilink")
 

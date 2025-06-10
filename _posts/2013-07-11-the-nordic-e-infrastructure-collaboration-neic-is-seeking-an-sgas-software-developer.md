@@ -17,6 +17,5 @@ Previous practical experience with SGAS and its record generators is highly desi
 
 The position has a term of two years and is advertised for an initial commitment of 50% to NeIC, the remaining time being committed to his/her home institution in one of the Nordic countries.
 
-Questions about the position and applications including a short CV may be directed to Michaela Barth, Generic Area Coordinator of NeIC, tel. +46 8 790 7891, email: caela@kth.se within July 28th.
+Questions about the position and applications including a short CV may be directed to Michaela Barth, Generic Area Coordinator of NeIC, tel. +46 8 790 7891, email: caela@kth.se within July 28th 2013.
 
-[You find the announcement here](http://neic.nordforsk.org/130711OpenPositionAnnouncementSGASSoftwareDeveloper.pdf)

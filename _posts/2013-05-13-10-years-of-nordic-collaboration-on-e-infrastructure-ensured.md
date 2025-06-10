@@ -35,6 +35,6 @@ Press enquiries: Please contact Communications Adviser Linn Hoff Jensen: <linn.j
 About the Nordic e-Infrastructure Collaboration
 -----------------------------------------------
 
-[The Nordic e-Infrastructure Collaboration (NeIC)](https://neic.nordforsk.org/) is an organisation that facilitates the development of high-quality e-Infrastructure solutions in areas of joint Nordic interest. The NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.
+[The Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) is an organisation that facilitates the development of high-quality e-Infrastructure solutions in areas of joint Nordic interest. The NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries.
 
 [NordForsk](http://nordforsk.org/) is an organisation under the Nordic Council of Ministers that provides funding for Nordic research cooperation as well as advice and input on Nordic research policy.
