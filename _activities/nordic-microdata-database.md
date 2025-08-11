@@ -6,7 +6,7 @@ type: Project
 leader: antti-valkonen
 phase: In progress
 start: 2022-12-01
-end: 2024-11-30
+end: 2026-10-31
 results: N/A
 outreach: N/A
 documents:
@@ -16,6 +16,9 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/b/be/Nordic-Microdata-Database-Consortium-Agreement.pdf
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/d/dc/Nordic_Microdata_Database_-_Business_Case.pdf
+   - text: NMD1 Project End Report
+     url: https://wiki.neic.no/w/ext/img_auth.php/2/21/Microdata_Database_Project_End_Report.pdf
+     
 links:
   - url: https://wiki.neic.no/wiki/NMD
     text: External wiki
@@ -34,8 +37,8 @@ groups:
     frequency: 
   nmd-po:
     name: Project office
-    minutes:
-    frequency: Bi-weekly
+    minutes: https://wiki.neic.no/int/NMD
+    frequency: weekly
      
 ---
 ## Nordic Microdata Database
