@@ -47,14 +47,16 @@ groups:
 
 ### Background
 
-There has been important national level work within the participating universities and beyond regarding corporate microdata for decades now. A consensus has been building that this work could be done more efficiently and with broader benefits at a more international level. For example, Idar Kreutzer, CEO of Finance Norway was in 2018 assigned by the Nordic Council of Ministers to write a report: "An integrated and effective Nordic ecosystem for innovation and green growth". One of his specific recommendations was initiative no. 15: “New Nordic academic research initiative to improve policy-making in the field of risk capital and early-stage companies.” A joint Nordic research database is a necessary premise for enhanced regional policy-relevant academic research.
+In 2018, Idar Kreutzer, CEO of Finance Norway, was commissioned by the Nordic Council of Ministers to write a report on fostering innovation and green growth in the Nordic region. A key recommendation from the report was to establish a new academic research initiative to enhance policymaking in the field of  risk capital and early-stage companies.
 
-These findings were supported by the Nordic Initiative for Corporate Economics (NICE), lead by Alexander Ljungqvist and Lars Persson, and ultimately lead to the Nordic Council of Ministers in 2022 allocating DKK 1 mill. in project-funding, and in addition commissioned The Nordic e-Infrastructure Collaboration (NeIC) to facilitate the project.
+The Nordic Microdata Database (NMD) project, initiated ultimately based on  this recommendation, seeks to improve data access to support research and policy development in the Nordics. It has academic participants from Sweden, Finland, Denmark, and Norway, and has gained momentum with funding and support from the Nordic Council of Ministers and the relevant national ministries. The project's main goal is to provide researchers and eventually policy makers access to unified  Nordic corporate microdata as well as data on household finances in the future. 
+
+Currently, the project is in it's second phase and the first phase end report is accessible in the links above.
 
 
 ### Objectives
 
-The goal of the Nordic Microdata Database project is to create a one-stop service for researchers to use Nordic corporate microdata. This will enable researchers to conduct more high-quality research into policy-relevant questions in economics and finance. The indirect benefit of this is an improved reseach and policy making landscape in the Nordics. NMD will also contribute towards similar goals but regarding household and individual microdata.
+The goal of the Nordic Microdata Database project is to create a one-stop service for researchers and policy makers to use unified Nordic corporate microdata. This will enable researchers and policy makers to conduct more high-quality research and policy analysis than previously possible. The indirect benefit of this is an improved reseach and policy making landscape in the Nordics. NMD will also eventually contribute towards similar goals but regarding household and individual microdata.
 
 ### Project partners
 
