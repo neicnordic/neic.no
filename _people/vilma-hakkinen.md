@@ -7,12 +7,11 @@ country: FI
 photo: assets/images/people/vilma-hakkinen.jpeg
 email: vihakkinen@gmail.com
 phone: +35850 430 1532
-on_contract: no
+on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Administrative coordinator
-    finished: yes
+    role: Communication Coordinator
   neic2022-pc:
     role: Secretary
   neic2022-oc:
