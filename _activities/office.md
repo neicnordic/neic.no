@@ -14,7 +14,7 @@ documents:
     url: https://wiki.neic.no/wiki/Category:Policy
 groups:
   board:
-    name: Board
+    name: Strategic Committee
     description: Governance. The Nordic e-infrastructure provider organizations.
     minutes: https://wiki.neic.no/wiki/Category:Board_meeting_minutes
     frequency: Quarterly
@@ -31,8 +31,3 @@ groups:
 ---
 
 The people and teams that carry out governance, management and coordination of NeIC activities.
-
-FIND US
-
-Our address is Stensberggata 27, 0170 Oslo.  
-For a map to our building please see [here](https://neic.no/people/)

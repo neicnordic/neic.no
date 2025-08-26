@@ -4,7 +4,8 @@ include: activity
 name: NordIQuEst
 type: Project
 leader: alberto-lanzanova
-phase: In progress
+phase: finished
+finished: yes
 start: 2022-04-01
 end: 2025-03-31
 results: N/A
