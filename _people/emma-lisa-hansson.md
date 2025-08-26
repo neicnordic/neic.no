@@ -12,4 +12,6 @@ has_been_on_contract: yes
 groups:
   puhuri:
     finished: yes
+  xt:
+    role: Senior Advisor
 ---
