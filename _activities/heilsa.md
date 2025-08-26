@@ -4,7 +4,8 @@ include: activity
 name: Heilsa Tryggvedottir
 type: Project
 leader: anna-hagwall
-phase: In progress
+phase: finished
+finished: yes
 start: 2021-06-15
 end: 2024-06-14
 results: N/A
