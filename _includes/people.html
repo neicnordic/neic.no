@@ -7,13 +7,12 @@
     {% endfor %}
   {% endunless %}
 {% endfor %}
-<!--
 <section class="contact">
   <div id="map"></div>
   <script>
     var map;
     function initMap() {
-       var myLatLng = {lat: 59.921362, lng: 10.735055};
+       var myLatLng = {lat: 60.178307621997085, lng: 24.832767535549877};
       map = new google.maps.Map(document.getElementById('map'), {
         center: myLatLng,
         zoom: 17,
@@ -37,17 +36,16 @@
     <div class="container">
       <div class="col-md-9">
         <div class="row">
-          <div class="address">STENSBERGGATA 27, 0170 OSLO</div>
+          <div class="address">KEILARANTA 14, ESPOO</div>
         </div>
       </div>
       <div class="col-md-3">
         <div class="row">
-          <a href="https://goo.gl/maps/bKruMUpuCsD2" class="map-btn white-hover-btn">Go to map</a>
+          <a href="https://maps.app.goo.gl/PrFEPgediXxxRrWi9" class="map-btn white-hover-btn">Go to map</a>
         </div>
       </div>
     </div>
   </div>
--->
   <div class="container">
     <div class="contact-details-block">
       <h2>NEIC TEAM AND CONTACT</h2>
@@ -57,13 +55,12 @@
         researchers, application experts, and e-scientists,
         working at university IT-centers, and national
         e-infrastructure centers in the Nordics.
-      
-        <a class="contact-details-block-btn green-hover-btn" href="{% include baseurl %}/about/organisation/">Organisational chart</a>
       </p>
-<!--   
-      <h6>FIND US</h6>
-      <p>Find the entrance with NordForsk sign, 5<sup>th</sup> floor.</p>
--->
+
+         <div class="container">
+	
+      <div class="image-block"><img src="{% include baseurl %}/assets/images/NeIC_organisational_chart.png" alt="NeIC organisation" />
+    </div> 
     </div>
 
     <div id="app" v-cloak>
