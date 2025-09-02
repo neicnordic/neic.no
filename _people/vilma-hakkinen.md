@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Vilma Häkkinen
+name: Vilma Linnea Häkkinen
 home: <a href="https://neic.no">NeIC</a>
 country: FI
 photo: assets/images/people/vilma-hakkinen.jpeg
