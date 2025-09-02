@@ -4,7 +4,7 @@ include: activity
 name: Nordic WLCG tier-1 facility
 type: Operations
 leader: mattias-wadenstein
-phase: In operation
+phase: No longer part of NeIC
 start: 2006-01-01
 end: 2050-12-31
 results: "#results"
