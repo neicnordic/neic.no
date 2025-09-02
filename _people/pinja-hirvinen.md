@@ -11,4 +11,6 @@ on_contract: no
 has_been_on_contract: no
 groups:
   nmd: 
+    role: project member
+    finished: yes
 ---
