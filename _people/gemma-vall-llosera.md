@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Vall-llosera Gemma
+name: Vall-Llosera Gemma
 home:
 country: "SE"
 photo:
