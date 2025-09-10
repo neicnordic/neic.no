@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Ville Salmela
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: ville.salmela@csc.fi
 phone:

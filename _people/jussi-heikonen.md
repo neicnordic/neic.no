@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jussi Heikonen
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: jussi.heikonen@csc.fi
 phone:

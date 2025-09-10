@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Lisa Brogårdh
 home: <a href="https://www.ifn.se/en/">Research Institute of Industrial Economics</a>
-country: SE
+country: "SE"
 photo: 
 email: lisa.brogardh@ifn.se
 phone:

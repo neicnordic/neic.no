@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Christine Kirkpatrick
-country: US
+country: "US"
 on_contract: no
 has_been_on_contract: yes
 groups:

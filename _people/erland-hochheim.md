@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Erland Hochheim
 home: <a href="http://www.computerome.dtu.dk/">DTU</a> <a href="https://www.computerome.dk/">Computerome</a>
-country: DK
+country: "DK"
 photo: assets/images/people/Erland_Hochheim.jpg
 email: erhh@dtu.dk
 phone: "+45 40952482"

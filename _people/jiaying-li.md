@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jiaying Li
 home: <a href="https://www.nhh.no/en/</a>
-country: NO
+country: "NO"
 photo: 
 email: Jiaying.Li@nhh.no
 phone:

@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Francoise Genova
-country: FR
+country: "FR"
 groups:
   intl-adv:
 ---

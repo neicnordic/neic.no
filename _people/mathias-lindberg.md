@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Mathias Lindberg
 home: <a href="https://www.c3se.chalmers.se/">C3SE</a>
-country: SE
+country: "SE"
 photo:
 email: mathlin@chalmers.se
 phone:

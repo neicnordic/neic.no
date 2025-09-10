@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jura Tarus
 home: <a href="https://csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: jura.tarus@csc.fi
 phone:

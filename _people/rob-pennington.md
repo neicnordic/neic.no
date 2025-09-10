@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Rob Pennington
 home: <a href="https://neic.no">NeIC</a>
-country: US
+country: "US"
 photo: assets/images/people/Rob_Pennington.jpg
 email: rlpennington1@gmail.com
 phone:

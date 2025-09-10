@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Heta Koski
 home: <a href="https://csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: heta.koski@csc.fi
 phone:

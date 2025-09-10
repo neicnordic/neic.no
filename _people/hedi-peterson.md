@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Hedi Peterson
 home: <a href="https://www.etais.ee/">ETAIS</a>
-country: EE
+country: "EE"
 photo:
 email: hedi.peterson@ut.ee
 phone:

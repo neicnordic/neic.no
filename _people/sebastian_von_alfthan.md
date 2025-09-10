@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Sebastian von Alfthan
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: sebastian.von.alfthan@csc.fi
 phone:

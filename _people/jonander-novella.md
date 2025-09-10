@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jon Ander Novella
 home: <a href="https://nbis.se/">NBIS</a>
-country: SE
+country: "SE"
 photo: 
 email: jon.novella@nbis.se
 phone:

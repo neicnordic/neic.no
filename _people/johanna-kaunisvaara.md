@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Johanna Kaunisvaara
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: johanna.kaunisvaara@csc.fi
 phone:

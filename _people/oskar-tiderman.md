@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Oskar Tiderman
 home: <a href="https://www.c3se.chalmers.se">C3SE</a>
-country: SE
+country: "SE"
 photo: 
 email: oscar.tiderman@chalmers.se
 phone:

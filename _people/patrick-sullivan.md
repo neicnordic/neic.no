@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Patrick Sullivan
 home: <a href="https://www.ki.se">KI</a>
-country: SE
+country: "SE"
 photo:
 email: patrick.sullivan@ki.se
 phone:

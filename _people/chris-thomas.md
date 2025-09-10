@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Chris Thomas
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: chris.thomas@csc.fi
 phone:

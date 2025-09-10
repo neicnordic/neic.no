@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Antti Valkonen
 home: <a href="https://www.aalto.fi/en">Aalto University</a>
-country: FI
+country: "FI"
 photo: 
 email: antti.t.valkonen@aalto.fi
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Ann-Charlotte Sonnhammer
 home: <a href="http://www.snic.vr.se/">SNIC</a>
-country: SE
+country: "SE"
 photo:
 email: ann-charlotte.sonnhammer@it.uu.se
 phone:

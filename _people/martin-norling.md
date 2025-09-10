@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Martin Norling
 home: <a href="https://nbis.se/">NBIS</a>
-country: SE
+country: "SE"
 photo: 
 email: martin.norling@nbis.se
 phone:

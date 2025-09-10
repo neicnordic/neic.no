@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jon Ingi Einarsson
 home: <a href="http://www.rhnet.is/">RHnet</a>
-country: IS
+country: "IS"
 photo:
 email: jie@rhnet.is
 phone:

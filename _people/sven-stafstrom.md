@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Sven Stafström
 home: <a href="https://www.vr.se">VR</a>
-country: SE
+country: "SE"
 photo: 
 email: 
 phone:

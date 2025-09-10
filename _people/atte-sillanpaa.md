@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Atte Sillanpää
 home: <a href="https://csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: atte.sillanpaa@csc.fi
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Sæþor Líndal Jónsson
 home: <a href="http://rhi.hi.is/">RHI</a>
-country: IS
+country: "IS"
 photo:
 email: slj@hi.is
 phone:

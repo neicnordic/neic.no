@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jannika Rinnejärvi
 home: <a href="https://www.aalto.fi/en">Aalto University</a>
-country: FI
+country: "FI"
 photo: 
 email: jannika.rinnejarvi@aalto.fi
 phone:

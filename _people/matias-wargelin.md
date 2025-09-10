@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Matias Wargelin
 home: <a href="http://www.csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo: 
 email: 
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Monica Lassi
 home: <a href="http://www.lu.se/">Lund University</a>
-country: SE
+country: "SE"
 photo: assets/images/people/Monica_Lassi.jpg
 email: monica.lassi@lunarc.lu.se
 on_contract: no

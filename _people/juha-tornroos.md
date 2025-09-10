@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Juha Törnroos
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: juha.tornroos@csc.fi
 phone:

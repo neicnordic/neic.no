@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Elina Miinalainen
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: elina.miinalainen@csc.fi
 phone:

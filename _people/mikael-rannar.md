@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Mikael Rännar
 home: <a href="https://umu.se">UmU</a>
-country: SE
+country: "SE"
 photo:
 email:  mikael.rannar@umu.se
 phone:

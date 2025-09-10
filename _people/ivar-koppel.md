@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Ivar Koppel
 home: <a href="https://www.ut.ee/en">University of Tartu</a>
-country: EE
+country: "EE"
 photo:
 email: ivar.koppel@ut.ee
 phone:

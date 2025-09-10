@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Joachim Hein
 home: <a href="http://www.lunarc.lu.se/">LUNARC</a>
-country: SE
+country: "SE"
 photo:
 email: jhein@naiss.se
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Pasi Kankaanpää
 home: <a href="http://www.eurobioimaging.eu/">EuBI</a>
-country: FI
+country: "FI"
 photo:
 email: pkankaan@abo.fi
 phone:

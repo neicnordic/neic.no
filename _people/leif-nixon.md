@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Leif Nixon
 home: <a href="http://www.nixon-security.se/">Nixon Security</a>
-country: SE
+country: "SE"
 photo:
 email: contact@nixon-security.se
 phone:

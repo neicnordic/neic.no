@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Alexander Ljungqvist
 home: <a href="https://www.hhs.se/en/">SSE Stockholm School of Economics</a>
-country: SE
+country: "SE"
 photo: 
 email:
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Henric Zazzi
 home: <a href="https://www.pdc.kth.se/">PDC</a>
-country: SE
+country: "SE"
 photo: assets/images/people/henric-zazzi.jpg
 email: hzazzi@kth.se
 phone:

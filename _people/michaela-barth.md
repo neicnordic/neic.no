@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Michaela Barth
 home: <a href="https://www.pdc.kth.se">PDC</a>
-country: SE
+country: "SE"
 photo: assets/images/people/Michaela_Barth.jpg
 email: caela@kth.se
 profile: <a href="https://www.kth.se/profile/caela/">KTH Profile</a>
@@ -15,7 +15,6 @@ groups:
   xt:
     role: Executive manager
     finished: yes
-  xt:
     role: Senior Advisor
   poco-wg:
     role: Coordination

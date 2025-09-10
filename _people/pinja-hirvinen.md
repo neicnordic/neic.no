@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Pinja Hirvinen
 home: <a href="https://www.aalto.fi/en">Aalto University - School of Business</a>
-country: FI
+country: "FI"
 photo: 
 email:
 phone:

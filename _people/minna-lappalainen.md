@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Minna Lappalainen
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 groups:
   wp-leaders:
 ---

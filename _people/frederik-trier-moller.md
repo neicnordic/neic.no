@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Frederik Trier Møller
 home: <a href="https://www.ssi.dk">SSI</a>
-country: DK
+country: "DK"
 photo:
 email: frtm@ssi.dk
 phone:

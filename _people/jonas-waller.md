@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jonas Waller
 home: <a href="https://www.norden.org/en">Nordic Council of Ministers</a>
-country: Åland
+country: "FI"
 photo: 
 email: 
 phone:

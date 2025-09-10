@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Per Öster
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: per.oster@csc.fi
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Wibowo Arindrarto
 home: <a href="https://dtu.dk/">DTU</a>
-country: DK
+country: "DK"
 photo: 
 email: wibar@dtu.dk
 phone: 

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Dejan Vitlacil
 home: <a href="https://www.pdc.kth.se">PDC</a>
-country: SE
+country: "SE"
 photo: assets/images/people/dejan-vitlacil.jpg
 email: vitlacil@pdc.kth.se
 phone:

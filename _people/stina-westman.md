@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Stina Westman
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: stina.westman@csc.fi
 phone:

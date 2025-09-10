@@ -1,4 +1,7 @@
-{% assign people_sorted_by_country = site.people | sort: 'country' %}
+{% assign people_with_country = site.people | where: "country", "" %}
+{% if people_with_country.size > 0 %}
+  <!-- Shows the people that might be missing 'country' -->
+{% endif %}
 {% assign active_groups = "" %}
 {% for activity in site.activities %}
   {% unless activity.finished %}

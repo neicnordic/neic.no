@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Susanne Merz
 home: <a href="https://www.aalto.fi/en">Aalto University</a>
-country: DE
+country: "DE"
 photo: 
 email: susanne.merz@aalto.fi
 phone: 

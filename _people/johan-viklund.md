@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Johan Viklund
 home: <a href="https://nbis.se/">NBIS</a>
-country: SE
+country: "SE"
 photo: assets/images/people/johan-viklund.jpg
 email: johan.viklund@nbis.se
 phone:

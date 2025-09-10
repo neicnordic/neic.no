@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Sonia Diaz Garcia
 home: <a href="https://computerome.dtu.dk">DTU</a>
-country: DK
+country: "DK"
 photo: 
 email: 
 phone: 

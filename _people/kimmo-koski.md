@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Kimmo Koski
 home: <a href="https://www.csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: 
 phone:

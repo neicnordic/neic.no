@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Antti Pursula
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo: assets/images/people/antti-pursula.jpg
 email: antti.pursula@csc.fi
 phone:

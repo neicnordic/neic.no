@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Pavlin Mitev
 home: <a href="https://www.uppmax.uu.se">UPPMAX</a>
-country: SE
+country: "SE"
 photo: 
 email: pavlin.mitev@uppmax.uu.se
 phone:

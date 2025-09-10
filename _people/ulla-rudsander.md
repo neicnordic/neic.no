@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Ulla Rudsander
 home: <a href="https://www.ki.se">KI</a>
-country: SE
+country: "SE"
 photo:
 email: ulla.rudsander@ki.se
 phone:

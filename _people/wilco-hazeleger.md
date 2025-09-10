@@ -2,7 +2,8 @@
 layout: master
 include: person
 name: Wilco Hazeleger
-country: NL
+home: 
+country: "NL"
 groups:
   intl-adv:
 ---

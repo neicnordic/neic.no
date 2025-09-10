@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Anders Sjöström 
 home: <a href="http://www.lunarc.lu.se/">LUNARC, Lund University</a>
-country: SE
+country: "SE"
 photo:
 email: anders.sjostrom@lunarc.lu.se
 phone:

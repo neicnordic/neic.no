@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Nanjiang Shu
 home: <a href="https://nbis.se/">NBIS</a>
-country: SE
+country: "SE"
 photo: assets/images/people/Nanjiang_Shu.jpg
 email: nanjiang.shu@nbis.se
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Björn Alling
 home: <a href="https://www.naiss.se">NAISS</a>
-country: SE
+country: "SE"
 photo:
 email: bjorn.alling@liu.se
 phone:

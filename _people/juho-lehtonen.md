@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Juho Lehtonen
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: juho.lehtonen@csc.fi
 phone:

@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Aleksi Kallio
 home: <a href="http://www.csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo: 
 email: aleksi.kallio@csc.fi
 phone:

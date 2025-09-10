@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Josefine Nordling
 home: <a href="https://www.csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo: 
 email: josefine.nordling@csc.fi
 phone: "+358 503812436"

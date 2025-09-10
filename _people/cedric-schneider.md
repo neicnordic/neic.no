@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Cédric Schneider
 home: <a href="https://www.cbs.dk/en">CBS Copenhagen Business School</a>
-country: DK
+country: "DK"
 photo: 
 email:
 phone:

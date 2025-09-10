@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Christian Ulrik Søttrup
 home: <a href="http://www.nbi.dk">NBI</a>
-country: DK
+country: "DK"
 photo: assets/images/people/Christian_Soettrup.jpg
 email: soettrup@nbi.dk
 phone:

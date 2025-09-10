@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Vilma Häkkinen
 home: <a href="https://neic.no">NeIC</a>
-country: FI
+country: "FI"
 photo: assets/images/people/vilma-hakkinen.jpeg
 email: vihakkinen@gmail.com
 phone: +35850 430 1532

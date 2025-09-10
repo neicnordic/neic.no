@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Henrik Pedersen
 home: <a href="http://sdu.dk">SDU</a>
-country: DK
+country: "DK"
 photo: assets/images/people/henrik-pedersen.jpg
 email: henrik@sdu.dk
 phone:

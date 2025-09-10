@@ -1,7 +1,7 @@
 ---
 layout: master
 include: person
-name: Chow Jerry
+name: Jerry Chow
 home:
 country: "US"
 photo:

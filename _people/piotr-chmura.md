@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Piotr Chmura
 home: <a href="http://www.cpr.ku.dk/">CPR</a>
-country: DK
+country: "DK"
 photo: assets/images/people/Piotr_Jaroslaw_Chmura.jpg
 email: piotr.chmura@cpr.ku.dk
 phone:

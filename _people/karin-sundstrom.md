@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Karin Sundström
 home: <a href="https://www.ki.se">KI</a>
-country: SE
+country: "SE"
 photo:
 email: karin.sundstrom@ki.se
 phone:

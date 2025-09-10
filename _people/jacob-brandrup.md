@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Jacob Brandrup
 home: <a href="http://www.dtu.dk/">DTU</a>
-country: DK
+country: "DK"
 photo:
 email: jbran@dtu.dk
 phone:

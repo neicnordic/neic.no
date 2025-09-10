@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Joel Hedlund
 home: <a href="https://www.nsc.liu.se">NSC</a>
-country: SE
+country: "SE"
 photo: assets/images/people/joel-hedlund.jpg
 email: joel@nsc.liu.se
 phone:

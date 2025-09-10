@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Stefan Negru
 home: <a href="https://csc.fi">CSC</a>
-country: FI
+country: "FI"
 photo:
 email: stefan.negru@csc.fi
 phone:

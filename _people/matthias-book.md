@@ -3,7 +3,7 @@ layout: master
 include: person 
 name: Matthias Book 
 home: <a href="https://www.hi.is/">Háskóli_Íslands</a> 
-country: IS 
+country: "IS" 
 photo: assets/images/people/matthias-book.jpg    
 email: book@hi.is 
 phone: +354-525-4603

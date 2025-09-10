@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Lene Krøl Andersen
 home: <a href="https://computerome.dtu.dk">DTU Computerome</a>
-country: DK
+country: "DK"
 photo: assets/images/people/lene-krol-andersen.jpg
 email: lka@dtu.dk
 phone:
