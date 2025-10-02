@@ -13,9 +13,12 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Executive manager
-    finished: yes
+    role: Ex officio, Executive Manager
     role: Senior Advisor
+  coderefinery-po:
+    role: Project owner
+  coderefinery-sg:
+    role: Chair
   poco-wg:
     role: Coordination
   data-management-wg:
