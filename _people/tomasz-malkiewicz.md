@@ -54,8 +54,10 @@ groups:
     role: Project owner
   coderefinery-sg:
     role: Chair
+    finished: yes
   coderefinery-po:
     role: Project owner
+    finished: yes
   deepdive-sg:
     role: Project owner, Chair
   deepdive-po:
