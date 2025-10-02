@@ -20,4 +20,5 @@ groups:
   dellingr-sg:
     role: Observer
   xt-board:
+  coderefinery-sg:
 ---
