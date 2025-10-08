@@ -802,7 +802,7 @@ section.blue-box {
 section.blue-box .left-blue{
     width: 60%;
     float: left;
-    padding: 50px 150px 50px 0px;
+    padding: 50px 150px 20px 0px;
     background-color: #0a293b;
 }
 section.blue-box .right-blue{
