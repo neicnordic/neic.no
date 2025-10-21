@@ -11,6 +11,7 @@
   {% endunless %}
 {% endfor %}
 <section class="contact">
+<!--	
   <div id="map"></div>
   <script>
     var map;
@@ -34,7 +35,14 @@
       });
     }
   </script>
-  
+  -->
+	<div class="map-placeholder text-center py-5 my-4 border rounded bg-light">
+  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="#6c757d" class="mb-3" viewBox="0 0 16 16">
+    <path d="M8 0a5 5 0 0 0-5 5c0 4.25 5 11 5 11s5-6.75 5-11a5 5 0 0 0-5-5zM8 7a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/>
+  </svg>
+  <h5 class="text-muted mb-1">Map temporarily unavailable</h5>
+  <p class="text-secondary small mb-0">We’re updating our Google Maps integration. Please check back later.</p>
+</div>
   <div class="contact-map-box">
     <div class="container">
       <div class="col-md-9">
@@ -62,7 +70,7 @@
 
          <div class="container">
 	
-      <div class="image-block"><img src="{% include baseurl %}/assets/images/NeIC_organisational_chart.png" alt="NeIC organisation" />
+      <div class="image-block"><img src="{% include baseurl %}/assets/images/2025-10-21-Orgchart-NeIC.png" alt="NeIC organisation" />
     </div> 
     </div>
 
