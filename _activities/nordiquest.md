@@ -3,11 +3,11 @@ layout: master
 include: activity
 name: NordIQuEst
 type: Project
-leader: alberto-lanzanova
-phase: finished
+leader: ulf-tigerstedt
+phase: Phase 2 in progress
 finished: yes
 start: 2022-04-01
-end: 2025-03-31
+end: 2028-08-31
 results: N/A
 outreach: N/A
 documents:
