@@ -5,7 +5,7 @@ name: NordIQuEst
 type: Project
 leader: ulf-tigerstedt
 phase: Phase 2 in progress
-finished: yes
+finished: no
 start: 2022-04-01
 end: 2028-08-31
 results: N/A
