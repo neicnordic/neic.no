@@ -7,13 +7,9 @@ country: FI
 photo: 
 email: samantha.wittke@csc.fi
 phone:
-on_contract: no
-has_been_on_contract: yes
+on_contract: yes
+has_been_on_contract: no
 groups:
   coderefinery:
-    role: Project manager
-  coderefinery-sg: 
-    role: Project manager, Secretary
-  coderefinery-po: 
-    role: Project manager
+    role: Project leader
 ---
