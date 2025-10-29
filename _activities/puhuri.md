@@ -6,13 +6,9 @@ type: Project
 leader: jarno-laitinen
 phase: In progress
 start: 2020-06-01
-end: 2027-05-31
+end: 2028-05-31
 finished: no
 documents:
-   - text: Project Plan
-     url: https://wiki.neic.no/w/ext/img_auth.php/c/ce/Puhuri_2_Project_Plan_20220603.pdf 
-   - text: Collaboration Agreement and Project proposal 
-     url: https://wiki.neic.no/w/ext/img_auth.php/b/b7/Puhuri2-Collaboration-Agreement-3.pdf 
    - text: Terms of Reference of the Reference Group
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
    - text: Business Case
@@ -47,12 +43,12 @@ links:
 groups:
   puhuri:
     name: Project Group
-    minutes: https://wiki.neic.no/int/Puhuri 
+    minutes: Project internal drive
     frequency: The project group is havign biweekly meetings
     description: Implementation of the project work.
   puhuri-sg:
     name: Steering Group
-    minutes: https://wiki.neic.no/int/Puhuri 
+    minutes: Project's internal drive 
     frequency: Meetings 3-4 times per year
     description: Governance and priorisation decisions
   puhuri-rg:
@@ -73,7 +69,6 @@ Consortium:
 * CSC – IT Center for Science, FI
 * Sigma2, NO
 * ETAIS, EE
-* NAISS, SE
 * DeiC, DK
 Observers:
 * IT4I IT4Innovations National Supercomputing Center, CZ 
