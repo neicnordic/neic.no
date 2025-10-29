@@ -7,8 +7,8 @@ country: "SE"
 photo:
 email: kent@nsc.liu.se
 phone:
-on_contract: yes
+on_contract: false
 has_been_on_contract: yes
 groups:
-  puhuri:
+
 ---
