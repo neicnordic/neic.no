@@ -873,7 +873,7 @@ section.organisation .right-org{
     width: 40%;
     float: left;
 }
-section.organisation .right-org .image-block {    padding: 80px 0 0 30px;}
+section.organisation .right-org .image-block {    padding: 80px 0 0 0;}
 section.organisation h2{
     margin: 0 0 30px;
     color: #008c88;
