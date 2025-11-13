@@ -69,6 +69,5 @@ Consortium:
 * CSC – IT Center for Science, FI
 * Sigma2, NO
 * ETAIS, EE
-* DeiC, DK
 Observers:
 * IT4I IT4Innovations National Supercomputing Center, CZ 
