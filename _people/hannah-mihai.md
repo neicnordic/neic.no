@@ -7,8 +7,7 @@ country: "DK"
 photo:
 email: hannah.mihai@deic.dk
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: no
 groups:
-  puhuri:
 ---
