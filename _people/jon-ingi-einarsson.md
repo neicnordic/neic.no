@@ -11,6 +11,6 @@ on_contract: no
 has_been_on_contract: no
 groups:
   board:
+    finished: yes
   poco-wg:
 ---
-Board member since 2017-02-01.
