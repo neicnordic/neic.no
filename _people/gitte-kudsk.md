@@ -11,6 +11,7 @@ on_contract: no
 has_been_on_contract: no
 groups:
   board:
+    role: Chair
   provider-forum:
     finished: yes
 ---
