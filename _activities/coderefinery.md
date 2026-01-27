@@ -44,6 +44,12 @@ groups:
     description: Management
     minutes: https://wiki.neic.no/int/CodeRefinery
     frequency: bi-Weekly
+  coderefinery-team: 
+    name: Team
+    description: https://coderefinery.org/about/partners/
+    minutes: https://github.com/coderefinery/meeting-minutes/blob/main/archive.md
+    frequency: weekly
+    
 ---
 
 CodeRefinery acts as a hub for FAIR (Findable, Accessible, Interoperable, and
