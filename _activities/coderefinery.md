@@ -41,7 +41,7 @@ groups:
     frequency: 3-4 per year
   coderefinery-team: 
     name: Team
-    description: <https://coderefinery.org/about/partners/>
+    description: [Team members listed on the project's website](https://coderefinery.org/about/partners/)
     minutes: https://github.com/coderefinery/meeting-minutes/blob/main/archive.md
     frequency: weekly
   coderefinery-po:
