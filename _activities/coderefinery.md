@@ -39,16 +39,17 @@ groups:
     description: Governance
     minutes: https://drive.google.com/drive/folders/1wD_fzR94sTcqy-o8Rc1Qbl_l0HUFauHt
     frequency: 3-4 per year
+  coderefinery-team: 
+    name: Team
+    description: <https://coderefinery.org/about/partners/>
+    minutes: https://github.com/coderefinery/meeting-minutes/blob/main/archive.md
+    frequency: weekly
   coderefinery-po:
     name: Project office
     description: Management
     minutes: https://wiki.neic.no/int/CodeRefinery
     frequency: bi-Weekly
-  coderefinery-team: 
-    name: Team
-    description: https://coderefinery.org/about/partners/
-    minutes: https://github.com/coderefinery/meeting-minutes/blob/main/archive.md
-    frequency: weekly
+
     
 ---
 
