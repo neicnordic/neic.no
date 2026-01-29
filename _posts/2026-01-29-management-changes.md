@@ -13,7 +13,7 @@ Following his appointment as Interim Director of NeIC in January 2025, **Tomasz 
 >
 >The challenges the NeIC is facing remain the same: sustainability and financial continuity. Nevertheless we've recently launched new phases of the 3 NeIC projects (CodeRefinery4, Puhuri3 and NordIQuEst2) and are relatively well off for 2026.
 >
->The importance of e-infrastructures is rapidly growing in an increasing number of disciplines, such as health, climate research, and the defence sector. This creates new opportunities for multidisciplinary collaboration and resource sharing, which have been the core of NeIC activities since the beginning. Finding the Nordic initiatives is now the key for boosting innovation, development and strengthening the impact of e-infrastructure in the research community."
+>The importance of e-infrastructures is rapidly growing in an increasing number of disciplines, such as health, climate research, and the defence sector. This creates new opportunities for multidisciplinary collaboration and resource sharing, which have been the core of NeIC activities since the beginning. Developing relevant Nordic initiatives is now the key for boosting innovation, development and strengthening the impact of e-infrastructure in the research community."
 >
 > – *Tomasz Malkiewicz, Director of NeIC*
 
