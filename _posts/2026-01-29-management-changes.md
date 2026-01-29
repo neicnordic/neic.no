@@ -7,7 +7,7 @@ photo: /assets/images/latest-news-19.png
 Changes in the Executive team
 ===========================
 While NeIC continues to be hosted by CSC – IT Center for Science in 2026, several changes have taken place at the management level.
-Following his appointment as Interim Director of NeIC in January 2025, Tomasz Malkiewicz continues in the role as Director of NeIC since June 2025. The decision was made by NeIC’s Strategic Committee.
+Following his appointment as Interim Director of NeIC in January 2025, **Tomasz Malkiewicz** continues in the role as Director of NeIC since June 2025. The decision was made by NeIC’s Strategic Committee.
 
 >The existing digital research infrastructure in the Nordic and Baltic countries enables extensive cooperation with a strong Nordic foundation – such as social structures, trust and a common historical background.
 >
@@ -18,9 +18,10 @@ Following his appointment as Interim Director of NeIC in January 2025, Tomasz Ma
 > – Tomasz Malkiewicz, Director of NeIC
 
 The Executive Team, led by the Director, oversees NeIC’s day-to-day operations and project portfolio. In 2026, the team consists of three Senior Advisors supporting the Director:
-* Abdulrahman Azab, Senior Advisor, Project Owner of Puhuri3
-* Michaela Barth, Senior Advisor, Project Owner of NordIQuEst2
-* Vilma Häkkinen, Senior Advisor, Project Owner of CodeRefinery4 (starting in March)
+* **Abdulrahman Azab**, Senior Advisor, Project Owner of Puhuri3
+* **Michaela Barth**, Senior Advisor, Project Owner of NordIQuEst2
+* **Vilma Häkkinen**, Senior Advisor, Project Owner of CodeRefinery4 (starting in March)
 
 <p align="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/2601290-Orgchart_NeIC.jpeg" class="center"> </p>
+<p align="center"><i>Organisational chart for NeIC management</i></p>
