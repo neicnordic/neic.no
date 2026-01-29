@@ -20,7 +20,7 @@ Following his appointment as Interim Director of NeIC in January 2025, Tomasz Ma
 The Executive Team, led by the Director, oversees NeIC’s day-to-day operations and project portfolio. In 2026, the team consists of three Senior Advisors supporting the Director:
 * Abdulrahman Azab, Senior Advisor, Project Owner of Puhuri3
 * Michaela Barth, Senior Advisor, Project Owner of NordIQuEst2
-* Vilma Häkkinen, Senior Advisor, Project Owner of CodeRefinery4 (starting from early March)
+* Vilma Häkkinen, Senior Advisor, Project Owner of CodeRefinery4 (starting in March)
 
 <p align="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/2601290-Orgchart_NeIC.jpeg" class="center"> </p>
