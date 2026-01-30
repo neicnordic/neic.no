@@ -9,7 +9,7 @@ finished: no
 start: 2022-04-01
 end: 2028-08-31
 results: N/A
-outreach: https://www.linkedin.com/company/nordiques
+outreach: https://www.linkedin.com/company/nordiquest
 documents:
   - text: Final Report phase 1
     url: https://wiki.neic.no/w/ext/img_auth.php/a/a9/NordIQuEst_Final_report.pdf 
