@@ -14,4 +14,9 @@ groups:
     role: Tier-1 Operations
     finished: yes
   nordiquest:
+    role: Project manager
+  nordiquest-po:
+    role: Project manager
+  nordiquest-sg:
+    role: Secretary
 ---
