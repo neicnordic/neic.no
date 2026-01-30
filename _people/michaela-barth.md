@@ -20,7 +20,7 @@ groups:
   coderefinery-sg:
     role: Chair
   nordiquest-sg:
-    role: Project owner
+    role: Chair
   nordiquest-po:
     role: Project owner
   poco-wg:
