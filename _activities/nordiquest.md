@@ -9,17 +9,22 @@ finished: no
 start: 2022-04-01
 end: 2028-08-31
 results: N/A
-outreach: N/A
+outreach: https://www.linkedin.com/company/nordiques
 documents:
+  - text: Final Report phase 1
+    url: https://wiki.neic.no/w/ext/img_auth.php/a/a9/NordIQuEst_Final_report.pdf 
 links:
   - url: https://nordiquest.net
     text: Web
     description: The project website
+  - url: https://wiki.neic.no/int/Nordiquest
+    text: Internal wiki
+    description: Internal working documents.
 groups:
   nordiquest:
     name: Team
     minutes: 
-    frequency: 
+    frequency: bi-weekly
   nordiquest-sg:
     name: Steering Group
     minutes: 
@@ -31,8 +36,8 @@ groups:
     frequency: 
   nordiquest-po:
     name: Project office
-    minutes:
-    frequency: 
+    minutes: https://wiki.neic.no/int/Category:NordIQuEst_management_meetings
+    frequency: weekly
      
 ---
 ## Nordic-Estonian Quantum Computing e-Infrastructure Quest - NordIQuEst
