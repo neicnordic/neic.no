@@ -19,6 +19,10 @@ groups:
     role: Project owner
   coderefinery-sg:
     role: Chair
+  nordiquest-sg:
+    role: Project owner
+  nordiquest-po:
+    role: Project owner
   poco-wg:
     role: Coordination
   data-management-wg:
