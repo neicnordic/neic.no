@@ -79,8 +79,10 @@ groups:
     role: Chair
   nordiquest-sg:
     role: Project owner
+    finished: yes
   nordiquest-po:
     role: Project owner
+    finished: yes
 ---
 Tomasz Malkiewicz is the Director of NeIC, and is employed at CSC - IT Center for Science Ltd. in Espoo, Finland.
 
