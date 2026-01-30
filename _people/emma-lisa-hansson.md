@@ -7,11 +7,12 @@ country: "SE"
 photo: assets/images/people/Emma-Lisa_Hansson.jpg
 email: emma-lisa.hansson@lth.lu.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   puhuri:
     finished: yes
   xt:
     role: Senior Advisor
+    finished: yes
 ---
