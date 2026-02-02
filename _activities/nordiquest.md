@@ -50,7 +50,7 @@ Phase 1 of the NordIQuEst project has been a pioneer in the European landscape, 
 
 During phase 2 emphasis will be put on building upon the previously created public application library by maintaining and expanding its algorithms, add examples, as well as covering more Quantum resources. This will go hand-in-hand with the continued efforts to make Quantum computing available throughout the Nordics. Starting with the available Quantum resources Helmi, VLQ, WACQT 25Qubit, Q20 and Magne the aim is to encourage software installations on all connected Nordic HPC resources which simplify connecting to these quantum computers. This increased accessibility from a user point of view will help researchers to smoothly integrate high-end Quantum resources into their computational workflows and again increase the uptake of Quantum technology in a wider range of research communities. Part of connecting the resources will be demonstrating the application of the previously developed algorithms. 
 
-Another big focus in NordIQuEst phase 2 will again be training and knowledge exchange. This will amongst other efforts include tutorial and demo contributions to the now well-established yearly Quantum Autumn School (arranged by ENCCS).
+Another big focus in NordIQuEst phase 2 will once more be training and knowledge exchange. This will amongst other efforts include tutorial and demo contributions to the now well-established yearly Quantum Autumn School (arranged by ENCCS).
 As a completely new endeavour NordIQuEst 2 will be looking into developing a set of metrics measuring performance and usability, allowing the possibility for a more objective evaluation of the performance of locally available academic Quantum resources.
 
 ### Project partners
@@ -62,7 +62,7 @@ As a completely new endeavour NordIQuEst 2 will be looking into developing a set
 * Simula Research Laboratory, NO
 * VTT Technical Research Centre of Finland, FI
 
-### Previous project partners
+### Previous project partners during Phase 1
 
 * DTU Technical University of Denmark, DK
 * University of Tartu, EE
