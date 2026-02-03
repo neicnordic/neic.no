@@ -73,37 +73,66 @@
       <div class="image-block"><img src="{% include baseurl %}/assets/images/260202-Orgchart.jpeg" alt="NeIC organisation" />
     </div> 
     </div>
+    <div class="team">
 
-    <div id="app" v-cloak>
-      <div class="team">
-        <div class="team-nav-bar">
+  <div class="team-nav-bar">
+    <div class="left-bar">
+      <p class="c-head">The Team</p>
+    </div>
 
-          <div class="left-bar">
-            <p class="c-head">The Team</p>
-          </div>
-          <div class="right-bar">
-            <form>
-              <div class="form-group">
-                <label for="sel1">Filter by:</label>
-                <select v-model="people_filter" class="form-control custom" id="sel1">
-                  <option>All involved</option>
-                  <option>Staff</option>
-                  <option>Former staff</option>
-                  <option>Everybody</option>
-                </select>
-                <div class="clearfix"></div>
-              </div>
-            </form>
-          </div>
+    <div class="right-bar">
+      <label for="people-filter">Filter by:</label>
+      <select id="people-filter" class="form-control custom">
+        <option value="all">Everybody</option>
+        <option value="staff">Staff</option>
+        <option value="former">Former staff</option>
+      </select>
+    </div>
+
+    <div class="clearfix"></div>
+  </div>
+
+  {% include noscript.html %}
+
+  <div class="team-list-block">
+    <div class="team-columns">
+      <ul>
+        {% assign previous_country = "" %}
+        {% assign people_sorted = site.people | sort: "name" | sort: "country" %}
+
+        {% for person in people_sorted %}
+          {% unless person.country == previous_country %}
+            {% assign previous_country = person.country %}
+            <h4>{{ person.country }}</h4>
+          {% endunless %}
+
+          <li
+            data-staff="{{ person.on_contract }}"
+            data-former="{{ person.has_been_on_contract }}"
+          >
+            <div class="left-text">
+              {% if person.url %}
+                <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
+              {% else %}
+                {{ person.name }}
+              {% endif %}
+            </div>
+            <div class="right-text">
+              {{ person.home }}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</div>
           <div class="clearfix"></div>
         </div>
 
 	{% include noscript.html %}
 	<div class="team-list-block">
-  <div class="row">
-
-    <div class="col-md-6">
-      <div class="left-team">
+  <div class="team-columns">
         <ul>
           {% assign previous_country = "" %}
           {% assign country_count = 0 %}
@@ -115,19 +144,15 @@
               {% assign country_count = country_count | plus: 1 %}
 
               {% if country_count == 4 %}
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-md-6">
-              <div class="right-team">
-                <ul>
               {% endif %}
 
               <h4>{{ person.country }}</h4>
             {% endunless %}
 
-            <li>
+            <li
+  			data-staff="{{ person.on_contract }}"
+  			data-former="{{ person.has_been_on_contract }}"
+				>
               <div class="left-text">
                 {% if person.url %}
                   <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
@@ -148,7 +173,7 @@
   </div>
 </div>
 	  
-<!-- Commenting out dead Vue 
+{% comment %}
         <!-- only displayed before compiling -->
         <span class="v-cloak--inline">loading data ...</span>
 
@@ -309,8 +334,25 @@
             <div class="clearfix"></div>
             </div>
           </div>
-        </span>  </div> -->
+        </span>  </div> 
+	{% endcomment %}
 
       </div>
   </div>
 </section>
+<script>
+  const filter = document.getElementById("people-filter");
+
+  filter.addEventListener("change", () => {
+    const value = filter.value;
+    document.querySelectorAll(".team-list-block li").forEach(li => {
+      if (value === "all") {
+        li.style.display = "";
+      } else if (value === "staff") {
+        li.style.display = li.dataset.staff === "true" ? "" : "none";
+      } else if (value === "former") {
+        li.style.display = li.dataset.former === "true" ? "" : "none";
+      }
+    });
+  });
+</script>
