@@ -298,8 +298,10 @@
 <script>
   const filter = document.getElementById("people-filter");
 
-  filter.addEventListener("change", () => {
+  function updatePeopleList() {
     const value = filter.value;
+
+    // First, show/hide each person
     document.querySelectorAll(".team-list-block li").forEach(li => {
       if (value === "all") {
         li.style.display = "";
@@ -309,5 +311,28 @@
         li.style.display = li.dataset.former === "true" ? "" : "none";
       }
     });
-  });
+
+    // Now, show/hide country headers based on visible people
+    document.querySelectorAll(".team-list-block h4").forEach(header => {
+      // Select all <li> following this header until the next <h4>
+      let next = header.nextElementSibling;
+      let hasVisiblePerson = false;
+      while (next && next.tagName.toLowerCase() !== "h4") {
+        if (next.tagName.toLowerCase() === "li" && next.style.display !== "none") {
+          hasVisiblePerson = true;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+
+      // Hide the header if no visible people under it
+      header.style.display = hasVisiblePerson ? "" : "none";
+    });
+  }
+
+  // Run when filter changes
+  filter.addEventListener("change", updatePeopleList);
+
+  // Run once on page load to ensure headers match default filter
+  updatePeopleList();
 </script>
