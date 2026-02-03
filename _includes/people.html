@@ -112,9 +112,7 @@
           >
             <div class="left-text">
               {% if person.url %}
-                <a href="{{ '/people/' | append: person.path | remove: '_people/' | remove: '.md' | relative_url }}">
-  				{{ person.name }}
-				</a>
+                <a href="{{ person.url | absolute_url }}">{{ person.name }}</a>
               {% else %}
                 {{ person.name }}
               {% endif %}
