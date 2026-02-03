@@ -2251,7 +2251,7 @@ section.contact .team .team-list-block h4 {
     font-family: 'Roboto', sans-serif;
     text-align: left;
     font-size: 20px;
-    color: #000;
+    color: #000 !important;        /* Force black headers */
     letter-spacing: 2px;
     break-inside: avoid; /* keep headers with first person in column */
 }
@@ -2262,15 +2262,15 @@ section.contact .team .team-list-block h4:first-child {
 }
 
 /* List items: two columns */
-section.contact .team .team-columns ul {
-    column-count: 2;
+section.contact .team .team-list-block .team-columns ul {
+    column-count: 2 !important;   /* Force two columns */
     column-gap: 3rem;
     list-style: none;
     padding-left: 0;
 }
 
 /* Avoid breaking items across columns */
-section.contact .team-columns li {
+section.contact .team .team-list-block .team-columns li {
     break-inside: avoid;
     margin-bottom: 5px;
     font-family: 'Roboto', sans-serif;
@@ -2301,7 +2301,7 @@ section.contact .team .team-list-block li:after {
 
 /* Links in list items: black but still clickable */
 section.contact .team .team-list-block li a {
-    color: #000;
+    color: #000 !important;       /* Force black links */
     text-decoration: none;
 }
 
