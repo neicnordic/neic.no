@@ -2252,6 +2252,14 @@ section.contact .team .team-list-block h4{
     color: #000;
     letter-spacing: 2px;
 }
+section.contact .team .team-columns ul {
+  column-count: 2;
+  column-gap: 3rem;
+}
+section.contact .team-columns h4,
+section.contact .team-columns li {
+  break-inside: avoid;
+}
 section.contact .team .team-list-block .left-team {padding-right: 50px;}
 section.contact .team .team-list-block .right-team {padding-left: 50px;}
 section.contact .team .team-list-block ul{
