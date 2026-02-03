@@ -99,7 +99,51 @@
         </div>
 
 	{% include noscript.html %}
+	<div class="team-list-block">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="left-team">
+        <ul>
+          {% assign previous_country = "" %}
+          {% assign country_count = 0 %}
 
+          {% for person in site.data.people %}
+            {% unless person.country == previous_country %}
+              {% assign previous_country = person.country %}
+              {% assign country_count = country_count | plus: 1 %}
+
+              {% if country_count == 4 %}
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="right-team">
+                <ul>
+              {% endif %}
+
+              <h4>{{ person.country }}</h4>
+            {% endunless %}
+
+            <li>
+              <div class="left-text">
+                {% if person.url %}
+                  <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
+                {% else %}
+                  {{ person.name }}
+                {% endif %}
+              </div>
+              <div class="right-text">
+                {{ person.home }}
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+	  
+<!-- Commenting out dead Vue 
         <!-- only displayed before compiling -->
         <span class="v-cloak--inline">loading data ...</span>
 
@@ -255,12 +299,12 @@
                   </div>
                 </div>
               </div>
-            </div>
-
+          
+			  
             <div class="clearfix"></div>
             </div>
           </div>
-        </span>
+        </span>  </div> -->
 
       </div>
   </div>
