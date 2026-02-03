@@ -101,13 +101,15 @@
 	{% include noscript.html %}
 	<div class="team-list-block">
   <div class="row">
+
     <div class="col-md-6">
       <div class="left-team">
         <ul>
           {% assign previous_country = "" %}
           {% assign country_count = 0 %}
+          {% assign people_sorted = site.people | sort: "name" | sort: "country" %}
 
-          {% for person in site.data.people %}
+          {% for person in people_sorted %}
             {% unless person.country == previous_country %}
               {% assign previous_country = person.country %}
               {% assign country_count = country_count | plus: 1 %}
@@ -116,6 +118,7 @@
                 </ul>
               </div>
             </div>
+
             <div class="col-md-6">
               <div class="right-team">
                 <ul>
@@ -137,9 +140,11 @@
               </div>
             </li>
           {% endfor %}
+
         </ul>
       </div>
     </div>
+
   </div>
 </div>
 	  
