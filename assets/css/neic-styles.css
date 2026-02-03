@@ -2238,11 +2238,13 @@ section.contact .team .contact-person .contact-person-data .head-p{    text-tran
     margin: 35px 0 0;
     letter-spacing: 2px;}
 section.contact .team .contact-person .contact-person-data hr{border-top: 2px solid #a1a1a1;}
+/* Container padding for the team list */
 section.contact .team .team-list-block {
-    padding: 20px 0px;
+    padding: 20px 0;
 }
-section.contact .team .team-list-block h4:first-child {margin: 0 0 5px;}
-section.contact .team .team-list-block h4{
+
+/* Country headers */
+section.contact .team .team-list-block h4 {
     margin: 30px 0 5px;
     text-transform: uppercase;
     font-weight: 700;
@@ -2251,39 +2253,60 @@ section.contact .team .team-list-block h4{
     font-size: 20px;
     color: #000;
     letter-spacing: 2px;
+    break-inside: avoid; /* keep headers with first person in column */
 }
+
+/* First header smaller top margin */
+section.contact .team .team-list-block h4:first-child {
+    margin-top: 0;
+}
+
+/* List items: two columns */
 section.contact .team .team-columns ul {
-  column-count: 2;
-  column-gap: 3rem;
+    column-count: 2;
+    column-gap: 3rem;
+    list-style: none;
+    padding-left: 0;
 }
-section.contact .team-columns h4,
+
+/* Avoid breaking items across columns */
 section.contact .team-columns li {
-  break-inside: avoid;
-}
-section.contact .team .team-list-block .left-team {padding-right: 50px;}
-section.contact .team .team-list-block .right-team {padding-left: 50px;}
-section.contact .team .team-list-block ul{
-    list-style-type: none;
-    -webkit-padding-start: 0px;
-}
-section.contact .team .team-list-block li{
-    display: block;
-    font-weight: 400;
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 1px;
-    font-size: 16px;
+    break-inside: avoid;
     margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 1px;
 }
-section.contact .team .team-list-block li:after {content:"";clear:both;display:block;}
-section.contact .team .team-list-block li .left-text{
+
+/* Left / right text inside each item */
+section.contact .team .team-list-block li .left-text {
     float: left;
     width: 65%;
     text-align: left;
 }
-section.contact .team .team-list-block li .right-text{
+
+section.contact .team .team-list-block li .right-text {
     float: left;
     width: 35%;
     text-align: left;
+}
+
+/* Clear floats for each list item */
+section.contact .team .team-list-block li:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+/* Links in list items: black but still clickable */
+section.contact .team .team-list-block li a {
+    color: #000;
+    text-decoration: none;
+}
+
+section.contact .team .team-list-block li a:hover {
+    text-decoration: underline;
 }
 .black-hover-btn:hover {background: #000;color: #fff!important;transition: 0.5s all; }
 .white-hover-btn:hover {background: #fff;color: #000!important;transition: 0.5s all;}
