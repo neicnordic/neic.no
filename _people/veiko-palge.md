@@ -7,8 +7,9 @@ country: "EE"
 photo:
 email: veiko.palge@ut.ee
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nordiquest:
+    finished: yes
 ---
