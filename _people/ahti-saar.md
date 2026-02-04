@@ -15,6 +15,8 @@ groups:
   puhuri:
   neic2022-oc:
   nordiquest:
+    finished: yes
   nordiquest-sg:
+    finished: yes
   provider-forum:
 ---
