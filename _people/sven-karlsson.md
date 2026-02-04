@@ -7,9 +7,11 @@ country: "DK"
 photo: 
 email: svea@dtu.dk
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nordiquest:
+    finished: yes
   nordiquest-sg:
+    finished: yes
 ---
