@@ -17,4 +17,5 @@ groups:
     role: Hackathon organizer
   wp-leaders:
   nordiquest:
+    finished: yes
 ---
