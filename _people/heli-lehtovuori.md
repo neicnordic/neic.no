@@ -11,5 +11,5 @@ on_contract: yes
 has_been_on_contract: no
 groups:
   xt:
-    role: Administrative Coordinator
+    role: Financial Coordinator
 ---
