@@ -11,7 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Communication Coordinator
+    role: Senior Advisor
   neic2022-pc:
     role: Secretary
   neic2022-oc:
