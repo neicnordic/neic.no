@@ -27,12 +27,11 @@ groups:
     frequency: bi-weekly
   nordiquest-sg:
     name: Steering Group
-    minutes: 
+    minutes: https://wiki.neic.no/wiki/Category:NordIQuEst_steering_group_meetings
     frequency: 
   nordiquest-rg:
     name: Reference Group
-    text: To be named.
-    minutes: 
+    minutes: https://wiki.neic.no/wiki/Nordiquest_Reference_Group
     frequency: 
   nordiquest-po:
     name: Project office
