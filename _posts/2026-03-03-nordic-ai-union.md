@@ -12,7 +12,7 @@ NAU maps existing and missing innovation support systems, regulatory frameworks,
 
 Emphasizing a joint approach and seamlessness, the pre-study brings together important stakeholders, such as AI innovators, AI accelerators, national regulators, and EU-level entities, in workshops. First of the four workshops was held in Estonia in January 2026, and the following three are to be held in the coming months. Findings will be reported back to the Nordic Council of Ministers by May 2026.
 
-– In creating a Nordic-Baltic AI ecosystem, it is important to give all key stakeholders – companies, support organizations (EDIH, AI Factory, TEF, Data Spaces, etc.), public actors, financiers and authorities – the opportunity to get their voice heard, and the NAU project is exactly for that, says **Altti Lagstedt**, the project leader from Haaga-Helia.
+– In creating a Nordic-Baltic AI ecosystem, it is important to give all key stakeholders – companies, support organizations (EDIH, AI Factory, TEF, Data Spaces, etc.), public actors, financiers and authorities – the opportunity to get their voice heard, and the NAU project is exactly for that, says **Altti Lagstedt**, the project leader from Haaga-Helia University of Applied Sciences.
 
 <p align="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/NAU-workshop-jan26.png"> </p>
