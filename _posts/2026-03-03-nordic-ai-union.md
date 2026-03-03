@@ -1,7 +1,7 @@
 ---
 title: "Joining forces in developing AI ecosystem: Nordic AI Union"
-summary: NeIC is taking part in an initiative investigating how promising AI solutions can be promoted through Nordic-Baltic cooperation and by developing the AI innovation ecosystem. The Nordic AI Union (NAU) pre-study is funded by the Nordic Council of Ministers, and findings will be reported by May 2026.
-photo: /assets/images/latest-news-15.png
+summary: NeIC is taking part in an initiative investigating how promising AI solutions can be promoted through Nordic-Baltic cooperation and by developing the AI innovation ecosystem. The Nordic AI Union (NAU) pre-study is funded by the Nordic Council of Ministers.
+photo: /assets/images/latest-news-13.png
 ---
 
 Joining forces in developing AI ecosystem: Nordic AI Union
