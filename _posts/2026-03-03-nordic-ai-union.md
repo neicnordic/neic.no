@@ -18,4 +18,4 @@ Emphasizing a joint approach and seamlessness, the pre-study brings together imp
 <img class="normal" src="{% include baseurl %}/assets/images/news/NAU-workshop-jan26.png"> </p>
 <p align="center"><i>Tomasz Malkiewicz, the Director of NeIC, presenting at the first NAU workshop in Estonia.</i></p>
 
-Read more on Nordic AI Union on [Haaga-Helia’s website](https://www.haaga-helia.fi/en/rdi-projects/nordic-ai-union). 
+Read more about the pre-study on [Haaga-Helia’s website](https://www.haaga-helia.fi/en/rdi-projects/nordic-ai-union). 
