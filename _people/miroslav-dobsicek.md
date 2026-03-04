@@ -7,9 +7,10 @@ country: "SE"
 photo:
 email: dobsicek@chalmers.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   nordiquest:
   nordiquest-sg:
+    finished: yes
 ---
