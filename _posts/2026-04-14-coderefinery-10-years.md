@@ -1,13 +1,15 @@
 ---
 title: 10 years of helping researchers write better code
 summary: Since 2016, NeIC’s CodeRefinery project has helped thousands of students and researchers learn modern software development practices. In 2026, the project celebrates its 10-year anniversary. 
-photo: /assets/images/latest-news-31.png
+photo: /assets/images/CodeRefinery-10-years.png
 ---
 
 10 years of helping researchers write better code
 ===========================
 
-In 2026, one of NeIC’s most widely recognised projects celebrates its 10-year anniversary. Since it was launched in 2016, **CodeRefinery** has helped thousands of students and researchers across the Nordics learn practical software development skills – from version control and collaborative coding to reproducible research workflows.
+In 2026, one of NeIC’s most widely recognised projects celebrates its 10-year anniversary.  
+
+Since it was launched in 2016, [**CodeRefinery**](https://coderefinery.org) has helped thousands of students and researchers across the Nordics learn practical software development skills – from version control and collaborative coding to reproducible research workflows.
 
 The project’s goal has always been simple: help researchers write better code and work more efficiently with software and data.
 
