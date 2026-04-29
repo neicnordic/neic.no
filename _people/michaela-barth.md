@@ -2,7 +2,7 @@
 layout: master
 include: person
 name: Michaela Barth
-home: <a href="https://www.pdc.kth.se">PDC</a>
+home: <a href="https://www.kth.se/kcsc">KTH, KCSC</a>
 country: "SE"
 photo: assets/images/people/Michaela_Barth.jpg
 email: caela@kth.se
