@@ -12,8 +12,14 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Senior Advisor
+  coderefinery-po:
+    role: Project owner
+  coderefinery-sg:
+    role: Chair
   neic2022-pc:
     role: Secretary
+    finished: yes
   neic2022-oc:
     role: Conference Manager
+    finished: yes
 ---
