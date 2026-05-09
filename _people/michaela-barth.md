@@ -17,8 +17,10 @@ groups:
     role: Senior Advisor
   coderefinery-po:
     role: Project owner
+    finished: yes
   coderefinery-sg:
     role: Chair
+    finished: yes
   nordiquest-sg:
     role: Chair
   nordiquest-po:
