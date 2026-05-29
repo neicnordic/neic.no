@@ -15,13 +15,13 @@ Research institutions often strive for data sovereignty. This is done by ensurin
 
 The Nordic Data Stewardship Network (NDSN) is a collaborative initiative aimed at strengthening data stewardship across the Nordic countries, enforcing it as a recognised profession and increasing skills that are relevant in managing data. The initiative was established in 2025 to fill the gap after the end of Skills4EOSC and is hosted by Datice, the University of Iceland's data service and archive for Icelandic research data. In recognition of its history in advocating the FAIR principles through training, as host of the Nordic-Baltic FAIR data forum, and after soliciting two reports on the topic, NeIC participates in the steering of the initiative. 
 
-[You can read more about the network here.](https://datice.is/en/nordic-data-stewardship-network)  
+[You can read more about NDSN here.](https://datice.is/en/nordic-data-stewardship-network)  
 
 ### Advancing common goals: NDSN Hybrid Seminar
 
 The first NDSN Hybrid Seminar was co-organised by CSC and NeIC in Espoo on 6 May 2026. Of the 117 registered participants, some 40 attended on-site. A wide range of titles were represented among the speakers as well as the audience, showcasing exactly how efficiently the network brings together experts with varying backgrounds but a shared interest in managing data. Before this seminar, NDSN secured a foothold by hosting regular Data Management Plan online meet-ups and a collaborative online workshop with the RDA Data Steward Career Tracks Working Group.
 
-The first hybrid seminar aimed at strengthening connections within the Nordic Data Stewardship Network, and at consolidating ideas on shaping the future of data stewardship. In addition to enlightening keynotes and parallel workshops, the programme included a session on NeIC’s experiences regarding training data stewardship. The presentation was given by Senior Advisors Abdulrahman Azab and Michaela Barth, both of whom have greatly contributed to NeIC’s efforts in this field. Their presentation concluded with several practical tips on how NDSN can carry on and enhance this work. 
+The first hybrid seminar aimed at strengthening connections within the Nordic Data Stewardship Network, and at consolidating ideas on shaping the future of data stewardship. In addition to enlightening keynotes and parallel workshops, the programme included a session on NeIC’s experiences regarding training data stewardship. The presentation was given by Senior Advisors **Abdulrahman Azab** and **Michaela Barth**, both of whom have greatly contributed to NeIC’s efforts in this field. Their presentation concluded with several practical tips on how NDSN can carry on and enhance this work. 
 
 [All presentations and a full summary of the event can be accessed here.](https://kannu.csc.fi/s/yTC7MXtCQ6HbjfG?dir=/&editing=false&openfile=true)
 
