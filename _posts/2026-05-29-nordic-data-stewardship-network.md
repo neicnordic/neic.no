@@ -1,6 +1,6 @@
 ---
-title: FAIR together: The Nordic Data Stewardship Network
-summary: NDSN is a collaborative initiative to strengthen data stewardship across the Nordic countries. NeIC, with its extensive history of contributing to several related initiatives, participates in the steering of the network and co-organised an event in May. 
+title: "FAIR together: The Nordic Data Stewardship Network"
+summary: "NDSN is a collaborative initiative to strengthen data stewardship across the Nordic countries. NeIC, with its extensive history of contributing to several related initiatives, participates in the steering of the network and co-organised an event in May." 
 photo: /assets/images/latest-news-78.png
 ---
 
