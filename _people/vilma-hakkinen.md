@@ -15,7 +15,7 @@ groups:
   coderefinery-po:
     role: Project owner
   coderefinery-sg:
-    role: Chair
+    role: Project owner, Chair
   neic2022-pc:
     role: Secretary
     finished: yes
