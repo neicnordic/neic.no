@@ -2328,6 +2328,15 @@ a[href^="https://www.google.com/maps"] {
 .contact-person-data .top {margin-top: 15px!important;}
 .read-more-block {overflow: hidden;}
 section.green-box-block-about .green-box a.btn span {display: none;}
+.about-video {
+    margin: 20px 0;
+}
+.about-video iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    display: block;
+}
 video.bg-video {
     -webkit-transform: translateX(-50%) translateY(-50%);
     -moz-transform: translateX(-50%) translateY(-50%);
