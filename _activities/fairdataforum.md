@@ -5,6 +5,7 @@ name: FAIR Data Forum
 type: NeIC Forum
 leader: 
 start: 2023-01-01
+finished: yes
 results: N/A
 outreach: N/A
 documents:

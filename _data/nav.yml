@@ -9,6 +9,8 @@ main:
         text: 'Publications'
   - url: '/activities/'
     text: 'Activities'
+  - url: '/forums/'
+    text: 'Forums'
   - url: '/news/'
     text: 'News'
   - url: '/services/'

@@ -5,6 +5,7 @@ name: Expert Network for Nordic and EU Collaboration
 type: NeIC Forum
 leader: 
 start: 2022-10-01
+finished: yes
 results: N/A
 outreach: N/A
 documents:

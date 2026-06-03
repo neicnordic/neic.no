@@ -1,0 +1,27 @@
+<section class="single-pagebanner" style="background-image: url({% include baseurl %}/assets/images/affiliates-banner.jpg);">
+</section>
+
+<section class="affiliate">
+      <div class="container">
+              <div class="row" style="position: relative">
+              <div class="col-md-7" style="position: static;">
+                      <div class="content">
+                      <h2>NeIC Forums</h2>
+		      <p>
+                        NeIC Forums bring together experts from across the Nordic-Baltic region to address common challenges in research e-infrastructure. The forums provide dedicated platforms for professionals working in areas of shared interest, identified together with NeIC partners. Participants exchange experiences, share solutions, and collaborate with peers across the Nordic-Baltic region. </p><br>
+                        <p>By bringing together the right expertise around common challenges, the forums help organisations avoid duplicating work, make better use of existing knowledge and resources, and accelerate the development of services for the research community.</p>			
+                      </div>
+                </div>
+                <div class="col-md-5">
+
+                        <ul class="linl-list">
+                        {% for forum in site.forums %}
+                          {% if forum.finished %}{% continue %}{% endif %}
+                          {% if forum.hide-on-frontpage %}{% continue %}{% endif %}
+                          <li><a href="{% include baseurl %}{{ forum.url }}">{{ forum.name }}</a></li>
+                        {% endfor %}
+                        </ul>
+                </div>
+                </div>
+        </div>
+</section>

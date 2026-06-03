@@ -1,8 +1,8 @@
 ---
 layout: master
-include: activity
+include: forum
 name: Sensitive Data Forum
-type: NeIC Forum
+type: Forum
 leader: 
 start: 2022-12-01
 results: N/A
