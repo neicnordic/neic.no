@@ -16,6 +16,14 @@ groups:
     role: Project owner
   coderefinery-sg:
     role: Project owner, Chair
+  nrse-coordinators:
+    role: Coordinator
+  nsc-coordinators:
+    role: Coordinator
+  sensitivedata-coordinators:
+    role: Deputy
+  transparency-coordinators:
+    role: Deputy
   neic2022-pc:
     role: Secretary
     finished: yes

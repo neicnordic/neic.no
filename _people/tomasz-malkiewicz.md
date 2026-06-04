@@ -15,6 +15,12 @@ groups:
   provider-forum:
     role: Secretary
     finished: yes
+  security-coordinators:
+    role: Coordinator
+  storage-coordinators:
+    role: Coordinator
+  upskill-coordinators:
+    role: Coordinator
   nmd-sg:
     role: Project owner, Chair
   nmd-po: 

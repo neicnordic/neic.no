@@ -21,6 +21,16 @@ groups:
   coderefinery-sg:
     role: Chair
     finished: yes
+  transparency-coordinators:
+    role: Coordinator
+  nsc-coordinators:
+    role: Deputy
+  nrse-coordinators: 
+    role: Deputy
+  storage-coordinators:
+    role: Deputy
+  upskill-coordinators:
+    role: Deputy
   nordiquest-sg:
     role: Chair
   nordiquest-po:

@@ -14,6 +14,10 @@ groups:
     role: Senior Advisor
   sdf-coordinators:
     role: Technical Coordinator
+  sensitivedata-coordinators:
+    role: Coordinator
+  security-coordinators:
+    role: Deputy
   fdf-coordinators:
     role: Community Coordinator
   nenec-coordinators:
