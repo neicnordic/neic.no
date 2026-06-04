@@ -4,28 +4,19 @@ include: forum
 name: Sensitive Data Forum
 type: Forum
 leader: 
-start: 2022-12-01
+start: 2026-06-01
 results: N/A
 outreach: N/A
 documents:
 groups:
-  sdf-coordinators:
+  sensitivedata-coordinators:
     name: Coordinators
-  sdf-providers:
-    name: National Provider Representatives
+  sensitivedata-providers:
+    name: Participants
 links:
-  - url: https://neic.no/mailman/listinfo/sensitive-data
-    text: Mailing list
-    description: Subscribe to the mailing list to join the community
+  - url: https://wiki.neic.no/mailman/listinfo/forum-sensitivedata
+    text: Mailing list (subscription requires approval)
 ---
 
-## Nordic-Baltic Sensitive Data Forum
-
-
-### Background
-
-Nordic-Baltic Sensitive Data Forum brings together researchers, service providers, security experts, service developers/administrators, data protection experts, lawyers, policymakers, and activity funders in one community to learn from each other, plan for competence-building (e.g. training events and workshops), and collaboration activities (including Nordic/EU-funded projects).
-
-### Upcoming events of interest
-
-* [DICE - Datathon on Sensitive Data (Register by Monday 15 May 2023)](https://www.dice-eosc.eu/index.php/news-events/events/dice-datathon-sensitive-data)
+## About the forum
+The Sensitive Data Forum aims to re-establish a Nordic collaboration arena focused on secure and scalable infrastructures for sensitive data processing, including TREs, secure HPC/cloud integration, federated identity and access management, secure data movement, AI workloads on sensitive data, and cross-border interoperability. The forum will facilitate knowledge exchange between Nordic and Baltic providers operating services such as TSD, Bianca, HuntCloud, CSC Sensitive Data Services, and similar infrastructures.

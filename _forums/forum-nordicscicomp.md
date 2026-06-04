@@ -10,12 +10,14 @@ documents:
 groups:
   nsc-coordinators:
     name: Coordinators
-  nsc-providers:
+  nsc-participants:
     name: Participants
 links:
-  - url: https://neic.no/
-    text: Test
+  - url: https://wiki.neic.no/mailman/listinfo/forum-nordicscicomp
+    text: Mailing list (subscription requires approval)
 ---
 
 ## About the forum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Nordic Scientific Computing forum addresses the challenges of researchers engaged in the field of scientific computing. The goal is to connect the right people from each country to elevate basic-level usage support that is not limited to a single discipline, and to exchange information on best practices across our region.
+
+Further information as well as list of participants will be updated later on. 

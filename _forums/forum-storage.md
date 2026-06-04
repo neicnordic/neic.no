@@ -8,14 +8,14 @@ results: N/A
 outreach: N/A
 documents: 
 groups:
-  nsc-coordinators:
+  storage-coordinators:
     name: Coordinators
-  nsc-providers:
+  storage-providers:
     name: Participants
 links:
-  - url: https://neic.no/
-    text: Test
+  - url: https://wiki.neic.no/mailman/listinfo/forum-storage
+    text: Mailing list (subscription requires approval)
 ---
 
 ## Object Storage - upskill of technical staff competencies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The forum aims at sharing and gathering information and possibly forming an idea of a collaborative development project. 
