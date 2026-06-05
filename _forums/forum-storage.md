@@ -17,5 +17,5 @@ links:
     text: Mailing list (subscription requires approval)
 ---
 
-## Object Storage - upskill of technical staff competencies
-The forum aims at sharing and gathering information and possibly forming an idea of a collaborative development project. 
+## Object Storage services for research
+The forum aims at sharing and gathering information on how to deploy object storage services for research across different services provided in a compatible manner.
