@@ -16,4 +16,5 @@ groups:
   ratatosk-sg:
   neic2022-oc:
   coderefinery-sg:
+    finished: yes
 ---
