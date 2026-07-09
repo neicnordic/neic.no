@@ -4,6 +4,8 @@ include: forum
 name: Nordic Data Stewardship Network (NDSN)
 type: Forum
 start: 2025-10-22
+results: N/A
+outreach: N/A
 documents:
   - text: NeIC news item about NDSN
     url: https://neic.no/news/2026/05/29/nordic-data-stewardship-network/
