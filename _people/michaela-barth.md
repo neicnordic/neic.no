@@ -31,6 +31,8 @@ groups:
     role: Deputy
   upskill-coordinators:
     role: Deputy
+  ndsn-participants:
+    role: NeIC
   nordiquest-sg:
     role: Chair
   nordiquest-po:

@@ -22,6 +22,8 @@ groups:
     role: Community Coordinator
   nenec-coordinators:
     role: Technical Coordinator
+  ndsn-participants:
+    role: NeIC
   tryggve1:
   tryggve2:
     role: Project Manager
