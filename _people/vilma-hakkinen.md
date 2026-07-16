@@ -18,8 +18,6 @@ groups:
     role: Project owner, Chair
   nrse-coordinators:
     role: Coordinator
-  nsc-coordinators:
-    role: Coordinator
   sensitivedata-coordinators:
     role: Deputy
   transparency-coordinators:
