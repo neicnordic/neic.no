@@ -3,7 +3,7 @@ layout: master
 include: person
 name: Samantha Wittke
 home: <a href="https://www.csc.fi/">CSC</a>
-country: FI
+country: "FI"
 photo: 
 email: samantha.wittke@csc.fi
 phone:
@@ -16,4 +16,5 @@ groups:
     role: Project manager, Secretary
   coderefinery-po: 
     role: Project manager
+  nrse-participants:
 ---
