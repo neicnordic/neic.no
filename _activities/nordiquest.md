@@ -7,7 +7,7 @@ leader: ulf-tigerstedt
 phase: Phase 2 in progress
 finished: no
 start: 2022-04-01
-end: 2028-08-31
+end: 2028-05-31
 results: N/A
 outreach: https://www.linkedin.com/company/nordiquest
 documents:
